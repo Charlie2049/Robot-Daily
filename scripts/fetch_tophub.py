@@ -7,6 +7,8 @@ import calendar
 import json
 import re
 import sys
+import time
+import random
 import urllib.request
 import urllib.parse
 from dataclasses import dataclass
@@ -211,14 +213,19 @@ def match_keywords(text: str) -> bool:
     return any(keyword.lower() in lowered for keyword in KEYWORDS)
 
 
-def fetch_html(url: str) -> Optional[str]:
-    request = urllib.request.Request(url, headers=HEADERS)
-    try:
-        with urllib.request.urlopen(request, timeout=TIMEOUT) as resp:
-            charset = resp.headers.get_content_charset() or "utf-8"
-            return resp.read().decode(charset, errors="ignore")
-    except Exception:
-        return None
+def fetch_html(url: str, retries: int = 3) -> Optional[str]:
+    for attempt in range(1, retries + 1):
+        request = urllib.request.Request(url, headers=HEADERS)
+        try:
+            with urllib.request.urlopen(request, timeout=TIMEOUT) as resp:
+                charset = resp.headers.get_content_charset() or "utf-8"
+                return resp.read().decode(charset, errors="ignore")
+        except Exception:
+            if attempt >= retries:
+                return None
+            sleep_time = 1.0 + random.random() * 3.0
+            time.sleep(sleep_time)
+    return None
 
 
 def build_full_url(href: str) -> str:
@@ -228,6 +235,7 @@ def build_full_url(href: str) -> str:
 
 
 def discover_channels() -> Tuple[Optional[str], List[str]]:
+    time.sleep(random.uniform(0.5, 1.5))
     homepage_html = fetch_html(TOPHUB_BASE)
     if not homepage_html:
         return None, []
@@ -304,6 +312,7 @@ def fetch_tophub_candidates() -> List[Candidate]:
         candidates.extend(parse_homepage(homepage_html))
 
     for url in channel_urls:
+        time.sleep(random.uniform(0.5, 1.5))
         html = fetch_html(url)
         if not html:
             continue
