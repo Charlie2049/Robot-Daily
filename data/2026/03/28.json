@@ -1,47 +1,5 @@
 [
   {
-    "id": "2026-03-28-csdn-python",
-    "date": "2026-03-28",
-    "title": "自进化医疗智能体：动态记忆与持续运行的Python架构编程（上）",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "自进化医疗智能体：动态记忆与持续运行的Python架构编程（上）",
-    "source": "CSDN博客",
-    "source_url": "https://blog.csdn.net/kkiron/article/details/159501755",
-    "tags": [],
-    "impact": "8445"
-  },
-  {
-    "id": "2026-03-28-csdn-openclaw-",
-    "date": "2026-03-28",
-    "title": "腾讯云端Openclaw+飞书 多机器人配置全攻略（新手友好版）",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "腾讯云端Openclaw+飞书 多机器人配置全攻略（新手友好版）",
-    "source": "CSDN博客",
-    "source_url": "https://blog.csdn.net/weixin_42547636/article/details/159488472",
-    "tags": [],
-    "impact": "1339"
-  },
-  {
-    "id": "2026-03-28--ai-",
-    "date": "2026-03-28",
-    "title": "研究人员打造AI智能体 可全自动实施诈骗通话",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "研究人员打造AI智能体 可全自动实施诈骗通话",
-    "source": "安全客",
-    "source_url": "https://www.anquanke.com/post/id/315106",
-    "tags": [],
-    "impact": "18.2万"
-  },
-  {
     "id": "2026-03-28-readhub-",
     "date": "2026-03-28",
     "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
@@ -85,22 +43,8 @@
     "impact": "求职信息发布(Job_Post)"
   },
   {
-    "id": "2026-03-28--",
-    "date": "2026-03-28",
-    "title": "我的女友是机器人",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "我的女友是机器人",
-    "source": "百度视频",
-    "source_url": "http://v.xiaodutv.com/movie/141232.htm",
-    "tags": [],
-    "impact": "喜剧"
-  },
-  {
-    "id": "2026-03-28-it-",
-    "date": "2026-03-28",
+    "id": "2026-03-27-it-",
+    "date": "2026-03-27",
     "title": "小米机器人仿生手大升级：类似人手大小，拥有全掌触觉、仿生汗腺",
     "category": [
       "robotics"
@@ -111,104 +55,5 @@
     "source_url": "https://m.ithome.com/html/933218.htm",
     "tags": [],
     "impact": "170评"
-  },
-  {
-    "id": "2026-03-28--",
-    "date": "2026-03-28",
-    "title": "基于腾讯元器智能体平台搭建“质量管理智库”智能体笔记",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "基于腾讯元器智能体平台搭建“质量管理智库”智能体笔记",
-    "source": "人人都是产品经理",
-    "source_url": "https://www.woshipm.com/?p=6315260",
-    "tags": [],
-    "impact": "严学峰"
-  },
-  {
-    "id": "2026-03-28--",
-    "date": "2026-03-28",
-    "title": "博鳌年会现场机器人热舞蹦迪",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "博鳌年会现场机器人热舞蹦迪",
-    "source": "快手",
-    "source_url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%8D%9A%E9%B3%8C%E5%B9%B4%E4%BC%9A%E7%8E%B0%E5%9C%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%83%AD%E8%88%9E%E8%B9%A6%E8%BF%AA&rankType=1",
-    "tags": [],
-    "impact": "905.3万"
-  },
-  {
-    "id": "2026-03-28--claude-opus-4523",
-    "date": "2026-03-28",
-    "title": "刚刚，智能体&编程新王Claude Opus 4.5震撼登场，定价大降2/3",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "刚刚，智能体&编程新王Claude Opus 4.5震撼登场，定价大降2/3",
-    "source": "机器之心",
-    "source_url": "https://www.jiqizhixin.com/articles/2025-11-25-2",
-    "tags": [],
-    "impact": "机器之心"
-  },
-  {
-    "id": "2026-03-28--",
-    "date": "2026-03-28",
-    "title": "人形机器人的落地难题，竟被一顿「九宫格」火锅解开？",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "人形机器人的落地难题，竟被一顿「九宫格」火锅解开？",
-    "source": "机器之心",
-    "source_url": "https://www.jiqizhixin.com/articles/2025-11-24-12",
-    "tags": [],
-    "impact": "机器之心"
-  },
-  {
-    "id": "2026-03-28--aiagent-session-smuggling",
-    "date": "2026-03-28",
-    "title": "【AI供应链威胁】多智能体场景下的Agent Session Smuggling攻击",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "【AI供应链威胁】多智能体场景下的Agent Session Smuggling攻击",
-    "source": "先知社区",
-    "source_url": "https://xz.aliyun.com/news/91806",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-28--telegram-api",
-    "date": "2026-03-28",
-    "title": "Telegram的黑色面 网络罪犯利用机器人API隐秘窃取数据",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Telegram的黑色面 网络罪犯利用机器人API隐秘窃取数据",
-    "source": "安全客",
-    "source_url": "https://www.anquanke.com/post/id/315158",
-    "tags": [],
-    "impact": "21.0万"
-  },
-  {
-    "id": "2026-03-28--ai-agent--tools-",
-    "date": "2026-03-28",
-    "title": "AI Agent 智能体 tools 模块设计",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI Agent 智能体 tools 模块设计",
-    "source": "掘金",
-    "source_url": "https://juejin.cn/post/7618846325321302068",
-    "tags": [],
-    "impact": "1239"
   }
 ]

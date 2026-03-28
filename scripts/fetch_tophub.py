@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch robotics-related trending news from Tophub."""
+"""Fetch robotics-related trending news from Tophub (recent items only)."""
 
 from __future__ import annotations
 
@@ -8,7 +8,7 @@ import re
 import sys
 import urllib.request
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import List, Optional, Set, Tuple
 
@@ -29,6 +29,29 @@ KEYWORDS = ["机器人", "具身智能", "robot", "Robot", "智能体", "自动�
 HEADERS = {"User-Agent": "Mozilla/5.0 (Robot-Daily Bot)"}
 TIMEOUT = 15
 TOPHUB_BASE = "https://tophub.today"
+MAX_ARTICLE_AGE_DAYS = 2
+URL_DATE_PATTERN = re.compile(r"(20\d{2})[-/](\d{1,2})[-/](\d{1,2})")
+ISO_DATE_PATTERN = re.compile(r"(20\d{2})[-/.](\d{1,2})[-/.](\d{1,2})")
+CN_DATE_PATTERN = re.compile(r"(20\d{2})年(\d{1,2})月(\d{1,2})日")
+EN_DATE_PATTERN = re.compile(
+    r"(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+(\d{1,2}),\s+(20\d{2})",
+    re.IGNORECASE,
+)
+EN_MONTHS = {
+    "jan": 1,
+    "feb": 2,
+    "mar": 3,
+    "apr": 4,
+    "may": 5,
+    "jun": 6,
+    "jul": 7,
+    "aug": 8,
+    "sep": 9,
+    "sept": 9,
+    "oct": 10,
+    "nov": 11,
+    "dec": 12,
+}
 
 
 def slugify(text: str) -> str:
@@ -41,6 +64,57 @@ def today_date() -> str:
     return TODAY.isoformat()
 
 
+def is_recent_date(published: date) -> bool:
+    delta = TODAY - published
+    return timedelta(0) <= delta <= timedelta(days=MAX_ARTICLE_AGE_DAYS)
+
+
+def parse_date_components(year: int, month: int, day: int) -> Optional[date]:
+    try:
+        return date(year, month, day)
+    except ValueError:
+        return None
+
+
+def parse_url_date(url: str) -> Optional[date]:
+    match = URL_DATE_PATTERN.search(url)
+    if not match:
+        return None
+    published = parse_date_components(int(match.group(1)), int(match.group(2)), int(match.group(3)))
+    return published
+
+
+def extract_date_from_text(text: str) -> Optional[date]:
+    for pattern in (ISO_DATE_PATTERN, CN_DATE_PATTERN, EN_DATE_PATTERN):
+        for match in pattern.finditer(text):
+            if pattern is EN_DATE_PATTERN:
+                month = EN_MONTHS.get(match.group(1).lower())
+                day = int(match.group(2))
+                year = int(match.group(3))
+            else:
+                year = int(match.group(1))
+                month = int(match.group(2))
+                day = int(match.group(3))
+            published = parse_date_components(year, month, day)
+            if not published:
+                continue
+            if is_recent_date(published):
+                return published
+    return None
+
+
+def resolve_article_date(url: str) -> Optional[date]:
+    url_date = parse_url_date(url)
+    if url_date and is_recent_date(url_date):
+        return url_date
+
+    html = fetch_html(url)
+    if not html:
+        return None
+    snippet = html[:80000]
+    return extract_date_from_text(snippet)
+
+
 @dataclass
 class Candidate:
     title: str
@@ -50,12 +124,14 @@ class Candidate:
     summary: str
     region: str = "Global"
     category: Optional[List[str]] = None
+    published: Optional[date] = None
 
     def as_entry(self) -> dict:
         categories = self.category or infer_category(self.title)
+        entry_date = (self.published or TODAY).isoformat()
         return {
-            "id": f"{today_date()}-{slugify(self.source + '-' + self.title)}",
-            "date": today_date(),
+            "id": f"{entry_date}-{slugify(self.source + '-' + self.title)}",
+            "date": entry_date,
             "title": self.title,
             "category": categories,
             "region": self.region,
@@ -241,11 +317,26 @@ def write_markdown(data: List[dict]) -> None:
     CONTENT_PATH.write_text("\n".join(lines))
 
 
+def filter_recent_candidates(candidates: List[Candidate]) -> List[Candidate]:
+    filtered: List[Candidate] = []
+    for candidate in candidates:
+        published = resolve_article_date(candidate.url)
+        if not published:
+            continue
+        if not is_recent_date(published):
+            continue
+        candidate.published = published
+        filtered.append(candidate)
+    return filtered
+
+
 def main() -> None:
-    tophub_candidates = [c.as_entry() for c in fetch_tophub_candidates()]
+    tophub_candidates = fetch_tophub_candidates()
+    recent_candidates = filter_recent_candidates(tophub_candidates)
+    entries = [candidate.as_entry() for candidate in recent_candidates]
 
     existing = load_existing()
-    merged = merge_entries(existing, tophub_candidates)
+    merged = merge_entries(existing, entries)
     write_json(merged)
     write_markdown(merged)
 
