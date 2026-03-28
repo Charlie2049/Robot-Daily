@@ -8,6 +8,7 @@ import json
 import re
 import sys
 import urllib.request
+import urllib.parse
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -80,6 +81,23 @@ def slugify(text: str) -> str:
     text = re.sub(r"[\s_]+", "-", text.strip().lower())
     text = re.sub(r"[^a-z0-9-]", "", text)
     return text[:60] or "item"
+
+
+def translate_to_chinese(text: str) -> str:
+    if not text:
+        return text
+    params = urllib.parse.urlencode(
+        {"client": "gtx", "sl": "auto", "tl": "zh-CN", "dt": "t", "q": text}
+    )
+    url = f"https://translate.googleapis.com/translate_a/single?{params}"
+    request = urllib.request.Request(url, headers=HEADERS)
+    try:
+        with urllib.request.urlopen(request, timeout=10) as resp:
+            payload = resp.read().decode("utf-8")
+        data = json.loads(payload)
+        return "".join(part[0] for part in data[0] if part and part[0]) or text
+    except Exception:
+        return text
 
 
 def today_date() -> str:
@@ -319,13 +337,18 @@ def fetch_rss_candidates() -> List[Candidate]:
                 continue
             summary_html = entry.get("summary", "")
             summary_text = BeautifulSoup(summary_html, "html.parser").get_text(" ", strip=True)
+            translated_title = translate_to_chinese(title)
+            display_title = translated_title or title
+            summary_full = summary_text or title
+            if translated_title and translated_title != title:
+                summary_full = f"{summary_full}（原题：{title}）"
             items.append(
                 Candidate(
-                    title=title,
+                    title=display_title,
                     url=link,
                     heat=entry.get("published", ""),
                     source=source_name,
-                    summary=summary_text or title,
+                    summary=summary_full,
                     category=None,
                     published=published_date,
                 )

@@ -1,157 +1,101 @@
 [
   {
-    "id": "2026-03-28-readhub-",
-    "date": "2026-03-28",
-    "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
-    "source": "Readhub",
-    "source_url": "https://www.tmtpost.com/7932836.html",
-    "tags": [],
-    "impact": "钛媒体 / 硅谷101"
-  },
-  {
-    "id": "2026-03-28-36-yarbo26150",
-    "date": "2026-03-28",
-    "title": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
-    "source": "36氪",
-    "source_url": "https://www.36kr.com/p/3736563677396994",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-28---",
-    "date": "2026-03-28",
-    "title": "无锡数据集团-招聘具身智能领域",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "无锡数据集团-招聘具身智能领域",
-    "source": "北大未名",
-    "source_url": "https://bbs.pku.edu.cn/v2/post-read.php?bid=845&threadid=19004048",
-    "tags": [],
-    "impact": "求职信息发布(Job_Post)"
-  },
-  {
-    "id": "2026-03-27-it-",
+    "id": "2026-03-27-the-robot-report-vdmavda-5050-v3-",
     "date": "2026-03-27",
-    "title": "小米机器人仿生手大升级：类似人手大小，拥有全掌触觉、仿生汗腺",
+    "title": "VDMA：VDA 5050 V3 将帮助移动机器人车队规模化",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "小米机器人仿生手大升级：类似人手大小，拥有全掌触觉、仿生汗腺",
-    "source": "IT之家",
-    "source_url": "https://m.ithome.com/html/933218.htm",
-    "tags": [],
-    "impact": "170评"
-  },
-  {
-    "id": "2026-03-27-the-robot-report-vdma-vda-5050-v3-will-help-mobile-robot-fle",
-    "date": "2026-03-27",
-    "title": "VDMA: VDA 5050 V3 will help mobile robot fleets scale",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Version 3 of the VDA 5050 communications framework serves as a toolkit for mixed fleets of mobile robots, says German association VDMA. The post VDMA: VDA 5050 V3 will help mobile robot fleets scale appeared first on The Robot Report .",
+    "summary": "Version 3 of the VDA 5050 communications framework serves as a toolkit for mixed fleets of mobile robots, says German association VDMA. The post VDMA: VDA 5050 V3 will help mobile robot fleets scale appeared first on The Robot Report .（原题：VDMA: VDA 5050 V3 will help mobile robot fleets scale）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/vdma-version-3-0-vda-5050-will-help-mobile-robot-fleets-scale/",
     "tags": [],
     "impact": "Fri, 27 Mar 2026 12:30:27 +0000"
   },
   {
-    "id": "2026-03-27-the-robot-report-intbot-humanoid-robot-greets-visitors-to-sa",
+    "id": "2026-03-27-the-robot-report-intbot-",
     "date": "2026-03-27",
-    "title": "IntBot humanoid robot greets visitors to San Jose Airport",
+    "title": "IntBot 人形机器人在圣何塞机场迎接游客",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "San José Mineta International Airport has deployed Jose, a multilingual IntBot humanoid, to provide real-time traveler assistance. The post IntBot humanoid robot greets visitors to San Jose Airport appeared first on The Robot Report .",
+    "summary": "San José Mineta International Airport has deployed Jose, a multilingual IntBot humanoid, to provide real-time traveler assistance. The post IntBot humanoid robot greets visitors to San Jose Airport appeared first on The Robot Report .（原题：IntBot humanoid robot greets visitors to San Jose Airport）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/intbot-humanoid-robot-greets-visitors-to-san-jose-airport/",
     "tags": [],
     "impact": "Fri, 27 Mar 2026 19:12:36 +0000"
   },
   {
-    "id": "2026-03-27-bloomberg-technology-ai-robotics-lab-in-talks-to-raise-1-bil",
+    "id": "2026-03-27-bloomberg-technology-ai--10--110-",
     "date": "2026-03-27",
-    "title": "AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation",
+    "title": "AI 机器人实验室正在洽谈融资 10 亿美元，估值达 110 亿美元",
     "category": [
-      "robotics"
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "Physical Intelligence, a two-year-old robotics startup founded by AI academics and former Google DeepMind researchers, is discussing a new funding round of about $1 billion that would bring the company’s valuation to more than $11 billion including dollars raised, according to people familiar with the matter.",
+    "summary": "Physical Intelligence, a two-year-old robotics startup founded by AI academics and former Google DeepMind researchers, is discussing a new funding round of about $1 billion that would bring the company’s valuation to more than $11 billion including dollars raised, according to people familiar with the matter.（原题：AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation）",
     "source": "Bloomberg Technology",
     "source_url": "https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation",
     "tags": [],
     "impact": "Fri, 27 Mar 2026 21:01:38 GMT"
   },
   {
-    "id": "2026-03-26-the-robot-report-zoox-sets-new-geographic-milestones-product",
+    "id": "2026-03-26-cnbc-technology-figure-ai",
     "date": "2026-03-26",
-    "title": "Zoox sets new geographic milestones, product features for its robotaxi",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Amazon-owned Zoox is expanding its purpose-built robotaxi service to San Francisco, Las Vegas, Austin, and Miami, marking a national rollout. The post Zoox sets new geographic milestones, product features for its robotaxi appeared first on The Robot Report .",
-    "source": "The Robot Report",
-    "source_url": "https://www.therobotreport.com/zoox-sets-geographic-milestones-product-features-robotaxi/",
-    "tags": [],
-    "impact": "Thu, 26 Mar 2026 12:46:00 +0000"
-  },
-  {
-    "id": "2026-03-26-the-robot-report-why-connectivity-is-the-bottleneck-for-bvlo",
-    "date": "2026-03-26",
-    "title": "Why connectivity is the bottleneck for BVLOS autonomous systems",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "Satellite connectivity enables autonomous drones to operate in remote areas, overcoming the limitations of terrestrial networks for critical BVLOS missions. The post Why connectivity is the bottleneck for BVLOS autonomous systems appeared first on The Robot Report .",
-    "source": "The Robot Report",
-    "source_url": "https://www.therobotreport.com/why-connectivity-is-the-bottleneck-for-bvlos-autonomous-systems/",
-    "tags": [],
-    "impact": "Thu, 26 Mar 2026 12:30:51 +0000"
-  },
-  {
-    "id": "2026-03-26-cnbc-technology-meet-figure-ai-the-company-behind-the-humano",
-    "date": "2026-03-26",
-    "title": "Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump",
+    "title": "认识一下Figure AI：由梅拉尼娅·特朗普主持的人形机器人背后的公司",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.",
+    "summary": "The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.（原题：Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump）",
     "source": "CNBC Technology",
     "source_url": "https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html",
     "tags": [],
     "impact": "Thu, 26 Mar 2026 09:09:51 GMT"
   },
   {
-    "id": "2026-03-26-the-robot-report-agile-robots-to-deploy-google-deepmind-foun",
+    "id": "2026-03-26-the-robot-report-",
     "date": "2026-03-26",
-    "title": "Agile Robots to deploy Google DeepMind foundation models on its humanoid",
+    "title": "为什么连接性是超视距自治系统的瓶颈",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Satellite connectivity enables autonomous drones to operate in remote areas, overcoming the limitations of terrestrial networks for critical BVLOS missions. The post Why connectivity is the bottleneck for BVLOS autonomous systems appeared first on The Robot Report .（原题：Why connectivity is the bottleneck for BVLOS autonomous systems）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/why-connectivity-is-the-bottleneck-for-bvlos-autonomous-systems/",
+    "tags": [],
+    "impact": "Thu, 26 Mar 2026 12:30:51 +0000"
+  },
+  {
+    "id": "2026-03-26-the-robot-report-zoox-",
+    "date": "2026-03-26",
+    "title": "Zoox 为其机器人出租车设定了新的地理里程碑和产品功能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Amazon-owned Zoox is expanding its purpose-built robotaxi service to San Francisco, Las Vegas, Austin, and Miami, marking a national rollout. The post Zoox sets new geographic milestones, product features for its robotaxi appeared first on The Robot Report .（原题：Zoox sets new geographic milestones, product features for its robotaxi）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/zoox-sets-geographic-milestones-product-features-robotaxi/",
+    "tags": [],
+    "impact": "Thu, 26 Mar 2026 12:46:00 +0000"
+  },
+  {
+    "id": "2026-03-26-the-robot-report-agile-robots--google-deepmind-",
+    "date": "2026-03-26",
+    "title": "Agile Robots 将在其人形机器人上部署 Google DeepMind 基础模型",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Agile Robots said the partnership will focus on high-value industrial use cases in sectors with acute and growing demand for automation. The post Agile Robots to deploy Google DeepMind foundation models on its humanoid appeared first on The Robot Report .",
+    "summary": "Agile Robots said the partnership will focus on high-value industrial use cases in sectors with acute and growing demand for automation. The post Agile Robots to deploy Google DeepMind foundation models on its humanoid appeared first on The Robot Report .（原题：Agile Robots to deploy Google DeepMind foundation models on its humanoid）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/agile-robots-deploy-google-deepmind-foundation-models-humanoid/",
     "tags": [],
