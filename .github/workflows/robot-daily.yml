@@ -1,0 +1,35 @@
+name: Robot Daily Trending Fetch
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Fetch trending robotics news
+        run: python scripts/fetch_tophub.py
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name 'robot-daily-bot'
+            git config user.email 'bot@users.noreply.github.com'
+            git add data content
+            git commit -m "chore: auto-update robot daily"
+            git push
+          else
+            echo "No changes to commit"
+          fi
