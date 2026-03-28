@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2026-03-25-zhongguancun-humanoids",
+    "date": "2026-03-25",
+    "title": "北京中关村论坛展示多机器人协作咖啡馆",
+    "category": ["humanoid", "demo"],
+    "region": "China",
+    "summary": "Noetix、Spirit AI、乐聚等多款人形机器人在 2026 中关村论坛上同场演示，模拟咖啡厅场景，展示点餐接待、取餐、并行搬运等协作流程；与此同时，北京人形机器人创新中心开放中试线，支持批量化验证。",
+    "source": "Reuters",
+    "source_url": "https://www.reuters.com/pictures/meet-machines-latest-generation-robots-2026-03-25/",
+    "tags": ["Zhongguancun", "robotics", "cafe", "multi-agent"],
+    "impact": "展示中国人形机器人厂商在商业场景落地上的协作能力，为服务业用例和多机器人工作流提供现实案例。"
+  },
+  {
+    "id": "2026-03-16-nvidia-physical-ai",
+    "date": "2026-03-16",
+    "title": "NVIDIA 发布 Cosmos 3 与 Isaac GR00T 布局 Physical AI",
+    "category": ["platform", "ecosystem"],
+    "region": "United States",
+    "summary": "GTC 期间，NVIDIA 宣布 Cosmos 3 世界模型、Isaac Lab/GR00T 新版本，并与 ABB、FANUC、KUKA、Figure、Universal Robots、Medtronic 等合作，将仿真—现实一体的 Physical AI 平台推向量产级部署。",
+    "source": "NVIDIA Investor Relations",
+    "source_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Robotics-Leaders-Take-Physical-AI-to-the-Real-World/default.aspx",
+    "tags": ["NVIDIA", "Physical AI", "Isaac", "Cosmos"],
+    "impact": "芯片、仿真与开源模型同步迭代，说明产业链正在围绕统一的训练—部署堆栈整合，可显著降低通用机器人开发门槛。"
+  },
+  {
+    "id": "2026-03-20-wef-living-autonomously",
+    "date": "2026-03-20",
+    "title": "WEF 达沃斯：物理 AI 工业阶段的下一站",
+    "category": ["policy", "foresight"],
+    "region": "Global",
+    "summary": "世界经济论坛年度会议上，BCG、Unitree 等嘉宾认为算力 ×1000、仿真—现实差距缩小、Vision-Language-Action 模型等关键门槛已跨越，未来焦点是让自主机器人安全进入家庭医疗等开放环境。",
+    "source": "World Economic Forum",
+    "source_url": "https://www.weforum.org/stories/2026/03/advances-in-autonomous-robotics-what-comes-next/",
+    "tags": ["WEF", "autonomous", "policy", "VLA"],
+    "impact": "强调监管、伦理与人机协作标准的重要性，提示企业在拓展民用场景时需要同步建设安全治理能力。"
+  },
+  {
+    "id": "2026-01-08-ifr-top-trends",
+    "date": "2026-01-08",
+    "title": "IFR 公布 2026 年全球机器人五大趋势",
+    "category": ["market", "trend"],
+    "region": "Global",
+    "summary": "国际机器人联合会称工业机器人安装市场规模达 167 亿美元，并提出 AI 自主化、IT/OT 融合、工业人形机器人验证、安全与网络防御、机器人填补劳动力缺口五大趋势。",
+    "source": "International Federation of Robotics",
+    "source_url": "https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026",
+    "tags": ["IFR", "market", "trend"],
+    "impact": "为政府与企业勾勒 2026 年投资重点，可用于制定产业政策或企业技术路线图。"
+  }
+]
