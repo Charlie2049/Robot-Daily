@@ -19,7 +19,7 @@ TODAY = datetime.now(timezone.utc).astimezone().date()
 DATA_PATH = WORKDIR / f"data/{TODAY:%Y/%m/%d}.json"
 CONTENT_PATH = WORKDIR / f"content/{TODAY:%Y-%m-%d}.md"
 
-KEYWORDS = ["机器人", "humanoid", "robot", "无人机", "智能体", "robotics", "仿生"]
+KEYWORDS = ["机器人", "具身智能", "robot", "智能体", "自动驾驶"]
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Robot-Daily Bot)"}
 SESSION = requests.Session()
