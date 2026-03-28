@@ -1,32 +1,44 @@
 #!/usr/bin/env python3
-"""Fetch robotics-related trending news from Tophub (recent items only)."""
+"""Fetch robotics-related trending news from Tophub + global tech feeds."""
 
 from __future__ import annotations
 
+import calendar
 import json
 import re
 import sys
 import urllib.request
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import List, Optional, Set, Tuple
 
 WORKDIR = Path(__file__).resolve().parents[1]
 VENDOR_DIR = WORKDIR / "vendor"
-for pkg in ("beautifulsoup4-4.12.3", "soupsieve-2.5"):
+for pkg in (
+    "beautifulsoup4-4.12.3",
+    "soupsieve-2.5",
+    "feedparser-6.0.11",
+    "sgmllib3k-1.0.0",
+):
     pkg_path = VENDOR_DIR / pkg
     if pkg_path.exists():
         sys.path.insert(0, str(pkg_path))
 
-from bs4 import BeautifulSoup
+import feedparser  # type: ignore
+from bs4 import BeautifulSoup  # type: ignore
+
+feedparser.USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 TODAY = datetime.now(timezone.utc).astimezone().date()
 DATA_PATH = WORKDIR / f"data/{TODAY:%Y/%m/%d}.json"
 CONTENT_PATH = WORKDIR / f"content/{TODAY:%Y-%m-%d}.md"
 
-KEYWORDS = ["机器人", "具身智能", "robot", "Robot", "智能体", "自动驾驶"]
-HEADERS = {"User-Agent": "Mozilla/5.0 (Robot-Daily Bot)"}
+KEYWORDS = ["机器人", "具身智能", "robot", "Robot", "智能体", "自动驾驶", "autonomous"]
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
 TIMEOUT = 15
 TOPHUB_BASE = "https://tophub.today"
 MAX_ARTICLE_AGE_DAYS = 2
@@ -52,6 +64,16 @@ EN_MONTHS = {
     "nov": 11,
     "dec": 12,
 }
+RSS_SOURCES = [
+    ("TechCrunch Robotics", "https://techcrunch.com/tag/robotics/feed/"),
+    ("The Verge", "https://www.theverge.com/rss/index.xml"),
+    ("IEEE Spectrum Robotics", "https://spectrum.ieee.org/feeds/topic/robotics.rss"),
+    ("MIT Technology Review", "https://www.technologyreview.com/feed/"),
+    ("The Robot Report", "https://www.therobotreport.com/feed/"),
+    ("Electrek Autopilot", "https://electrek.co/guides/tesla-autopilot/feed/"),
+    ("CNBC Technology", "https://www.cnbc.com/id/19854910/device/rss/rss.html"),
+    ("Bloomberg Technology", "https://feeds.bloomberg.com/technology/news.rss"),
+]
 
 
 def slugify(text: str) -> str:
@@ -80,13 +102,12 @@ def parse_url_date(url: str) -> Optional[date]:
     match = URL_DATE_PATTERN.search(url)
     if not match:
         return None
-    published = parse_date_components(int(match.group(1)), int(match.group(2)), int(match.group(3)))
-    return published
+    return parse_date_components(int(match.group(1)), int(match.group(2)), int(match.group(3)))
 
 
-def extract_date_from_text(text: str) -> Optional[date]:
+def extract_date_from_text(blob: str) -> Optional[date]:
     for pattern in (ISO_DATE_PATTERN, CN_DATE_PATTERN, EN_DATE_PATTERN):
-        for match in pattern.finditer(text):
+        for match in pattern.finditer(blob):
             if pattern is EN_DATE_PATTERN:
                 month = EN_MONTHS.get(match.group(1).lower())
                 day = int(match.group(2))
@@ -96,9 +117,7 @@ def extract_date_from_text(text: str) -> Optional[date]:
                 month = int(match.group(2))
                 day = int(match.group(3))
             published = parse_date_components(year, month, day)
-            if not published:
-                continue
-            if is_recent_date(published):
+            if published and is_recent_date(published):
                 return published
     return None
 
@@ -111,8 +130,34 @@ def resolve_article_date(url: str) -> Optional[date]:
     html = fetch_html(url)
     if not html:
         return None
-    snippet = html[:80000]
-    return extract_date_from_text(snippet)
+    snippet = html[:120000]
+    published = extract_date_from_text(snippet)
+    if published:
+        return published
+    text = BeautifulSoup(snippet, "html.parser").get_text(" ", strip=True)
+    return extract_date_from_text(text)
+
+
+def parse_feed_datetime(entry) -> Optional[datetime]:
+    candidate = entry.get("published_parsed") or entry.get("updated_parsed")
+    if candidate:
+        try:
+            timestamp = calendar.timegm(candidate)
+            return datetime.fromtimestamp(timestamp, tz=timezone.utc)
+        except (TypeError, ValueError, OverflowError):
+            pass
+    text_value = entry.get("published") or entry.get("updated")
+    if text_value:
+        try:
+            dt = parsedate_to_datetime(text_value)
+        except (TypeError, ValueError):
+            return None
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        else:
+            dt = dt.astimezone(timezone.utc)
+        return dt
+    return None
 
 
 @dataclass
@@ -252,6 +297,42 @@ def fetch_tophub_candidates() -> List[Candidate]:
     return candidates
 
 
+def fetch_rss_candidates() -> List[Candidate]:
+    items: List[Candidate] = []
+    for source_name, feed_url in RSS_SOURCES:
+        try:
+            feed = feedparser.parse(feed_url)
+        except Exception:
+            continue
+        for entry in feed.entries:
+            title = (entry.get("title") or "").strip()
+            if not title or not match_keywords(title):
+                continue
+            link = entry.get("link") or ""
+            if not link:
+                continue
+            published_dt = parse_feed_datetime(entry)
+            if not published_dt:
+                continue
+            published_date = published_dt.date()
+            if not is_recent_date(published_date):
+                continue
+            summary_html = entry.get("summary", "")
+            summary_text = BeautifulSoup(summary_html, "html.parser").get_text(" ", strip=True)
+            items.append(
+                Candidate(
+                    title=title,
+                    url=link,
+                    heat=entry.get("published", ""),
+                    source=source_name,
+                    summary=summary_text or title,
+                    category=None,
+                    published=published_date,
+                )
+            )
+    return items
+
+
 def infer_category(title: str) -> List[str]:
     title_lower = title.lower()
     categories = []
@@ -263,7 +344,7 @@ def infer_category(title: str) -> List[str]:
         categories.append("robotics")
     if "融资" in title or "funding" in title_lower:
         categories.append("funding")
-    if "自动驾驶" in title_lower:
+    if "自动驾驶" in title_lower or "autonomous" in title_lower:
         categories.append("autonomous-driving")
     if not categories:
         categories.append("general")
@@ -332,9 +413,10 @@ def filter_recent_candidates(candidates: List[Candidate]) -> List[Candidate]:
 
 def main() -> None:
     tophub_candidates = fetch_tophub_candidates()
-    recent_candidates = filter_recent_candidates(tophub_candidates)
-    entries = [candidate.as_entry() for candidate in recent_candidates]
+    recent_tophub = filter_recent_candidates(tophub_candidates)
+    rss_candidates = fetch_rss_candidates()
 
+    entries = [candidate.as_entry() for candidate in (recent_tophub + rss_candidates)]
     existing = load_existing()
     merged = merge_entries(existing, entries)
     write_json(merged)

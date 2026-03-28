@@ -55,5 +55,106 @@
     "source_url": "https://m.ithome.com/html/933218.htm",
     "tags": [],
     "impact": "170评"
+  },
+  {
+    "id": "2026-03-27-the-robot-report-vdma-vda-5050-v3-will-help-mobile-robot-fle",
+    "date": "2026-03-27",
+    "title": "VDMA: VDA 5050 V3 will help mobile robot fleets scale",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Version 3 of the VDA 5050 communications framework serves as a toolkit for mixed fleets of mobile robots, says German association VDMA. The post VDMA: VDA 5050 V3 will help mobile robot fleets scale appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/vdma-version-3-0-vda-5050-will-help-mobile-robot-fleets-scale/",
+    "tags": [],
+    "impact": "Fri, 27 Mar 2026 12:30:27 +0000"
+  },
+  {
+    "id": "2026-03-27-the-robot-report-intbot-humanoid-robot-greets-visitors-to-sa",
+    "date": "2026-03-27",
+    "title": "IntBot humanoid robot greets visitors to San Jose Airport",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "San José Mineta International Airport has deployed Jose, a multilingual IntBot humanoid, to provide real-time traveler assistance. The post IntBot humanoid robot greets visitors to San Jose Airport appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/intbot-humanoid-robot-greets-visitors-to-san-jose-airport/",
+    "tags": [],
+    "impact": "Fri, 27 Mar 2026 19:12:36 +0000"
+  },
+  {
+    "id": "2026-03-27-bloomberg-technology-ai-robotics-lab-in-talks-to-raise-1-bil",
+    "date": "2026-03-27",
+    "title": "AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Physical Intelligence, a two-year-old robotics startup founded by AI academics and former Google DeepMind researchers, is discussing a new funding round of about $1 billion that would bring the company’s valuation to more than $11 billion including dollars raised, according to people familiar with the matter.",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation",
+    "tags": [],
+    "impact": "Fri, 27 Mar 2026 21:01:38 GMT"
+  },
+  {
+    "id": "2026-03-26-the-robot-report-zoox-sets-new-geographic-milestones-product",
+    "date": "2026-03-26",
+    "title": "Zoox sets new geographic milestones, product features for its robotaxi",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Amazon-owned Zoox is expanding its purpose-built robotaxi service to San Francisco, Las Vegas, Austin, and Miami, marking a national rollout. The post Zoox sets new geographic milestones, product features for its robotaxi appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/zoox-sets-geographic-milestones-product-features-robotaxi/",
+    "tags": [],
+    "impact": "Thu, 26 Mar 2026 12:46:00 +0000"
+  },
+  {
+    "id": "2026-03-26-the-robot-report-why-connectivity-is-the-bottleneck-for-bvlo",
+    "date": "2026-03-26",
+    "title": "Why connectivity is the bottleneck for BVLOS autonomous systems",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "Satellite connectivity enables autonomous drones to operate in remote areas, overcoming the limitations of terrestrial networks for critical BVLOS missions. The post Why connectivity is the bottleneck for BVLOS autonomous systems appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/why-connectivity-is-the-bottleneck-for-bvlos-autonomous-systems/",
+    "tags": [],
+    "impact": "Thu, 26 Mar 2026 12:30:51 +0000"
+  },
+  {
+    "id": "2026-03-26-cnbc-technology-meet-figure-ai-the-company-behind-the-humano",
+    "date": "2026-03-26",
+    "title": "Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html",
+    "tags": [],
+    "impact": "Thu, 26 Mar 2026 09:09:51 GMT"
+  },
+  {
+    "id": "2026-03-26-the-robot-report-agile-robots-to-deploy-google-deepmind-foun",
+    "date": "2026-03-26",
+    "title": "Agile Robots to deploy Google DeepMind foundation models on its humanoid",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Agile Robots said the partnership will focus on high-value industrial use cases in sectors with acute and growing demand for automation. The post Agile Robots to deploy Google DeepMind foundation models on its humanoid appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/agile-robots-deploy-google-deepmind-foundation-models-humanoid/",
+    "tags": [],
+    "impact": "Thu, 26 Mar 2026 17:23:44 +0000"
   }
 ]
