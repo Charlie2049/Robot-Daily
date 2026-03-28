@@ -3,20 +3,29 @@
 
 from __future__ import annotations
 
+import calendar
 import json
 import re
+import sys
 import textwrap
 import urllib.parse
+import urllib.request
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Iterable, List, Optional, Set, Tuple
 
+WORKDIR = Path(__file__).resolve().parents[1]
+VENDOR_DIR = WORKDIR / 'vendor'
+for pkg in ("feedparser-6.0.11", "beautifulsoup4-4.12.3", "soupsieve-2.5", "sgmllib3k-1.0.0"):
+    pkg_path = VENDOR_DIR / pkg
+    if pkg_path.exists():
+        sys.path.insert(0, str(pkg_path))
+
 import feedparser
-import requests
 from bs4 import BeautifulSoup
 
-WORKDIR = Path(__file__).resolve().parents[1]
 TODAY = datetime.now(timezone.utc).astimezone().date()
 DATA_PATH = WORKDIR / f"data/{TODAY:%Y/%m/%d}.json"
 CONTENT_PATH = WORKDIR / f"content/{TODAY:%Y-%m-%d}.md"
@@ -30,10 +39,55 @@ TWITTER_RSS_ENDPOINTS = [
     "https://nitter.pufe.org/search/rss",
     "https://nitter.cz/search/rss",
 ]
+TWITTER_MAX_DAYS = 7
+YOUTUBE_MAX_DAYS = 7
+SOCIAL_SOURCES = {"YouTube", "Twitter"}
+
+RELATIVE_TIME_PATTERN = re.compile(
+    r"(?P<num>\d+(?:\.\d+)?)\s*(?P<unit>second|minute|hour|day|week|month|year)s?\s+ago",
+    re.IGNORECASE,
+)
+ABSOLUTE_DATE_PATTERN = re.compile(
+    r"(?P<month>Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t|tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s+(?P<day>\d{1,2}),\s+(?P<year>\d{4})",
+    re.IGNORECASE,
+)
+TIME_UNIT_TO_DAYS = {
+    "second": 1 / 86400,
+    "minute": 1 / 1440,
+    "hour": 1 / 24,
+    "day": 1,
+    "week": 7,
+    "month": 30,
+    "year": 365,
+}
+MONTH_NAME_TO_NUM = {
+    "jan": 1,
+    "january": 1,
+    "feb": 2,
+    "february": 2,
+    "mar": 3,
+    "march": 3,
+    "apr": 4,
+    "april": 4,
+    "may": 5,
+    "jun": 6,
+    "june": 6,
+    "jul": 7,
+    "july": 7,
+    "aug": 8,
+    "august": 8,
+    "sep": 9,
+    "sept": 9,
+    "september": 9,
+    "oct": 10,
+    "october": 10,
+    "nov": 11,
+    "november": 11,
+    "dec": 12,
+    "december": 12,
+}
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Robot-Daily Bot)"}
-SESSION = requests.Session()
-SESSION.headers.update(HEADERS)
 TIMEOUT = 15
 TOPHUB_BASE = "https://tophub.today"
 
@@ -46,6 +100,74 @@ def slugify(text: str) -> str:
 
 def today_date() -> str:
     return TODAY.isoformat()
+
+
+def parse_youtube_age_days(text: str) -> Optional[float]:
+    if not text:
+        return None
+    text = text.replace('•', ' ').replace('·', ' ')
+    match = RELATIVE_TIME_PATTERN.search(text)
+    if match:
+        try:
+            value = float(match.group('num'))
+        except ValueError:
+            value = None
+        if value is not None:
+            unit = match.group('unit').lower()
+            factor = TIME_UNIT_TO_DAYS.get(unit)
+            if factor is not None:
+                return value * factor
+    date_match = ABSOLUTE_DATE_PATTERN.search(text)
+    if date_match:
+        month_key = date_match.group('month').lower().rstrip('.')
+        month = MONTH_NAME_TO_NUM.get(month_key)
+        day = int(date_match.group('day'))
+        year = int(date_match.group('year'))
+        if month:
+            try:
+                published = datetime(year, month, day, tzinfo=timezone.utc)
+            except ValueError:
+                published = None
+            if published:
+                delta = datetime.now(timezone.utc) - published
+                return max(delta.total_seconds() / 86400, 0.0)
+    return None
+
+
+def parse_twitter_published(entry) -> Optional[datetime]:
+    published_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
+    if published_parsed:
+        try:
+            timestamp = calendar.timegm(published_parsed)
+        except (ValueError, OverflowError):
+            timestamp = None
+        if timestamp is not None:
+            return datetime.fromtimestamp(timestamp, tz=timezone.utc)
+    published = entry.get('published') or entry.get('updated')
+    if published:
+        try:
+            dt = parsedate_to_datetime(published)
+        except (TypeError, ValueError):
+            dt = None
+        if dt:
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            else:
+                dt = dt.astimezone(timezone.utc)
+            return dt
+    return None
+
+
+def is_within_days(age_days: Optional[float], max_days: int) -> bool:
+    if age_days is None:
+        return False
+    return age_days <= max_days
+
+
+def is_recent_datetime(dt: Optional[datetime], max_days: int) -> bool:
+    if not dt:
+        return False
+    return datetime.now(timezone.utc) - dt <= timedelta(days=max_days)
 
 
 @dataclass
@@ -80,12 +202,13 @@ def match_keywords(text: str) -> bool:
 
 
 def fetch_html(url: str) -> Optional[str]:
+    request = urllib.request.Request(url, headers=HEADERS)
     try:
-        resp = SESSION.get(url, timeout=TIMEOUT)
-        resp.raise_for_status()
-    except requests.RequestException:
+        with urllib.request.urlopen(request, timeout=TIMEOUT) as resp:
+            charset = resp.headers.get_content_charset() or "utf-8"
+            return resp.read().decode(charset, errors="ignore")
+    except Exception:
         return None
-    return resp.text
 
 
 def build_full_url(href: str) -> str:
@@ -98,7 +221,7 @@ def discover_channels() -> Tuple[Optional[str], List[str]]:
     homepage_html = fetch_html(TOPHUB_BASE)
     if not homepage_html:
         return None, []
-    soup = BeautifulSoup(homepage_html, "lxml")
+    soup = BeautifulSoup(homepage_html, "html.parser")
     channels: Set[str] = set()
     for anchor in soup.select('div.cc-cd a[href^="/n/"]'):
         href = anchor.get("href")
@@ -108,7 +231,7 @@ def discover_channels() -> Tuple[Optional[str], List[str]]:
 
 
 def parse_homepage(html: str) -> List[Candidate]:
-    soup = BeautifulSoup(html, "lxml")
+    soup = BeautifulSoup(html, "html.parser")
     items: List[Candidate] = []
     for anchor in soup.select("div.cc-cd-cb-l a"):
         title_span = anchor.select_one("span.t")
@@ -129,7 +252,7 @@ def parse_homepage(html: str) -> List[Candidate]:
 
 
 def parse_channel_page(html: str, source_name: str) -> List[Candidate]:
-    soup = BeautifulSoup(html, "lxml")
+    soup = BeautifulSoup(html, "html.parser")
     items: List[Candidate] = []
 
     for row in soup.select("table tr"):
@@ -174,7 +297,7 @@ def fetch_tophub_candidates() -> List[Candidate]:
         html = fetch_html(url)
         if not html:
             continue
-        soup = BeautifulSoup(html, "lxml")
+        soup = BeautifulSoup(html, "html.parser")
         title_tag = soup.find("title")
         source_name = title_tag.get_text(strip=True) if title_tag else url
         candidates.extend(parse_channel_page(html, source_name))
@@ -216,6 +339,9 @@ def fetch_youtube_candidates(limit_per_query: int = 5) -> List[Candidate]:
                     summary = candidate
                     break
             summary_text = summary or f"{channel}".strip()
+            age_days = parse_youtube_age_days(heat)
+            if not is_within_days(age_days, YOUTUBE_MAX_DAYS):
+                continue
             results.append(
                 Candidate(
                     title=title,
@@ -246,8 +372,11 @@ def fetch_twitter_candidates(limit: int = 10) -> List[Candidate]:
             if not title or not match_keywords(title):
                 continue
             link = entry.get("link", "")
-            summary = BeautifulSoup(entry.get("summary", ""), "lxml").get_text(" ", strip=True)
+            summary = BeautifulSoup(entry.get("summary", ""), "html.parser").get_text(" ", strip=True)
             published = entry.get("published", "")
+            published_dt = parse_twitter_published(entry)
+            if not is_recent_datetime(published_dt, TWITTER_MAX_DAYS):
+                continue
             entries.append(
                 Candidate(
                     title=title,
@@ -285,6 +414,17 @@ def load_existing() -> List[dict]:
     if DATA_PATH.exists():
         return json.loads(DATA_PATH.read_text())
     return []
+
+
+def move_social_sources_to_end(entries: List[dict]) -> List[dict]:
+    primary = []
+    social = []
+    for item in entries:
+        if item.get('source') in SOCIAL_SOURCES:
+            social.append(item)
+        else:
+            primary.append(item)
+    return primary + social
 
 
 def merge_entries(existing: List[dict], new_items: List[dict]) -> List[dict]:
@@ -335,8 +475,9 @@ def main() -> None:
 
     existing = load_existing()
     merged = merge_entries(existing, tophub_candidates + youtube_candidates + twitter_candidates)
-    write_json(merged)
-    write_markdown(merged)
+    ordered = move_social_sources_to_end(merged)
+    write_json(ordered)
+    write_markdown(ordered)
 
 
 if __name__ == "__main__":

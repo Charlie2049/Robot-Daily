@@ -1,20 +1,5 @@
 [
   {
-    "id": "2026-03-28-youtube-3l4q3",
-    "date": "2026-03-28",
-    "title": "马斯克：特斯拉3个月内实现L4级自动驾驶！Q3财报全解析",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "谢嘉琪",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=50QtHAXZmmQ&pp=ygUM6Ieq5Yqo6am-6am2",
-    "tags": [],
-    "impact": "52K views 5 months ago"
-  },
-  {
     "id": "2026-03-28-csdn-python",
     "date": "2026-03-28",
     "title": "自进化医疗智能体：动态记忆与持续运行的Python架构编程（上）",
@@ -26,22 +11,7 @@
     "source": "CSDN博客",
     "source_url": "https://blog.csdn.net/kkiron/article/details/159501755",
     "tags": [],
-    "impact": "8349"
-  },
-  {
-    "id": "2026-03-28-youtube-ai",
-    "date": "2026-03-28",
-    "title": "自动驾驶的”端到端“AI新春天：依然分裂、冲突、孤注一掷",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "硅谷101",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=Jy5OozI1zMs&pp=ygUM6Ieq5Yqo6am-6am2",
-    "tags": [],
-    "impact": "226K views 1 year ago"
+    "impact": "8445"
   },
   {
     "id": "2026-03-28-csdn-openclaw-",
@@ -55,7 +25,7 @@
     "source": "CSDN博客",
     "source_url": "https://blog.csdn.net/weixin_42547636/article/details/159488472",
     "tags": [],
-    "impact": "1344"
+    "impact": "1339"
   },
   {
     "id": "2026-03-28--ai-",
@@ -69,37 +39,7 @@
     "source": "安全客",
     "source_url": "https://www.anquanke.com/post/id/315106",
     "tags": [],
-    "impact": "18.1万"
-  },
-  {
-    "id": "2026-03-28-youtube-v14",
-    "date": "2026-03-28",
-    "title": "特斯拉自动驾驶V14史诗级登场！也太强了！股价将会上涨！",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "谢嘉琪",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=xt5S6wTbT3g&pp=ygUM6Ieq5Yqo6am-6am2",
-    "tags": [],
-    "impact": "112K views 5 months ago"
-  },
-  {
-    "id": "2026-03-28-youtube--vs-waymocarcraftrobotaxilidar",
-    "date": "2026-03-28",
-    "title": "特斯拉 vs Waymo｜两条自动驾驶技术路线的博弈｜纯视觉｜端到端神经网络｜Carcraft仿真系统｜Robotaxi｜LiDAR｜高精地图",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "好奇心俱乐部",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=Gyv8AFIvcOo&pp=ygUM6Ieq5Yqo6am-6am2",
-    "tags": [],
-    "impact": "1.7K views 8 months ago"
+    "impact": "18.2万"
   },
   {
     "id": "2026-03-28-readhub-",
@@ -114,6 +54,21 @@
     "source_url": "https://www.tmtpost.com/7932836.html",
     "tags": [],
     "impact": "钛媒体 / 硅谷101"
+  },
+  {
+    "id": "2026-03-28-36-yarbo26150",
+    "date": "2026-03-28",
+    "title": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
+    "source": "36氪",
+    "source_url": "https://www.36kr.com/p/3736563677396994",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-03-28---",
@@ -144,6 +99,20 @@
     "impact": "喜剧"
   },
   {
+    "id": "2026-03-28-it-",
+    "date": "2026-03-28",
+    "title": "小米机器人仿生手大升级：类似人手大小，拥有全掌触觉、仿生汗腺",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "小米机器人仿生手大升级：类似人手大小，拥有全掌触觉、仿生汗腺",
+    "source": "IT之家",
+    "source_url": "https://m.ithome.com/html/933218.htm",
+    "tags": [],
+    "impact": "168评"
+  },
+  {
     "id": "2026-03-28--",
     "date": "2026-03-28",
     "title": "基于腾讯元器智能体平台搭建“质量管理智库”智能体笔记",
@@ -158,6 +127,20 @@
     "impact": "严学峰"
   },
   {
+    "id": "2026-03-28--",
+    "date": "2026-03-28",
+    "title": "博鳌年会现场机器人热舞蹦迪",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "博鳌年会现场机器人热舞蹦迪",
+    "source": "快手",
+    "source_url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%8D%9A%E9%B3%8C%E5%B9%B4%E4%BC%9A%E7%8E%B0%E5%9C%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%83%AD%E8%88%9E%E8%B9%A6%E8%BF%AA&rankType=1",
+    "tags": [],
+    "impact": "861.5万"
+  },
+  {
     "id": "2026-03-28--claude-opus-4523",
     "date": "2026-03-28",
     "title": "刚刚，智能体&编程新王Claude Opus 4.5震撼登场，定价大降2/3",
@@ -170,21 +153,6 @@
     "source_url": "https://www.jiqizhixin.com/articles/2025-11-25-2",
     "tags": [],
     "impact": "机器之心"
-  },
-  {
-    "id": "2026-03-28-youtube----",
-    "date": "2026-03-28",
-    "title": "具身智能技术路线详细讲解！大白话具身智能！ #大模型 #具身智能 #机器人",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "ZOMI酱",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=ba2LfTHbrag&pp=ygUM5YW36Lqr5pm66IO9",
-    "tags": [],
-    "impact": "2.1K views 1 year ago"
   },
   {
     "id": "2026-03-28--",
@@ -202,21 +170,6 @@
     "impact": "机器之心"
   },
   {
-    "id": "2026-03-28-youtube-ai----embodied-ai--------a1",
-    "date": "2026-03-28",
-    "title": "【人工智能】具身智能：下一个AI浪潮 | 稚晖君 | Embodied AI | 什么是具身智能 | 目前发展阶段 | 挑战与困难 | 智元远征A1机器人",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "最佳拍档",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=UZBSXzNKB1Q&pp=ygUM5YW36Lqr5pm66IO9",
-    "tags": [],
-    "impact": "12K views 2 years ago"
-  },
-  {
     "id": "2026-03-28--aiagent-session-smuggling",
     "date": "2026-03-28",
     "title": "【AI供应链威胁】多智能体场景下的Agent Session Smuggling攻击",
@@ -231,109 +184,18 @@
     "impact": ""
   },
   {
-    "id": "2026-03-28-youtube-the-most-human-like-robots-of-2026-are-finally-here-",
+    "id": "2026-03-28--telegram-api",
     "date": "2026-03-28",
-    "title": "The Most Human-Like Robots of 2026 Are Finally Here — And It Changes Everything",
+    "title": "Telegram的黑色面 网络罪犯利用机器人API隐秘窃取数据",
     "category": [
-      "social",
-      "video"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "The AI Nexus",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=BtE4otcAfVc&pp=ygUFcm9ib3Q%3D",
+    "summary": "Telegram的黑色面 网络罪犯利用机器人API隐秘窃取数据",
+    "source": "安全客",
+    "source_url": "https://www.anquanke.com/post/id/315158",
     "tags": [],
-    "impact": "6.4K 4d ago"
-  },
-  {
-    "id": "2026-03-28-youtube-tesla-fsd-autopilot-test-drive--full-journey-from-ne",
-    "date": "2026-03-28",
-    "title": "Tesla FSD Autopilot Test Drive 🚗 Full Journey from New Jersey to Manhattan, New York 🌆 NYC Vlog",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "YASHA雅莎",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=uUBKRuAD9hs&pp=ygUM6Ieq5Yqo6am-6am2",
-    "tags": [],
-    "impact": "6.7K views 4 months ago"
-  },
-  {
-    "id": "2026-03-28-youtube-melania-brings-a-robot-to-the-white-house--rfk-jr-di",
-    "date": "2026-03-28",
-    "title": "Melania Brings a Robot to the White House & RFK Jr. Did What to a Dead Raccoon? | The Daily Show",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "The Daily Show and Josh Johnson",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=tCp3yJu2Whc&pp=ygUFcm9ib3Q%3D",
-    "tags": [],
-    "impact": "1.1M 1d ago"
-  },
-  {
-    "id": "2026-03-28-youtube-ihip-news--melania-self-destructs-during-disaster-ro",
-    "date": "2026-03-28",
-    "title": "IHIP News: 🚨 Melania SELF-DESTRUCTS During DISASTER Robot Stunt and MTG NUKES Trump!",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "I've Had It",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=J1vbbfyH4Ic&pp=ygUFcm9ib3Q%3D",
-    "tags": [],
-    "impact": "367K 1d ago"
-  },
-  {
-    "id": "2026-03-28-youtube-google-deepmind",
-    "date": "2026-03-28",
-    "title": "Google Deepmind最新具身智能机器人论文解读，机器人行业将飞速发展！如何从前沿论文中发现投资机会？",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "鲸鱼投资",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=RuuAYyFm9bs&pp=ygUM5YW36Lqr5pm66IO9",
-    "tags": [],
-    "impact": "257 views 6 months ago"
-  },
-  {
-    "id": "2026-03-28-youtube-first-lady-melania-trump-walks-with-robot-to-white-h",
-    "date": "2026-03-28",
-    "title": "First Lady Melania Trump walks with robot to White House event on children's technology",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "C-SPAN",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=7sHSBgU5p4Y&pp=ygUFcm9ib3TSBwkJ2QoBhyohjO8%3D",
-    "tags": [],
-    "impact": "196K 2d ago"
-  },
-  {
-    "id": "2026-03-28-youtube-china-in-tears-superpower-falls-as-tsmc-ceo-exposes-",
-    "date": "2026-03-28",
-    "title": "China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "China Observer",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=mCUayp_OjTs&pp=ygUFcm9ib3Q%3D",
-    "tags": [],
-    "impact": "64K 2d ago"
+    "impact": "21.0万"
   },
   {
     "id": "2026-03-28--ai-agent--tools-",
@@ -347,227 +209,6 @@
     "source": "掘金",
     "source_url": "https://juejin.cn/post/7618846325321302068",
     "tags": [],
-    "impact": "1238"
-  },
-  {
-    "id": "2026-03-28-youtube-5-56--",
-    "date": "2026-03-28",
-    "title": "5分钟弄懂具身智能的基本图景 具身智能是什么，有哪些关键玩家，经历了哪些主要的技术演变，还有哪些关键概念？我来挑战下5、6分钟能不能讲清楚。#具身智能 #空间智能 #机器人",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "晓辉博士",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=VagCyFV2KMA&pp=ygUM5YW36Lqr5pm66IO9",
-    "tags": [],
-    "impact": "209 views 9 months ago"
-  },
-  {
-    "id": "2026-03-28-youtube-2025",
-    "date": "2026-03-28",
-    "title": "2025年，人形机器人走到哪一步了？｜机器人系列｜具身智能年度盘点",
-    "category": [
-      "social",
-      "video"
-    ],
-    "region": "Global",
-    "summary": "硅谷101",
-    "source": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=qs0ovkaacls&pp=ygUM5YW36Lqr5pm66IO9",
-    "tags": [],
-    "impact": "145K views 3 months ago"
-  },
-  {
-    "id": "2026-03-27-telegram-bot-exfiltration",
-    "date": "2026-03-27",
-    "title": "研究发现黑客滥用 Telegram 机器人 API 外带数据",
-    "category": [
-      "security",
-      "bot"
-    ],
-    "region": "Global",
-    "summary": "安全客总结 Cofense 报告指出，约 3.8% 的恶意软件活动将 Telegram 机器人作为指挥与数据外带通道。攻击者利用合法的 Bot API 发送消息、上传窃取文件，借助 sendDocument 等接口实时转移凭证、截图甚至压缩包。",
-    "source": "安全客",
-    "source_url": "https://www.anquanke.com/post/id/315158",
-    "tags": [
-      "Telegram",
-      "Bot API",
-      "数据外泄"
-    ],
-    "impact": "合法云 API 被当作 C2 信道，给传统流量检测带来盲区，企业需要监控 api.telegram.org/bot 模式的访问或直接阻断未授权机器人请求。"
-  },
-  {
-    "id": "2026-03-27-yarbo-funding",
-    "date": "2026-03-27",
-    "title": "智能庭院机器人 Yarbo 获近 2 亿元融资",
-    "category": [
-      "funding",
-      "outdoor-robotics"
-    ],
-    "region": "China",
-    "summary": "36氪报道，汉阳科技旗下庭院机器人品牌 Yarbo 完成近 2 亿元新一轮融资，投资方包括松禾资本、温润投资、安乃达、芯联资本等，资金将用于模块化机器人持续研发、产品迭代与全球渠道拓展。Yarbo 同时在 Kickstarter 上推出 M 系列模块化新品，首发 6 小时众筹金额突破 1000 万人民币。",
-    "source": "36氪",
-    "source_url": "https://www.36kr.com/p/3736563677396994",
-    "tags": [
-      "Yarbo",
-      "模块化",
-      "庭院机器人"
-    ],
-    "impact": "庭院机器人维持“1+N”模块化路线，凭借扫雪、割草等多模块适配抢占欧美高端市场，新资金和产业资本为其核心动力部件、供应链整合提供支持。"
-  },
-  {
-    "id": "2026-03-27-daxbot-burleson",
-    "date": "2026-03-27",
-    "title": "德州 Burleson 启用 Daxbot 机器人做 ADA 人行道巡检",
-    "category": [
-      "deployment",
-      "civic-tech"
-    ],
-    "region": "United States",
-    "summary": "德州 Burleson 市引入 Daxbot 自主测绘机器人，计划巡检 200 英里人行道、步道和公共建筑，获取坡度与障碍数据来满足 ADA 无障碍标准。机器人每天可测 6 英里，效率是人工队伍的三倍。",
-    "source": "Spectrum News",
-    "source_url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/03/27/texas-city-brings-in-robot-to-ensure-sidewalk-accessibility",
-    "tags": [
-      "Daxbot",
-      "ADA",
-      "smart-city"
-    ],
-    "impact": "表明地方政府开始用服务机器人执行公共设施巡检，将城市无障碍治理转为可量化、可持续流程。"
-  },
-  {
-    "id": "2026-03-27-xiaomi-bionic-hand",
-    "date": "2026-03-27",
-    "title": "小米人形机器人仿生手缩小 60%，新增全掌触觉",
-    "category": [
-      "hardware",
-      "humanoid"
-    ],
-    "region": "China",
-    "summary": "IT之家披露，小米对 CyberOne 仿生手进行大幅改造，体积压缩约 60%，自由度提升 50%，新增 8200 平方毫米全掌触觉传感器和仿生汗腺设计，可实现 15 万次以上重复抓握。小米希望通过人手 1:1 的仿生手与触觉手套配合，提高工厂作业成功率至接近 100%。",
-    "source": "IT之家",
-    "source_url": "https://m.ithome.com/html/933218.htm",
-    "tags": [
-      "小米",
-      "仿生手",
-      "CyberOne"
-    ],
-    "impact": "将触觉采集与仿生尺寸统一，有助于把真实工人数据迁移到机器人操作策略，支撑其在手机/汽车工厂持续作业的落地。"
-  },
-  {
-    "id": "2026-03-27-cn-drone-swarm",
-    "date": "2026-03-27",
-    "title": "国产“阿特拉斯”无人机蜂群系统实战演示",
-    "category": [
-      "defense",
-      "autonomy"
-    ],
-    "region": "China",
-    "summary": "哔哩哔哩热门视频展示蜂群2号陆战车、指控车与保障车组成的国产“阿特拉斯”无人机蜂群进行协同侦察、目标辨识与一击命中完整流程，演示了算法指挥、无人平台协同的战术链路。",
-    "source": "哔哩哔哩",
-    "source_url": "https://www.bilibili.com/video/av116288705862454/",
-    "tags": [
-      "无人机蜂群",
-      "阿特拉斯",
-      "协同作战"
-    ],
-    "impact": "该视频在 tophub 榜单上热度超 100 万，体现国内对蜂群作战体系的关注，也显示出国产无人机在识别、指控与末端打击的一体化演练正在常态化。"
-  },
-  {
-    "id": "2026-03-27-shield-ai",
-    "date": "2026-03-27",
-    "title": "Shield AI 融资 20 亿美元并收购仿真厂商 Aechelon",
-    "category": [
-      "funding",
-      "defense"
-    ],
-    "region": "United States",
-    "summary": "路透援引公司声明称，防务机器人公司 Shield AI 以 127 亿美元估值进行 G 轮融资，主投方为 Advent International 和摩根大通战略投资部。资金将部分用于收购仿真软件商 Aechelon，支撑其 Hivemind 无人机操作系统。",
-    "source": "Reuters / Economic Times",
-    "source_url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/shield-ai-secures-2-billion-funding-valuing-company-at-127-billion/129844458",
-    "tags": [
-      "Shield AI",
-      "Hivemind",
-      "Aechelon"
-    ],
-    "impact": "在美以冲突与乌俄战争推动下，军用自治飞行软件需求飙升，资本与并购资源向军工机器人集中。"
-  },
-  {
-    "id": "2026-03-27-physical-intelligence",
-    "date": "2026-03-27",
-    "title": "Physical Intelligence 拟以 110 亿估值再融 10 亿美元",
-    "category": [
-      "funding",
-      "platform"
-    ],
-    "region": "United States",
-    "summary": "彭博报道称，前 DeepMind 研究员创立的机器人 AI 公司 Physical Intelligence 正洽谈约 10 亿美元融资，投后估值超过 110 亿美元，距离去年 11 月的 56 亿美元估值仅 4 个月。公司研发可驱动多种机器人任务的世界模型与控制系统。",
-    "source": "Bloomberg",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation",
-    "tags": [
-      "Physical Intelligence",
-      "funding",
-      "world-model"
-    ],
-    "impact": "高估值表明“Physical AI” 平台成为资本追逐焦点，通用型机器人操作系统竞争加速。"
-  },
-  {
-    "id": "2026-03-27-amazon-fauna",
-    "date": "2026-03-27",
-    "title": "Amazon 收购家用人形机器人团队 Fauna Robotics",
-    "category": [
-      "acquisition",
-      "humanoid"
-    ],
-    "region": "United States",
-    "summary": "亚马逊确认收购纽约的人形机器人初创公司 Fauna Robotics，该公司推出过 3.5 英尺高、面向家庭和校园的 Sprout 机器人，擅长与人互动。全部员工将加入亚马逊纽约办公室，交易金额未披露。",
-    "source": "Associated Press",
-    "source_url": "https://www.wusa9.com/article/syndication/associatedpress/amazon-buys-fauna-robotics-maker-of-the-sprout-humanoid-robot/616-33c73879-7c61-4b97-92b2-279259397be1",
-    "tags": [
-      "Amazon",
-      "Fauna",
-      "Sprout",
-      "consumer-robotics"
-    ],
-    "impact": "亚马逊继仓储自动化后再次押注面向终端用户的社交机器人，表明大厂仍在寻找 Alexa 之后的新型家庭终端。"
-  },
-  {
-    "id": "2026-03-27-reuters-metamachines",
-    "date": "2026-03-27",
-    "title": "AI 设计的模块化“Metamachine” 损毁后仍能行走",
-    "category": [
-      "research",
-      "resilience"
-    ],
-    "region": "United States",
-    "summary": "路透报道，西北大学团队用 AI 进化算法和乐高式模块打造“legged metamachines”，这些机器人在户外被拆掉部件后仍可重组或继续移动，旨在让野外作业机器人具备更强抗损能力。",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/video/watch/idRW774026032026RP1/",
-    "tags": [
-      "Northwestern",
-      "metamachine",
-      "modular"
-    ],
-    "impact": "模块化可生存机器人意味着未来野外巡检或救灾机器人能在缺少维护的情况下持续运行。"
-  },
-  {
-    "id": "2026-03-26-boao-ai-forum",
-    "date": "2026-03-26",
-    "title": "博鳌年会密集聚焦人形机器人与智能体",
-    "category": [
-      "event",
-      "policy"
-    ],
-    "region": "China",
-    "summary": "中新网报道，在博鳌亚洲论坛 2026 年年会上，多个分论坛围绕人形机器人和“智能体 AI 元年”展开，现场出现咖啡机器人、数字主持人等互动场景。张亚勤等嘉宾提出 AI 正从生成式走向智能体和物理智能，企业代表强调应把重复劳动交给机器人与智能体。",
-    "source": "中国新闻网",
-    "source_url": "https://www.chinanews.com.cn/cj/2026/03-26/10593387.shtml",
-    "tags": [
-      "博鳌",
-      "智能体",
-      "人形机器人"
-    ],
-    "impact": "高层论坛强调 AI+ 产业化落地，将政策层面对机器人与通用智能体的关注延伸到制造、服务等实体场景，为后续资金和试点提供背书。"
+    "impact": "1239"
   }
 ]
