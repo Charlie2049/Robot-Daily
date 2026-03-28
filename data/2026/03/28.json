@@ -3,60 +3,210 @@
     "id": "2026-03-27-amazon-fauna",
     "date": "2026-03-27",
     "title": "Amazon 收购家用人形机器人团队 Fauna Robotics",
-    "category": ["acquisition", "humanoid"],
+    "category": [
+      "acquisition",
+      "humanoid"
+    ],
     "region": "United States",
     "summary": "亚马逊确认收购纽约的人形机器人初创公司 Fauna Robotics，该公司推出过 3.5 英尺高、面向家庭和校园的 Sprout 机器人，擅长与人互动。全部员工将加入亚马逊纽约办公室，交易金额未披露。",
     "source": "Associated Press",
     "source_url": "https://www.wusa9.com/article/syndication/associatedpress/amazon-buys-fauna-robotics-maker-of-the-sprout-humanoid-robot/616-33c73879-7c61-4b97-92b2-279259397be1",
-    "tags": ["Amazon", "Fauna", "Sprout", "consumer-robotics"],
+    "tags": [
+      "Amazon",
+      "Fauna",
+      "Sprout",
+      "consumer-robotics"
+    ],
     "impact": "亚马逊继仓储自动化后再次押注面向终端用户的社交机器人，表明大厂仍在寻找 Alexa 之后的新型家庭终端。"
   },
   {
     "id": "2026-03-27-physical-intelligence",
     "date": "2026-03-27",
     "title": "Physical Intelligence 拟以 110 亿估值再融 10 亿美元",
-    "category": ["funding", "platform"],
+    "category": [
+      "funding",
+      "platform"
+    ],
     "region": "United States",
     "summary": "彭博报道称，前 DeepMind 研究员创立的机器人 AI 公司 Physical Intelligence 正洽谈约 10 亿美元融资，投后估值超过 110 亿美元，距离去年 11 月的 56 亿美元估值仅 4 个月。公司研发可驱动多种机器人任务的世界模型与控制系统。",
     "source": "Bloomberg",
     "source_url": "https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation",
-    "tags": ["Physical Intelligence", "funding", "world-model"],
+    "tags": [
+      "Physical Intelligence",
+      "funding",
+      "world-model"
+    ],
     "impact": "高估值表明“Physical AI” 平台成为资本追逐焦点，通用型机器人操作系统竞争加速。"
   },
   {
     "id": "2026-03-27-reuters-metamachines",
     "date": "2026-03-27",
     "title": "AI 设计的模块化“Metamachine” 损毁后仍能行走",
-    "category": ["research", "resilience"],
+    "category": [
+      "research",
+      "resilience"
+    ],
     "region": "United States",
     "summary": "路透报道，西北大学团队用 AI 进化算法和乐高式模块打造“legged metamachines”，这些机器人在户外被拆掉部件后仍可重组或继续移动，旨在让野外作业机器人具备更强抗损能力。",
     "source": "Reuters",
     "source_url": "https://www.reuters.com/video/watch/idRW774026032026RP1/",
-    "tags": ["Northwestern", "metamachine", "modular"],
+    "tags": [
+      "Northwestern",
+      "metamachine",
+      "modular"
+    ],
     "impact": "模块化可生存机器人意味着未来野外巡检或救灾机器人能在缺少维护的情况下持续运行。"
   },
   {
     "id": "2026-03-27-shield-ai",
     "date": "2026-03-27",
     "title": "Shield AI 融资 20 亿美元并收购仿真厂商 Aechelon",
-    "category": ["funding", "defense"],
+    "category": [
+      "funding",
+      "defense"
+    ],
     "region": "United States",
     "summary": "路透援引公司声明称，防务机器人公司 Shield AI 以 127 亿美元估值进行 G 轮融资，主投方为 Advent International 和摩根大通战略投资部。资金将部分用于收购仿真软件商 Aechelon，支撑其 Hivemind 无人机操作系统。",
     "source": "Reuters / Economic Times",
     "source_url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/shield-ai-secures-2-billion-funding-valuing-company-at-127-billion/129844458",
-    "tags": ["Shield AI", "Hivemind", "Aechelon"],
+    "tags": [
+      "Shield AI",
+      "Hivemind",
+      "Aechelon"
+    ],
     "impact": "在美以冲突与乌俄战争推动下，军用自治飞行软件需求飙升，资本与并购资源向军工机器人集中。"
   },
   {
     "id": "2026-03-27-daxbot-burleson",
     "date": "2026-03-27",
     "title": "德州 Burleson 启用 Daxbot 机器人做 ADA 人行道巡检",
-    "category": ["deployment", "civic-tech"],
+    "category": [
+      "deployment",
+      "civic-tech"
+    ],
     "region": "United States",
     "summary": "德州 Burleson 市引入 Daxbot 自主测绘机器人，计划巡检 200 英里人行道、步道和公共建筑，获取坡度与障碍数据来满足 ADA 无障碍标准。机器人每天可测 6 英里，效率是人工队伍的三倍。",
     "source": "Spectrum News",
     "source_url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/03/27/texas-city-brings-in-robot-to-ensure-sidewalk-accessibility",
-    "tags": ["Daxbot", "ADA", "smart-city"],
+    "tags": [
+      "Daxbot",
+      "ADA",
+      "smart-city"
+    ],
     "impact": "表明地方政府开始用服务机器人执行公共设施巡检，将城市无障碍治理转为可量化、可持续流程。"
+  },
+  {
+    "id": "2026-03-27-yarbo-funding",
+    "date": "2026-03-27",
+    "title": "智能庭院机器人 Yarbo 获近 2 亿元融资",
+    "category": [
+      "funding",
+      "outdoor-robotics"
+    ],
+    "region": "China",
+    "summary": "36氪报道，汉阳科技旗下庭院机器人品牌 Yarbo 完成近 2 亿元新一轮融资，投资方包括松禾资本、温润投资、安乃达、芯联资本等，资金将用于模块化机器人持续研发、产品迭代与全球渠道拓展。Yarbo 同时在 Kickstarter 上推出 M 系列模块化新品，首发 6 小时众筹金额突破 1000 万人民币。",
+    "source": "36氪",
+    "source_url": "https://www.36kr.com/p/3736563677396994",
+    "tags": [
+      "Yarbo",
+      "模块化",
+      "庭院机器人"
+    ],
+    "impact": "庭院机器人维持“1+N”模块化路线，凭借扫雪、割草等多模块适配抢占欧美高端市场，新资金和产业资本为其核心动力部件、供应链整合提供支持。"
+  },
+  {
+    "id": "2026-03-27-xiaomi-bionic-hand",
+    "date": "2026-03-27",
+    "title": "小米人形机器人仿生手缩小 60%，新增全掌触觉",
+    "category": [
+      "hardware",
+      "humanoid"
+    ],
+    "region": "China",
+    "summary": "IT之家披露，小米对 CyberOne 仿生手进行大幅改造，体积压缩约 60%，自由度提升 50%，新增 8200 平方毫米全掌触觉传感器和仿生汗腺设计，可实现 15 万次以上重复抓握。小米希望通过人手 1:1 的仿生手与触觉手套配合，提高工厂作业成功率至接近 100%。",
+    "source": "IT之家",
+    "source_url": "https://m.ithome.com/html/933218.htm",
+    "tags": [
+      "小米",
+      "仿生手",
+      "CyberOne"
+    ],
+    "impact": "将触觉采集与仿生尺寸统一，有助于把真实工人数据迁移到机器人操作策略，支撑其在手机/汽车工厂持续作业的落地。"
+  },
+  {
+    "id": "2026-03-27-cn-drone-swarm",
+    "date": "2026-03-27",
+    "title": "国产“阿特拉斯”无人机蜂群系统实战演示",
+    "category": [
+      "defense",
+      "autonomy"
+    ],
+    "region": "China",
+    "summary": "哔哩哔哩热门视频展示蜂群2号陆战车、指控车与保障车组成的国产“阿特拉斯”无人机蜂群进行协同侦察、目标辨识与一击命中完整流程，演示了算法指挥、无人平台协同的战术链路。",
+    "source": "哔哩哔哩",
+    "source_url": "https://www.bilibili.com/video/av116288705862454/",
+    "tags": [
+      "无人机蜂群",
+      "阿特拉斯",
+      "协同作战"
+    ],
+    "impact": "该视频在 tophub 榜单上热度超 100 万，体现国内对蜂群作战体系的关注，也显示出国产无人机在识别、指控与末端打击的一体化演练正在常态化。"
+  },
+  {
+    "id": "2026-03-26-boao-ai-forum",
+    "date": "2026-03-26",
+    "title": "博鳌年会密集聚焦人形机器人与智能体",
+    "category": [
+      "event",
+      "policy"
+    ],
+    "region": "China",
+    "summary": "中新网报道，在博鳌亚洲论坛 2026 年年会上，多个分论坛围绕人形机器人和“智能体 AI 元年”展开，现场出现咖啡机器人、数字主持人等互动场景。张亚勤等嘉宾提出 AI 正从生成式走向智能体和物理智能，企业代表强调应把重复劳动交给机器人与智能体。",
+    "source": "中国新闻网",
+    "source_url": "https://www.chinanews.com.cn/cj/2026/03-26/10593387.shtml",
+    "tags": [
+      "博鳌",
+      "智能体",
+      "人形机器人"
+    ],
+    "impact": "高层论坛强调 AI+ 产业化落地，将政策层面对机器人与通用智能体的关注延伸到制造、服务等实体场景，为后续资金和试点提供背书。"
+  },
+  {
+    "id": "2026-03-27-iran-drone-attack",
+    "date": "2026-03-27",
+    "title": "伊朗无人机群袭击以色列最大运输中心",
+    "category": [
+      "conflict",
+      "defense"
+    ],
+    "region": "Middle East",
+    "summary": "每经网援引伊朗国家电视台报道，伊朗军方宣布特拉维夫一处以军后勤基地及运输中心遭无人机集群攻击，这是以色列最大的运输枢纽之一。",
+    "source": "每经网",
+    "source_url": "https://www.nbd.com.cn/articles/2026-03-27/4312718.html",
+    "tags": [
+      "伊朗",
+      "以色列",
+      "无人机"
+    ],
+    "impact": "冲突方持续用无人机群实施关键节点打击，显示低成本无人集群已成为战略打击工具，也提高全球对反无人机体系的需求。"
+  },
+  {
+    "id": "2026-03-27-telegram-bot-exfiltration",
+    "date": "2026-03-27",
+    "title": "研究发现黑客滥用 Telegram 机器人 API 外带数据",
+    "category": [
+      "security",
+      "bot"
+    ],
+    "region": "Global",
+    "summary": "安全客总结 Cofense 报告指出，约 3.8% 的恶意软件活动将 Telegram 机器人作为指挥与数据外带通道。攻击者利用合法的 Bot API 发送消息、上传窃取文件，借助 sendDocument 等接口实时转移凭证、截图甚至压缩包。",
+    "source": "安全客",
+    "source_url": "https://www.anquanke.com/post/id/315158",
+    "tags": [
+      "Telegram",
+      "Bot API",
+      "数据外泄"
+    ],
+    "impact": "合法云 API 被当作 C2 信道，给传统流量检测带来盲区，企业需要监控 api.telegram.org/bot 模式的访问或直接阻断未授权机器人请求。"
   }
 ]
