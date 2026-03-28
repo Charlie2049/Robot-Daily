@@ -1,5 +1,62 @@
 [
   {
+    "id": "2026-03-28-readhub-",
+    "date": "2026-03-28",
+    "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
+    "source": "Readhub",
+    "source_url": "https://www.tmtpost.com/7932836.html",
+    "tags": [],
+    "impact": "钛媒体 / 硅谷101"
+  },
+  {
+    "id": "2026-03-28-36-yarbo26150",
+    "date": "2026-03-28",
+    "title": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
+    "source": "36氪",
+    "source_url": "https://www.36kr.com/p/3736563677396994",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-28---",
+    "date": "2026-03-28",
+    "title": "无锡数据集团-招聘具身智能领域",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "无锡数据集团-招聘具身智能领域",
+    "source": "北大未名",
+    "source_url": "https://bbs.pku.edu.cn/v2/post-read.php?bid=845&threadid=19004048",
+    "tags": [],
+    "impact": "求职信息发布(Job_Post)"
+  },
+  {
+    "id": "2026-03-27-it-",
+    "date": "2026-03-27",
+    "title": "小米机器人仿生手大升级：类似人手大小，拥有全掌触觉、仿生汗腺",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "小米机器人仿生手大升级：类似人手大小，拥有全掌触觉、仿生汗腺",
+    "source": "IT之家",
+    "source_url": "https://m.ithome.com/html/933218.htm",
+    "tags": [],
+    "impact": "170评"
+  },
+  {
     "id": "2026-03-27-the-robot-report-vdmavda-5050-v3-",
     "date": "2026-03-27",
     "title": "VDMA：VDA 5050 V3 将帮助移动机器人车队规模化",

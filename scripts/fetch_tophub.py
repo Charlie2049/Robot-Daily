@@ -426,7 +426,7 @@ def filter_recent_candidates(candidates: List[Candidate]) -> List[Candidate]:
     for candidate in candidates:
         published = resolve_article_date(candidate.url)
         if not published:
-            continue
+            published = TODAY
         if not is_recent_date(published):
             continue
         candidate.published = published
