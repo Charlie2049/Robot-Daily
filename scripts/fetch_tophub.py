@@ -53,6 +53,10 @@ MARKDOWN_HEADING_PATTERN = re.compile(r"^#{2,3}\s+(.+)$", re.MULTILINE)
 MARKDOWN_ENTRY_PATTERN = re.compile(r"^\s*(\d+)\.\[([^\]]+)\]\(([^)]+)\)(.*)$")
 CATEGORY_ENTRY_PATTERN = re.compile(r"\[(\d+)\s+([^\]]+)\]\(([^)]+)\)")
 TOPHUB_CATEGORY_PATHS = ["/c/tech", "/c/finance", "/c/ai"]
+TOPHUB_EXTRA_CHANNELS = [
+    "https://tophub.today/n/DpQvNABoNE",  # 抖音 · 总榜
+    "https://tophub.today/n/L4MdA5ldxD",  # 小红书 · 热榜
+]
 TOPHUB_MAX_CHANNELS = 45
 TOPHUB_MAX_ITEMS_PER_CHANNEL = 80
 TOPHUB_MAX_CANDIDATES = 200
@@ -459,6 +463,7 @@ def parse_channel_page_markdown(markdown: str, source_name: str) -> List[Candida
 
 def fetch_tophub_candidates() -> List[Candidate]:
     candidates: List[Candidate] = []
+
     for rel_path in TOPHUB_CATEGORY_PATHS:
         category_url = build_full_url(rel_path)
         page_body, fmt, proxy_title = fetch_tophub_page(category_url)
@@ -469,6 +474,18 @@ def fetch_tophub_candidates() -> List[Candidate]:
             candidates.extend(parse_category_page_markdown(page_body, section_name))
         else:
             candidates.extend(parse_channel_page_html(page_body, section_name))
+
+    for channel_url in TOPHUB_EXTRA_CHANNELS:
+        page_body, fmt, proxy_title = fetch_tophub_page(channel_url)
+        if not page_body:
+            continue
+        source_name = extract_markdown_heading(page_body) if fmt == "markdown" else None
+        source_name = source_name or proxy_title or channel_url
+        if fmt == "markdown":
+            candidates.extend(parse_channel_page_markdown(page_body, source_name))
+        else:
+            candidates.extend(parse_channel_page_html(page_body, source_name))
+
     if len(candidates) > TOPHUB_MAX_CANDIDATES:
         candidates = candidates[:TOPHUB_MAX_CANDIDATES]
     return candidates
