@@ -1,5 +1,94 @@
 [
   {
+    "id": "2026-03-28-sina-ai-sensory-hand",
+    "date": "2026-03-28",
+    "title": "AI赋能的灵巧手让机器人更快走入生活",
+    "category": [
+      "robotics"
+    ],
+    "region": "China",
+    "summary": "央视新闻报道，深圳宝安的机器人企业凭借布置了11万+节点的高分辨率触觉传感器与AI算法，让分拣、端盘和老人护理等动作在毫秒级内完成感知与力量调节，演示了机器人在制造与民生场景中的落地能力。",
+    "source": "CCTV News",
+    "source_url": "http://finance.sina.com.cn/jjxw/2026-03-28/doc-inhsqaqr7315261.shtml",
+    "tags": [
+      "physical-ai",
+      "haptics"
+    ],
+    "impact": "强调国产机器人正用AI触觉与视觉赋能来降低专家依赖，让家务、护理、流水线等场景的柔性操作更可靠。"
+  },
+  {
+    "id": "2026-03-28-xinhua-unitree-dance",
+    "date": "2026-03-28",
+    "title": "Unitree舞蹈机器人在北京机器人展吸睛",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "China",
+    "summary": "新华社报道，Unitree Robotics在“AI应用与机器人创新”主题展上展示多台能跳舞的机器人，以丰富动作与节奏吸引参展者，凸显其人形平台的交互与娱乐能力。",
+    "source": "Xinhua",
+    "source_url": "https://english.news.cn/20260328/177504de24d1471bac0e0a2e6a105252/c.html",
+    "tags": [
+      "exhibition",
+      "public-engagement"
+    ],
+    "impact": "借助现场演示提升公众对国产人形机器人的认知，为后续商业化与交互场景铺路。"
+  },
+  {
+    "id": "2026-03-28-wsls-first-blacksburg",
+    "date": "2026-03-28",
+    "title": "30支队伍亮相布莱克斯堡FIRST地区赛",
+    "category": [
+      "robotics",
+      "education"
+    ],
+    "region": "US",
+    "summary": "WSLS报道，来自弗吉尼亚、马里兰与华盛顿特区的30支队伍在布莱克斯堡高中参加FIRST机器人地区赛，现场鼓励“合作竞赛”，学生们在技术审查中锻炼沟通与求职技巧。",
+    "source": "WSLS 10",
+    "source_url": "https://www.wsls.com/news/local/2026/03/28/first-robotics-competition-hosted-at-blacksburg-high-school/",
+    "tags": [
+      "co-opetition",
+      "STEM"
+    ],
+    "impact": "实践让学生熟悉真实项目分工与评审流程，体现机器人教育对就业技能的持续贡献。"
+  },
+  {
+    "id": "2026-03-28-kvia-project-neo-first",
+    "date": "2026-03-28",
+    "title": "Project NEO Robotics夺得FIRST Impact大奖",
+    "category": [
+      "robotics",
+      "education"
+    ],
+    "region": "US",
+    "summary": "KVIA报道，新墨西哥Project NEO Robotics团队在德州沃斯堡的FIRST机器人赛中斩获Impact大奖，凭借持续的社区影响与科技普及获得荣誉，并晋级休斯顿全州赛。",
+    "source": "KVIA",
+    "source_url": "https://kvia.com/news/top-stories/2026/03/28/project-neo-robotics-earns-top-honor-at-texas-competition-advances-to-state-district-event/",
+    "tags": [
+      "community",
+      "STEM"
+    ],
+    "impact": "体现机器人教育项目在物理AI时代仍是普惠入口，也推动南部区域搭建更包容的竞赛生态。"
+  },
+  {
+    "id": "2026-03-28-smart-fish-arctic",
+    "date": "2026-03-28",
+    "title": "“聪明鱼”水下机器人破解北极热水谜团",
+    "category": [
+      "robotics",
+      "ocean"
+    ],
+    "region": "Russia",
+    "summary": "俄罗斯研究团队的“Smart Fish”水下机器人在查恩湾拖曳式测量中采集50多万条数据，首次定位两处热水涌流口，解释了异常热爱生态，并逐步扩展到福岛与俄罗斯水域的渔业监测。",
+    "source": "1.ru",
+    "source_url": "https://www1.ru/en/news/2026/03/28/podvodnyi-robot-smart-fis-razgadal-arkticeskuiu-zagadku-kotoruiu-ne-mogli-resit-godami.html",
+    "tags": [
+      "marine-science",
+      "survey"
+    ],
+    "impact": "示范水下机器人可提供极地与核事故周边的高频算例型监测，助力科研与渔业跟踪。"
+  },
+  {
     "id": "2026-03-28-readhub-",
     "date": "2026-03-28",
     "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
