@@ -16,6 +16,7 @@ from datetime import date, datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import List, Optional, Set, Tuple
+from urllib.parse import urlparse
 
 WORKDIR = Path(__file__).resolve().parents[1]
 VENDOR_DIR = WORKDIR / "vendor"
@@ -42,8 +43,19 @@ KEYWORDS = ["机器人", "具身智能", "robot", "Robot", "智能体", "自动�
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
+PROXY_HEADERS = {"User-Agent": "curl/8.5.0", "Accept": "*/*"}
 TIMEOUT = 15
 TOPHUB_BASE = "https://tophub.today"
+TOPHUB_MIRRORS = ["https://r.jina.ai/"]
+TOPHUB_CHANNEL_PATTERN = re.compile(r"https?://tophub\.today/n/[A-Za-z0-9]+")
+MARKDOWN_TITLE_PATTERN = re.compile(r"^Title:\s*(.+)$", re.MULTILINE)
+MARKDOWN_HEADING_PATTERN = re.compile(r"^#{2,3}\s+(.+)$", re.MULTILINE)
+MARKDOWN_ENTRY_PATTERN = re.compile(r"^\s*(\d+)\.\[([^\]]+)\]\(([^)]+)\)(.*)$")
+CATEGORY_ENTRY_PATTERN = re.compile(r"\[(\d+)\s+([^\]]+)\]\(([^)]+)\)")
+TOPHUB_CATEGORY_PATHS = ["/c/tech", "/c/finance", "/c/ai"]
+TOPHUB_MAX_CHANNELS = 45
+TOPHUB_MAX_ITEMS_PER_CHANNEL = 80
+TOPHUB_MAX_CANDIDATES = 200
 MAX_ARTICLE_AGE_DAYS = 2
 URL_DATE_PATTERN = re.compile(r"(20\d{2})[-/](\d{1,2})[-/](\d{1,2})")
 ISO_DATE_PATTERN = re.compile(r"(20\d{2})[-/.](\d{1,2})[-/.](\d{1,2})")
@@ -213,9 +225,10 @@ def match_keywords(text: str) -> bool:
     return any(keyword.lower() in lowered for keyword in KEYWORDS)
 
 
-def fetch_html(url: str, retries: int = 3) -> Optional[str]:
+def fetch_html(url: str, retries: int = 3, headers: Optional[dict] = None) -> Optional[str]:
+    request_headers = headers or HEADERS
     for attempt in range(1, retries + 1):
-        request = urllib.request.Request(url, headers=HEADERS)
+        request = urllib.request.Request(url, headers=request_headers)
         try:
             with urllib.request.urlopen(request, timeout=TIMEOUT) as resp:
                 charset = resp.headers.get_content_charset() or "utf-8"
@@ -234,21 +247,88 @@ def build_full_url(href: str) -> str:
     return f"{TOPHUB_BASE}{href}"
 
 
-def discover_channels() -> Tuple[Optional[str], List[str]]:
-    time.sleep(random.uniform(0.5, 1.5))
-    homepage_html = fetch_html(TOPHUB_BASE)
-    if not homepage_html:
-        return None, []
-    soup = BeautifulSoup(homepage_html, "html.parser")
-    channels: Set[str] = set()
-    for anchor in soup.select('div.cc-cd a[href^="/n/"]'):
-        href = anchor.get("href")
-        if href:
-            channels.add(build_full_url(href))
-    return homepage_html, sorted(channels)
+def normalize_channel_url(url: str) -> str:
+    if url.startswith("http://"):
+        return "https://" + url[len("http://") :]
+    return url
 
 
-def parse_homepage(html: str) -> List[Candidate]:
+def infer_source_from_url(url: str) -> str:
+    parsed = urlparse(url)
+    host = parsed.netloc or ""
+    host = host.lower()
+    if host.startswith("www."):
+        host = host[4:]
+    return host or "Tophub"
+
+
+def extract_markdown_payload(text: str) -> Optional[str]:
+    marker = "Markdown Content:"
+    idx = text.find(marker)
+    if idx == -1:
+        return None
+    return text[idx + len(marker) :].strip()
+
+
+def fetch_tophub_page(url: str) -> Tuple[Optional[str], str, Optional[str]]:
+    html = fetch_html(url, retries=1)
+    if html:
+        return html, "html", None
+    for prefix in TOPHUB_MIRRORS:
+        proxied_url = f"{prefix}{url}"
+        proxied_html = fetch_html(proxied_url, headers=PROXY_HEADERS)
+        if not proxied_html:
+            continue
+        title_match = MARKDOWN_TITLE_PATTERN.search(proxied_html)
+        title = title_match.group(1).strip() if title_match else None
+        markdown = extract_markdown_payload(proxied_html)
+        if markdown:
+            return markdown, "markdown", title
+        return proxied_html, "markdown", title
+    return None, "html", None
+
+
+def discover_channels() -> Tuple[Optional[str], List[str], str]:
+    aggregated: List[str] = []
+    seen: Set[str] = set()
+    first_content: Optional[str] = None
+    first_format = "markdown"
+    for rel_path in TOPHUB_CATEGORY_PATHS:
+        url = build_full_url(rel_path)
+        content, fmt, _ = fetch_tophub_page(url)
+        if not content:
+            continue
+        if first_content is None:
+            first_content = content
+            first_format = fmt
+        if fmt == "markdown":
+            channel_urls = parse_markdown_channel_urls(content)
+        else:
+            channel_urls = parse_html_channel_urls(content)
+        for channel_url in channel_urls:
+            if channel_url in seen:
+                continue
+            seen.add(channel_url)
+            aggregated.append(channel_url)
+            if len(aggregated) >= TOPHUB_MAX_CHANNELS:
+                break
+        if len(aggregated) >= TOPHUB_MAX_CHANNELS:
+            break
+    if aggregated:
+        return first_content, aggregated[:TOPHUB_MAX_CHANNELS], first_format
+
+    # fallback to首页
+    homepage_content, content_format, _ = fetch_tophub_page(TOPHUB_BASE)
+    if not homepage_content:
+        return None, [], content_format
+    if content_format == "markdown":
+        channels = parse_markdown_channel_urls(homepage_content)
+    else:
+        channels = parse_html_channel_urls(homepage_content)
+    return homepage_content, channels[:TOPHUB_MAX_CHANNELS], content_format
+
+
+def parse_homepage_html(html: str) -> List[Candidate]:
     soup = BeautifulSoup(html, "html.parser")
     items: List[Candidate] = []
     for anchor in soup.select("div.cc-cd-cb-l a"):
@@ -269,7 +349,49 @@ def parse_homepage(html: str) -> List[Candidate]:
     return items
 
 
-def parse_channel_page(html: str, source_name: str) -> List[Candidate]:
+def parse_markdown_channel_urls(markdown: str) -> List[str]:
+    urls: List[str] = []
+    seen: Set[str] = set()
+    for match in TOPHUB_CHANNEL_PATTERN.finditer(markdown):
+        normalized = normalize_channel_url(match.group(0))
+        if normalized not in seen:
+            seen.add(normalized)
+            urls.append(normalized)
+    return urls
+
+
+def parse_html_channel_urls(html: str) -> List[str]:
+    soup = BeautifulSoup(html, "html.parser")
+    urls: List[str] = []
+    seen: Set[str] = set()
+    for anchor in soup.select('div.cc-cd a[href^="/n/"]'):
+        href = anchor.get("href")
+        if not href:
+            continue
+        normalized = build_full_url(href)
+        if normalized not in seen:
+            seen.add(normalized)
+            urls.append(normalized)
+    return urls
+
+
+def parse_category_page_markdown(markdown: str, section_name: str) -> List[Candidate]:
+    items: List[Candidate] = []
+    for match in CATEGORY_ENTRY_PATTERN.finditer(markdown):
+        title = match.group(2).strip()
+        if not title or not match_keywords(title):
+            continue
+        url = match.group(3).strip()
+        source = infer_source_from_url(url) or section_name
+        candidate = Candidate(title=title, url=url, heat="", source=source, summary=title)
+        candidate.published = TODAY
+        items.append(candidate)
+        if len(items) >= TOPHUB_MAX_ITEMS_PER_CHANNEL:
+            break
+    return items
+
+
+def parse_channel_page_html(html: str, source_name: str) -> List[Candidate]:
     soup = BeautifulSoup(html, "html.parser")
     items: List[Candidate] = []
 
@@ -299,28 +421,56 @@ def parse_channel_page(html: str, source_name: str) -> List[Candidate]:
         url = build_full_url(href)
         heat_span = anchor.select_one("span.e")
         heat = heat_span.get_text(strip=True) if heat_span else ""
-        items.append(Candidate(title=title, url=url, heat=heat, source=source_name, summary=title))
+        candidate = Candidate(title=title, url=url, heat=heat, source=source_name, summary=title)
+        candidate.published = TODAY
+        items.append(candidate)
 
     return items
 
 
-def fetch_tophub_candidates() -> List[Candidate]:
-    homepage_html, channel_urls = discover_channels()
-    candidates: List[Candidate] = []
+def extract_markdown_heading(markdown: str) -> Optional[str]:
+    match = MARKDOWN_HEADING_PATTERN.search(markdown)
+    if match:
+        return match.group(1).strip()
+    return None
 
-    if homepage_html:
-        candidates.extend(parse_homepage(homepage_html))
 
-    for url in channel_urls:
-        time.sleep(random.uniform(0.5, 1.5))
-        html = fetch_html(url)
-        if not html:
+def parse_channel_page_markdown(markdown: str, source_name: str) -> List[Candidate]:
+    items: List[Candidate] = []
+    for line in markdown.splitlines():
+        match = MARKDOWN_ENTRY_PATTERN.match(line.strip())
+        if not match:
             continue
-        soup = BeautifulSoup(html, "html.parser")
-        title_tag = soup.find("title")
-        source_name = title_tag.get_text(strip=True) if title_tag else url
-        candidates.extend(parse_channel_page(html, source_name))
+        title = match.group(2).strip()
+        if not title or not match_keywords(title):
+            continue
+        url = match.group(3).strip()
+        tail = match.group(4).strip()
+        heat = ""
+        if tail:
+            heat = tail.split("[", 1)[0].strip()
+        candidate = Candidate(title=title, url=url, heat=heat, source=source_name, summary=title)
+        candidate.published = TODAY
+        items.append(candidate)
+        if len(items) >= TOPHUB_MAX_ITEMS_PER_CHANNEL:
+            break
+    return items
 
+
+def fetch_tophub_candidates() -> List[Candidate]:
+    candidates: List[Candidate] = []
+    for rel_path in TOPHUB_CATEGORY_PATHS:
+        category_url = build_full_url(rel_path)
+        page_body, fmt, proxy_title = fetch_tophub_page(category_url)
+        if not page_body:
+            continue
+        section_name = proxy_title or f"Tophub{rel_path}"
+        if fmt == "markdown":
+            candidates.extend(parse_category_page_markdown(page_body, section_name))
+        else:
+            candidates.extend(parse_channel_page_html(page_body, section_name))
+    if len(candidates) > TOPHUB_MAX_CANDIDATES:
+        candidates = candidates[:TOPHUB_MAX_CANDIDATES]
     return candidates
 
 
@@ -433,7 +583,9 @@ def write_markdown(data: List[dict]) -> None:
 def filter_recent_candidates(candidates: List[Candidate]) -> List[Candidate]:
     filtered: List[Candidate] = []
     for candidate in candidates:
-        published = resolve_article_date(candidate.url)
+        published = candidate.published
+        if not published:
+            published = resolve_article_date(candidate.url)
         if not published:
             published = TODAY
         if not is_recent_date(published):
