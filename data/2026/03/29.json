@@ -29,18 +29,18 @@
     "impact": ""
   },
   {
-    "id": "2026-03-29-tophubcfinance-",
+    "id": "2026-03-29-tophubctech--iphone--",
     "date": "2026-03-29",
-    "title": "百亿估值具身智能创企，走到哪一步了？",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "百亿估值具身智能创企，走到哪一步了？",
-    "source": "Tophub/c/finance",
-    "source_url": "https://m.21jingji.com/article/20260329/herald/61ea6560498528bcc8906a533f71053a.html",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人",
+    "source": "Tophub/c/tech",
+    "source_url": "https://www.feng.com/post/13936319",
     "tags": [],
-    "impact": "公司"
+    "impact": "271"
   },
   {
     "id": "2026-03-29-tophubctech-cp-axtra51050ssdai-agent",
@@ -53,6 +53,20 @@
     "summary": "氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人",
     "source": "Tophub/c/tech",
     "source_url": "https://36kr.com/p/3737878513844224?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-29-tophubctech-",
+    "date": "2026-03-29",
+    "title": "樊嘉院士智能体上线蚂蚁阿福，提供肝病科普、初筛等服务",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "樊嘉院士智能体上线蚂蚁阿福，提供肝病科普、初筛等服务",
+    "source": "Tophub/c/tech",
+    "source_url": "https://readhub.cn/topic/8rtIAUOqrxd",
     "tags": [],
     "impact": ""
   },
@@ -125,7 +139,7 @@
     "source": "Tophub/c/ai",
     "source_url": "https://juejin.cn/post/7621453614445068328",
     "tags": [],
-    "impact": "734"
+    "impact": "803"
   },
   {
     "id": "2026-03-29-tophubcai-946",
