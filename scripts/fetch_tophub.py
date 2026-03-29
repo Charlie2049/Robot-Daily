@@ -62,14 +62,14 @@ TOPHUB_EXTRA_CHANNELS = [
     "https://tophub.today/n/mproPpoq6O",  # 知乎 · 热榜
 ]
 TOPHUB_MAX_CHANNELS = 45
-TOPHUB_MAX_ITEMS_PER_CHANNEL = 80
-TOPHUB_MAX_CANDIDATES = 200
+TOPHUB_MAX_ITEMS_PER_CHANNEL = 5
+TOPHUB_MAX_CANDIDATES = 40
 MAX_ARTICLE_AGE_DAYS = 2
 URL_DATE_PATTERN = re.compile(r"(20\d{2})[-/](\d{1,2})[-/](\d{1,2})")
 ISO_DATE_PATTERN = re.compile(r"(20\d{2})[-/.](\d{1,2})[-/.](\d{1,2})")
 CN_DATE_PATTERN = re.compile(r"(20\d{2})年(\d{1,2})月(\d{1,2})日")
 EN_DATE_PATTERN = re.compile(
-    r"(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+(\d{1,2}),\s+(20\d{2})",
+    r"(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+(\d{1,2})(?:st|nd|rd|th)?(?:,)?\s+(20\d{2})",
     re.IGNORECASE,
 )
 EN_MONTHS = {
@@ -97,6 +97,17 @@ RSS_SOURCES = [
     ("CNBC Technology", "https://www.cnbc.com/id/19854910/device/rss/rss.html"),
     ("Bloomberg Technology", "https://feeds.bloomberg.com/technology/news.rss"),
 ]
+
+TRUSTED_DOMAINS = {
+    "www.douyin.com",
+    "www.xiaohongshu.com",
+    "www.bilibili.com",
+    "bilibili.com",
+    "s.weibo.com",
+    "weibo.com",
+    "www.zhihu.com",
+    "zhihu.com",
+}
 
 
 def slugify(text: str) -> str:
@@ -157,7 +168,7 @@ def extract_date_from_text(blob: str) -> Optional[date]:
                 month = int(match.group(2))
                 day = int(match.group(3))
             published = parse_date_components(year, month, day)
-            if published and is_recent_date(published):
+            if published:
                 return published
     return None
 
@@ -170,7 +181,7 @@ def resolve_article_date(url: str) -> Optional[date]:
     html = fetch_html(url)
     if not html:
         return None
-    snippet = html[:120000]
+    snippet = html
     published = extract_date_from_text(snippet)
     if published:
         return published
@@ -392,7 +403,6 @@ def parse_category_page_markdown(markdown: str, section_name: str) -> List[Candi
         url = match.group(3).strip()
         source = infer_source_from_url(url) or section_name
         candidate = Candidate(title=title, url=url, heat="", source=source, summary=title)
-        candidate.published = TODAY
         items.append(candidate)
         if len(items) >= TOPHUB_MAX_ITEMS_PER_CHANNEL:
             break
@@ -430,7 +440,6 @@ def parse_channel_page_html(html: str, source_name: str) -> List[Candidate]:
         heat_span = anchor.select_one("span.e")
         heat = heat_span.get_text(strip=True) if heat_span else ""
         candidate = Candidate(title=title, url=url, heat=heat, source=source_name, summary=title)
-        candidate.published = TODAY
         items.append(candidate)
 
     return items
@@ -458,7 +467,6 @@ def parse_channel_page_markdown(markdown: str, source_name: str) -> List[Candida
         if tail:
             heat = tail.split("[", 1)[0].strip()
         candidate = Candidate(title=title, url=url, heat=heat, source=source_name, summary=title)
-        candidate.published = TODAY
         items.append(candidate)
         if len(items) >= TOPHUB_MAX_ITEMS_PER_CHANNEL:
             break
@@ -630,7 +638,13 @@ def filter_recent_candidates(candidates: List[Candidate]) -> List[Candidate]:
     for candidate in candidates:
         published = candidate.published
         if not published:
-            published = resolve_article_date(candidate.url)
+            domain = urlparse(candidate.url).netloc.lower()
+            if domain.startswith("www."):
+                domain = domain[4:]
+            if domain in TRUSTED_DOMAINS:
+                published = TODAY
+            else:
+                published = resolve_article_date(candidate.url)
         if not published:
             published = TODAY
         if not is_recent_date(published):
@@ -646,8 +660,7 @@ def main() -> None:
     rss_candidates = fetch_rss_candidates()
 
     entries = [candidate.as_entry() for candidate in (recent_tophub + rss_candidates)]
-    existing = load_existing()
-    merged = merge_entries(existing, entries)
+    merged = merge_entries([], entries)
     merged = remove_previous_day_duplicates(merged)
     write_json(merged)
     write_markdown(merged)

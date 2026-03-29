@@ -1,34 +1,5 @@
 [
   {
-    "id": "2026-03-29-orionhyperai-5-rubin--agentai4s",
-    "date": "2026-03-29",
-    "title": "黄仁勋最新演讲：5 项创新加持，Rubin 性能数据首曝；多样化开源，覆盖 Agent/机器人/自动驾驶/AI4S",
-    "category": [
-      "robotics",
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "黄仁勋最新演讲：5 项创新加持，Rubin 性能数据首曝；多样化开源，覆盖 Agent/机器人/自动驾驶/AI4S",
-    "source": "orion.hyper.ai",
-    "source_url": "https://orion.hyper.ai/news/48495",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-blogcsdnnet-wayveai-26",
-    "date": "2026-03-29",
-    "title": "高通携手Wayve：推动端到端AI自动驾驶迈向量产时代 2.6万",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "高通携手Wayve：推动端到端AI自动驾驶迈向量产时代 2.6万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/Oflycomm/article/details/159549278",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-03-29-36krcom-10000",
     "date": "2026-03-29",
     "title": "量产10000台人形机器人，智元“超车”特斯拉",
@@ -40,48 +11,6 @@
     "summary": "量产10000台人形机器人，智元“超车”特斯拉",
     "source": "36kr.com",
     "source_url": "https://www.36kr.com/p/3740987466399753",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-orionhyperai-nasa--20-",
-    "date": "2026-03-29",
-    "title": "贝佐斯/比尔盖茨/英伟达/英特尔等押注，NASA 工程师带队打造通用机器人大脑，公司估值达 20 亿美元",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "贝佐斯/比尔盖茨/英伟达/英特尔等押注，NASA 工程师带队打造通用机器人大脑，公司估值达 20 亿美元",
-    "source": "orion.hyper.ai",
-    "source_url": "https://orion.hyper.ai/news/48527",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-guokrcom-",
-    "date": "2026-03-29",
-    "title": "登顶多项权威基准测试，这家公司将他们的具身智能模型开源",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "登顶多项权威基准测试，这家公司将他们的具身智能模型开源",
-    "source": "guokr.com",
-    "source_url": "https://www.guokr.com/article/468708/",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-gelonghuicom-2025",
-    "date": "2026-03-29",
-    "title": "海致科技2025年度业绩深度解读：智能体确立第二增长曲线，规模化效益蓄势待发",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "海致科技2025年度业绩深度解读：智能体确立第二增长曲线，规模化效益蓄势待发",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/4219860",
     "tags": [],
     "impact": ""
   },
@@ -100,128 +29,14 @@
     "impact": ""
   },
   {
-    "id": "2026-03-29-ifanrcom--ai-",
+    "id": "2026-03-29-juejincn-ai-agent----multi-agent--654",
     "date": "2026-03-29",
-    "title": "林俊旸离职后首发长文：反思千问得失，预判 AI 下半场需要「智能体思维」人物",
+    "title": "AI Agent 智能体 - Multi-Agent 架构入门 654",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "林俊旸离职后首发长文：反思千问得失，预判 AI 下半场需要「智能体思维」人物",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1659950",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-blogcsdnnet-aitva-25",
-    "date": "2026-03-29",
-    "title": "提高AI智能体视觉检测（TVA）鲁棒性需要注意的几个问题 2.5万",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "提高AI智能体视觉检测（TVA）鲁棒性需要注意的几个问题 2.5万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2501_94287723/article/details/159524802",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-ifanrcom--gpt-2---",
-    "date": "2026-03-29",
-    "title": "别被机器人跳舞骗了，我们还在 GPT-2 时代| 具身智能百亿圆桌 公司",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "别被机器人跳舞骗了，我们还在 GPT-2 时代| 具身智能百亿圆桌 公司",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1660043",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-orionhyperai--open-autoglmspatial-ssrl-81k-",
-    "date": "2026-03-29",
-    "title": "低门槛试用 Open-AutoGLM：屏幕理解+自动执行的智能体体验；Spatial-SSRL-81k 构建空间感知的自监督提升路径",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "低门槛试用 Open-AutoGLM：屏幕理解+自动执行的智能体体验；Spatial-SSRL-81k 构建空间感知的自监督提升路径",
-    "source": "orion.hyper.ai",
-    "source_url": "https://orion.hyper.ai/news/47651",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-36krcom-",
-    "date": "2026-03-29",
-    "title": "人形机器人开始“找工作”了",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "人形机器人开始“找工作”了",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3740980543750409",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-36krcom-vivo-",
-    "date": "2026-03-29",
-    "title": "vivo秦飞：手机厂商早就能做智能体 但安全比速度更重要",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "vivo秦飞：手机厂商早就能做智能体 但安全比速度更重要",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3742012902752512?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-ai-botcn-feelfish-30---",
-    "date": "2026-03-29",
-    "title": "FeelFish 3.0 发布 – 小说创作，正式迈入多智能体时代",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "FeelFish 3.0 发布 – 小说创作，正式迈入多智能体时代",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/novel-writing-feelfish-3-0/",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-aibasecom-aideerflow20capcutaiaigc40",
-    "date": "2026-03-29",
-    "title": "AI日报：字节开源智能体编排框架DeerFlow2.0；CapCut上线两大AI功能；快手AIGC素材单季消耗达40亿元",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI日报：字节开源智能体编排框架DeerFlow2.0；CapCut上线两大AI功能；快手AIGC素材单季消耗达40亿元",
-    "source": "aibase.com",
-    "source_url": "https://www.aibase.com/zh/daily/26587",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-03-29-juejincn-ai-agent----multi-agent--649",
-    "date": "2026-03-29",
-    "title": "AI Agent 智能体 - Multi-Agent 架构入门 649",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI Agent 智能体 - Multi-Agent 架构入门 649",
+    "summary": "AI Agent 智能体 - Multi-Agent 架构入门 654",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7621453614445068328",
     "tags": [],
@@ -242,16 +57,73 @@
     "impact": ""
   },
   {
-    "id": "2026-03-29-blogcsdnnet-2026ai26",
-    "date": "2026-03-29",
-    "title": "2026企业级AI智能体深度解析：如何通过可信架构降低大模型幻觉，实现深度数据挖掘？2.6万",
+    "id": "2026-03-27-guokrcom-",
+    "date": "2026-03-27",
+    "title": "登顶多项权威基准测试，这家公司将他们的具身智能模型开源",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "登顶多项权威基准测试，这家公司将他们的具身智能模型开源",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/468708/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-27-gelonghuicom-2025",
+    "date": "2026-03-27",
+    "title": "海致科技2025年度业绩深度解读：智能体确立第二增长曲线，规模化效益蓄势待发",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "2026企业级AI智能体深度解析：如何通过可信架构降低大模型幻觉，实现深度数据挖掘？2.6万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/Lucky_luckyZzz/article/details/159551428",
+    "summary": "海致科技2025年度业绩深度解读：智能体确立第二增长曲线，规模化效益蓄势待发",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/4219860",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-27-ifanrcom--ai-",
+    "date": "2026-03-27",
+    "title": "林俊旸离职后首发长文：反思千问得失，预判 AI 下半场需要「智能体思维」人物",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "林俊旸离职后首发长文：反思千问得失，预判 AI 下半场需要「智能体思维」人物",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1659950",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-27-ifanrcom--gpt-2---",
+    "date": "2026-03-27",
+    "title": "别被机器人跳舞骗了，我们还在 GPT-2 时代| 具身智能百亿圆桌 公司",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "别被机器人跳舞骗了，我们还在 GPT-2 时代| 具身智能百亿圆桌 公司",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1660043",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-27-ai-botcn-feelfish-30---",
+    "date": "2026-03-27",
+    "title": "FeelFish 3.0 发布 – 小说创作，正式迈入多智能体时代",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "FeelFish 3.0 发布 – 小说创作，正式迈入多智能体时代",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/novel-writing-feelfish-3-0/",
     "tags": [],
     "impact": ""
   }
