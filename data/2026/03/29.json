@@ -29,6 +29,20 @@
     "impact": ""
   },
   {
+    "id": "2026-03-29-tophubcfinance-",
+    "date": "2026-03-29",
+    "title": "百亿估值具身智能创企，走到哪一步了？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "百亿估值具身智能创企，走到哪一步了？",
+    "source": "Tophub/c/finance",
+    "source_url": "https://m.21jingji.com/article/20260329/herald/61ea6560498528bcc8906a533f71053a.html",
+    "tags": [],
+    "impact": "公司"
+  },
+  {
     "id": "2026-03-29-tophubctech-cp-axtra51050ssdai-agent",
     "date": "2026-03-29",
     "title": "氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人",
@@ -98,6 +112,20 @@
     "source_url": "https://www.36kr.com/p/3740980543750409",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-03-29-tophubcai-ai-agent----multi-agent-",
+    "date": "2026-03-29",
+    "title": "AI Agent 智能体 - Multi-Agent 架构入门",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI Agent 智能体 - Multi-Agent 架构入门",
+    "source": "Tophub/c/ai",
+    "source_url": "https://juejin.cn/post/7621453614445068328",
+    "tags": [],
+    "impact": "734"
   },
   {
     "id": "2026-03-29-tophubcai-946",
@@ -183,19 +211,5 @@
     "source_url": "https://ai-bot.cn/novel-writing-feelfish-3-0/",
     "tags": [],
     "impact": ""
-  },
-  {
-    "id": "2026-03-27-tophubcai-ai-agent----multi-agent-",
-    "date": "2026-03-27",
-    "title": "AI Agent 智能体 - Multi-Agent 架构入门",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI Agent 智能体 - Multi-Agent 架构入门",
-    "source": "Tophub/c/ai",
-    "source_url": "https://juejin.cn/post/7621453614445068328",
-    "tags": [],
-    "impact": "711"
   }
 ]
