@@ -2,8 +2,9 @@ name: Robot Daily Trending Fetch
 
 on:
   schedule:
-    - cron: '0 4 * * *'
-    - cron: '0 16 * * *'
+    - cron: '0 23 * * *'
+    - cron: '0 7 * * *'
+    - cron: '0 14 * * *'
   workflow_dispatch:
 
 jobs:

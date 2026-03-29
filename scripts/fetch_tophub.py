@@ -35,7 +35,8 @@ from bs4 import BeautifulSoup  # type: ignore
 
 feedparser.USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-TODAY = datetime.now(timezone.utc).astimezone().date()
+LOCAL_TZ = timezone(timedelta(hours=8))
+TODAY = datetime.now(timezone.utc).astimezone(LOCAL_TZ).date()
 DATA_PATH = WORKDIR / f"data/{TODAY:%Y/%m/%d}.json"
 CONTENT_PATH = WORKDIR / f"content/{TODAY:%Y-%m-%d}.md"
 
@@ -559,6 +560,14 @@ def load_existing() -> List[dict]:
     return []
 
 
+def load_previous_day_entries() -> List[dict]:
+    previous_date = TODAY - timedelta(days=1)
+    prev_path = WORKDIR / f"data/{previous_date:%Y/%m/%d}.json"
+    if prev_path.exists():
+        return json.loads(prev_path.read_text())
+    return []
+
+
 def merge_entries(existing: List[dict], new_items: List[dict]) -> List[dict]:
     seen_titles = {item["title"].lower(): item["id"] for item in existing}
     seen_urls = {item.get("source_url", ""): item["id"] for item in existing if item.get("source_url")}
@@ -573,6 +582,22 @@ def merge_entries(existing: List[dict], new_items: List[dict]) -> List[dict]:
             seen_urls[url_key] = item["id"]
     existing.sort(key=lambda x: (x.get("date", ""), x.get("title", "")), reverse=True)
     return existing
+
+
+def remove_previous_day_duplicates(data: List[dict]) -> List[dict]:
+    previous_entries = load_previous_day_entries()
+    if not previous_entries:
+        return data
+    prev_titles = {item.get("title", "").lower() for item in previous_entries if item.get("title")}
+    prev_urls = {item.get("source_url", "") for item in previous_entries if item.get("source_url")}
+    filtered: List[dict] = []
+    for item in data:
+        title_key = item.get("title", "").lower()
+        url_key = item.get("source_url", "")
+        if title_key in prev_titles or (url_key and url_key in prev_urls):
+            continue
+        filtered.append(item)
+    return filtered
 
 
 def write_json(data: List[dict]) -> None:
@@ -623,6 +648,7 @@ def main() -> None:
     entries = [candidate.as_entry() for candidate in (recent_tophub + rss_candidates)]
     existing = load_existing()
     merged = merge_entries(existing, entries)
+    merged = remove_previous_day_duplicates(merged)
     write_json(merged)
     write_markdown(merged)
 
