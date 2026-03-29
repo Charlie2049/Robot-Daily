@@ -56,6 +56,9 @@ TOPHUB_CATEGORY_PATHS = ["/c/tech", "/c/finance", "/c/ai"]
 TOPHUB_EXTRA_CHANNELS = [
     "https://tophub.today/n/DpQvNABoNE",  # 抖音 · 总榜
     "https://tophub.today/n/L4MdA5ldxD",  # 小红书 · 热榜
+    "https://tophub.today/n/74KvxwokxM",  # 哔哩哔哩 · 全站日榜
+    "https://tophub.today/n/KqndgxeLl9",  # 微博 · 热搜榜
+    "https://tophub.today/n/mproPpoq6O",  # 知乎 · 热榜
 ]
 TOPHUB_MAX_CHANNELS = 45
 TOPHUB_MAX_ITEMS_PER_CHANNEL = 80
