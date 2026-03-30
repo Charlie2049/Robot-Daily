@@ -1,5 +1,34 @@
 [
   {
+    "id": "2026-03-30-gelonghuicom-0697hk80172",
+    "date": "2026-03-30",
+    "title": "首程控股(0697.HK)：机器人账面浮盈超80亿元，园区资产管理收入1.72亿港元",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "首程控股(0697.HK)：机器人账面浮盈超80亿元，园区资产管理收入1.72亿港元",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/4220714",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-30-cnbc-technology-figure-ai",
+    "date": "2026-03-30",
+    "title": "认识一下Figure AI：由梅拉尼娅·特朗普主持的人形机器人背后的公司",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.（原题：Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html",
+    "tags": [],
+    "impact": "Mon, 30 Mar 2026 04:13:51 GMT"
+  },
+  {
     "id": "2026-03-30-ai-botcn--mobileclaw--ai",
     "date": "2026-03-30",
     "title": "移动云 MobileClaw – 中国移动推出的桌面级AI办公智能体",
@@ -16,73 +45,86 @@
   {
     "id": "2026-03-30-36krcom-",
     "date": "2026-03-30",
-    "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
+    "title": "松延动力仿生机器人表情控制相关专利公布",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
+    "summary": "松延动力仿生机器人表情控制相关专利公布",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3741913909474056",
+    "source_url": "https://36kr.com/newsflashes/3745267281019139?f=rss",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-03-30-36krcom-36--5000ceo",
+    "id": "2026-03-30-bloomberg-technology--20-",
     "date": "2026-03-30",
-    "title": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
+    "title": "据称，机器人制造商汇川技术将聘请银行以高达 20 亿美元的资金在香港上市",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
+    "summary": "Industrial robot maker Shenzhen Inovance Technology Co. has picked banks for a Hong Kong listing that could raise as much as $2 billion, according to people familiar with the matter.（原题：Robot Maker Inovance Is Said to Hire Banks for Up to $2 Billion Hong Kong Listing）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-03-30/robot-maker-inovance-said-to-hire-banks-for-up-to-2-billion-hong-kong-listing",
+    "tags": [],
+    "impact": "Mon, 30 Mar 2026 02:54:19 GMT"
+  },
+  {
+    "id": "2026-03-30-36krcom-204d",
+    "date": "2026-03-30",
+    "title": "20万条4D交互数据+运动学锚定，南洋理工让生成式仿真不再「脑补」机器人动作",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "20万条4D交互数据+运动学锚定，南洋理工让生成式仿真不再「脑补」机器人动作",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3744805881724928?f=rss",
+    "source_url": "https://www.36kr.com/p/3745038322516228",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-03-29-cnbc-technology-figure-ai",
-    "date": "2026-03-29",
-    "title": "认识一下Figure AI：由梅拉尼娅·特朗普主持的人形机器人背后的公司",
+    "id": "2026-03-30-cbndatacom-2026",
+    "date": "2026-03-30",
+    "title": "2026年的具身智能：不再“讲故事”，而是拼“分数”？互联网江湖",
     "category": [
-      "humanoid",
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "2026年的具身智能：不再“讲故事”，而是拼“分数”？互联网江湖",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295151",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-30-36krcom-2026",
+    "date": "2026-03-30",
+    "title": "2026年的具身智能：不再“讲故事”，而是拼“分数”？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "2026年的具身智能：不再“讲故事”，而是拼“分数”？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3745085379575815",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-29-mithomecom--ios-27--chatgpt--ai--app-store--65",
+    "date": "2026-03-29",
+    "title": "古尔曼：苹果 iOS 27 将允许安装 ChatGPT 以外的第三方 AI 聊天机器人，拥有独立的 App Store 专区 65评",
+    "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.（原题：Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump）",
-    "source": "CNBC Technology",
-    "source_url": "https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html",
+    "summary": "古尔曼：苹果 iOS 27 将允许安装 ChatGPT 以外的第三方 AI 聊天机器人，拥有独立的 App Store 专区 65评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/933903.htm",
     "tags": [],
-    "impact": "Sun, 29 Mar 2026 06:59:12 GMT"
-  },
-  {
-    "id": "2026-03-28-bloomberg-technology-",
-    "date": "2026-03-28",
-    "title": "奇怪的事情：人工智能和自主武器的未来（播客）",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "The last big story right before the war in Iran started was the collapse in the relationship between the Pentagon and Anthropic, with the latter objecting to any potential use of its models in either fully autonomous weapons or domestic surveillance. Of course, this story immediately become more relevant with the start of the war, and the reporting that Anthropic’s technology was in fact utilized at the start of hostilities. But what does that mean? How are these models used? And what would a fu（原题：Odd Lots: AI and the Future of Autonomous Weapons (Podcast)）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast",
-    "tags": [],
-    "impact": "Sat, 28 Mar 2026 08:00:00 GMT"
-  },
-  {
-    "id": "2026-03-28-bloomberg-technology-",
-    "date": "2026-03-28",
-    "title": "人择、五角大楼和自主武器的未来",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "How AI will reshape warfare.（原题：Anthropic, the Pentagon, and the Future of Autonomous Weapons）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-03-28/anthropic-s-fight-with-us-military-over-future-of-autonomous-weapons",
-    "tags": [],
-    "impact": "Sat, 28 Mar 2026 08:00:04 GMT"
+    "impact": ""
   },
   {
     "id": "2026-03-28-the-robot-report-mind-robotics--a-",
