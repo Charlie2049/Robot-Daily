@@ -290,9 +290,7 @@ def extract_markdown_payload(text: str) -> Optional[str]:
 
 
 def fetch_tophub_page(url: str) -> Tuple[Optional[str], str, Optional[str]]:
-    html = fetch_html(url, retries=1)
-    if html:
-        return html, "html", None
+    # Prefer mirrors first to avoid源站503影响
     for prefix in TOPHUB_MIRRORS:
         proxied_url = f"{prefix}{url}"
         proxied_html = fetch_html(proxied_url, headers=PROXY_HEADERS)
@@ -304,6 +302,11 @@ def fetch_tophub_page(url: str) -> Tuple[Optional[str], str, Optional[str]]:
         if markdown:
             return markdown, "markdown", title
         return proxied_html, "markdown", title
+
+    # fallback to源站
+    html = fetch_html(url, retries=1)
+    if html:
+        return html, "html", None
     return None, "html", None
 
 
