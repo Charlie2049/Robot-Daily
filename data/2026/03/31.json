@@ -1,43 +1,100 @@
 [
   {
-    "id": "2026-03-31-36krcom-ai2026-ai",
+    "id": "2026-03-31-36krcom-iphone",
     "date": "2026-03-31",
-    "title": "餐饮AI炒菜机器人研究报告2026：后厨革命， AI炒菜机器人驱动餐饮生态重构",
+    "title": "韩国摄像头公司从供货iPhone向人形机器人拓展",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "餐饮AI炒菜机器人研究报告2026：后厨革命， AI炒菜机器人驱动餐饮生态重构",
+    "summary": "韩国摄像头公司从供货iPhone向人形机器人拓展",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3745222976778753",
+    "source_url": "https://36kr.com/newsflashes/3746631758119680?f=rss",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-03-31-fengcom--iphone---1704",
+    "id": "2026-03-31-fengcom--iphone---1975",
     "date": "2026-03-31",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1704",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1975",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1704",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1975",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-03-31-36krcom-36--5000ceo",
+    "id": "2026-03-31-cnbc-technology--saronic--175-",
     "date": "2026-03-31",
-    "title": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
+    "title": "自动船初创公司 Saronic 融资 17.5 亿美元，竞相实现美国军队现代化",
+    "category": [
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "Saronic's latest funding round more than doubles its valuation to $9.25 billion from the prior fundraising early last year.（原题：Autonomous boat startup Saronic raises $1.75 billion in race to modernize U.S. military）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
+    "tags": [],
+    "impact": "Tue, 31 Mar 2026 09:00:01 GMT"
+  },
+  {
+    "id": "2026-03-31-sspaicom--135--3m--matrix",
+    "date": "2026-03-31",
+    "title": "社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验 Matrix机器人",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3744805881724928?f=rss",
+    "summary": "社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验 Matrix机器人",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/108108",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-31-qbitaicom-pk",
+    "date": "2026-03-31",
+    "title": "机器人线下真机对线打PK！这届黑客松可太会玩了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人线下真机对线打PK！这届黑客松可太会玩了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/03/393887.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-31-qbitaicom-68ai",
+    "date": "2026-03-31",
+    "title": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/03/393984.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-31-readhubcn-ai",
+    "date": "2026-03-31",
+    "title": "亚马逊将推出机器人AI驱动的大型自动化零售门店",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "亚马逊将推出机器人AI驱动的大型自动化零售门店",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8ruf69UX5Sh",
     "tags": [],
     "impact": ""
   },
