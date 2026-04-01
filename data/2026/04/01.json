@@ -1,15 +1,29 @@
 [
   {
-    "id": "2026-04-01-36krcom-",
+    "id": "2026-04-01-36krcom-openclaw",
     "date": "2026-04-01",
-    "title": "智元与香港中文大学达成战略合作，共建具身智能产学研联合平台",
+    "title": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
     "category": [
-      "humanoid"
+      "general"
     ],
     "region": "Global",
-    "summary": "智元与香港中文大学达成战略合作，共建具身智能产学研联合平台",
+    "summary": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3746832399892997?f=rss",
+    "source_url": "https://36kr.com/newsflashes/3747504374628865?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-01-readhubcn--openclaw-",
+    "date": "2026-04-01",
+    "title": "国家知识产权局：使用 OpenClaw 等智能体撰写专利申请文件或诱发多重风险",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "国家知识产权局：使用 OpenClaw 等智能体撰写专利申请文件或诱发多重风险",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8rxeVCE5xbt",
     "tags": [],
     "impact": ""
   },
@@ -28,18 +42,60 @@
     "impact": ""
   },
   {
-    "id": "2026-04-01-juejincn-ai-agent----multi-agent--2180",
+    "id": "2026-04-01-m21jingjicom-openclaw-",
     "date": "2026-04-01",
-    "title": "AI Agent 智能体 - Multi-Agent 架构入门 2180",
+    "title": "使用OpenClaw等智能体或诱发多重风险 最新提示",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "AI Agent 智能体 - Multi-Agent 架构入门 2180",
+    "summary": "使用OpenClaw等智能体或诱发多重风险 最新提示",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260401/herald/b7ad2c613430fb89c03abf499eca4d90.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-01-juejincn-ai-agent----multi-agent--2196",
+    "date": "2026-04-01",
+    "title": "AI Agent 智能体 - Multi-Agent 架构入门 2196",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI Agent 智能体 - Multi-Agent 架构入门 2196",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7621453614445068328",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-03-31-the-robot-report-",
+    "date": "2026-03-31",
+    "title": "在机器人峰会主题演讲中了解如何大规模构建可靠的机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "In the opening panel of this year's Robotics Summit, learn how to create robots that are reliable and ready for commercial fleets. The post Learn how to build reliable robots at scale in Robotics Summit keynote appeared first on The Robot Report .（原题：Learn how to build reliable robots at scale in Robotics Summit keynote）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/learn-how-build-reliable-robots-scale-robotics-summit-keynote/",
+    "tags": [],
+    "impact": "Tue, 31 Mar 2026 21:10:23 +0000"
+  },
+  {
+    "id": "2026-03-31-the-robot-report-saronic--175b-",
+    "date": "2026-03-31",
+    "title": "Saronic 筹集了 $1.75B 以大规模建造自主船舶",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Saronic plans to use the funding to scale production of its portfolio of autonomous surface vessels and AI-driven maritime capabilities. The post Saronic raises $1.75B to build autonomous ships at scale appeared first on The Robot Report .（原题：Saronic raises $1.75B to build autonomous ships at scale）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/saronic-raises-1-75b-build-autonomous-ships-scale/",
+    "tags": [],
+    "impact": "Tue, 31 Mar 2026 18:24:36 +0000"
   },
   {
     "id": "2026-03-31-the-robot-report-agibot10000",
