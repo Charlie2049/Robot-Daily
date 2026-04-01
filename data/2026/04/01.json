@@ -1,69 +1,97 @@
 [
   {
-    "id": "2026-04-01-36krcom-openclaw",
+    "id": "2026-04-01-bloomberg-technology-",
     "date": "2026-04-01",
-    "title": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3747504374628865?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-01-readhubcn--openclaw-",
-    "date": "2026-04-01",
-    "title": "国家知识产权局：使用 OpenClaw 等智能体撰写专利申请文件或诱发多重风险",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "国家知识产权局：使用 OpenClaw 等智能体撰写专利申请文件或诱发多重风险",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8rxeVCE5xbt",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-01-36krcom-",
-    "date": "2026-04-01",
-    "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
+    "title": "武汉百度机器人出租车被冻结引发报警热潮",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
+    "summary": "A number of Baidu Inc.’s Apollo Go robotaxis suddenly stopped on the streets of China’s Wuhan city on Tuesday, leaving passengers stranded and raising concerns about the safety and reliability of autonomous driving technology.（原题：Baidu Robotaxis Freeze in Wuhan, Sparking Flurry of Police Calls）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-01/baidu-robotaxis-freeze-in-wuhan-sparking-flurry-of-police-calls",
+    "tags": [],
+    "impact": "Wed, 01 Apr 2026 03:52:45 GMT"
+  },
+  {
+    "id": "2026-04-01-bloomberg-technology--robotaxisgrab",
+    "date": "2026-04-01",
+    "title": "新加坡推出 Robotaxis，Grab、文远知行推出无人驾驶汽车",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Singapore’s Grab Holdings Ltd. became Southeast Asia’s first ride provider to start a driverless service, betting the technology can help cut costs and prove out robotaxis in dense urban traffic.（原题：Singapore Gets Robotaxis as Grab, WeRide Launch Driverless Cars）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-01/singapore-gets-robotaxis-as-grab-weride-launch-driverless-cars",
+    "tags": [],
+    "impact": "Wed, 01 Apr 2026 03:00:00 GMT"
+  },
+  {
+    "id": "2026-04-01-readhubcn-robotaxi",
+    "date": "2026-04-01",
+    "title": "文远知行：启动新加坡首个Robotaxi公开运营",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "文远知行：启动新加坡首个Robotaxi公开运营",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8rxyymJDXKw",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-01-36krcom-grab",
+    "date": "2026-04-01",
+    "title": "文远知行和Grab启动新加坡自动驾驶出行服务",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "文远知行和Grab启动新加坡自动驾驶出行服务",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3746889894461960?f=rss",
+    "source_url": "https://36kr.com/newsflashes/3748122538607366?f=rss",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-01-m21jingjicom-openclaw-",
+    "id": "2026-04-01-cnbc-technology-",
     "date": "2026-04-01",
-    "title": "使用OpenClaw等智能体或诱发多重风险 最新提示",
+    "title": "据报道，百度机器人出租车在中国武汉交通中途停止，导致撞车事故",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Baidu's Apollo Go robotaxis stopped mid-traffic in a Chinese city on Tuesday, leading to at least one highway collision, according to social media.（原题：Baidu robotaxis reportedly halted mid-traffic causing crashes in Wuhan, China）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/04/01/baidu-robotaxis-caused-crashes-in-wuhan-reports.html",
+    "tags": [],
+    "impact": "Wed, 01 Apr 2026 08:45:04 GMT"
+  },
+  {
+    "id": "2026-04-01-36krcom-twitteraiai",
+    "date": "2026-04-01",
+    "title": "Twitter创始人谈AI时代的组织：AI替代中层，把公司打造成智能体",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "使用OpenClaw等智能体或诱发多重风险 最新提示",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260401/herald/b7ad2c613430fb89c03abf499eca4d90.html",
+    "summary": "Twitter创始人谈AI时代的组织：AI替代中层，把公司打造成智能体",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3747952985490178",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-01-juejincn-ai-agent----multi-agent--2196",
+    "id": "2026-04-01-juejincn-ai-agent----multi-agent--2401",
     "date": "2026-04-01",
-    "title": "AI Agent 智能体 - Multi-Agent 架构入门 2196",
+    "title": "AI Agent 智能体 - Multi-Agent 架构入门 2401",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "AI Agent 智能体 - Multi-Agent 架构入门 2196",
+    "summary": "AI Agent 智能体 - Multi-Agent 架构入门 2401",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7621453614445068328",
     "tags": [],
