@@ -1,0 +1,115 @@
+[
+  {
+    "id": "2026-04-02-fengcom--iphone---2535",
+    "date": "2026-04-02",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 2535",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 2535",
+    "source": "feng.com",
+    "source_url": "https://www.feng.com/post/13936319",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-02-36krcom-104openclawqq",
+    "date": "2026-04-02",
+    "title": "104人重写底层，OpenClaw装上「任务大脑」，连QQ机器人都能管",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "104人重写底层，OpenClaw装上「任务大脑」，连QQ机器人都能管",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3748161393066505",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-01-cnbc-technology--saronic--175-",
+    "date": "2026-04-01",
+    "title": "自主船舶初创公司 Saronic 融资 17.5 亿美元，竞相实现美国军队现代化",
+    "category": [
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "Saronic's latest funding round more than doubles its valuation to $9.25 billion from the prior fundraising early last year.（原题：Autonomous ship startup Saronic raises $1.75 billion in race to modernize U.S. military）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
+    "tags": [],
+    "impact": "Wed, 01 Apr 2026 14:06:23 GMT"
+  },
+  {
+    "id": "2026-04-01-the-robot-report-",
+    "date": "2026-04-01",
+    "title": "手术机器人：为什么运动架构比以往任何时候都更重要",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Surgical robotics has evolved, expanding into a diverse ecosystem of procedure‑specific technologies — each pushing new technical requirements onto the motion systems at their core. The post Surgical robotics: Why motion architecture matters more than ever appeared first on The Robot Report .（原题：Surgical robotics: Why motion architecture matters more than ever）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/surgical-robotics-why-motion-architecture-matters-more-than-ever/",
+    "tags": [],
+    "impact": "Wed, 01 Apr 2026 11:42:59 +0000"
+  },
+  {
+    "id": "2026-04-01-technologyreviewcom-the-gig-workers-who-are-training-humanoi",
+    "date": "2026-04-01",
+    "title": "The gig workers who are training humanoid robots at home",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The gig workers who are training humanoid robots at home",
+    "source": "technologyreview.com",
+    "source_url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-01-the-robot-report-phail-",
+    "date": "2026-04-01",
+    "title": "PhAIL 在真实硬件上排名顶级机器人基础模型",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Positronic Robotics has launched PhAIL, a benchmark evaluating physical AI models on commercial tasks using throughput and reliability metrics. The post PhAIL ranks top robotics foundation models on real hardware appeared first on The Robot Report .（原题：PhAIL ranks top robotics foundation models on real hardware）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/phail-ranks-robotics-foundation-models-real-hardware/",
+    "tags": [],
+    "impact": "Wed, 01 Apr 2026 15:09:53 +0000"
+  },
+  {
+    "id": "2026-04-01-mithomecom-openclaw-331--qq--47",
+    "date": "2026-04-01",
+    "title": "OpenClaw 3.31 重磅更新：“龙虾”框架原生集成腾讯 QQ 机器人 47评",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "OpenClaw 3.31 重磅更新：“龙虾”框架原生集成腾讯 QQ 机器人 47评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/934873.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-31-sspaicom--135--3m--matrix",
+    "date": "2026-03-31",
+    "title": "社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验 Matrix机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验 Matrix机器人",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/108108",
+    "tags": [],
+    "impact": ""
+  }
+]
