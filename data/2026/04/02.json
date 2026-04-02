@@ -1,43 +1,57 @@
 [
   {
-    "id": "2026-04-02-fengcom--iphone---2618",
+    "id": "2026-04-02-fengcom--iphone---2780",
     "date": "2026-04-02",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 2618",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 2780",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 2618",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 2780",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-02-m21jingjicom--",
+    "id": "2026-04-02-36krcom-claude-code",
     "date": "2026-04-02",
-    "title": "从工具到智能体：手机涨价背后的产业拐点 评论",
+    "title": "构建Claude Code的经验教训：从智能体的视角观察",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "从工具到智能体：手机涨价背后的产业拐点 评论",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260402/d085c96731d365f20cee57ac9d5c58ff.html",
+    "summary": "构建Claude Code的经验教训：从智能体的视角观察",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3749387562550019",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-02-36krcom-104openclawqq",
+    "id": "2026-04-02-qbitaicom-20200",
     "date": "2026-04-02",
-    "title": "104人重写底层，OpenClaw装上「任务大脑」，连QQ机器人都能管",
+    "title": "再融20亿！星海图把具身智能头部门槛抬到了200亿",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "再融20亿！星海图把具身智能头部门槛抬到了200亿",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/394626.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-02-36krcom-36--00",
+    "date": "2026-04-02",
+    "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "104人重写底层，OpenClaw装上「任务大脑」，连QQ机器人都能管",
+    "summary": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3748161393066505",
+    "source_url": "https://www.36kr.com/p/3748270618919424",
     "tags": [],
     "impact": ""
   },
@@ -70,6 +84,20 @@
     "impact": "Wed, 01 Apr 2026 11:42:59 +0000"
   },
   {
+    "id": "2026-04-01-mithomecom--harmonyos-6--claw--ai--54",
+    "date": "2026-04-01",
+    "title": "华为鸿蒙 HarmonyOS 6 系统负一屏内测关联 Claw 智能体功能，可提供 AI 任务完成提醒等服务 54评",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "华为鸿蒙 HarmonyOS 6 系统负一屏内测关联 Claw 智能体功能，可提供 AI 任务完成提醒等服务 54评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/935081.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-04-01-technologyreviewcom-the-gig-workers-who-are-training-humanoi",
     "date": "2026-04-01",
     "title": "The gig workers who are training humanoid robots at home",
@@ -99,20 +127,6 @@
     "impact": "Wed, 01 Apr 2026 15:09:53 +0000"
   },
   {
-    "id": "2026-04-01-mithomecom-openclaw-331--qq--47",
-    "date": "2026-04-01",
-    "title": "OpenClaw 3.31 重磅更新：“龙虾”框架原生集成腾讯 QQ 机器人 47评",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "OpenClaw 3.31 重磅更新：“龙虾”框架原生集成腾讯 QQ 机器人 47评",
-    "source": "m.ithome.com",
-    "source_url": "https://m.ithome.com/html/934873.htm",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-04-01-the-robot-report-2026--3-",
     "date": "2026-04-01",
     "title": "2026 年 3 月十大机器人技术发展",
@@ -137,6 +151,21 @@
     "summary": "社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验 Matrix机器人",
     "source": "sspai.com",
     "source_url": "https://sspai.com/post/108108",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-03-31-gelonghuicom-",
+    "date": "2026-03-31",
+    "title": "人形机器人惊现时代拐点！具身和大脑正重新定义未来",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人惊现时代拐点！具身和大脑正重新定义未来",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/4272942",
     "tags": [],
     "impact": ""
   }
