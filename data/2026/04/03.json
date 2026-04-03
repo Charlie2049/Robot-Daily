@@ -14,6 +14,20 @@
     "impact": ""
   },
   {
+    "id": "2026-04-03-36krcom-124",
+    "date": "2026-04-03",
+    "title": "优必选招募具身智能首席科学家，年薪最高1.24亿",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "优必选招募具身智能首席科学家，年薪最高1.24亿",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3750549881619205?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-04-03-bloomberg-technology-ubtech1800",
     "date": "2026-04-03",
     "title": "中国机器人先驱UBTech斥资1800万美元收购人工智能科学家",
@@ -28,6 +42,20 @@
     "impact": "Fri, 03 Apr 2026 04:21:37 GMT"
   },
   {
+    "id": "2026-04-03-36krcom-robotaxi-",
+    "date": "2026-04-03",
+    "title": "Robotaxi 狂奔十年，却迎来了虚假黎明",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Robotaxi 狂奔十年，却迎来了虚假黎明",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3749659858743808",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-04-03-36krcom-ai",
     "date": "2026-04-03",
     "title": "AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？",
@@ -38,6 +66,34 @@
     "summary": "AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？",
     "source": "36kr.com",
     "source_url": "https://36kr.com/p/3749811482297090?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-03-juejincn-ai-agent----multi-agent--2610",
+    "date": "2026-04-03",
+    "title": "AI Agent 智能体 - Multi-Agent 架构入门 2610",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI Agent 智能体 - Multi-Agent 架构入门 2610",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7621453614445068328",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-03-36krcom-36--00",
+    "date": "2026-04-03",
+    "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3748270618919424?f=rss",
     "tags": [],
     "impact": ""
   },
