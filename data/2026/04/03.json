@@ -1,30 +1,57 @@
 [
   {
-    "id": "2026-04-03-36krcom-harness",
+    "id": "2026-04-03-blogcsdnnet--29",
     "date": "2026-04-03",
-    "title": "英伟达给机器人装上龙虾大脑，具身智能的Harness来了",
+    "title": "自动驾驶的潜世界模型：统一的分类、评估框架和未解决的挑战 2.9万",
     "category": [
-      "humanoid",
-      "robotics"
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "英伟达给机器人装上龙虾大脑，具身智能的Harness来了",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3749514454057473",
+    "summary": "自动驾驶的潜世界模型：统一的分类、评估框架和未解决的挑战 2.9万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/yorkhunter/article/details/159468448",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-03-m21jingjicom-",
+    "id": "2026-04-03-bloomberg-technology-ubtech1800",
     "date": "2026-04-03",
-    "title": "变压器、机器人出口订单火爆！中国制造海外竞争力持续彰显",
+    "title": "中国机器人先驱UBTech斥资1800万美元收购人工智能科学家",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "变压器、机器人出口订单火爆！中国制造海外竞争力持续彰显",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260403/herald/824576249f015ff70e214b57db99d90a.html",
+    "summary": "Chinese humanoid robot maker UBTech Robotics Corp. is seeking a chief scientist, offering an annual pay of as much as 124 million yuan ($18 million) in an aggressive bet on an industry where product applications are still at an early stage.（原题：Chinese Robot Pioneer UBTech Offers $18 Million for AI Scientist）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-offers-18-million-for-ai-scientist",
+    "tags": [],
+    "impact": "Fri, 03 Apr 2026 04:21:37 GMT"
+  },
+  {
+    "id": "2026-04-03-36krcom-ai",
+    "date": "2026-04-03",
+    "title": "AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3749811482297090?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-03-juejincn-ai-agent----multi-agent--2673",
+    "date": "2026-04-03",
+    "title": "AI Agent 智能体 - Multi-Agent 架构入门 2673",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI Agent 智能体 - Multi-Agent 架构入门 2673",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7621453614445068328",
     "tags": [],
     "impact": ""
   },
