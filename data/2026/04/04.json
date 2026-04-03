@@ -14,6 +14,34 @@
     "impact": ""
   },
   {
+    "id": "2026-04-04-fengcom--iphone---3203",
+    "date": "2026-04-04",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 3203",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 3203",
+    "source": "feng.com",
+    "source_url": "https://www.feng.com/post/13936319",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-04-blogcsdnnet--28",
+    "date": "2026-04-04",
+    "title": "自动驾驶的潜世界模型：统一的分类、评估框架和未解决的挑战 2.8万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "自动驾驶的潜世界模型：统一的分类、评估框架和未解决的挑战 2.8万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/yorkhunter/article/details/159468448",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-04-04-36krcom-50",
     "date": "2026-04-04",
     "title": "中国机器人公司日薪50万招人！什么水平？",
@@ -40,5 +68,19 @@
     "source_url": "https://36kr.com/p/3752115857638145?f=rss",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-04-03-bloomberg-technology-ubtech1800",
+    "date": "2026-04-03",
+    "title": "中国机器人先驱UBTech斥资1800万美元收购人工智能科学家",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Chinese humanoid robot maker UBTech Robotics Corp. is seeking a chief scientist, offering an annual pay of as much as 124 million yuan ($18 million) in an aggressive bet on an industry where product applications are still at an early stage.（原题：Chinese Robot Pioneer UBTech Offers $18 Million for AI Scientist）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-offers-18-million-for-ai-scientist",
+    "tags": [],
+    "impact": "Fri, 03 Apr 2026 04:21:37 GMT"
   }
 ]
