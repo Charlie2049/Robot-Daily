@@ -68,5 +68,63 @@
     "source_url": "https://36kr.com/p/3752115857638145?f=rss",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-04-05-cmef-future-tech-arena",
+    "date": "2026-04-05",
+    "title": "第93届 CMEF 以 AI+医疗机器人揭幕 Future Tech Arena",
+    "category": [
+      "robotics",
+      "medical",
+      "event"
+    ],
+    "region": "China",
+    "summary": "上海第93届中国国际医疗器械博览会仍在 4 月 9-12 日举行，将以“创新融汇、无界进化”为主题，以 AI+医疗为主轴并设立 Future Tech Arena，集中展示跨领接 AI 诊断与康复/老年护理机器人等装备，连同 exoskeleton、MRI、BCI 等赛道一同亮相",
+    "source": "Money Compass (PR Newswire)",
+    "source_url": "https://moneycompass.com.my/the-93rd-cmef-is-set-to-open-in-shanghai-as-the-worlds-largest-medical-device-industry-exhibition-spotlights-ai-robotics-and-international-cooperation/",
+    "tags": [
+      "medical-robotics",
+      "event",
+      "ai"
+    ],
+    "impact": "CMEF 进一步把医疗机器人、BCI 与 AI 诊断汇总在一个国际展会，借 Future Tech Arena + International Zone 强化中外合作，助力中国供应链在医疗自动化与机器人康复中的出口与联动。"
+  },
+  {
+    "id": "2026-04-05-india-ai-impact-summit",
+    "date": "2026-04-05",
+    "title": "India AI Summit 突显落地机器人/物流自动化与巨额投资",
+    "category": [
+      "robotics",
+      "policy"
+    ],
+    "region": "India",
+    "summary": "India AI Impact Summit 让 91 个国家签署 AI Impact Summit Declaration，并在 AI Impact Expo 展出 300 多个展项，其中重点呈现场景化的物流与农业机器人、AI 驱动的金融/气候/可及性系统，同时发布 AI Impact Startup Book 与多个投资承诺",
+    "source": "Organiser",
+    "source_url": "https://organiser.org/2026/04/05/347102/bharat/from-dialogue-to-deployment-strategic-outcomes-of-the-india-ai-summit/",
+    "tags": [
+      "policy",
+      "summit",
+      "investment"
+    ],
+    "impact": "大会不仅给出政策框架与全球治理宣言，还把机器人部署视为国家‘impact’战略的一部分：大型集团承诺千亿美元投资、自主算力扩张与 Pax Silica 联盟让印度在机器人/物理 AI 中扮演更具话语权的参与者。"
+  },
+  {
+    "id": "2026-04-05-cortical-labs-wetware",
+    "date": "2026-04-05",
+    "title": "Cortical Labs 推出 CL1 生物计算机，瞄准机器人与 AI 研究",
+    "category": [
+      "robotics",
+      "research"
+    ],
+    "region": "Global",
+    "summary": "澳大利亚 Cortical Labs 说已开发世界首个能在活体人类神经元上运行代码的系统 CL1，将培养的细胞与具微电极的硅芯片结合，可实时发送/读取信号，并在墨尔本、新加坡的数据中心群里远程驱动机器人与物联网任务",
+    "source": "Yahoo News Canada",
+    "source_url": "https://ca.news.yahoo.com/brain-cells-run-computers-startup-050140668.html",
+    "tags": [
+      "bio-computing",
+      "wetware",
+      "energy-efficiency"
+    ],
+    "impact": "若平台可稳定部署，在低能耗与不确定环境下提供神经形态控制能力，将给协作/服务机器人或边缘 AI 带来新的控制维度，同时可以把个体遗传特征用于机器人感知/人机交互实验。"
   }
 ]
