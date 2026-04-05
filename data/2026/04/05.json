@@ -1,16 +1,45 @@
 [
   {
-    "id": "2026-04-03-bloomberg-technology-ubtech1800",
-    "date": "2026-04-03",
-    "title": "中国机器人先驱UBTech斥资1800万美元收购人工智能科学家",
+    "id": "2026-04-05-readhubcn-cybercab",
+    "date": "2026-04-05",
+    "title": "特斯拉Cybercab机舱曝光：无前备箱，超大储液罐保障自动驾驶安全",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "特斯拉Cybercab机舱曝光：无前备箱，超大储液罐保障自动驾驶安全",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8s4hqGqUHYc",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-05-m21jingjicom-",
+    "date": "2026-04-05",
+    "title": "机器人马拉松再来：备战一年，超越人类？宏观",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Chinese humanoid robot maker UBTech Robotics Corp. is seeking a chief scientist, offering an annual pay of as much as 124 million yuan ($18 million) in an aggressive bet on an industry where product applications are still at an early stage.（原题：Chinese Robot Pioneer UBTech Offers $18 Million for AI Scientist）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-offers-18-million-for-ai-scientist",
+    "summary": "机器人马拉松再来：备战一年，超越人类？宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260405/herald/06a5e839ff4b27119a93f4926c77ab91.html",
     "tags": [],
-    "impact": "Fri, 03 Apr 2026 04:21:37 GMT"
+    "impact": ""
+  },
+  {
+    "id": "2026-04-05-36krcom-",
+    "date": "2026-04-05",
+    "title": "一场机器人黑客松，让具身智能的差距与机会同时显形",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "一场机器人黑客松，让具身智能的差距与机会同时显形",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3753345845903872",
+    "tags": [],
+    "impact": ""
   }
 ]
