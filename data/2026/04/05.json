@@ -57,6 +57,63 @@
     "impact": "Sat, 04 Apr 2026 13:00:04 +0000"
   },
   {
+    "id": "2026-04-04-yarbo-open-platform",
+    "date": "2026-04-04",
+    "title": "Yarbo 发布 Open Platform，联动 Smart Assist Module",
+    "category": [
+      "robotics",
+      "platform"
+    ],
+    "region": "Global",
+    "summary": "Yarbo 在 Kickstarter 上同步推出 M Series Smart Assist Module，同时公布 Open Platform 计划，三层软件架构（Open API、SDK、Automation Editor）与 CoreBridge 硬件接口将支持 Home Assistant/Google Home/Alexa 等智能家居并开放第三方模块扩展。",
+    "source": "Laotian Times (PR Newswire)",
+    "source_url": "https://laotiantimes.com/2026/04/04/yarbo-introduces-open-platform-strategy-opening-its-robotics-system-to-developers-and-smart-home-ecosystems/",
+    "tags": [
+      "smart-home",
+      "platform",
+      "modular"
+    ],
+    "impact": "让庭院机器人从封闭产品走向开放生态，鼓励外部开发者与 DIY 用户围绕自动化流程与硬件模块创造新功能。"
+  },
+  {
+    "id": "2026-04-04-uc-1819-ai-robotics-summit",
+    "date": "2026-04-04",
+    "title": "UC 1819 Innovation Hub 展示 Sensory Robotics，筹备 AI+Robotics Summit",
+    "category": [
+      "robotics",
+      "ecosystem"
+    ],
+    "region": "US",
+    "summary": "辛辛那提大学 1819 Innovation Hub 中的 Sensory Robotics 利用多摄像头 3D 感知演示机器人与人同行协作，并宣布 5 月 14 日与 eGateway 合办的 AI+Robotics Summit，聚焦航空、制造、物流等行业的物理 AI。",
+    "source": "University of Cincinnati",
+    "source_url": "https://www.uc.edu/news/articles/2026/04/robots-are-coming-to-the-1819-innovation-hub.html",
+    "tags": [
+      "innovation-hub",
+      "summit",
+      "physical-ai"
+    ],
+    "impact": "借助区域创新中心与企业合作，将机器人展示、投资人对话与商业 Summit 串联，进一步把物理 AI 作为商业未来的入口桥梁。"
+  },
+  {
+    "id": "2026-04-04-nvidia-national-robotics-week",
+    "date": "2026-04-04",
+    "title": "NVIDIA 在 National Robotics Week 上放大 Physical AI",
+    "category": [
+      "robotics",
+      "industry"
+    ],
+    "region": "Global",
+    "summary": "NVIDIA 利用 National Robotics Week 强调其仿真、合成数据与 AI 驱动机器人学习平台如何协同，让开发者能更快将机器人从虚拟训练带到真实环境。",
+    "source": "NVIDIA Blog",
+    "source_url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+    "tags": [
+      "physical-ai",
+      "simulation",
+      "robot-learning"
+    ],
+    "impact": "凸显 NVIDIA 希望借助仿真 + 数据 + 模型三部曲推动物理 AI 在多个行业落地，并借本周持续更新牢牢占据开发者视野。"
+  },
+  {
     "id": "2026-04-03-the-robot-report-aes-maximo100",
     "date": "2026-04-03",
     "title": "AES Maximo机器人安装100兆瓦太阳能容量",
