@@ -126,5 +126,62 @@
       "energy-efficiency"
     ],
     "impact": "若平台可稳定部署，在低能耗与不确定环境下提供神经形态控制能力，将给协作/服务机器人或边缘 AI 带来新的控制维度，同时可以把个体遗传特征用于机器人感知/人机交互实验。"
+  },
+  {
+    "id": "2026-04-06-xianglu-ai-chef",
+    "date": "2026-04-06",
+    "title": "Xianglu Robotics 融资 4300 万美元，加速 AI 厨师机器人全球化",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "China",
+    "summary": "上海 Xianglu Robotics 宣布完成约 4300 万美元融资，计划以 AI 厨师机器人与智能厨房平台为核心，配合餐饮连锁与酒店客户，在北美、东南亚与中东等地区建立样板厨房，并继续优化多菜系自动烹饪与食材配送能力",
+    "source": "Travel Daily Media",
+    "source_url": "https://www.traveldailymedia.com/xianglu-robotics-secures-43-million-to-scale-ai-chef-solutions-globally/",
+    "tags": [
+      "funding",
+      "restaurant-robot",
+      "global"
+    ],
+    "impact": "这笔资金让 Xianglu 能够加速自动化厨房的部署，结合云端运营、中央厨房与本地服务网络，降低餐饮人力成本，同时借旅行、酒店与主题乐园等合作伙伴迅速将 AI 厨师复制到海外市场。"
+  },
+  {
+    "id": "2026-04-05-homebot-euronics",
+    "date": "2026-04-05",
+    "title": "HomeBot Ireland 携手 Euronics 拓展智能家居机器人线下零售",
+    "category": [
+      "robotics",
+      "retail"
+    ],
+    "region": "Ireland",
+    "summary": "HomeBot Ireland 与 Euronics Ireland 签约，让旗下 Nozzie 4 合 1 智能吸尘拖地机器人以及园艺/清洁系列产品进入全国 60 家门店，并同步提供 West Cork 本地化客服／ 48 小时维修支援",
+    "source": "The Cork",
+    "source_url": "https://www.thecork.ie/2026/04/05/homebot-ireland-smart-home-and-garden-robots-now-available-in-cork-through-local-euronics-store/",
+    "tags": [
+      "consumer-robot",
+      "retail",
+      "support"
+    ],
+    "impact": "通过 Euronics 的零售网络与本地服务团队，HomeBot 让消费者能够近距离体验产品并获得快速维修，帮助这个西科克初创在 OSS 以外建立信任基础，加速智能家居机器人的国内普及。"
+  },
+  {
+    "id": "2026-04-05-unitree-speed-prediction",
+    "date": "2026-04-05",
+    "title": "Unitree 预告仿人机器人今年有望跑进 10 秒大关",
+    "category": [
+      "robotics",
+      "research"
+    ],
+    "region": "China",
+    "summary": "Unitree Robotics 创始人王兴兴在亚布力中国企业家论坛上表示，仿人机器人有望在今年跑进 100 米 10 秒关口，甚至逼近 Bolt 9.58 秒的世界纪录，他把这一挑战当作衡量物理 AI 协调、能源与控制能力的试金石",
+    "source": "El-Balad",
+    "source_url": "https://www.el-balad.com/16902855",
+    "tags": [
+      "humanoid",
+      "performance",
+      "China"
+    ],
+    "impact": "这番表态令全球观察者把目光投向中国团队的仿人机器人竞速，而把 100 米作为验证机器人在真实场域能否保持速度、平衡与能源效率的新标尺，也展示了物理 AI 走向商业部署前的指标文化。"
   }
 ]
