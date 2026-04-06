@@ -1,0 +1,78 @@
+[
+  {
+    "id": "2026-04-06-us-china-robotics-act",
+    "date": "2026-04-06",
+    "title": "美国拟通过《机器人安全法》，限制采购中国机器人",
+    "category": [
+      "robotics",
+      "policy"
+    ],
+    "region": "USA",
+    "summary": "美国国会拟通过《美国安全机器人法》，禁止联邦机构采购来自被视为敌对国家（主要指中国）的自主地面平台、物流系统和高自治机器人，尽管目前没明令禁止零部件，但摄像头、控制器等嵌入系统的关键组件仍被实质牵制。",
+    "source": "The Korea Herald",
+    "source_url": "https://www.koreaherald.com/article/10710891",
+    "tags": [
+      "policy",
+      "us-china",
+      "procurement"
+    ],
+    "impact": "若法案在 2027 年初生效并逐步扩散到民间采购，会加速将军工与民用仿人/巡逻机器人供应链迁向美韩日等盟友，同时也把中国供应商的传感器、控制器与稀土磁体置于更严格监管之下。"
+  },
+  {
+    "id": "2026-04-06-hii-graymatter-physical-ai",
+    "date": "2026-04-06",
+    "title": "HII 与 GrayMatter Robotics 签署合作备忘录，并在加州展示 Physical AI",
+    "category": [
+      "robotics",
+      "partnership"
+    ],
+    "region": "USA",
+    "summary": "HII 与 GrayMatter Robotics 于 4 月 6 日在 GrayMatter 总部共同举行 MOU 签约与 Physical AI 现场演示，会议邀请媒体观摩实时的制造用机器人、涂装与检测流程，并安排双方高管回应船舶与航太订单需求。",
+    "source": "HII",
+    "source_url": "https://hii.com/news/media-advisory-hii-and-graymatter-robotics-to-advance-shipbuilding-with-physical-ai/",
+    "tags": [
+      "partnership",
+      "physical-ai",
+      "shipbuilding"
+    ],
+    "impact": "该合作将 GrayMatter 的 Physical AI 技术与 HII 的船厂联动，意在让自研机器人在表面处理、涂装与检验中替代传统劳动力，推动美国工业基础与国防供应链实现智能化与可追溯的生产流程。"
+  },
+  {
+    "id": "2026-04-06-hospitality-robots-market",
+    "date": "2026-04-06",
+    "title": "Allied Market Research：款待行业机器人市场 2030 年将规模达 30 亿美元",
+    "category": [
+      "robotics",
+      "market"
+    ],
+    "region": "Global",
+    "summary": "Allied Market Research 在新报告中指出，2020 年起步的酒店/餐饮机器人市场以 25.5% 的复合年增长率扩张，预计到 2030 年将突破 30.83 亿美元，清洁、送餐与前台机器人正在被疫情后的酒店、机场等场域广泛采用。",
+    "source": "OpenPR / Allied Market Research",
+    "source_url": "https://www.openpr.com/news/4456012/hospitality-robots-market-update-2026-projected-to-exhibit-usd",
+    "tags": [
+      "market",
+      "hospitality",
+      "cagr"
+    ],
+    "impact": "研究强调客户对无接触、24 小时服务与智慧清洁的偏好，将迫使酒店与旅游运营商加快机器人部署、补贴研发、并把供应链转向具备远程运维与 ESG 友好设计的厂商。"
+  },
+  {
+    "id": "2026-04-06-anvil-robotics-funding",
+    "date": "2026-04-06",
+    "title": "Anvil Robotics 获 650 万美元融资，打包 Physical AI 组装平台",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "USA",
+    "summary": "Anvil Robotics 完成 650 万美元融资，由 Matter Venture Partners 与 Humba Ventures 领投，资金将用于打造覆盖控制器、远程操控、数据流水线等的可组合 Physical AI 平台，降低团队从零构建堆栈的门槛。",
+    "source": "The AI Insider",
+    "source_url": "https://theaiinsider.tech/2026/04/03/anvil-robotics-raises-6-5m-in-funding-for-composable-modules-physical-ai-platform/",
+    "tags": [
+      "funding",
+      "physical-ai",
+      "infrastructure"
+    ],
+    "impact": "封装好的硬件与软件模块将让研究室级团队也能拿到与大厂同等的机器人堆栈，并推动美国 Physical AI 创新更快速地进入工业部署，缓解与中国团队在基础设施上的差距。"
+  }
+]
