@@ -1,15 +1,43 @@
 [
   {
-    "id": "2026-04-06-fengcom--iphone---20",
+    "id": "2026-04-06-fengcom--iphone---140",
     "date": "2026-04-06",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 20",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 140",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 20",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 140",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-06-huxiucom--305",
+    "date": "2026-04-06",
+    "title": "武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课 30.5万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课 30.5万",
+    "source": "huxiu.com",
+    "source_url": "https://www.huxiu.com/article/4847150.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-06-36krcom-ai",
+    "date": "2026-04-06",
+    "title": "你的新工作是引导智能体入职：探索AI原生公司的运作机制",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "你的新工作是引导智能体入职：探索AI原生公司的运作机制",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3718338901800321",
     "tags": [],
     "impact": ""
   },
