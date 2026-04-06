@@ -1,29 +1,43 @@
 [
   {
-    "id": "2026-04-06-fengcom--iphone---140",
+    "id": "2026-04-06-fengcom--iphone---241",
     "date": "2026-04-06",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 140",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 241",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 140",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 241",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-06-huxiucom--305",
+    "id": "2026-04-06-36krcom----aic2m",
     "date": "2026-04-06",
-    "title": "武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课 30.5万",
+    "title": "科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作",
     "category": [
-      "autonomous-driving"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课 30.5万",
-    "source": "huxiu.com",
-    "source_url": "https://www.huxiu.com/article/4847150.html",
+    "summary": "科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3755161993675523?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-06-m21jingjicom---",
+    "date": "2026-04-06",
+    "title": "智能体“龙虾”再曝安全漏洞 有问必答泄露隐私 视频",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "智能体“龙虾”再曝安全漏洞 有问必答泄露隐私 视频",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260406/herald/77fac9c75e7805d1448f21a91fae6772.html",
     "tags": [],
     "impact": ""
   },
@@ -68,120 +82,5 @@
     "source_url": "https://36kr.com/p/3752115857638145?f=rss",
     "tags": [],
     "impact": ""
-  },
-  {
-    "id": "2026-04-05-cmef-future-tech-arena",
-    "date": "2026-04-05",
-    "title": "第93届 CMEF 以 AI+医疗机器人揭幕 Future Tech Arena",
-    "category": [
-      "robotics",
-      "medical",
-      "event"
-    ],
-    "region": "China",
-    "summary": "上海第93届中国国际医疗器械博览会仍在 4 月 9-12 日举行，将以“创新融汇、无界进化”为主题，以 AI+医疗为主轴并设立 Future Tech Arena，集中展示跨领接 AI 诊断与康复/老年护理机器人等装备，连同 exoskeleton、MRI、BCI 等赛道一同亮相",
-    "source": "Money Compass (PR Newswire)",
-    "source_url": "https://moneycompass.com.my/the-93rd-cmef-is-set-to-open-in-shanghai-as-the-worlds-largest-medical-device-industry-exhibition-spotlights-ai-robotics-and-international-cooperation/",
-    "tags": [
-      "medical-robotics",
-      "event",
-      "ai"
-    ],
-    "impact": "CMEF 进一步把医疗机器人、BCI 与 AI 诊断汇总在一个国际展会，借 Future Tech Arena + International Zone 强化中外合作，助力中国供应链在医疗自动化与机器人康复中的出口与联动。"
-  },
-  {
-    "id": "2026-04-05-india-ai-impact-summit",
-    "date": "2026-04-05",
-    "title": "India AI Summit 突显落地机器人/物流自动化与巨额投资",
-    "category": [
-      "robotics",
-      "policy"
-    ],
-    "region": "India",
-    "summary": "India AI Impact Summit 让 91 个国家签署 AI Impact Summit Declaration，并在 AI Impact Expo 展出 300 多个展项，其中重点呈现场景化的物流与农业机器人、AI 驱动的金融/气候/可及性系统，同时发布 AI Impact Startup Book 与多个投资承诺",
-    "source": "Organiser",
-    "source_url": "https://organiser.org/2026/04/05/347102/bharat/from-dialogue-to-deployment-strategic-outcomes-of-the-india-ai-summit/",
-    "tags": [
-      "policy",
-      "summit",
-      "investment"
-    ],
-    "impact": "大会不仅给出政策框架与全球治理宣言，还把机器人部署视为国家‘impact’战略的一部分：大型集团承诺千亿美元投资、自主算力扩张与 Pax Silica 联盟让印度在机器人/物理 AI 中扮演更具话语权的参与者。"
-  },
-  {
-    "id": "2026-04-05-cortical-labs-wetware",
-    "date": "2026-04-05",
-    "title": "Cortical Labs 推出 CL1 生物计算机，瞄准机器人与 AI 研究",
-    "category": [
-      "robotics",
-      "research"
-    ],
-    "region": "Global",
-    "summary": "澳大利亚 Cortical Labs 说已开发世界首个能在活体人类神经元上运行代码的系统 CL1，将培养的细胞与具微电极的硅芯片结合，可实时发送/读取信号，并在墨尔本、新加坡的数据中心群里远程驱动机器人与物联网任务",
-    "source": "Yahoo News Canada",
-    "source_url": "https://ca.news.yahoo.com/brain-cells-run-computers-startup-050140668.html",
-    "tags": [
-      "bio-computing",
-      "wetware",
-      "energy-efficiency"
-    ],
-    "impact": "若平台可稳定部署，在低能耗与不确定环境下提供神经形态控制能力，将给协作/服务机器人或边缘 AI 带来新的控制维度，同时可以把个体遗传特征用于机器人感知/人机交互实验。"
-  },
-  {
-    "id": "2026-04-06-xianglu-ai-chef",
-    "date": "2026-04-06",
-    "title": "Xianglu Robotics 融资 4300 万美元，加速 AI 厨师机器人全球化",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "China",
-    "summary": "上海 Xianglu Robotics 宣布完成约 4300 万美元融资，计划以 AI 厨师机器人与智能厨房平台为核心，配合餐饮连锁与酒店客户，在北美、东南亚与中东等地区建立样板厨房，并继续优化多菜系自动烹饪与食材配送能力",
-    "source": "Travel Daily Media",
-    "source_url": "https://www.traveldailymedia.com/xianglu-robotics-secures-43-million-to-scale-ai-chef-solutions-globally/",
-    "tags": [
-      "funding",
-      "restaurant-robot",
-      "global"
-    ],
-    "impact": "这笔资金让 Xianglu 能够加速自动化厨房的部署，结合云端运营、中央厨房与本地服务网络，降低餐饮人力成本，同时借旅行、酒店与主题乐园等合作伙伴迅速将 AI 厨师复制到海外市场。"
-  },
-  {
-    "id": "2026-04-05-homebot-euronics",
-    "date": "2026-04-05",
-    "title": "HomeBot Ireland 携手 Euronics 拓展智能家居机器人线下零售",
-    "category": [
-      "robotics",
-      "retail"
-    ],
-    "region": "Ireland",
-    "summary": "HomeBot Ireland 与 Euronics Ireland 签约，让旗下 Nozzie 4 合 1 智能吸尘拖地机器人以及园艺/清洁系列产品进入全国 60 家门店，并同步提供 West Cork 本地化客服／ 48 小时维修支援",
-    "source": "The Cork",
-    "source_url": "https://www.thecork.ie/2026/04/05/homebot-ireland-smart-home-and-garden-robots-now-available-in-cork-through-local-euronics-store/",
-    "tags": [
-      "consumer-robot",
-      "retail",
-      "support"
-    ],
-    "impact": "通过 Euronics 的零售网络与本地服务团队，HomeBot 让消费者能够近距离体验产品并获得快速维修，帮助这个西科克初创在 OSS 以外建立信任基础，加速智能家居机器人的国内普及。"
-  },
-  {
-    "id": "2026-04-05-unitree-speed-prediction",
-    "date": "2026-04-05",
-    "title": "Unitree 预告仿人机器人今年有望跑进 10 秒大关",
-    "category": [
-      "robotics",
-      "research"
-    ],
-    "region": "China",
-    "summary": "Unitree Robotics 创始人王兴兴在亚布力中国企业家论坛上表示，仿人机器人有望在今年跑进 100 米 10 秒关口，甚至逼近 Bolt 9.58 秒的世界纪录，他把这一挑战当作衡量物理 AI 协调、能源与控制能力的试金石",
-    "source": "El-Balad",
-    "source_url": "https://www.el-balad.com/16902855",
-    "tags": [
-      "humanoid",
-      "performance",
-      "China"
-    ],
-    "impact": "这番表态令全球观察者把目光投向中国团队的仿人机器人竞速，而把 100 米作为验证机器人在真实场域能否保持速度、平衡与能源效率的新标尺，也展示了物理 AI 走向商业部署前的指标文化。"
   }
 ]
