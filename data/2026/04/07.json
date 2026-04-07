@@ -1,79 +1,57 @@
 [
   {
-    "id": "2026-04-07-techcrunch-japan-physical-ai",
+    "id": "2026-04-07-huxiucom--318",
     "date": "2026-04-07",
-    "title": "日本用物理AI填补劳动力缺口，目标2040年占全球30%",
+    "title": "武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课 31.8万",
     "category": [
-      "robotics",
-      "policy",
-      "industrial"
+      "autonomous-driving"
     ],
-    "region": "Japan",
-    "summary": "TechCrunch 报道日本把物理AI当作维持制造与服务连续性的国家战略，METI 计划到 2040 年掌握全球 30% 物理 AI 市场，鼓励像 Mujin 这样的控制平台公司让现有机械手臂更自主，并强调 WHILL 等移动机器人与高精度硬件依旧是日本的竞争力。",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-    "tags": [
-      "physical-ai",
-      "labor-shortage",
-      "Mujin",
-      "WHILL"
-    ],
-    "impact": "日本把机器人视为填补劳动力缺口、维持关键服务的“连续性工具”，强化硬件+AI 控制平台协同，将对全球物理 AI 竞争格局产生示范效应。"
-  },
-  {
-    "id": "2026-04-07-berkeleyside-ambi-dexterous",
-    "date": "2026-04-07",
-    "title": "Ambi Robotics 用双臂机器人把“人类擅长”的琐碎活自动化",
-    "category": [
-      "robotics",
-      "automation",
-      "logistics"
-    ],
-    "region": "US",
-    "summary": "Berkeleyside 追踪 Ambi Robotics 从 Berkeley Dex-Net 研究起家，借助大规模形状数据训练出的双臂系统 AmbiSort/AmbiStack 已在美国多数州的零售与物流现场替代复杂包裹分拣，并靠人工智能强化拾取不规则物品的成功率。",
-    "source": "Berkeleyside",
-    "source_url": "https://www.berkeleyside.org/2026/04/06/ambi-robotics-builds-robots-to-do-the-heavy-lifting",
-    "tags": [
-      "dexterous",
-      "dex-net",
-      "funding",
-      "logistics"
-    ],
-    "impact": "Dex-Net 模型被商业化意味着物流自动化能更好应对不规则包裹，同时 Ambi 还在筹备 B 轮、累积约 7000 万美元投资，彰显与员工协同提升工作质量的转型路径。"
-  },
-  {
-    "id": "2026-04-07-nvidia-maximo-solar-robots",
-    "date": "2026-04-07",
-    "title": "Maximo 用机器人队伍完成 100 兆瓦级太阳能装机",
-    "category": [
-      "robotics",
-      "energy",
-      "sustainability"
-    ],
-    "region": "US",
-    "summary": "NVIDIA 博客在 National Robotics Week 报道 Maximo 利用 Omniverse、Isaac Sim 与加速计算打造的机器人队伍，完成一座 100 兆瓦太阳能项目的自动化装机，借助模拟与 AI 控制加快施工节奏并保障安全。",
-    "source": "NVIDIA Blog",
-    "source_url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
-    "tags": [
-      "utility-scale",
-      "solar",
-      "IsaacSim",
-      "Omniverse"
-    ],
-    "impact": "实地案例显示机器人能在能源基础设施建设中替代重复且危险的人工作业，缓解项目对人工的瓶颈并带来更可预测的质量与交付。"
+    "region": "Global",
+    "summary": "武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课 31.8万",
+    "source": "huxiu.com",
+    "source_url": "https://www.huxiu.com/article/4847150.html",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-04-07-36krcom-",
     "date": "2026-04-07",
-    "title": "一场机器人黑客松，让具身智能的差距与机会同时显形",
+    "title": "宇树科技移动机器人新专利获授权",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "一场机器人黑客松，让具身智能的差距与机会同时显形",
+    "summary": "宇树科技移动机器人新专利获授权",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3753345845903872",
+    "source_url": "https://36kr.com/newsflashes/3756376134566401?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-07-36krcom-midjourneydiy",
+    "date": "2026-04-07",
+    "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3754821568578050?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-07-blogcsdnnet-ai-agent-26",
+    "date": "2026-04-07",
+    "title": "AI Agent与边缘计算结合：低延迟场景下的智能体部署方案 2.6万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI Agent与边缘计算结合：低延迟场景下的智能体部署方案 2.6万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/2502_91591115/article/details/159867064",
     "tags": [],
     "impact": ""
   },
@@ -90,6 +68,20 @@
     "source_url": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
     "tags": [],
     "impact": "2026-04-06T14:15:51-04:00"
+  },
+  {
+    "id": "2026-04-06-the-robot-report-tennibot--partner-v2",
+    "date": "2026-04-06",
+    "title": "Tennibot 推出最新的机器人网球发球机 Partner V2",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Attendees at the Robotics Summit & Expo in Boston will get a chance to interact with Tennibot's technology firsthand. The post Tennibot launches Partner V2, its latest robotic tennis ball machine appeared first on The Robot Report .（原题：Tennibot launches Partner V2, its latest robotic tennis ball machine）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/tennibot-launches-partner-v2-latest-robotic-tennis-ball-machine/",
+    "tags": [],
+    "impact": "Mon, 06 Apr 2026 23:39:40 +0000"
   },
   {
     "id": "2026-04-05-ieee-spectrum-robotics-",
