@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026-04-07-techcrunch-japan-physical-ai",
+    "date": "2026-04-07",
+    "title": "日本用物理AI填补劳动力缺口，目标2040年占全球30%",
+    "category": [
+      "robotics",
+      "policy",
+      "industrial"
+    ],
+    "region": "Japan",
+    "summary": "TechCrunch 报道日本把物理AI当作维持制造与服务连续性的国家战略，METI 计划到 2040 年掌握全球 30% 物理 AI 市场，鼓励像 Mujin 这样的控制平台公司让现有机械手臂更自主，并强调 WHILL 等移动机器人与高精度硬件依旧是日本的竞争力。",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "tags": [
+      "physical-ai",
+      "labor-shortage",
+      "Mujin",
+      "WHILL"
+    ],
+    "impact": "日本把机器人视为填补劳动力缺口、维持关键服务的“连续性工具”，强化硬件+AI 控制平台协同，将对全球物理 AI 竞争格局产生示范效应。"
+  },
+  {
+    "id": "2026-04-07-berkeleyside-ambi-dexterous",
+    "date": "2026-04-07",
+    "title": "Ambi Robotics 用双臂机器人把“人类擅长”的琐碎活自动化",
+    "category": [
+      "robotics",
+      "automation",
+      "logistics"
+    ],
+    "region": "US",
+    "summary": "Berkeleyside 追踪 Ambi Robotics 从 Berkeley Dex-Net 研究起家，借助大规模形状数据训练出的双臂系统 AmbiSort/AmbiStack 已在美国多数州的零售与物流现场替代复杂包裹分拣，并靠人工智能强化拾取不规则物品的成功率。",
+    "source": "Berkeleyside",
+    "source_url": "https://www.berkeleyside.org/2026/04/06/ambi-robotics-builds-robots-to-do-the-heavy-lifting",
+    "tags": [
+      "dexterous",
+      "dex-net",
+      "funding",
+      "logistics"
+    ],
+    "impact": "Dex-Net 模型被商业化意味着物流自动化能更好应对不规则包裹，同时 Ambi 还在筹备 B 轮、累积约 7000 万美元投资，彰显与员工协同提升工作质量的转型路径。"
+  },
+  {
+    "id": "2026-04-07-nvidia-maximo-solar-robots",
+    "date": "2026-04-07",
+    "title": "Maximo 用机器人队伍完成 100 兆瓦级太阳能装机",
+    "category": [
+      "robotics",
+      "energy",
+      "sustainability"
+    ],
+    "region": "US",
+    "summary": "NVIDIA 博客在 National Robotics Week 报道 Maximo 利用 Omniverse、Isaac Sim 与加速计算打造的机器人队伍，完成一座 100 兆瓦太阳能项目的自动化装机，借助模拟与 AI 控制加快施工节奏并保障安全。",
+    "source": "NVIDIA Blog",
+    "source_url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+    "tags": [
+      "utility-scale",
+      "solar",
+      "IsaacSim",
+      "Omniverse"
+    ],
+    "impact": "实地案例显示机器人能在能源基础设施建设中替代重复且危险的人工作业，缓解项目对人工的瓶颈并带来更可预测的质量与交付。"
+  },
+  {
     "id": "2026-04-07-36krcom-",
     "date": "2026-04-07",
     "title": "一场机器人黑客松，让具身智能的差距与机会同时显形",
