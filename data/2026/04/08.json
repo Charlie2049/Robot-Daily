@@ -1,43 +1,100 @@
 [
   {
-    "id": "2026-04-08-fengcom--iphone---704",
+    "id": "2026-04-08-fengcom--iphone---807",
     "date": "2026-04-08",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 704",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 807",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 704",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 807",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-08-36krcom-",
+    "id": "2026-04-08-bloomberg-technology-",
     "date": "2026-04-08",
-    "title": "前理想高管联合创业做机器人，理想汽车、元璟资本投资",
+    "title": "欧洲工厂在人工智能方面落后，机器人制造商库卡将目光投向美国和亚洲",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "前理想高管联合创业做机器人，理想汽车、元璟资本投资",
+    "summary": "Many of Europe’s industrial companies are too slow to adopt artificial intelligence, putting faster-moving global rivals in a position to overtake them, according to German-Chinese robotics maker Kuka AG.（原题：Robot Maker Kuka Eyes US, Asia as Europe’s Factories Lag on AI）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-08/robot-maker-kuka-eyes-us-asia-as-europe-s-factories-lag-on-ai",
+    "tags": [],
+    "impact": "Wed, 08 Apr 2026 04:00:00 GMT"
+  },
+  {
+    "id": "2026-04-08-36krcom-ai43",
+    "date": "2026-04-08",
+    "title": "机器人交税养打工人，奥特曼AI新政曝光，上4休3要成真？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人交税养打工人，奥特曼AI新政曝光，上4休3要成真？",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3757373782966793?f=rss",
+    "source_url": "https://www.36kr.com/p/3757551762948611",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-08-36krcom-waymo",
+    "id": "2026-04-08-36krcom-robotaxi",
     "date": "2026-04-08",
-    "title": "Waymo在纳什维尔推出自动驾驶网约车服务",
+    "title": "小马智行开启新加坡Robotaxi载客运营",
     "category": [
-      "autonomous-driving"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "Waymo在纳什维尔推出自动驾驶网约车服务",
+    "summary": "小马智行开启新加坡Robotaxi载客运营",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3757374151180802?f=rss",
+    "source_url": "https://36kr.com/newsflashes/3757820971860480?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-08-36krcom-18",
+    "date": "2026-04-08",
+    "title": "地瓜机器人爆发：18亿，中东豪门投了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "地瓜机器人爆发：18亿，中东豪门投了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3757524077216519",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-08-36krcom-36--",
+    "date": "2026-04-08",
+    "title": "36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
+    "category": [
+      "humanoid",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3757589543813893?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-08-m21jingjicom-21-",
+    "date": "2026-04-08",
+    "title": "21独家｜前理想高管创业具身智能，李想参投 公司",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "21独家｜前理想高管创业具身智能，李想参投 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260408/herald/422b933ef32cc4fe5c4f3a2cb287bbec.html",
     "tags": [],
     "impact": ""
   },
