@@ -1,13 +1,13 @@
 [
   {
-    "id": "2026-04-08-fengcom--iphone---807",
+    "id": "2026-04-08-fengcom--iphone---910",
     "date": "2026-04-08",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 807",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 910",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 807",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 910",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
     "tags": [],
@@ -16,12 +16,12 @@
   {
     "id": "2026-04-08-bloomberg-technology-",
     "date": "2026-04-08",
-    "title": "欧洲工厂在人工智能方面落后，机器人制造商库卡将目光投向美国和亚洲",
+    "title": "欧洲在人工智能方面落后，机器人制造商库卡将目光投向美国和亚洲",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Many of Europe’s industrial companies are too slow to adopt artificial intelligence, putting faster-moving global rivals in a position to overtake them, according to German-Chinese robotics maker Kuka AG.（原题：Robot Maker Kuka Eyes US, Asia as Europe’s Factories Lag on AI）",
+    "summary": "Many of Europe’s industrial companies are too slow to adopt artificial intelligence, putting faster-moving global rivals in a position to overtake them, according to German-Chinese robotics maker Kuka SE & Co.（原题：Robot Maker Kuka Eyes US, Asia as Europe Lags Behind on AI）",
     "source": "Bloomberg Technology",
     "source_url": "https://www.bloomberg.com/news/articles/2026-04-08/robot-maker-kuka-eyes-us-asia-as-europe-s-factories-lag-on-ai",
     "tags": [],
@@ -42,30 +42,16 @@
     "impact": ""
   },
   {
-    "id": "2026-04-08-36krcom-robotaxi",
+    "id": "2026-04-08-36krcom-cursor-3-ide-vs-code-",
     "date": "2026-04-08",
-    "title": "小马智行开启新加坡Robotaxi载客运营",
+    "title": "Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "小马智行开启新加坡Robotaxi载客运营",
+    "summary": "Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3757820971860480?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-08-36krcom-18",
-    "date": "2026-04-08",
-    "title": "地瓜机器人爆发：18亿，中东豪门投了",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "地瓜机器人爆发：18亿，中东豪门投了",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3757524077216519",
+    "source_url": "https://www.36kr.com/p/3757888158384899",
     "tags": [],
     "impact": ""
   },
@@ -81,20 +67,6 @@
     "summary": "36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
     "source": "36kr.com",
     "source_url": "https://36kr.com/p/3757589543813893?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-08-m21jingjicom-21-",
-    "date": "2026-04-08",
-    "title": "21独家｜前理想高管创业具身智能，李想参投 公司",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "21独家｜前理想高管创业具身智能，李想参投 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260408/herald/422b933ef32cc4fe5c4f3a2cb287bbec.html",
     "tags": [],
     "impact": ""
   },
@@ -140,20 +112,5 @@
     "source_url": "https://www.therobotreport.com/ologic-share-keys-balancing-hardware-software-robotics-summit/",
     "tags": [],
     "impact": "Tue, 07 Apr 2026 18:11:59 +0000"
-  },
-  {
-    "id": "2026-04-07-bloomberg-technology-eclipse--13-",
-    "date": "2026-04-07",
-    "title": "Eclipse 融资 13 亿美元支持制造和机器人技术",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "Venture firm Eclipse has raised $1.3 billion across two funds to back companies building the next era of physical industries like those in robotics, manufacturing, and energy. Lior Susan, the founder and CEO of Eclipse, speaks with Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)（原题：Eclipse Raises $1.3 Billion to Back Manufacturing, Robotics）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-04-07/eclipse-raises-1-3b-to-back-manufacturing-robotics-video",
-    "tags": [],
-    "impact": "Tue, 07 Apr 2026 19:19:03 GMT"
   }
 ]
