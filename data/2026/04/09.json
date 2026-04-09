@@ -1,15 +1,59 @@
 [
   {
-    "id": "2026-04-09-blogcsdnnet-python-ai-ai--31",
+    "id": "2026-04-09-bloomberg-technology--atlas-",
     "date": "2026-04-09",
-    "title": "Python 构建AI多智能体系统：让三个 AI 协作完成复杂任务 3.1万",
+    "title": "起亚将在美国工厂使用 Atlas 机器人开发首款软件汽车",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Kia Corp. will begin using humanoid robots in its US factories from 2029 and is developing its first software-defined vehicle as the South Korean carmaker ramps up investment in new-generation cars and manufacturing technology to better compete with global rivals.（原题：Kia to Use Atlas Robots in US Plant, Develop First Software Car）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/kia-to-use-atlas-robots-in-us-plant-develop-first-software-car",
+    "tags": [],
+    "impact": "Thu, 09 Apr 2026 07:27:27 GMT"
+  },
+  {
+    "id": "2026-04-09-wallstreetcncom-",
+    "date": "2026-04-09",
+    "title": "当“智能体时代”来临：传统企业的转型、软件企业的末日与华尔街的“低估”",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "Python 构建AI多智能体系统：让三个 AI 协作完成复杂任务 3.1万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2401_85686768/article/details/159888135",
+    "summary": "当“智能体时代”来临：传统企业的转型、软件企业的末日与华尔街的“低估”",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3769546",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-09-readhubcn--a-",
+    "date": "2026-04-09",
+    "title": "开普勒机器人完成亿元级 A++ 轮融资",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "开普勒机器人完成亿元级 A++ 轮融资",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sAFEYOGl9L",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-09-36krcom-36--",
+    "date": "2026-04-09",
+    "title": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3758900416348934?f=rss",
     "tags": [],
     "impact": ""
   },
