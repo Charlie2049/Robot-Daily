@@ -14,7 +14,50 @@
     "impact": "Thu, 09 Apr 2026 07:27:27 GMT"
   },
   {
-    "id": "2026-04-09-wallstreetcncom-",
+    "id": "2026-04-09-mithomecom--113",
+    "date": "2026-04-09",
+    "title": "美国得州一只鸭子被自动驾驶汽车碾死，居民怒了 113评",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "美国得州一只鸭子被自动驾驶汽车碾死，居民怒了 113评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/937227.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-09-36krcom-ipo",
+    "date": "2026-04-09",
+    "title": "深圳的具身智能名片，快IPO了",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "深圳的具身智能名片，快IPO了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3759245771424258",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-09-readhubcn-",
+    "date": "2026-04-09",
+    "title": "斜跃智能获元璟资本与理想汽车联合投资，聚焦家庭具身智能机器人",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "斜跃智能获元璟资本与理想汽车联合投资，聚焦家庭具身智能机器人",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sA0zJmJqBA",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-09-36krcom-",
     "date": "2026-04-09",
     "title": "当“智能体时代”来临：传统企业的转型、软件企业的末日与华尔街的“低估”",
     "category": [
@@ -22,25 +65,53 @@
     ],
     "region": "Global",
     "summary": "当“智能体时代”来临：传统企业的转型、软件企业的末日与华尔街的“低估”",
-    "source": "wallstreetcn.com",
-    "source_url": "https://wallstreetcn.com/articles/3769546",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3759339507467016",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-09-readhubcn--a-",
+    "id": "2026-04-09-36krcom-",
     "date": "2026-04-09",
-    "title": "开普勒机器人完成亿元级 A++ 轮融资",
+    "title": "先练脑还是先赚钱？人形机器人的“赌命”题",
     "category": [
-      "robotics",
-      "funding"
+      "humanoid",
+      "robotics"
     ],
     "region": "Global",
-    "summary": "开普勒机器人完成亿元级 A++ 轮融资",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sAFEYOGl9L",
+    "summary": "先练脑还是先赚钱？人形机器人的“赌命”题",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3759077943640835",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-04-09-ai-botcn-qbotclaw--ai",
+    "date": "2026-04-09",
+    "title": "QBotClaw – 腾讯推出的国内首个浏览器原生AI智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "QBotClaw – 腾讯推出的国内首个浏览器原生AI智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/qbotclaw/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-09-ieee-spectrum-robotics-goztasp",
+    "date": "2026-04-09",
+    "title": "GoZTASP：用于管理任务规模自主系统的零信任平台",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "ZTASP is a mission-scale assurance and governance platform designed for autonomous systems operating in real-world environments. It integrates heterogeneous systems—including drones, robots, sensors, and human operators—into a unified zero-trust architecture. Through Secure Runtime Assurance (SRTA) and Secure Spatio-Temporal Reasoning (SSTR), ZTASP continuously verifies system integrity, enforces safety constraints, and enables resilient operation even under degraded conditions. ZTASP has progressed beyond conceptual design, with operational validation at Technology Readiness Level (TRL) 7 in mission critical environments. Core components, including Saluki secure flight controllers, have reached TRL8 and are deployed in customer systems. While initially developed for high-consequence mission environments, the same assurance challenges are increasingly present across domains such as healthcare, transportation, and critical infrastructure. Download this free whitepaper now!（原题：GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/",
+    "tags": [],
+    "impact": "Thu, 09 Apr 2026 15:06:39 +0000"
   },
   {
     "id": "2026-04-09-36krcom-36--",
