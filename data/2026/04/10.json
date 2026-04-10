@@ -1,44 +1,73 @@
 [
   {
-    "id": "2026-04-10-fengcom--iphone---1327",
+    "id": "2026-04-10-fengcom--iphone---1426",
     "date": "2026-04-10",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1327",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1426",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1327",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1426",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-10-m21jingjicom-002475-",
+    "id": "2026-04-10-blogcsdnnet-ai-28",
     "date": "2026-04-10",
-    "title": "002475，投中百亿估值机器人独角兽 证券",
+    "title": "从硬件到智能：AI摄像头平台驱动安防与自动驾驶融合升级 2.8万",
     "category": [
-      "robotics"
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "002475，投中百亿估值机器人独角兽 证券",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260410/herald/43593d96986fa74c763ca4d4792fb492.html",
+    "summary": "从硬件到智能：AI摄像头平台驱动安防与自动驾驶融合升级 2.8万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/Oflycomm/article/details/159985573",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-09-readhubcn-1000",
-    "date": "2026-04-09",
-    "title": "宁波能源、宇树科技等成立机器人研究院公司，注册资本1000万元",
+    "id": "2026-04-10-financesinacomcn--4516",
+    "date": "2026-04-10",
+    "title": "产量将起飞！机器人产业“军备竞赛”来了？机构密集股出炉 4,516",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "宁波能源、宇树科技等成立机器人研究院公司，注册资本1000万元",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sB7a8qeGKq",
+    "summary": "产量将起飞！机器人产业“军备竞赛”来了？机构密集股出炉 4,516",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/wm/2026-04-10/doc-inhtyfhf8256844.shtml",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-04-10-ai-botcn-go-2--",
+    "date": "2026-04-10",
+    "title": "GO-2 – 智元机器人推出的具身智能基座大模型",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "GO-2 – 智元机器人推出的具身智能基座大模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/go-2/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-09-the-robot-report-",
+    "date": "2026-04-09",
+    "title": "亚马逊首席执行官表示机器人技术是更快交付、降低成本的关键",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Amazon now has over 1 million robots operating in fulfillment centers, helping with stowing, picking, sorting, and intra-facility transport. The post Amazon CEO says robotics is key for faster delivery, lower costs appeared first on The Robot Report .（原题：Amazon CEO says robotics is key for faster delivery, lower costs）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/amazon-ceo-says-robotics-key-faster-delivery-lower-costs/",
+    "tags": [],
+    "impact": "Thu, 09 Apr 2026 23:50:08 +0000"
   }
 ]
