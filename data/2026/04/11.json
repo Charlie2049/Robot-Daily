@@ -1,0 +1,72 @@
+[
+  {
+    "id": "2026-04-10-readhubcn-203030100",
+    "date": "2026-04-10",
+    "title": "智元独立四足机器人业务，智元酷拓目标2030年出货量30万台、营收100亿元",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "智元独立四足机器人业务，智元酷拓目标2030年出货量30万台、营收100亿元",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sDIDZfApZf",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-10-the-robot-report-massrobotics--2026-",
+    "date": "2026-04-10",
+    "title": "MassRobotics 将在 2026 年机器人峰会暨博览会上促进生态系统发展",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "MassRobotics will spotlight resident, physical AI, and healthcare startups, as well as women in robotics and university teams at the 2026 Robotics Summit. The post MassRobotics to promote ecosystem growth at 2026 Robotics Summit & Expo appeared first on The Robot Report .（原题：MassRobotics to promote ecosystem growth at 2026 Robotics Summit & Expo）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/massrobotics-to-show-and-promote-ecosystem-growth-at-the-2026-robotics-summit-expo/",
+    "tags": [],
+    "impact": "Fri, 10 Apr 2026 14:44:37 +0000"
+  },
+  {
+    "id": "2026-04-10-the-robot-report-3-dextall-",
+    "date": "2026-04-10",
+    "title": "3 倍速机器人焊接：Dextall 工业规模幕墙制造蓝图",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Dextall tripled production speed for high-rise facade components by standardizing its supply chain before deploying proprietary robotic welding systems. The post Robotic welding at 3x speed: Dextall’s blueprint for industrial-scale facade manufacturing appeared first on The Robot Report .（原题：Robotic welding at 3x speed: Dextall’s blueprint for industrial-scale facade manufacturing）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/robotic-welding-3x-speed-dextalls-blueprint-industrial-scale-facade-manufacturing/",
+    "tags": [],
+    "impact": "Fri, 10 Apr 2026 16:25:45 +0000"
+  },
+  {
+    "id": "2026-04-09-ai-botcn-qbotclaw--ai",
+    "date": "2026-04-09",
+    "title": "QBotClaw – 腾讯推出的国内首个浏览器原生AI智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "QBotClaw – 腾讯推出的国内首个浏览器原生AI智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/qbotclaw/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-09-ieee-spectrum-robotics-goztasp",
+    "date": "2026-04-09",
+    "title": "GoZTASP：用于管理任务规模自主系统的零信任平台",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "ZTASP is a mission-scale assurance and governance platform designed for autonomous systems operating in real-world environments. It integrates heterogeneous systems—including drones, robots, sensors, and human operators—into a unified zero-trust architecture. Through Secure Runtime Assurance (SRTA) and Secure Spatio-Temporal Reasoning (SSTR), ZTASP continuously verifies system integrity, enforces safety constraints, and enables resilient operation even under degraded conditions. ZTASP has progressed beyond conceptual design, with operational validation at Technology Readiness Level (TRL) 7 in mission critical environments. Core components, including Saluki secure flight controllers, have reached TRL8 and are deployed in customer systems. While initially developed for high-consequence mission environments, the same assurance challenges are increasingly present across domains such as healthcare, transportation, and critical infrastructure. Download this free whitepaper now!（原题：GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/",
+    "tags": [],
+    "impact": "Thu, 09 Apr 2026 15:06:39 +0000"
+  }
+]
