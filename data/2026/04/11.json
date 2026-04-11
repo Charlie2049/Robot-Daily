@@ -1,15 +1,44 @@
 [
   {
-    "id": "2026-04-10-readhubcn-203030100",
-    "date": "2026-04-10",
-    "title": "智元独立四足机器人业务，智元酷拓目标2030年出货量30万台、营收100亿元",
+    "id": "2026-04-11-m21jingjicom-3010b2b",
+    "date": "2026-04-11",
+    "title": "营收增速、毛利率均在30%以上，苦熬10年的B2B机器人为什么还难说赚钱？公司",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "智元独立四足机器人业务，智元酷拓目标2030年出货量30万台、营收100亿元",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sDIDZfApZf",
+    "summary": "营收增速、毛利率均在30%以上，苦熬10年的B2B机器人为什么还难说赚钱？公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260411/herald/665ec35fddaeb5133bfa6d6335e5af42.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-11-36krcom-",
+    "date": "2026-04-11",
+    "title": "滴滴自动驾驶张博：聚焦安全和体验，推动自动驾驶全球化落地",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "滴滴自动驾驶张博：聚焦安全和体验，推动自动驾驶全球化落地",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3762011484340745?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-11-qbitaicom-",
+    "date": "2026-04-11",
+    "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/399417.html",
     "tags": [],
     "impact": ""
   },
@@ -42,16 +71,16 @@
     "impact": "Fri, 10 Apr 2026 16:25:45 +0000"
   },
   {
-    "id": "2026-04-09-ai-botcn-qbotclaw--ai",
+    "id": "2026-04-09-wallstreetcncom-coo-ai",
     "date": "2026-04-09",
-    "title": "QBotClaw – 腾讯推出的国内首个浏览器原生AI智能体",
+    "title": "对话智元酷拓COO：现在做四足机器人根本没有竞争 硬AI",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "QBotClaw – 腾讯推出的国内首个浏览器原生AI智能体",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/qbotclaw/",
+    "summary": "对话智元酷拓COO：现在做四足机器人根本没有竞争 硬AI",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3769737",
     "tags": [],
     "impact": ""
   },
