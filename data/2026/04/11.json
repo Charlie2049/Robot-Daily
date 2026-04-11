@@ -1,19 +1,5 @@
 [
   {
-    "id": "2026-04-11-m21jingjicom-3010b2b",
-    "date": "2026-04-11",
-    "title": "营收增速、毛利率均在30%以上，苦熬10年的B2B机器人为什么还难说赚钱？公司",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "营收增速、毛利率均在30%以上，苦熬10年的B2B机器人为什么还难说赚钱？公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260411/herald/665ec35fddaeb5133bfa6d6335e5af42.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-04-11-36krcom-",
     "date": "2026-04-11",
     "title": "滴滴自动驾驶张博：聚焦安全和体验，推动自动驾驶全球化落地",
@@ -24,6 +10,49 @@
     "summary": "滴滴自动驾驶张博：聚焦安全和体验，推动自动驾驶全球化落地",
     "source": "36kr.com",
     "source_url": "https://36kr.com/newsflashes/3762011484340745?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-11-m21jingjicom--",
+    "date": "2026-04-11",
+    "title": "智元分拆四足机器人业务 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "智元分拆四足机器人业务 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260411/herald/e7c150efd030577049ad448b8a8bd097.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-11-readhubcn-15004000",
+    "date": "2026-04-11",
+    "title": "地平线余凯：将发布新款舱驾融合智能体芯片，每辆车可节省1500到4000元成本",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "地平线余凯：将发布新款舱驾融合智能体芯片，每辆车可节省1500到4000元成本",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sEbekn2Lbg",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-11-readhubcn-",
+    "date": "2026-04-11",
+    "title": "冯兴亚：广汽集团具身智能机器人即将量产",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "冯兴亚：广汽集团具身智能机器人即将量产",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sEbJ1G570R",
     "tags": [],
     "impact": ""
   },
