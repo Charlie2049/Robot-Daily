@@ -14,16 +14,59 @@
     "impact": ""
   },
   {
-    "id": "2026-04-12-fengcom--iphone---1858",
+    "id": "2026-04-12-readhubcn-",
     "date": "2026-04-12",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1858",
+    "title": "荣耀机器人官宣参加北京亦庄马拉松",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1858",
+    "summary": "荣耀机器人官宣参加北京亦庄马拉松",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sGbzu3B4Kn",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-12-36krcom-",
+    "date": "2026-04-12",
+    "title": "荣耀机器人“闪电”“元气仔”出征北京亦庄马拉松",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "荣耀机器人“闪电”“元气仔”出征北京亦庄马拉松",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3763625016476420?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-12-fengcom--iphone---1932",
+    "date": "2026-04-12",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1932",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 1932",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-12-readhubcn-",
+    "date": "2026-04-12",
+    "title": "磁吸爬壁、多场景作业，我国特种机器人迈上具身智能新台阶",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "磁吸爬壁、多场景作业，我国特种机器人迈上具身智能新台阶",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sGgHLTvZyq",
     "tags": [],
     "impact": ""
   },
@@ -42,46 +85,33 @@
     "impact": ""
   },
   {
-    "id": "2026-04-12-readhubcn--10ms-",
+    "id": "2026-04-12-m21jingjicom--",
     "date": "2026-04-12",
-    "title": "宇树机器人跑出 10m/s 刷新世界纪录，逼近博尔特瞬时速度极限",
+    "title": "深圳首条人形机器人中试产线投运，年规划产能近千台 粤港澳",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树机器人跑出 10m/s 刷新世界纪录，逼近博尔特瞬时速度极限",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sF5JO5nCBt",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-12----10",
-    "date": "2026-04-12",
-    "title": "宇树机器人百米冲刺10米每秒",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "宇树机器人百米冲刺10米每秒",
-    "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%B2%E5%88%BA10%E7%B1%B3%E6%AF%8F%E7%A7%92",
-    "tags": [],
-    "impact": "14万"
-  },
-  {
-    "id": "2026-04-12-m21jingjicom-10-",
-    "date": "2026-04-12",
-    "title": "宇树宣布机器人跑出10米/秒 投资",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "宇树宣布机器人跑出10米/秒 投资",
+    "summary": "深圳首条人形机器人中试产线投运，年规划产能近千台 粤港澳",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260412/herald/8414a5e0000a68463a3893d373be9a99.html",
+    "source_url": "https://m.21jingji.com/article/20260412/herald/cc7a763acf7d81bad2bef4ce0a7d32f7.html",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-04-12-the-robot-report-",
+    "date": "2026-04-12",
+    "title": "宾厄姆顿的研究人员创造了可以行走和说话的机器人导盲犬",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Scientists at Binghamton University have developed a robotic guide dog that uses large language models to communicate in real time with the visually impaired. The post Binghamton researchers create robotic guide dogs that walk — and talk appeared first on The Robot Report .（原题：Binghamton researchers create robotic guide dogs that walk — and talk）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/binghamton-researchers-create-robotic-guide-dogs-that-walk-and-talk/",
+    "tags": [],
+    "impact": "Sun, 12 Apr 2026 12:30:43 +0000"
   },
   {
     "id": "2026-04-12-ai-botcn-tripstar---ai-",
@@ -98,59 +128,16 @@
     "impact": ""
   },
   {
-    "id": "2026-04-12----70",
-    "date": "2026-04-12",
-    "title": "70多款机器人深夜竞速",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "70多款机器人深夜竞速",
-    "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=70%E5%A4%9A%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B7%B1%E5%A4%9C%E7%AB%9E%E9%80%9F",
-    "tags": [],
-    "impact": "6万"
-  },
-  {
-    "id": "2026-04-12-readhubcn-2026",
-    "date": "2026-04-12",
-    "title": "2026人形机器人半程马拉松全流程测试：首次规模化应用自主导航技术",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "2026人形机器人半程马拉松全流程测试：首次规模化应用自主导航技术",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sFPfRCV0uy",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-11-caifuhaoeastmoneycom-agi-85",
+    "id": "2026-04-11-caifuhaoeastmoneycom-agi-100",
     "date": "2026-04-11",
-    "title": "智元酷拓推出新一代四足机器人产品体系：AGI定义机器人新物种 85",
+    "title": "智元酷拓推出新一代四足机器人产品体系：AGI定义机器人新物种 100",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "智元酷拓推出新一代四足机器人产品体系：AGI定义机器人新物种 85",
+    "summary": "智元酷拓推出新一代四足机器人产品体系：AGI定义机器人新物种 100",
     "source": "caifuhao.eastmoney.com",
     "source_url": "http://caifuhao.eastmoney.com/news/20260411232643132220600",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-11-mithomecom--10ms--146",
-    "date": "2026-04-11",
-    "title": "宇树机器人跑出 10m/s 刷新世界纪录，逼近博尔特速度极限 146评",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "宇树机器人跑出 10m/s 刷新世界纪录，逼近博尔特速度极限 146评",
-    "source": "m.ithome.com",
-    "source_url": "https://m.ithome.com/html/938155.htm",
     "tags": [],
     "impact": ""
   },
