@@ -1,16 +1,99 @@
 [
   {
-    "id": "2026-04-11-qbitaicom-",
-    "date": "2026-04-11",
-    "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
+    "id": "2026-04-13-36krcom-aiyoyo-claw",
+    "date": "2026-04-13",
+    "title": "荣耀首发预制龙虾AI智能体技术YOYO Claw",
     "category": [
-      "humanoid",
+      "general"
+    ],
+    "region": "Global",
+    "summary": "荣耀首发预制龙虾AI智能体技术YOYO Claw",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3764995300213249?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-13-36krcom-",
+    "date": "2026-04-13",
+    "title": "机器人财报里的“隐性成本”与“显性焦虑”",
+    "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/04/399417.html",
+    "summary": "机器人财报里的“隐性成本”与“显性焦虑”",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3762412373947141",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-13-36krcom-26",
+    "date": "2026-04-13",
+    "title": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3757975636050695?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-13-36krcom---",
+    "date": "2026-04-13",
+    "title": "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3764777930621705?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-13-ifanrcom-app-store500-",
+    "date": "2026-04-13",
+    "title": "早报｜马斯克版微信亮相App Store，周五开放下载/宇树机器人跑步刷新纪录，王兴兴：年内将超博尔特/海底捞回应员工自费500元买礼物 早报",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "早报｜马斯克版微信亮相App Store，周五开放下载/宇树机器人跑步刷新纪录，王兴兴：年内将超博尔特/海底捞回应员工自费500元买礼物 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1661898",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-13-ai-botcn-qinyanclaw--",
+    "date": "2026-04-13",
+    "title": "QinyanClaw – 沁言学术推出的云端学术科研智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "QinyanClaw – 沁言学术推出的云端学术科研智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/qinyanclaw/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-13-blogcsdnnet-aitva30",
+    "date": "2026-04-13",
+    "title": "AI智能体视觉检测系统（TVA）工作原理系列（六）3.0万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI智能体视觉检测系统（TVA）工作原理系列（六）3.0万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/2501_94287723/article/details/160056284",
     "tags": [],
     "impact": ""
   }
