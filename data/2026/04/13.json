@@ -1,43 +1,16 @@
 [
   {
-    "id": "2026-04-13-36krcom-aiyoyo-claw",
+    "id": "2026-04-13-readhubcn-",
     "date": "2026-04-13",
-    "title": "荣耀首发预制龙虾AI智能体技术YOYO Claw",
+    "title": "魔法原子将举办具身智能创新大会，发布新款人形机器人和世界模型",
     "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "荣耀首发预制龙虾AI智能体技术YOYO Claw",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3764995300213249?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-13-36krcom-",
-    "date": "2026-04-13",
-    "title": "机器人财报里的“隐性成本”与“显性焦虑”",
-    "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人财报里的“隐性成本”与“显性焦虑”",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3762412373947141",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-13-36krcom-26",
-    "date": "2026-04-13",
-    "title": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3757975636050695?f=rss",
+    "summary": "魔法原子将举办具身智能创新大会，发布新款人形机器人和世界模型",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sI6AgkvVhZ",
     "tags": [],
     "impact": ""
   },
@@ -70,6 +43,64 @@
     "impact": ""
   },
   {
+    "id": "2026-04-13-36krcom-3-4",
+    "date": "2026-04-13",
+    "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3765207394009602?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-13-36krcom-",
+    "date": "2026-04-13",
+    "title": "具身智能：大航海号角吹响，用空间换时间",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能：大航海号角吹响，用空间换时间",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3765146479555077",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-13-36krcom-",
+    "date": "2026-04-13",
+    "title": "人形机器人有了泰森的身体，却还在等霍金的大脑",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人有了泰森的身体，却还在等霍金的大脑",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3765099547849480",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-13-the-verge-switchbot-",
+    "date": "2026-04-13",
+    "title": "SwitchBot 的按钮按下机器人现已配备可充电电池",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "SwitchBot is introducing a new version of the tiny button-pressing robot that helped launch the company a decade ago. The functionality of the new SwitchBot Bot is exactly the same as the original that the company will continue to sell, but comes with a rechargeable battery instead of a disposable one. The SwitchBot Bot Rechargeable […]（原题：SwitchBot’s button-pressing robot is now available with a rechargeable battery）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c",
+    "tags": [],
+    "impact": "2026-04-13T10:00:00-04:00"
+  },
+  {
     "id": "2026-04-13-ai-botcn-qinyanclaw--",
     "date": "2026-04-13",
     "title": "QinyanClaw – 沁言学术推出的云端学术科研智能体",
@@ -80,20 +111,6 @@
     "summary": "QinyanClaw – 沁言学术推出的云端学术科研智能体",
     "source": "ai-bot.cn",
     "source_url": "https://ai-bot.cn/qinyanclaw/",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-13-blogcsdnnet-aitva30",
-    "date": "2026-04-13",
-    "title": "AI智能体视觉检测系统（TVA）工作原理系列（六）3.0万",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI智能体视觉检测系统（TVA）工作原理系列（六）3.0万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2501_94287723/article/details/160056284",
     "tags": [],
     "impact": ""
   }
