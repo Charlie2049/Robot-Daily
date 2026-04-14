@@ -1,15 +1,132 @@
 [
   {
-    "id": "2026-04-14-fengcom--iphone---216",
+    "id": "2026-04-14-36krcom-",
     "date": "2026-04-14",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 216",
+    "title": "高德首款具身机器人将亮相",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "高德首款具身机器人将亮相",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3766365669802501?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-14-fengcom--iphone---291",
+    "date": "2026-04-14",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 291",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 216",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 291",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-14-qbitaicom-harness423-5",
+    "date": "2026-04-14",
+    "title": "李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草",
+    "category": [
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/401065.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-14-financesinacomcn-33000--5375",
+    "date": "2026-04-14",
+    "title": "日租金从3万元跌至3000元 机器人租赁冰火两重天 5,375",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "日租金从3万元跌至3000元 机器人租赁冰火两重天 5,375",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/stock/t/2026-04-14/doc-inhumfsm9231921.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-14-36krcom-2ai1",
+    "date": "2026-04-14",
+    "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3764953900990977?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-14-m21jingjicom--",
+    "date": "2026-04-14",
+    "title": "具身智能机器人企业集体冲向百亿估值 公司",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "具身智能机器人企业集体冲向百亿估值 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260414/herald/258a3350df971ce31c4ecd42072ec0a8.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-14-36krcom-",
+    "date": "2026-04-14",
+    "title": "人形机器人八大场景图鉴：需求仍在冰山之下",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人八大场景图鉴：需求仍在冰山之下",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3765276995334660",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-14-ai-botcn-mano-p-10---gui-vla-",
+    "date": "2026-04-14",
+    "title": "Mano-P 1.0 – 明略科技开源的 GUI-VLA 智能体模型",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Mano-P 1.0 – 明略科技开源的 GUI-VLA 智能体模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/mano-p-1-0/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-14-aibasecom-aiseedance20-apiskywork-aimatrix-game-30",
+    "date": "2026-04-14",
+    "title": "AI日报：火山引擎Seedance2.0 API全面开放；阿里巴巴首款具身机器人曝光；Skywork AI发布实时视频生成系统Matrix-Game 3.0",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AI日报：火山引擎Seedance2.0 API全面开放；阿里巴巴首款具身机器人曝光；Skywork AI发布实时视频生成系统Matrix-Game 3.0",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/27112",
     "tags": [],
     "impact": ""
   },
@@ -82,19 +199,5 @@
     "source_url": "https://www.therobotreport.com/binghamton-researchers-create-robotic-guide-dogs-that-walk-and-talk/",
     "tags": [],
     "impact": "Sun, 12 Apr 2026 12:30:43 +0000"
-  },
-  {
-    "id": "2026-04-12-ai-botcn-tripstar---ai-",
-    "date": "2026-04-12",
-    "title": "TripStar – 开源 AI 旅行规划工具，多智能体协作规划旅行",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "TripStar – 开源 AI 旅行规划工具，多智能体协作规划旅行",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/tripstar/",
-    "tags": [],
-    "impact": ""
   }
 ]
