@@ -1,58 +1,85 @@
 [
   {
-    "id": "2026-04-15-36krcom-300",
+    "id": "2026-04-15-36krcom-astronclaw",
     "date": "2026-04-15",
-    "title": "谷歌深夜大招，机器人学会看仪表盘干活，成功率飙升300%",
+    "title": "科大讯飞发布AstronClaw智能体矩阵",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "谷歌深夜大招，机器人学会看仪表盘干活，成功率飙升300%",
+    "summary": "科大讯飞发布AstronClaw智能体矩阵",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3767513730925056",
+    "source_url": "https://36kr.com/newsflashes/3768090609206025?f=rss",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-15-36krcom-glydways25",
+    "id": "2026-04-15-bloomberg-technology-",
     "date": "2026-04-15",
-    "title": "自动驾驶初创公司Glydways洽谈2.5亿美元融资",
-    "category": [
-      "funding",
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "自动驾驶初创公司Glydways洽谈2.5亿美元融资",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3767778099872256?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-15-m21jingjicom-3d-",
-    "date": "2026-04-15",
-    "title": "湖南定标前沿医疗收费：涉及手术机器人、生物3D打印与远程医疗 公司",
+    "title": "特斯拉的中国机器人竞争对手在首次公开募股前加大全球推广力度",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "湖南定标前沿医疗收费：涉及手术机器人、生物3D打印与远程医疗 公司",
+    "summary": "Unitree Robotics began selling its cheapest humanoid robot on Alibaba Group Holding Ltd.’s AliExpress on Wednesday, expanding its international presence in a white-hot race featuring heavyweight players like Elon Musk’s Tesla Inc.（原题：Tesla’s Chinese Robot Rival Ramps Pre-IPO Global Push）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo",
+    "tags": [],
+    "impact": "Wed, 15 Apr 2026 08:38:50 GMT"
+  },
+  {
+    "id": "2026-04-15----",
+    "date": "2026-04-15",
+    "title": "机器人切除肿瘤不彻底患者去世",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人切除肿瘤不彻底患者去世",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%87%E9%99%A4%E8%82%BF%E7%98%A4%E4%B8%8D%E5%BD%BB%E5%BA%95%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96",
+    "tags": [],
+    "impact": "18万"
+  },
+  {
+    "id": "2026-04-15----18",
+    "date": "2026-04-15",
+    "title": "机器人切肿瘤不彻底18天后二次手术",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人切肿瘤不彻底18天后二次手术",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%87%E8%82%BF%E7%98%A4%E4%B8%8D%E5%BD%BB%E5%BA%9518%E5%A4%A9%E5%90%8E%E4%BA%8C%E6%AC%A1%E6%89%8B%E6%9C%AF",
+    "tags": [],
+    "impact": "8万"
+  },
+  {
+    "id": "2026-04-15-m21jingjicom-",
+    "date": "2026-04-15",
+    "title": "广东机器人何以征服全球商业？粤港澳",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "广东机器人何以征服全球商业？粤港澳",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260415/herald/b8eb147abff0b45a5ceb3dffc683aee8.html",
+    "source_url": "https://m.21jingji.com/article/20260415/herald/370008c924ed4d2388a0675c6a46bab3.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-15-36krcom-agentic-ai-",
+    "id": "2026-04-15-ai-botcn-searchclaw---ai-",
     "date": "2026-04-15",
-    "title": "Agentic AI 从“副驾驶”走向“自动驾驶”，谁来为智能体越权买单？",
+    "title": "SearchClaw – 中国人民大学推出的 AI 深度研究智能体",
     "category": [
-      "autonomous-driving"
+      "general"
     ],
     "region": "Global",
-    "summary": "Agentic AI 从“副驾驶”走向“自动驾驶”，谁来为智能体越权买单？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3767348033126918",
+    "summary": "SearchClaw – 中国人民大学推出的 AI 深度研究智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/searchclaw/",
     "tags": [],
     "impact": ""
   }
