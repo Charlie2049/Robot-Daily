@@ -1,29 +1,58 @@
 [
   {
-    "id": "2026-04-13-ifanrcom-app-store500-",
-    "date": "2026-04-13",
-    "title": "早报｜马斯克版微信亮相App Store，周五开放下载/宇树机器人跑步刷新纪录，王兴兴：年内将超博尔特/海底捞回应员工自费500元买礼物 早报",
+    "id": "2026-04-15-36krcom-300",
+    "date": "2026-04-15",
+    "title": "谷歌深夜大招，机器人学会看仪表盘干活，成功率飙升300%",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "早报｜马斯克版微信亮相App Store，周五开放下载/宇树机器人跑步刷新纪录，王兴兴：年内将超博尔特/海底捞回应员工自费500元买礼物 早报",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1661898",
+    "summary": "谷歌深夜大招，机器人学会看仪表盘干活，成功率飙升300%",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3767513730925056",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-13-ai-botcn-qinyanclaw--",
-    "date": "2026-04-13",
-    "title": "QinyanClaw – 沁言学术推出的云端学术科研智能体",
+    "id": "2026-04-15-36krcom-glydways25",
+    "date": "2026-04-15",
+    "title": "自动驾驶初创公司Glydways洽谈2.5亿美元融资",
     "category": [
-      "general"
+      "funding",
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "QinyanClaw – 沁言学术推出的云端学术科研智能体",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/qinyanclaw/",
+    "summary": "自动驾驶初创公司Glydways洽谈2.5亿美元融资",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3767778099872256?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-15-m21jingjicom-3d-",
+    "date": "2026-04-15",
+    "title": "湖南定标前沿医疗收费：涉及手术机器人、生物3D打印与远程医疗 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "湖南定标前沿医疗收费：涉及手术机器人、生物3D打印与远程医疗 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260415/herald/b8eb147abff0b45a5ceb3dffc683aee8.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-15-36krcom-agentic-ai-",
+    "date": "2026-04-15",
+    "title": "Agentic AI 从“副驾驶”走向“自动驾驶”，谁来为智能体越权买单？",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "Agentic AI 从“副驾驶”走向“自动驾驶”，谁来为智能体越权买单？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3767348033126918",
     "tags": [],
     "impact": ""
   }
