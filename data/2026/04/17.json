@@ -1,0 +1,59 @@
+[
+  {
+    "id": "2026-04-16-the-robot-report-skild--zebra--fetch-robotics-",
+    "date": "2026-04-16",
+    "title": "Skild 从 Zebra 收购 Fetch Robotics 资产",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Skild AI acquires Zebra Technologies’ robotics arm to deploy its hardware-agnostic \"brain\" and automate end-to-end warehouse fulfillment. The post Skild acquires Fetch Robotics assets from Zebra appeared first on The Robot Report .（原题：Skild acquires Fetch Robotics assets from Zebra）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/skild-acquires-fetch-robotics-assets-from-zebra-automation/",
+    "tags": [],
+    "impact": "Thu, 16 Apr 2026 18:00:45 +0000"
+  },
+  {
+    "id": "2026-04-16-bloomberg-technology-nvidia--15-",
+    "date": "2026-04-16",
+    "title": "Nvidia 校友乘中国机器人浪潮首次亮相，估值达 1.5 亿美元",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Manycore Tech Inc. built a billion-dollar valuation in China’s once-sizzling real estate market. Now, the software unicorn is betting on robotics and AI for its second act.（原题：Nvidia Alum Rides China’s Robotics Wave to $150 Million Debut）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut",
+    "tags": [],
+    "impact": "Thu, 16 Apr 2026 23:00:00 GMT"
+  },
+  {
+    "id": "2026-04-16-the-robot-report-agibot",
+    "date": "2026-04-16",
+    "title": "AGIBOT在电子制造中部署半人形机器人",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Longcheer has integrated multiple AGIBOT G2 robots into its tablet production lines, and plans to deploy 100 by Q3 2026. The post AGIBOT deploys semi-humanoid robots in electronics manufacturing appeared first on The Robot Report .（原题：AGIBOT deploys semi-humanoid robots in electronics manufacturing）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/agibot-deploys-semi-humanoid-robots-in-electronics-manufacturing/",
+    "tags": [],
+    "impact": "Thu, 16 Apr 2026 22:32:56 +0000"
+  },
+  {
+    "id": "2026-04-15-ai-botcn-searchclaw---ai-",
+    "date": "2026-04-15",
+    "title": "SearchClaw – 中国人民大学推出的 AI 深度研究智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "SearchClaw – 中国人民大学推出的 AI 深度研究智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/searchclaw/",
+    "tags": [],
+    "impact": ""
+  }
+]
