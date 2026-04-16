@@ -1,60 +1,103 @@
 [
   {
-    "id": "2026-04-16-fengcom--iphone---612",
+    "id": "2026-04-16-36krcom-30",
     "date": "2026-04-16",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 612",
+    "title": "超30亿，中国迄今最大具身智能融资诞生",
+    "category": [
+      "humanoid",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "超30亿，中国迄今最大具身智能融资诞生",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3768920808391176",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-16-fengcom--iphone---677",
+    "date": "2026-04-16",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 677",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 612",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 677",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-16-36krcom-ai5",
+    "id": "2026-04-16-readhubcn-ai5",
     "date": "2026-04-16",
-    "title": "特斯拉完成AI5自动驾驶芯片流片",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "特斯拉完成AI5自动驾驶芯片流片",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3768211361366784?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-16-36krcom-20openai8520",
-    "date": "2026-04-16",
-    "title": "氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑",
+    "title": "机器人概念股掀涨停潮：特斯拉AI5芯片流片成功，人形机器人迈向“智”变点",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3766487517594377?f=rss",
+    "summary": "机器人概念股掀涨停潮：特斯拉AI5芯片流片成功，人形机器人迈向“智”变点",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sN5cATowAt",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-16-financesinacomcn---562",
+    "id": "2026-04-16-36krcom-9robotaxi",
     "date": "2026-04-16",
-    "title": "北京亦庄迎机器人半程马拉松 外媒聚焦中国技术进步 562",
+    "title": "北京车展终极前瞻：新势力“9系”豪车正面硬刚，Robotaxi成智驾新战场",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "北京亦庄迎机器人半程马拉松 外媒聚焦中国技术进步 562",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-04-16/doc-inhurihs3202009.shtml",
+    "summary": "北京车展终极前瞻：新势力“9系”豪车正面硬刚，Robotaxi成智驾新战场",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3768870104904454",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-04-16-qbitaicom-",
+    "date": "2026-04-16",
+    "title": "具身智能为什么还没真正落地？问题卡在这｜沙龙报名",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能为什么还没真正落地？问题卡在这｜沙龙报名",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/401541.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-16-m21jingjicom-332",
+    "date": "2026-04-16",
+    "title": "一季度工业机器人产量大增33.2%宏观",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "一季度工业机器人产量大增33.2%宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260416/herald/815f4bf1b82cccce38d0ea2917ca6d9f.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-16-bloomberg-technology-limx",
+    "date": "2026-04-16",
+    "title": "LimX首席财务官：中国机器人产业还不够拥挤",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Jesse Liu, CFO of Shenzhen‑based robotics company LimX Dynamics, says China’s humanoid robotics industry is “not crowded enough,” citing insufficient resource allocation and a shortage of reserved talent. (Source: Bloomberg)（原题：LimX CFO: China's Robotics Industry Not Crowded Enough）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-04-16/limx-cfo-china-s-robotics-industry-not-crowded-enough-video",
+    "tags": [],
+    "impact": "Thu, 16 Apr 2026 02:02:59 GMT"
   },
   {
     "id": "2026-04-15-the-robot-report--amr-",
@@ -69,20 +112,6 @@
     "source_url": "https://www.therobotreport.com/tesla-to-share-its-roadmap-for-building-and-scaling-amrs-at-the-robotics-summit-expo/",
     "tags": [],
     "impact": "Wed, 15 Apr 2026 15:33:41 +0000"
-  },
-  {
-    "id": "2026-04-15-bloomberg-technology-skild-ai--zebra-technologies-",
-    "date": "2026-04-15",
-    "title": "Skild AI 收购 Zebra Technologies 的机器人自动化业务",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Skild AI, a fast-rising startup that makes software to help robots learn to complete tasks, has bought the robotics automation division of Zebra Technologies Corp., marking its latest effort to broaden its reach in a hot segment.（原题：Skild AI Acquires Zebra Technologies’ Robotics Automation Business）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-04-15/skild-ai-acquires-zebra-technologies-robotics-automation-business",
-    "tags": [],
-    "impact": "Wed, 15 Apr 2026 18:55:08 GMT"
   },
   {
     "id": "2026-04-14-sspaicom--137---mt6000--matrix",
