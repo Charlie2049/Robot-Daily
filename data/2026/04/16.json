@@ -1,45 +1,30 @@
 [
   {
-    "id": "2026-04-16-36krcom-30",
+    "id": "2026-04-16-fengcom--iphone---733",
     "date": "2026-04-16",
-    "title": "超30亿，中国迄今最大具身智能融资诞生",
-    "category": [
-      "humanoid",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "超30亿，中国迄今最大具身智能融资诞生",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3768920808391176",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-16-fengcom--iphone---677",
-    "date": "2026-04-16",
-    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 677",
+    "title": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 733",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 677",
+    "summary": "苹果今年将发布两款新的 iPhone 应用 包含一款聊天机器人 733",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13936319",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-16-readhubcn-ai5",
+    "id": "2026-04-16-36krcom-ceoai",
     "date": "2026-04-16",
-    "title": "机器人概念股掀涨停潮：特斯拉AI5芯片流片成功，人形机器人迈向“智”变点",
+    "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人概念股掀涨停潮：特斯拉AI5芯片流片成功，人形机器人迈向“智”变点",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sN5cATowAt",
+    "summary": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3769360179298818?f=rss",
     "tags": [],
     "impact": ""
   },
@@ -58,46 +43,32 @@
     "impact": ""
   },
   {
-    "id": "2026-04-16-qbitaicom-",
+    "id": "2026-04-16-qbitaicom-3d",
     "date": "2026-04-16",
-    "title": "具身智能为什么还没真正落地？问题卡在这｜沙龙报名",
+    "title": "刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "具身智能为什么还没真正落地？问题卡在这｜沙龙报名",
+    "summary": "刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！",
     "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/04/401541.html",
+    "source_url": "https://www.qbitai.com/2026/04/401743.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-16-m21jingjicom-332",
+    "id": "2026-04-16-the-robot-report-antioch-",
     "date": "2026-04-16",
-    "title": "一季度工业机器人产量大增33.2%宏观",
+    "title": "Antioch 筹集资金以提高机器人开发的“软件速度”",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "一季度工业机器人产量大增33.2%宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260416/herald/815f4bf1b82cccce38d0ea2917ca6d9f.html",
+    "summary": "Antioch has raised money to scale its team and apply simulation to accelerate robotics testing and validation. The post Antioch raises funding to bring ‘software speed’ to robot development appeared first on The Robot Report .（原题：Antioch raises funding to bring ‘software speed’ to robot development）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/antioch-raises-funding-to-bring-software-speed-to-robot-development/",
     "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-16-bloomberg-technology-limx",
-    "date": "2026-04-16",
-    "title": "LimX首席财务官：中国机器人产业还不够拥挤",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Jesse Liu, CFO of Shenzhen‑based robotics company LimX Dynamics, says China’s humanoid robotics industry is “not crowded enough,” citing insufficient resource allocation and a shortage of reserved talent. (Source: Bloomberg)（原题：LimX CFO: China's Robotics Industry Not Crowded Enough）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-04-16/limx-cfo-china-s-robotics-industry-not-crowded-enough-video",
-    "tags": [],
-    "impact": "Thu, 16 Apr 2026 02:02:59 GMT"
+    "impact": "Thu, 16 Apr 2026 15:00:33 +0000"
   },
   {
     "id": "2026-04-15-the-robot-report--amr-",
@@ -112,20 +83,6 @@
     "source_url": "https://www.therobotreport.com/tesla-to-share-its-roadmap-for-building-and-scaling-amrs-at-the-robotics-summit-expo/",
     "tags": [],
     "impact": "Wed, 15 Apr 2026 15:33:41 +0000"
-  },
-  {
-    "id": "2026-04-14-sspaicom--137---mt6000--matrix",
-    "date": "2026-04-14",
-    "title": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示器与 MT6000 路由器 Matrix机器人",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示器与 MT6000 路由器 Matrix机器人",
-    "source": "sspai.com",
-    "source_url": "https://sspai.com/post/108632",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-04-14-aibasecom-aiseedance20-apiskywork-aimatrix-game-30",
