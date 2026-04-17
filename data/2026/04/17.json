@@ -1,5 +1,93 @@
 [
   {
+    "id": "2026-04-17-m21jingjicom-",
+    "date": "2026-04-17",
+    "title": "龙头企业争相布局机器人“感知神经”公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "龙头企业争相布局机器人“感知神经”公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260417/herald/892cfd943f6ab551095470e660e379d3.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-17-readhubcn-455",
+    "date": "2026-04-17",
+    "title": "具身智能赛道新纪录，它石智航获4.55亿美元融资",
+    "category": [
+      "humanoid",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "具身智能赛道新纪录，它石智航获4.55亿美元融资",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sODgiEXFEZ",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-17-m21jingjicom--",
+    "date": "2026-04-17",
+    "title": "做咖啡、取货、物流分拣，人形机器人“真”干活 公司",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "做咖啡、取货、物流分拣，人形机器人“真”干活 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260417/herald/b59f375b3d83e43a1b74690cc09dbd9b.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-17-qbitaicom-07vlagpt-3",
+    "date": "2026-04-17",
+    "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "π0.7发布，VLA押出了机器人的GPT-3时刻",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/402189.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-17-qbitaicom-455",
+    "date": "2026-04-17",
+    "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
+    "category": [
+      "humanoid",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/402388.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-17-readhubcn-2026",
+    "date": "2026-04-17",
+    "title": "2026北京人形机器人半马排位赛今日开跑",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "2026北京人形机器人半马排位赛今日开跑",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sMsmnw8HzY",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-04-16-the-robot-report-skild--zebra--fetch-robotics-",
     "date": "2026-04-16",
     "title": "Skild 从 Zebra 收购 Fetch Robotics 资产",
@@ -14,14 +102,14 @@
     "impact": "Thu, 16 Apr 2026 18:00:45 +0000"
   },
   {
-    "id": "2026-04-16-bloomberg-technology-nvidia--15-",
+    "id": "2026-04-16-bloomberg-technology-nvidia--187",
     "date": "2026-04-16",
-    "title": "Nvidia 校友乘中国机器人浪潮首次亮相，估值达 1.5 亿美元",
+    "title": "Nvidia 校友乘中国机器人浪潮首次亮相流行率达 187%",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Manycore Tech Inc. built a billion-dollar valuation in China’s once-sizzling real estate market. Now, the software unicorn is betting on robotics and AI for its second act.（原题：Nvidia Alum Rides China’s Robotics Wave to $150 Million Debut）",
+    "summary": "Manycore Tech Inc. built a billion-dollar valuation in China’s once-sizzling real estate market. Now, the software unicorn is betting on robotics and AI for its second act.（原题：Nvidia Alum Rides China’s Robotics Wave to 187% Debut Pop）",
     "source": "Bloomberg Technology",
     "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut",
     "tags": [],
@@ -41,19 +129,5 @@
     "source_url": "https://www.therobotreport.com/agibot-deploys-semi-humanoid-robots-in-electronics-manufacturing/",
     "tags": [],
     "impact": "Thu, 16 Apr 2026 22:32:56 +0000"
-  },
-  {
-    "id": "2026-04-15-ai-botcn-searchclaw---ai-",
-    "date": "2026-04-15",
-    "title": "SearchClaw – 中国人民大学推出的 AI 深度研究智能体",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "SearchClaw – 中国人民大学推出的 AI 深度研究智能体",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/searchclaw/",
-    "tags": [],
-    "impact": ""
   }
 ]
