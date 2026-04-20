@@ -2,42 +2,85 @@
   {
     "id": "2026-04-20----",
     "date": "2026-04-20",
-    "title": "机器人届也有自己的显眼包",
+    "title": "豆包回应豆脚机器人",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人届也有自己的显眼包",
+    "summary": "豆包回应豆脚机器人",
     "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%8A%E4%B9%9F%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85",
+    "source_url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94%E8%B1%86%E8%84%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
     "tags": [],
-    "impact": "3万"
+    "impact": "38万"
   },
   {
-    "id": "2026-04-20-m21jingjicom--",
+    "id": "2026-04-20-36krcom-20b",
     "date": "2026-04-20",
-    "title": "产能翻番订单火爆 机器人全产业链升温",
+    "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
     "category": [
-      "robotics"
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "产能翻番订单火爆 机器人全产业链升温",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260420/herald/7517de2406240cfeab76a0fc1f550a6c.html",
+    "summary": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3774502008963841?f=rss",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-19-financesinacomcn-588",
-    "date": "2026-04-19",
-    "title": "视频|荣耀机器人包揽北京机器人马拉松冠亚季军！588",
+    "id": "2026-04-20-m21jingjicom--",
+    "date": "2026-04-20",
+    "title": "机器人马拉松背后的城市赢家：东莞为何总能跑赢产业周期 粤港澳",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "视频|荣耀机器人包揽北京机器人马拉松冠亚季军！588",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/tech/2026-04-19/doc-inhuyzxa0669626.shtml",
+    "summary": "机器人马拉松背后的城市赢家：东莞为何总能跑赢产业周期 粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260420/herald/12fd562cbbed8a821b1b88d2784f325d.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-20-ifanrcom-macbook14-",
+    "date": "2026-04-20",
+    "title": "早报｜受内存影响，新MacBook发布或延期/北京机器人半马落幕，冠军打破人类纪录/微信朋友圈迎14周年，官方分享内部细节 早报",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "早报｜受内存影响，新MacBook发布或延期/北京机器人半马落幕，冠军打破人类纪录/微信朋友圈迎14周年，官方分享内部细节 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1662838",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-20-ai-botcn-ai-claw---ai-",
+    "date": "2026-04-20",
+    "title": "天禧AI Claw – 联想推出的 AI 智能体助理",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "天禧AI Claw – 联想推出的 AI 智能体助理",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/tianxiai-claw/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-20-36krcom-36--ai",
+    "date": "2026-04-20",
+    "title": "36氪首发 | 首创“玩偶+主机”模式，多智能体儿童AI玩具品牌获数千万元融资",
+    "category": [
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "36氪首发 | 首创“玩偶+主机”模式，多智能体儿童AI玩具品牌获数千万元融资",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3774692365206280?f=rss",
     "tags": [],
     "impact": ""
   }
