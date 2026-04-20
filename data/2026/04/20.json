@@ -1,46 +1,17 @@
 [
   {
-    "id": "2026-04-20----",
+    "id": "2026-04-20-the-verge-",
     "date": "2026-04-20",
-    "title": "豆包回应豆脚机器人",
+    "title": "特斯拉在达拉斯和休斯顿推出机器人出租车，哎呀，它已经不可用了",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "豆包回应豆脚机器人",
-    "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94%E8%B1%86%E8%84%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
+    "summary": "Tesla claims to have launched a robotaxi service in Dallas and Houston over the weekend, but so far, online crowdsourcing tools indicate that very few cars are actually available. On Saturday, @TeslaRobotaxi posted a 14-second video of a Model Y vehicle driving without any human safety monitor in the front seats. Elon Musk re-posted the […]（原题：Tesla launches robotaxis in Dallas and Houston, and oops, it’s already unavailable）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/914823/tesla-robotaxi-houston-dallas-unavailable",
     "tags": [],
-    "impact": "38万"
-  },
-  {
-    "id": "2026-04-20-36krcom-20b",
-    "date": "2026-04-20",
-    "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3774502008963841?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-20-m21jingjicom--",
-    "date": "2026-04-20",
-    "title": "机器人马拉松背后的城市赢家：东莞为何总能跑赢产业周期 粤港澳",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "机器人马拉松背后的城市赢家：东莞为何总能跑赢产业周期 粤港澳",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260420/herald/12fd562cbbed8a821b1b88d2784f325d.html",
-    "tags": [],
-    "impact": ""
+    "impact": "2026-04-20T11:06:55-04:00"
   },
   {
     "id": "2026-04-20-ifanrcom-macbook14-",
@@ -53,6 +24,20 @@
     "summary": "早报｜受内存影响，新MacBook发布或延期/北京机器人半马落幕，冠军打破人类纪录/微信朋友圈迎14周年，官方分享内部细节 早报",
     "source": "ifanr.com",
     "source_url": "https://www.ifanr.com/1662838",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-20-36krcom-",
+    "date": "2026-04-20",
+    "title": "广东：要用好产业引导基金，加大对集成电路、具身智能、算电协同等领域的投资",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "广东：要用好产业引导基金，加大对集成电路、具身智能、算电协同等领域的投资",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3775144569029380?f=rss",
     "tags": [],
     "impact": ""
   },
@@ -71,6 +56,35 @@
     "impact": ""
   },
   {
+    "id": "2026-04-20-36krcom-",
+    "date": "2026-04-20",
+    "title": "人形机器人终于跑赢了人类，但赛道外的竞争又升级了",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人终于跑赢了人类，但赛道外的竞争又升级了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3774996729528835",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-20-bloomberg-technology-50",
+    "date": "2026-04-20",
+    "title": "中国机器人50分钟半程马拉松展现人工智能进步步伐",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "On Sunday morning in a Beijing suburb, a red, humanoid robot completed a half-marathon in 50 minutes and 26 seconds — about seven minutes faster than the men’s world record.（原题：China Robot’s 50-Minute Half Marathon Shows Pace of AI Progress）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-20/china-robot-s-50-minute-half-marathon-shows-pace-of-ai-progress",
+    "tags": [],
+    "impact": "Mon, 20 Apr 2026 14:19:55 GMT"
+  },
+  {
     "id": "2026-04-20-36krcom-36--ai",
     "date": "2026-04-20",
     "title": "36氪首发 | 首创“玩偶+主机”模式，多智能体儿童AI玩具品牌获数千万元融资",
@@ -83,5 +97,33 @@
     "source_url": "https://36kr.com/p/3774692365206280?f=rss",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-04-19-the-robot-report-",
+    "date": "2026-04-19",
+    "title": "通过振动监测技术提高移动机器人在不平坦地形上的稳定性",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Vibration sensors can aid in stability and navigation, particularly for field robots in varied terrain, writes a columnist. The post Improving mobile robot stability on uneven terrain through vibration monitoring techniques appeared first on The Robot Report .（原题：Improving mobile robot stability on uneven terrain through vibration monitoring techniques）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/improving-mobile-robot-stability-on-uneven-terrain-through-vibration-monitoring-techniques/",
+    "tags": [],
+    "impact": "Sun, 19 Apr 2026 13:21:45 +0000"
+  },
+  {
+    "id": "2026-04-18-the-robot-report-",
+    "date": "2026-04-18",
+    "title": "快速失败、小故障、安全：机器人自动化的实用模型",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "In testing robotic systems, developers can fail and learn, as long as they control risk, explains Bullen Ultrasonics' research and early innovation manager. The post Fail fast, fail small, fail safe: A practical model for robotic automation appeared first on The Robot Report .（原题：Fail fast, fail small, fail safe: A practical model for robotic automation）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/fail-fast-fail-small-fail-safe-a-practical-model-for-robotic-automation/",
+    "tags": [],
+    "impact": "Sat, 18 Apr 2026 16:05:06 +0000"
   }
 ]
