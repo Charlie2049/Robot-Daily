@@ -1,17 +1,90 @@
 [
   {
-    "id": "2026-04-21----ai",
+    "id": "2026-04-21-qbitaicom-dexworldmodel",
     "date": "2026-04-21",
-    "title": "AI和机器人先把地拖明白了再说",
+    "title": "跨维智能DexWorldModel斩获榜首，世界模型真正的考场在机器人执行里",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "AI和机器人先把地拖明白了再说",
-    "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=AI%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%88%E6%8A%8A%E5%9C%B0%E6%8B%96%E6%98%8E%E7%99%BD%E4%BA%86%E5%86%8D%E8%AF%B4",
+    "summary": "跨维智能DexWorldModel斩获榜首，世界模型真正的考场在机器人执行里",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/403777.html",
     "tags": [],
-    "impact": "3万"
+    "impact": ""
+  },
+  {
+    "id": "2026-04-21-readhubcn-8",
+    "date": "2026-04-21",
+    "title": "第二届世界人形机器人运动会将于8月在京举办",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "第二届世界人形机器人运动会将于8月在京举办",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sVBL91pK4p",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-21-readhubcn-a",
+    "date": "2026-04-21",
+    "title": "机器人环节研发商泉智博完成数亿元人民币A++轮融资，深投控领投",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "机器人环节研发商泉智博完成数亿元人民币A++轮融资，深投控领投",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sV2isR1y3p",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-21-36krcom-",
+    "date": "2026-04-21",
+    "title": "北京亦庄，凭什么是机器人的圣地？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "北京亦庄，凭什么是机器人的圣地？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3776213445243654",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-21-readhubcn-",
+    "date": "2026-04-21",
+    "title": "上海：开展具身智能、自动驾驶、科学研究等领域的数据创新平台建设",
+    "category": [
+      "humanoid",
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "上海：开展具身智能、自动驾驶、科学研究等领域的数据创新平台建设",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sVL1SxBn9v",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-21-ai-botcn-yoyo---ai-",
+    "date": "2026-04-21",
+    "title": "yoyo – 开源的自我进化型 AI 编程智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "yoyo – 开源的自我进化型 AI 编程智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/yoyo/",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-04-20-ieee-spectrum-robotics-",
