@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-23-ieee-spectrum-robotics--eniac-",
+    "date": "2026-04-23",
+    "title": "这位机器人专家出身的老师建造了真人大小的 ENIAC 复制品",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer , and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. Burick is a technology instructor at PS Academy in Gilbert, Ariz., a middle and high school for students with autism and other specialized learning needs. At the start of the 2025–26 school year, he began a project with his students to build a full-scale replica of the Electronic Numerical Integrator and Computer, or ENIAC, for the 80th anniversary of the historic computer’s construction . ENIAC was one of the world’s first programmable electronic computers. When it was built, it was about one thousand times as fast as other machines. Before becoming a teacher, Burick owned a robotics company for a decade in the 2000s. But when a financial downturn forced him to close the business, he turned to teaching. “I had so many amazing people help me when I was young [who] really gave me their time and resources, and really changed the trajectory of my life,” Burick says. “I thought I need to pay that forward.” Becoming a Roboticist As a young child in Latrobe, Pa., Burick watched the television show Lost in Space , which includes a robot character who protects the family. “He was the young boy’s best friend, and I was so captivated by that. I remember thinking to myself, I want that in my life. And that started that lifelong love affair with robotics and technology.” He started building toy robots out of anything he could find, and in junior high school, he began adding electronics. “By early high school, I was building full-fledged autonomous, microprocessor-controlled machines,” he says. At age 15, he built a 150-pound steel firefighting robot, for which he won awards from IEEE and other organizations. Burick kept building robots and reached out for help from local colleges and universities. He first got in touch with a student at Carnegie Mellon University , who invited him to visit campus. “My parents drove me down the next weekend, and he gave me a tour of the robotics lab. I was mesmerized. He sent me home with college textbooks and piles of metal and gears and wires,” Burick says. He would read the textbook a page at a time, reading it again and again until he felt he had an understanding of it. Then, to help fill gaps in his understanding, he got in touch with a robotics instructor at Saint Vincent College , in his hometown of Latrobe, who let him sit in on classes. Each of these adults, he says, “helped change the trajectory of my life.” Toward the end of high school, Burick realized that college wouldn’t be the right environment for him. “I was drawn to real-world problem-solving rather than structured coursework and I chose to continue along that path,” he says. Additionally, Burick has dyscalculia , which makes traditional mathematics more challenging for him. “It pushed me to develop alternative methods of engineering.” The ENIAC replica Burick’s students built precisely matches what the original computer would have looked like before it was disassembled in the 1950s. Robert Gamboa When he graduated, he worked in several tech jobs before starting his own company. In 2000, he opened a computer retail store and adjacent robotics business, White Box Robotics. The idea for the company came when Burick was building a “white box” PC from standard, off-the-shelf components, and realized there was no comparable product for robotics. So, he started developing a modular, general-purpose platform that applied white box PC standards to mobile robots. “The robot’s chassis was like a box of Legos,” he says. You could click together two torsos to double its payload, switch out the drive system, or swap its head for a different set of sensors. He filed utility and design patents for the platform, called the 914 PC-Bot, and after merging with a Canadian defense robotics company called Frontline Robotics, started production. They sold about 200 robots in 17 countries, Burick says. Then the 2008 financial crisis hit. White Box Robotics held on for a couple of years, shuttering in late 2010. “I got to live my life’s dream for 10 years,” he says. After closing White Box, “there was some soul searching” about what to do next. He recalled the impact his own mentors had, and decided to pay it forward by teaching. Neurodiversity as a Superpower In 2013, Burick started working in a vocational training program for young adults living with autism. The program didn’t have a technical arm, so he started one and ran it until 2019, when he was hired to be a technology instructor at PS Academy Arizona. Burick and one of his students assemble the base for one of ENIAC’s three portable function tables, which contained banks of switches that stored numerical constants. Bri Mason Burick feels he can connect with his students, because he is also neurodivergent. Throughout his childhood, he was told what he wasn’t able to do because of his dyscalculia diagnosis. “People tell you what it takes, but they never tell you what it gives,” Burick says. In adulthood, he realized that some of his strengths are linked to dyscalculia, too, like strong 3D spatial reasoning. “I have this CAD program that runs in my head 24 hours a day,” he says. “I think the reason I was successful in robotics, truly, was because of the dyscalculia…. To me, [it] has always been a superpower.” Whenever his students say something disparaging about living with autism, he shares his own experience. “You need to have maybe just a bit more tenacity than others, because there are parts of it you do have to fight through, but you come through with gifts and strengths,” he tells them. And Burick’s classes aim to play to those strengths. “I didn’t want my technology program to feel like craft hour,” he says. Instead, through projects like the ENIAC replica, students can leverage traits many of them share, like the abilities to hyperfocus and to precisely repeat tasks. Recreating ENIAC Burick has taught his students about ENIAC for several years. While reading about it, he learned that the massive, 27-tonne computer was dismantled and partially destroyed after being decommissioned in 1955. Although a few of ENIAC’s 40 original panels are on display at museums, “there was no hope of ever seeing it together again. We wanted to give the world that experience,” Burick says. He and his students started by learning about ENIAC, and even Burick was surprised by how complex the 80-year-old computer was. They built a one-twelfth scale model to help the students better understand what it looked like. Seeing the students light up, Burick became confident in their ability to move onto the full-scale model, and he started ordering supplies. ENIAC was composed of 40 large metal panels arranged in a U-shape that housed its many vacuum tubes, resistors, capacitors, and switches. Twenty of the panels were accumulators with the same design, so the students started with these, then worked through smaller groupings of panels. The repeating panels brought symmetry to ENIAC, Burick says, but it was also one of the main challenges of recreating it. If one part was slightly out of place, the next one would be too and the mistake would compound. The students installed 500 simulated vacuum tubes in each of the panels here, for a total of 18,000 vacuum tubes. Robert Gamboa Once they constructed the panels, they added ENIAC’s three function tables, which stored numerical constants in banks of switches, then two punch-card machines. Finally, they installed 18,000 simulated vacuum tubes. In total, the project used nearly 300 square meters of thick-ream cardboard, 1,600 hot-glue-gun sticks, and 7 gallons of black paint. The scale of the machine—and his students’ work—left Burick in awe. “By the time we were done, I felt like I was in a room full of scientists,” he says. Previously, Burick’s students built an 8-foot-long drivable Tesla Cybertruck (“complete with a 400-watt stereo system and a subwoofer”) and he plans to keep the momentum with another recreation—maybe from the Apollo moon missions. “I go to work every day, and I feel passionate about robotics [and] technology. I get to share that passion with the students,” Burick says. “I get to feel what it’s like to be in the position of the people that helped me. It closes that loop, and I find that really rewarding.”（原题：This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+    "tags": [],
+    "impact": "Thu, 23 Apr 2026 13:00:01 +0000"
+  },
+  {
     "id": "2026-04-23-qbitaicom-",
     "date": "2026-04-23",
     "title": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
@@ -42,46 +56,60 @@
     "impact": ""
   },
   {
-    "id": "2026-04-23-m21jingjicom-a-",
+    "id": "2026-04-23-36krcom-",
     "date": "2026-04-23",
-    "title": "宇树之后！又一机器人公司冲刺A股有新进展 公司",
+    "title": "人类已经追不上机器人了，液冷散热“立大功”",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树之后！又一机器人公司冲刺A股有新进展 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260423/herald/5c68fef2460fd10ce4361efa8b8c6052.html",
+    "summary": "人类已经追不上机器人了，液冷散热“立大功”",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3779311984284678",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-23----",
+    "id": "2026-04-23-36krcom-ads-5",
     "date": "2026-04-23",
-    "title": "乒乓球机器人打败日本顶尖选手",
+    "title": "乾崑智驾ADS 5发布，为自动驾驶做好准备",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "乾崑智驾ADS 5发布，为自动驾驶做好准备",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3779353259693059?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-23-gelonghuicom-robotaxi02643hk2-3",
+    "date": "2026-04-23",
+    "title": "中国Robotaxi海外影响力大涨，曹操出行(02643.HK)年内拟拓展2-3个境外城市",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "乒乓球机器人打败日本顶尖选手",
-    "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E8%B4%A5%E6%97%A5%E6%9C%AC%E9%A1%B6%E5%B0%96%E9%80%89%E6%89%8B",
-    "tags": [],
-    "impact": "25万"
-  },
-  {
-    "id": "2026-04-23-ai-botcn-workspace-agents--openai-",
-    "date": "2026-04-23",
-    "title": "Workspace Agents – OpenAI 推出的团队协作智能体",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "Workspace Agents – OpenAI 推出的团队协作智能体",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/workspace-agents/",
+    "summary": "中国Robotaxi海外影响力大涨，曹操出行(02643.HK)年内拟拓展2-3个境外城市",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/4517815",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-04-23-the-robot-report-reliable-robotics-",
+    "date": "2026-04-23",
+    "title": "Reliable Robotics 为全自动飞机筹集资金",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Reliable Robotics has raised $160 million as it continues to develop and work toward FAA certification for its Reliable Autonomy System for civilian and military aircraft. The post Reliable Robotics raises funding for fully automated aircraft appeared first on The Robot Report .（原题：Reliable Robotics raises funding for fully automated aircraft）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/reliable-robotics-raises-funding-fully-automated-aircraft/",
+    "tags": [],
+    "impact": "Thu, 23 Apr 2026 12:58:58 +0000"
   },
   {
     "id": "2026-04-23-qbitaicom-nature",
@@ -96,21 +124,6 @@
     "source_url": "https://www.qbitai.com/2026/04/405370.html",
     "tags": [],
     "impact": ""
-  },
-  {
-    "id": "2026-04-23-bloomberg-technology-leaderdrive-",
-    "date": "2026-04-23",
-    "title": "Leaderdrive 看到中国人形机器人的繁荣，利润攀升",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Robotics component supplier Leader Harmonious Drive Systems Co. saw stronger profits last year and in the first quarter as demand soars for Chinese humanoid robots.（原题：Leaderdrive Sees Profit Climb on Boom in Chinese Humanoid Robots）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-04-23/leaderdrive-sees-profit-climb-on-boom-in-chinese-humanoid-robots",
-    "tags": [],
-    "impact": "Thu, 23 Apr 2026 00:52:55 GMT"
   },
   {
     "id": "2026-04-23-36krcom-36--",
@@ -129,6 +142,20 @@
     "impact": ""
   },
   {
+    "id": "2026-04-23-m21jingjicom-20252400-",
+    "date": "2026-04-23",
+    "title": "2025年总产值超2400亿，深圳机器人落地真实场景 粤港澳",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "2025年总产值超2400亿，深圳机器人落地真实场景 粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260423/herald/f1abff1c7e6b68bab77ac44eb9ba9498.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-04-22-the-robot-report-ak-robotics--800-",
     "date": "2026-04-22",
     "title": "穿过航站楼：A&K Robotics 获得 800 万美元融资用于自动驾驶",
@@ -143,20 +170,6 @@
     "source_url": "https://www.therobotreport.com/cruzing-through-the-terminal-ak-robotics-lands-8m-for-autonomous-mobility/",
     "tags": [],
     "impact": "Wed, 22 Apr 2026 19:03:45 +0000"
-  },
-  {
-    "id": "2026-04-22-the-verge-",
-    "date": "2026-04-22",
-    "title": "特斯拉为更多人工智能和机器人技术做好准备，收入再次增长",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Tesla released its 2026 first-quarter financial earnings today, providing another look at the progress of Elon Musk's $1 trillion bet to transform his company into a leader of AI and robotics. Tesla said it earned $477 million in net income on $22.4 billion in revenue in the quarter that ended in April 2026. That's a […]（原题：Tesla&#8217;s revenue rises again as it prepares for more AI and robotics）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
-    "tags": [],
-    "impact": "2026-04-22T16:36:17-04:00"
   },
   {
     "id": "2026-04-22-the-robot-report-",
@@ -185,20 +198,6 @@
     "source_url": "https://www.therobotreport.com/from-evs-to-robotics-tesla-targets-10m-optimus-units-with-new-texas-plant/",
     "tags": [],
     "impact": "Wed, 22 Apr 2026 21:49:12 +0000"
-  },
-  {
-    "id": "2026-04-21-sspaicom--138---mic-mini--muji--matrix",
-    "date": "2026-04-21",
-    "title": "社区速递 138 | 派友让闲置旧设备「再就业」、大疆 Mic Mini 与 MUJI 桧木蜡烛 Matrix机器人",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "社区速递 138 | 派友让闲置旧设备「再就业」、大疆 Mic Mini 与 MUJI 桧木蜡烛 Matrix机器人",
-    "source": "sspai.com",
-    "source_url": "https://sspai.com/post/108943",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-04-21-the-robot-report--50-",
