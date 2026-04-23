@@ -1,46 +1,132 @@
 [
   {
-    "id": "2026-04-23-blogcsdnnet-ai-28",
+    "id": "2026-04-23-qbitaicom-",
     "date": "2026-04-23",
-    "title": "自动驾驶系统的测试挑战：AI可靠性的边界 2.8万",
+    "title": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
     "category": [
-      "autonomous-driving"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "自动驾驶系统的测试挑战：AI可靠性的边界 2.8万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2501_94449311/article/details/159790671",
+    "summary": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/405325.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-23-financesinacomcn-optimus965",
+    "id": "2026-04-23-cbndatacom-",
     "date": "2026-04-23",
-    "title": "特斯拉：首个Optimus人形机器人工厂将于第二季度动工建设。965",
+    "title": "机器人背后，站满了“大厂”伯虎财经",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人背后，站满了“大厂”伯虎财经",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295227",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-23-qbitaicom-mythos",
+    "date": "2026-04-23",
+    "title": "挖漏洞何必Mythos，国产智能体早跑通了",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "挖漏洞何必Mythos，国产智能体早跑通了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/405299.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-23-m21jingjicom-a-",
+    "date": "2026-04-23",
+    "title": "宇树之后！又一机器人公司冲刺A股有新进展 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树之后！又一机器人公司冲刺A股有新进展 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260423/herald/5c68fef2460fd10ce4361efa8b8c6052.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-23----",
+    "date": "2026-04-23",
+    "title": "乒乓球机器人打败日本顶尖选手",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "乒乓球机器人打败日本顶尖选手",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E8%B4%A5%E6%97%A5%E6%9C%AC%E9%A1%B6%E5%B0%96%E9%80%89%E6%89%8B",
+    "tags": [],
+    "impact": "25万"
+  },
+  {
+    "id": "2026-04-23-ai-botcn-workspace-agents--openai-",
+    "date": "2026-04-23",
+    "title": "Workspace Agents – OpenAI 推出的团队协作智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Workspace Agents – OpenAI 推出的团队协作智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/workspace-agents/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-23-qbitaicom-nature",
+    "date": "2026-04-23",
+    "title": "Nature封面：机器人乒乓球干翻人类职业选手",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Nature封面：机器人乒乓球干翻人类职业选手",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/405370.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-23-bloomberg-technology-leaderdrive-",
+    "date": "2026-04-23",
+    "title": "Leaderdrive 看到中国人形机器人的繁荣，利润攀升",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "特斯拉：首个Optimus人形机器人工厂将于第二季度动工建设。965",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-04-23/doc-inhvmmmq8966981.shtml",
+    "summary": "Robotics component supplier Leader Harmonious Drive Systems Co. saw stronger profits last year and in the first quarter as demand soars for Chinese humanoid robots.（原题：Leaderdrive Sees Profit Climb on Boom in Chinese Humanoid Robots）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-23/leaderdrive-sees-profit-climb-on-boom-in-chinese-humanoid-robots",
     "tags": [],
-    "impact": ""
+    "impact": "Thu, 23 Apr 2026 00:52:55 GMT"
   },
   {
-    "id": "2026-04-22-the-verge-",
-    "date": "2026-04-22",
-    "title": "观看索尼精英乒乓球机器人击败顶级选手",
+    "id": "2026-04-23-36krcom-36--",
+    "date": "2026-04-23",
+    "title": "36氪首发 | 电磁零部件厂商获数千万元融资，产品已规模化上车，同时布局具身智能机器人",
     "category": [
-      "robotics"
+      "humanoid",
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them […]（原题：Watch Sony’s elite ping-pong robot beat top-ranked players）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+    "summary": "36氪首发 | 电磁零部件厂商获数千万元融资，产品已规模化上车，同时布局具身智能机器人",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3778732502095106?f=rss",
     "tags": [],
-    "impact": "2026-04-22T13:43:38-04:00"
+    "impact": ""
   },
   {
     "id": "2026-04-22-the-robot-report-ak-robotics--800-",
