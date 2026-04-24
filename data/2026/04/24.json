@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026-04-24-blogcsdnnet-blaze3kinova-27",
+    "date": "2026-04-24",
+    "title": "论文解读｜BLAZE算法3秒搞定Kinova机械臂避障，革新高维机器人轨迹优化 2.7万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "论文解读｜BLAZE算法3秒搞定Kinova机械臂避障，革新高维机器人轨迹优化 2.7万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/PNP_Robotics/article/details/160442632",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-24-gelonghuicom---250ai",
+    "date": "2026-04-24",
+    "title": "美股盘前要点 | 白宫否认就停火延长设最后期限！特斯拉豪掷250亿美元押注AI与机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "美股盘前要点 | 白宫否认就停火延长设最后期限！特斯拉豪掷250亿美元押注AI与机器人",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/4527953",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-24-ifanrcom-tokengpt-55-",
+    "date": "2026-04-24",
+    "title": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣 早报",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1663686",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-24-36krcom-67",
+    "date": "2026-04-24",
+    "title": "宇树一年赚6亿，优必选一年亏7亿：同样的机器人赛道，完全不同的账本",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树一年赚6亿，优必选一年亏7亿：同样的机器人赛道，完全不同的账本",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3780412419502851",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-24-readhubcn-robotaxi-2027",
+    "date": "2026-04-24",
+    "title": "中国首款原生开发Robotaxi亮相北京车展 2027年或量产",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "中国首款原生开发Robotaxi亮相北京车展 2027年或量产",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sa795xVPY9",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-24-ai-botcn-jvs-crew--",
+    "date": "2026-04-24",
+    "title": "JVS Crew – 阿里云推出的企业级智能体构建平台",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "JVS Crew – 阿里云推出的企业级智能体构建平台",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/jvs-crew/",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-04-23-the-robot-report--mikell-taylor-",
     "date": "2026-04-23",
     "title": "通用汽车公司的 Mikell Taylor 将在机器人峰会上领导女性机器人早餐会",
@@ -12,6 +97,20 @@
     "source_url": "https://www.therobotreport.com/gms-mikell-taylor-lead-women-in-robotics-breakfast-2026-robotics-summit/",
     "tags": [],
     "impact": "Thu, 23 Apr 2026 20:05:40 +0000"
+  },
+  {
+    "id": "2026-04-23-mithomecom--os--110",
+    "date": "2026-04-23",
+    "title": "华为再发自研系统：乾崑 OS 发布，将支撑自动驾驶三大关键技术 110评",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "华为再发自研系统：乾崑 OS 发布，将支撑自动驾驶三大关键技术 110评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/942788.htm",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-04-23-the-robot-report-pudu-robotics--15-",
