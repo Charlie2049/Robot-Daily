@@ -1,74 +1,61 @@
 [
   {
-    "id": "2026-04-24-blogcsdnnet-blaze3kinova-27",
+    "id": "2026-04-24-ifanrcom--7-",
     "date": "2026-04-24",
-    "title": "论文解读｜BLAZE算法3秒搞定Kinova机械臂避障，革新高维机器人轨迹优化 2.7万",
+    "title": "腾讯发布了 7 个座舱智能体，汽车的意义从「空间位移」走向了「时间价值」董车会",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "论文解读｜BLAZE算法3秒搞定Kinova机械臂避障，革新高维机器人轨迹优化 2.7万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/PNP_Robotics/article/details/160442632",
+    "summary": "腾讯发布了 7 个座舱智能体，汽车的意义从「空间位移」走向了「时间价值」董车会",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1663788",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-24-gelonghuicom---250ai",
+    "id": "2026-04-24----offer",
     "date": "2026-04-24",
-    "title": "美股盘前要点 | 白宫否认就停火延长设最后期限！特斯拉豪掷250亿美元押注AI与机器人",
+    "title": "胡兵给荣耀机器人发走秀offer",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "美股盘前要点 | 白宫否认就停火延长设最后期限！特斯拉豪掷250亿美元押注AI与机器人",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/4527953",
+    "summary": "胡兵给荣耀机器人发走秀offer",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%B5%E7%BB%99%E8%8D%A3%E8%80%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%91%E8%B5%B0%E7%A7%80offer",
     "tags": [],
-    "impact": ""
+    "impact": "112万"
   },
   {
-    "id": "2026-04-24-ifanrcom-tokengpt-55-",
+    "id": "2026-04-24-m21jingjicom-65-",
     "date": "2026-04-24",
-    "title": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣 早报",
+    "title": "海康机器人：首提“具身智造”、营收65亿，正寻下一个生产基地 公司",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣 早报",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1663686",
+    "summary": "海康机器人：首提“具身智造”、营收65亿，正寻下一个生产基地 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260424/herald/c84ebe4b3138799154fbe06c9cc1508b.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-24-36krcom-67",
+    "id": "2026-04-24-the-robot-report-ss-innovations-",
     "date": "2026-04-24",
-    "title": "宇树一年赚6亿，优必选一年亏7亿：同样的机器人赛道，完全不同的账本",
+    "title": "SS Innovations 正在开发基于无人机的手术机器人",
     "category": [
+      "defense",
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树一年赚6亿，优必选一年亏7亿：同样的机器人赛道，完全不同的账本",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3780412419502851",
+    "summary": "SS Innovations designed the SSi Vimana Aero to bring robotic surgical care directly to wounded soldiers. It is also working on a surgical humanoid. The post SS Innovations is developing a drone-based surgical robot appeared first on The Robot Report .（原题：SS Innovations is developing a drone-based surgical robot）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/ss-innovations-is-developing-a-drone-based-surgical-robot/",
     "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-24-readhubcn-robotaxi-2027",
-    "date": "2026-04-24",
-    "title": "中国首款原生开发Robotaxi亮相北京车展 2027年或量产",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "中国首款原生开发Robotaxi亮相北京车展 2027年或量产",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sa795xVPY9",
-    "tags": [],
-    "impact": ""
+    "impact": "Fri, 24 Apr 2026 12:30:59 +0000"
   },
   {
     "id": "2026-04-24-ai-botcn-jvs-crew--",
@@ -85,6 +72,21 @@
     "impact": ""
   },
   {
+    "id": "2026-04-24-36krcom-68",
+    "date": "2026-04-24",
+    "title": "68亿，具身机器人史上最大采购来了",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "68亿，具身机器人史上最大采购来了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3780742359243776",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-04-23-the-robot-report--mikell-taylor-",
     "date": "2026-04-23",
     "title": "通用汽车公司的 Mikell Taylor 将在机器人峰会上领导女性机器人早餐会",
@@ -97,20 +99,6 @@
     "source_url": "https://www.therobotreport.com/gms-mikell-taylor-lead-women-in-robotics-breakfast-2026-robotics-summit/",
     "tags": [],
     "impact": "Thu, 23 Apr 2026 20:05:40 +0000"
-  },
-  {
-    "id": "2026-04-23-mithomecom--os--110",
-    "date": "2026-04-23",
-    "title": "华为再发自研系统：乾崑 OS 发布，将支撑自动驾驶三大关键技术 110评",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "华为再发自研系统：乾崑 OS 发布，将支撑自动驾驶三大关键技术 110评",
-    "source": "m.ithome.com",
-    "source_url": "https://m.ithome.com/html/942788.htm",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-04-23-the-robot-report-pudu-robotics--15-",
