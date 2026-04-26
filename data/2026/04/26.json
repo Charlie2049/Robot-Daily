@@ -1,19 +1,5 @@
 [
   {
-    "id": "2026-04-26-ai-botcn-jvs-crew--",
-    "date": "2026-04-26",
-    "title": "JVS Crew – 阿里云推出的企业级智能体构建平台",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "JVS Crew – 阿里云推出的企业级智能体构建平台",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/jvs-crew/",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-04-26-36krcom-68",
     "date": "2026-04-26",
     "title": "68亿，具身机器人史上最大采购来了",
@@ -56,5 +42,19 @@
     "source_url": "https://www.therobotreport.com/ss-innovations-is-developing-a-drone-based-surgical-robot/",
     "tags": [],
     "impact": "Fri, 24 Apr 2026 12:30:59 +0000"
+  },
+  {
+    "id": "2026-04-24-ai-botcn-jvs-crew--",
+    "date": "2026-04-24",
+    "title": "JVS Crew – 阿里云推出的企业级智能体构建平台",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "JVS Crew – 阿里云推出的企业级智能体构建平台",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/jvs-crew/",
+    "tags": [],
+    "impact": ""
   }
 ]
