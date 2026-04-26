@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-04-26-m21jingjicom-ai",
+    "date": "2026-04-26",
+    "title": "门锁开始养宠物、洗地机器人学会记房间：AI如何重写智能家居？公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "门锁开始养宠物、洗地机器人学会记房间：AI如何重写智能家居？公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260426/herald/6b507cfe149aa00546b5c3671465b63d.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-26-the-robot-report--ghost-robotics--10-",
+    "date": "2026-04-26",
+    "title": "在机器人峰会上与 Ghost Robotics 一起回顾腿式机器人 10 年",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "At the summit, Gavin Kenneally, CEO and co-founder of Ghost Robotics, will share lessons from 10 years of deploying quadruped robots. The post Look back on 10 years of legged robots with Ghost Robotics at the Robotics Summit appeared first on The Robot Report .（原题：Look back on 10 years of legged robots with Ghost Robotics at the Robotics Summit）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/look-back-on-10-years-of-legged-robots-with-ghost-robotics-at-the-robotics-summit/",
+    "tags": [],
+    "impact": "Sun, 26 Apr 2026 13:00:00 +0000"
+  },
+  {
+    "id": "2026-04-26-36krcom-",
+    "date": "2026-04-26",
+    "title": "具身智能数据战：群核建道场，百度铺管道，京东搭舞台",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能数据战：群核建道场，百度铺管道，京东搭舞台",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3780563411513857",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-26-ai-botcn-jvs-crew--",
+    "date": "2026-04-26",
+    "title": "JVS Crew – 阿里云推出的企业级智能体构建平台",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "JVS Crew – 阿里云推出的企业级智能体构建平台",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/jvs-crew/",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-04-26-36krcom-68",
     "date": "2026-04-26",
     "title": "68亿，具身机器人史上最大采购来了",
@@ -42,19 +98,5 @@
     "source_url": "https://www.therobotreport.com/ss-innovations-is-developing-a-drone-based-surgical-robot/",
     "tags": [],
     "impact": "Fri, 24 Apr 2026 12:30:59 +0000"
-  },
-  {
-    "id": "2026-04-24-ai-botcn-jvs-crew--",
-    "date": "2026-04-24",
-    "title": "JVS Crew – 阿里云推出的企业级智能体构建平台",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "JVS Crew – 阿里云推出的企业级智能体构建平台",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/jvs-crew/",
-    "tags": [],
-    "impact": ""
   }
 ]
