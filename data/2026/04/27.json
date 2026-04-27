@@ -1,116 +1,60 @@
 [
   {
-    "id": "2026-04-27-qbitaicom-ai",
+    "id": "2026-04-27-36krcom-10-agent",
     "date": "2026-04-27",
-    "title": "自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/04/407975.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-27-blogcsdnnet-ai-agent202629",
-    "date": "2026-04-27",
-    "title": "知识图谱与AI Agent学习进化的融合应用研究：从静态推理到自主演化智能体（2026工业级实践框架）2.9万",
+    "title": "智能体工程的隐形技术债：10分钟造出一个 Agent，公司却要为它养一个平台团队",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "知识图谱与AI Agent学习进化的融合应用研究：从静态推理到自主演化智能体（2026工业级实践框架）2.9万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/weixin_56622231/article/details/160534991",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-27-36krcom-genflow40",
-    "date": "2026-04-27",
-    "title": "百度文库网盘发布通用智能体GenFlow4.0",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "百度文库网盘发布通用智能体GenFlow4.0",
+    "summary": "智能体工程的隐形技术债：10分钟造出一个 Agent，公司却要为它养一个平台团队",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3784782506663172?f=rss",
+    "source_url": "https://www.36kr.com/p/3784915791633670",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-27-36krcom---",
+    "id": "2026-04-27-36krcom-90",
     "date": "2026-04-27",
-    "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3783824870317312?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-27-blogcsdnnet---preprint--scmarkeragent-24",
-    "date": "2026-04-27",
-    "title": "文献阅读 | Preprint | scMarkerAgent：基于大语言模型证据智能体的细胞标志物图谱 2.4万",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "文献阅读 | Preprint | scMarkerAgent：基于大语言模型证据智能体的细胞标志物图谱 2.4万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/weixin_45851732/article/details/160048103",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-27-readhubcn-l3",
-    "date": "2026-04-27",
-    "title": "小马智行创始人彭军：L3自动驾驶永远不可能存在",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "小马智行创始人彭军：L3自动驾驶永远不可能存在",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sfJOmDw1eo",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-27-m21jingjicom--",
-    "date": "2026-04-27",
-    "title": "外骨骼机器人日订单破千 宏观",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "外骨骼机器人日订单破千 宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260427/herald/867b06a9ba8fb10532b39ecd9d2f7e78.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-04-27-bloomberg-technology-ai--sereact--11-",
-    "date": "2026-04-27",
-    "title": "AI 初创公司 Sereact 融资 1.1 亿美元，用于开发预测后果的机器人",
+    "title": "前华为90后，又融资近亿：教机器人卖萌",
     "category": [
       "robotics",
       "funding"
     ],
     "region": "Global",
-    "summary": "Sereact, a German robotics software company, has raised $110 million in fresh funding to develop its artificial intelligence model that makes robots smarter and more adaptable to different tasks.（原题：AI Startup Sereact Raises $110 Million for Robots That Predict Consequences）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
+    "summary": "前华为90后，又融资近亿：教机器人卖萌",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3785015676754953",
     "tags": [],
-    "impact": "Mon, 27 Apr 2026 04:00:00 GMT"
+    "impact": ""
+  },
+  {
+    "id": "2026-04-27-36krcom-8",
+    "date": "2026-04-27",
+    "title": "不足8小时，机器人被“劫持”，家庭生活恐被“直播”",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "不足8小时，机器人被“劫持”，家庭生活恐被“直播”",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3784905692601352",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-27-36krcom-1100",
+    "date": "2026-04-27",
+    "title": "1100万个美国家庭，养出了“泳池机器人第一股”",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "1100万个美国家庭，养出了“泳池机器人第一股”",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3784915645275144",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-04-25-the-robot-report-abb-roboticspowa",
