@@ -1,46 +1,116 @@
 [
   {
-    "id": "2026-04-27-36krcom-",
+    "id": "2026-04-27-qbitaicom-ai",
     "date": "2026-04-27",
-    "title": "深圳乐动机器人通过港交所上市聆讯",
+    "title": "自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "深圳乐动机器人通过港交所上市聆讯",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3784256727063811?f=rss",
+    "summary": "自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/04/407975.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-27-36krcom-202564ai",
+    "id": "2026-04-27-blogcsdnnet-ai-agent202629",
     "date": "2026-04-27",
-    "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+    "title": "知识图谱与AI Agent学习进化的融合应用研究：从静态推理到自主演化智能体（2026工业级实践框架）2.9万",
     "category": [
-      "humanoid",
+      "general"
+    ],
+    "region": "Global",
+    "summary": "知识图谱与AI Agent学习进化的融合应用研究：从静态推理到自主演化智能体（2026工业级实践框架）2.9万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/weixin_56622231/article/details/160534991",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-27-36krcom-genflow40",
+    "date": "2026-04-27",
+    "title": "百度文库网盘发布通用智能体GenFlow4.0",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "百度文库网盘发布通用智能体GenFlow4.0",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3784782506663172?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-27-36krcom---",
+    "date": "2026-04-27",
+    "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
+    "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+    "summary": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3782137908403457?f=rss",
+    "source_url": "https://36kr.com/p/3783824870317312?f=rss",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-25-qbitaicom-deepseekai",
-    "date": "2026-04-25",
-    "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+    "id": "2026-04-27-blogcsdnnet---preprint--scmarkeragent-24",
+    "date": "2026-04-27",
+    "title": "文献阅读 | Preprint | scMarkerAgent：基于大语言模型证据智能体的细胞标志物图谱 2.4万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "文献阅读 | Preprint | scMarkerAgent：基于大语言模型证据智能体的细胞标志物图谱 2.4万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/weixin_45851732/article/details/160048103",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-27-readhubcn-l3",
+    "date": "2026-04-27",
+    "title": "小马智行创始人彭军：L3自动驾驶永远不可能存在",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/04/407026.html",
+    "summary": "小马智行创始人彭军：L3自动驾驶永远不可能存在",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sfJOmDw1eo",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-04-27-m21jingjicom--",
+    "date": "2026-04-27",
+    "title": "外骨骼机器人日订单破千 宏观",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "外骨骼机器人日订单破千 宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260427/herald/867b06a9ba8fb10532b39ecd9d2f7e78.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-27-bloomberg-technology-ai--sereact--11-",
+    "date": "2026-04-27",
+    "title": "AI 初创公司 Sereact 融资 1.1 亿美元，用于开发预测后果的机器人",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "Sereact, a German robotics software company, has raised $110 million in fresh funding to develop its artificial intelligence model that makes robots smarter and more adaptable to different tasks.（原题：AI Startup Sereact Raises $110 Million for Robots That Predict Consequences）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
+    "tags": [],
+    "impact": "Mon, 27 Apr 2026 04:00:00 GMT"
   },
   {
     "id": "2026-04-25-the-robot-report-abb-roboticspowa",
