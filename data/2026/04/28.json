@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-28-sspaicom--139---df--matrix",
+    "date": "2026-04-28",
+    "title": "社区速递 139 | 派友热议三月买了啥、复古单反尼康 Df 体验 Matrix机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "社区速递 139 | 派友热议三月买了啥、复古单反尼康 Df 体验 Matrix机器人",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/109183",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-28-blogcsdnnet-ai-agent202626",
+    "date": "2026-04-28",
+    "title": "知识图谱与AI Agent学习进化的融合应用研究：从静态推理到自主演化智能体（2026工业级实践框架）2.6万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "知识图谱与AI Agent学习进化的融合应用研究：从静态推理到自主演化智能体（2026工业级实践框架）2.6万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/weixin_56622231/article/details/160534991",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-04-28-36krcom-100",
     "date": "2026-04-28",
     "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
@@ -14,31 +42,45 @@
     "impact": ""
   },
   {
-    "id": "2026-04-28-36krcom---",
+    "id": "2026-04-28-36krcom-openclawai",
     "date": "2026-04-28",
-    "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
+    "title": "OpenClaw大更新，AI智能体不再是黑箱，官方口号：少点神秘",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
+    "summary": "OpenClaw大更新，AI智能体不再是黑箱，官方口号：少点神秘",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3783824870317312?f=rss",
+    "source_url": "https://www.36kr.com/p/3785896683805956",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-04-28-36krcom-aisereact11",
+    "id": "2026-04-28-aibasecom-aiapphappyhorseai",
     "date": "2026-04-28",
-    "title": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
+    "title": "AI日报：千问APP首发灰测HappyHorse;小米新款人形机器人亮相投资者日;支付宝上线“AI收”",
     "category": [
-      "robotics",
-      "funding"
+      "humanoid",
+      "robotics"
     ],
     "region": "Global",
-    "summary": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
+    "summary": "AI日报：千问APP首发灰测HappyHorse;小米新款人形机器人亮相投资者日;支付宝上线“AI收”",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/27549",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-28-36krcom-36--",
+    "date": "2026-04-28",
+    "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3785684261362951?f=rss",
+    "source_url": "https://36kr.com/p/3785955616152839?f=rss",
     "tags": [],
     "impact": ""
   },
@@ -84,21 +126,6 @@
     "source_url": "https://www.therobotreport.com/sereact-gets-series-b-funding-expand-cortex-2-robot-brain-enter-u-s-market/",
     "tags": [],
     "impact": "Mon, 27 Apr 2026 16:52:14 +0000"
-  },
-  {
-    "id": "2026-04-27-readhubcn-ai--sereact--11--",
-    "date": "2026-04-27",
-    "title": "AI 初创公司 Sereact 获 1.1 亿美元融资 旨在提升机器人适应性",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "AI 初创公司 Sereact 获 1.1 亿美元融资 旨在提升机器人适应性",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sg10P8VDEB",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-04-26-the-robot-report--ghost-robotics--10-",
