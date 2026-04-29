@@ -1,20 +1,5 @@
 [
   {
-    "id": "2026-04-29-36krcom-",
-    "date": "2026-04-29",
-    "title": "融资近十亿、估值破百亿，普渡机器人何以被资本持续看好？",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "融资近十亿、估值破百亿，普渡机器人何以被资本持续看好？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3786490420878344",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-04-29-xueqiucom-waymorobotaxi",
     "date": "2026-04-29",
     "title": "相比Waymo和特斯拉，曹操出行全要素闭环生态更接近Robotaxi终局",
@@ -29,18 +14,63 @@
     "impact": ""
   },
   {
-    "id": "2026-04-29-36krcom-6g",
+    "id": "2026-04-29-36krcom-",
     "date": "2026-04-29",
-    "title": "6G要给机器人“开外挂”",
+    "title": "狂奔的具身赛道里，瑞为技术的机器人已经在机场搬行李",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "6G要给机器人“开外挂”",
+    "summary": "狂奔的具身赛道里，瑞为技术的机器人已经在机场搬行李",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3786297456548868",
+    "source_url": "https://www.36kr.com/p/3787338874477568",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-04-29-ai-botcn---ai",
+    "date": "2026-04-29",
+    "title": "帧赞 – 智象未来推出的专业级AI影视创作与协作智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "帧赞 – 智象未来推出的专业级AI影视创作与协作智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/aidrama-hidreamai/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-29-36krcom-",
+    "date": "2026-04-29",
+    "title": "人形机器人，穿越生死线",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人，穿越生死线",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3787210581832451",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-29-bloomberg-technology-",
+    "date": "2026-04-29",
+    "title": "人工智能与人形机器人融合的竞赛",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Humanoid robots that use AI are going mainstream, but they’re far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype? (Source: Bloomberg)（原题：The Race to Merge AI With Humanoid Robots）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-04-29/the-race-to-merge-ai-with-humanoid-robots",
+    "tags": [],
+    "impact": "Wed, 29 Apr 2026 08:00:03 GMT"
   },
   {
     "id": "2026-04-28-chejiahaoautohomecomcn-deepseek",
