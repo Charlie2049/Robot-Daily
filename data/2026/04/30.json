@@ -1,30 +1,59 @@
 [
   {
-    "id": "2026-04-30-juejincn--agent-2460",
+    "id": "2026-04-30-cnbc-technology--ipo--1000-",
     "date": "2026-04-30",
-    "title": "终端 Agent 的真正升级：不是堆功能，而是打通具身智能链路！2460",
+    "title": "据报道，软银考虑在美国 IPO 中为新的人工智能和机器人分拆公司估值 1000 亿美元",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "终端 Agent 的真正升级：不是堆功能，而是打通具身智能链路！2460",
-    "source": "juejin.cn",
-    "source_url": "https://juejin.cn/post/7632228821949464585",
+    "summary": "SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined \"Roze\" in the U.S.（原题：SoftBank reportedly weighs $100 billion valuation for new AI and robotics spinout in potential U.S. IPO）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/04/30/softbank-roze-ai-robotics-ipo-100-billion-ft-report.html",
+    "tags": [],
+    "impact": "Thu, 30 Apr 2026 05:12:54 GMT"
+  },
+  {
+    "id": "2026-04-30-ifanrcom--",
+    "date": "2026-04-30",
+    "title": "小米最新人形机器人的手，会「出汗」了 产品",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "小米最新人形机器人的手，会「出汗」了 产品",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1664575",
     "tags": [],
     "impact": ""
   },
   {
     "id": "2026-04-30-36krcom-",
     "date": "2026-04-30",
-    "title": "狂奔的具身赛道里，瑞为技术的机器人已经在机场搬行李",
+    "title": "宇树发布只有上半身的人形机器人，高管否认熊猫机器人抄袭魔法原子",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "狂奔的具身赛道里，瑞为技术的机器人已经在机场搬行李",
+    "summary": "宇树发布只有上半身的人形机器人，高管否认熊猫机器人抄袭魔法原子",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3787338874477568",
+    "source_url": "https://www.36kr.com/p/3788987710397443",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-04-30-ai-botcn-minddr-15--",
+    "date": "2026-04-30",
+    "title": "MindDR 1.5 – 理想汽车推出的多智能体深度研究框架",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "MindDR 1.5 – 理想汽车推出的多智能体深度研究框架",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/minddr-1-5/",
     "tags": [],
     "impact": ""
   },
