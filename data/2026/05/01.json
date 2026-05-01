@@ -14,6 +14,20 @@
     "impact": ""
   },
   {
+    "id": "2026-05-01-juejincn--agent-5182",
+    "date": "2026-05-01",
+    "title": "终端 Agent 的真正升级：不是堆功能，而是打通具身智能链路！5182",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "终端 Agent 的真正升级：不是堆功能，而是打通具身智能链路！5182",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7632228821949464585",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-05-01-qbitaicom-",
     "date": "2026-05-01",
     "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
@@ -58,6 +72,20 @@
     "impact": ""
   },
   {
+    "id": "2026-05-01-the-verge-",
+    "date": "2026-05-01",
+    "title": "戴森终于制造出了更好的机器人，但真空吸尘器却更糟糕",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "I'm deeply conflicted about the Dyson Spot + Scrub Ai robot vacuum and mop. It's the company's best robotic floor cleaner to date, with excellent mopping performance, good navigation and obstacle detection, and a multifunction dock that takes much of the busywork off your hands. But Dyson's first attempt at a vacuum-and-mop combo is a […]（原题：Dyson finally made a better robot, but a worse vacuum）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/921136/dyson-spot-scrub-ai-wet-dry-robot-vacuum-cleaner-review",
+    "tags": [],
+    "impact": "2026-05-01T07:00:00-04:00"
+  },
+  {
     "id": "2026-05-01-36krcom-omni",
     "date": "2026-05-01",
     "title": "北京人形将发布天工Omni机器人",
@@ -69,21 +97,6 @@
     "summary": "北京人形将发布天工Omni机器人",
     "source": "36kr.com",
     "source_url": "https://36kr.com/newsflashes/3790218794409224?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-01-readhubcn-",
-    "date": "2026-05-01",
-    "title": "今起施行，杭州为具身智能机器人立法",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "今起施行，杭州为具身智能机器人立法",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sltSSyLbXa",
     "tags": [],
     "impact": ""
   },
