@@ -1,29 +1,89 @@
 [
   {
-    "id": "2026-05-01-juejincn--agent-5152",
+    "id": "2026-05-01-36krcom-ai200",
     "date": "2026-05-01",
-    "title": "终端 Agent 的真正升级：不是堆功能，而是打通具身智能链路！5152",
+    "title": "职场残酷预演：当AI学会自动进化，初级人才的生存空间正被“200小时智能体”挤压殆尽",
     "category": [
-      "humanoid"
+      "general"
     ],
     "region": "Global",
-    "summary": "终端 Agent 的真正升级：不是堆功能，而是打通具身智能链路！5152",
-    "source": "juejin.cn",
-    "source_url": "https://juejin.cn/post/7632228821949464585",
+    "summary": "职场残酷预演：当AI学会自动进化，初级人才的生存空间正被“200小时智能体”挤压殆尽",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3748263885914880",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-01-xueqiucom-waymorobotaxi",
+    "id": "2026-05-01-qbitaicom-",
     "date": "2026-05-01",
-    "title": "相比Waymo和特斯拉，曹操出行全要素闭环生态更接近Robotaxi终局",
+    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
     "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/05/412577.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-01-cnbc-technology-",
+    "date": "2026-05-01",
+    "title": "由于劳动力短缺，日本航空开始在东京羽田机场进行人形机器人试验",
+    "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "相比Waymo和特斯拉，曹操出行全要素闭环生态更接近Robotaxi终局",
-    "source": "xueqiu.com",
-    "source_url": "http://xueqiu.com/4118099716/386161928",
+    "summary": "Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.（原题：Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
+    "tags": [],
+    "impact": "Fri, 01 May 2026 06:58:26 GMT"
+  },
+  {
+    "id": "2026-05-01-36krcom-",
+    "date": "2026-05-01",
+    "title": "杭州为具身智能机器人立法，今起施行",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "杭州为具身智能机器人立法，今起施行",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3790305284529416?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-01-36krcom-omni",
+    "date": "2026-05-01",
+    "title": "北京人形将发布天工Omni机器人",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "北京人形将发布天工Omni机器人",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3790218794409224?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-01-readhubcn-",
+    "date": "2026-05-01",
+    "title": "今起施行，杭州为具身智能机器人立法",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "今起施行，杭州为具身智能机器人立法",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sltSSyLbXa",
     "tags": [],
     "impact": ""
   },
