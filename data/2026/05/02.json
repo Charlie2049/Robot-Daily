@@ -1,13 +1,27 @@
 [
   {
-    "id": "2026-05-02-blogcsdnnet-ai-agent-26",
+    "id": "2026-05-02-the-robot-report-faulhaber--dualgear",
     "date": "2026-05-02",
-    "title": "AI Agent在交通领域的自动驾驶 2.6万",
+    "title": "FAULHABER 为自主物流系统设计 DualGear",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "FAULHABER has designed DualGear to offer high performance in space-constrained autonomous logistics applications. The post FAULHABER designs DualGear for autonomous logistics systems appeared first on The Robot Report .（原题：FAULHABER designs DualGear for autonomous logistics systems）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/faulhaber-designs-dualgear-for-autonomous-logistics-systems/",
+    "tags": [],
+    "impact": "Sat, 02 May 2026 12:35:49 +0000"
+  },
+  {
+    "id": "2026-05-02-blogcsdnnet-ai-agent-25",
+    "date": "2026-05-02",
+    "title": "AI Agent在交通领域的自动驾驶 2.5万",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "AI Agent在交通领域的自动驾驶 2.6万",
+    "summary": "AI Agent在交通领域的自动驾驶 2.5万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/2501_91474102/article/details/160672350",
     "tags": [],
@@ -56,20 +70,6 @@
     "source_url": "https://www.therobotreport.com/top-10-robotics-stories-april-2026/",
     "tags": [],
     "impact": "Fri, 01 May 2026 19:16:43 +0000"
-  },
-  {
-    "id": "2026-04-30-cnbc-technology--ipo--1000-",
-    "date": "2026-04-30",
-    "title": "据报道，软银考虑在美国 IPO 中为新的人工智能和机器人分拆公司估值 1000 亿美元",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined \"Roze\" in the U.S.（原题：SoftBank reportedly weighs $100 billion valuation for new AI and robotics spinout in potential U.S. IPO）",
-    "source": "CNBC Technology",
-    "source_url": "https://www.cnbc.com/2026/04/30/softbank-roze-ai-robotics-ipo-100-billion-ft-report.html",
-    "tags": [],
-    "impact": "Thu, 30 Apr 2026 05:12:54 GMT"
   },
   {
     "id": "2026-04-30-ifanrcom--",
