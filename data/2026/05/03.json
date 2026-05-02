@@ -1,0 +1,59 @@
+[
+  {
+    "id": "2026-05-03-36krcom-ai200",
+    "date": "2026-05-03",
+    "title": "职场残酷预演：当AI学会自动进化，初级人才的生存空间正被“200小时智能体”挤压殆尽",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "职场残酷预演：当AI学会自动进化，初级人才的生存空间正被“200小时智能体”挤压殆尽",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3748263885914880",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-02-the-robot-report-",
+    "date": "2026-05-02",
+    "title": "基于两个动态参数的自主移动机器人相位稳定调节器",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Autonomous mobile robots, or AMRs, can benefit from a phase regulator with two real-time signals, according to a researcher. The post Phase stability regulator based on two dynamic parameters for autonomous mobile robots appeared first on The Robot Report .（原题：Phase stability regulator based on two dynamic parameters for autonomous mobile robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/phase-stability-regulator-based-two-dynamic-parameters-autonomous-mobile-robots/",
+    "tags": [],
+    "impact": "Sat, 02 May 2026 15:18:33 +0000"
+  },
+  {
+    "id": "2026-05-01-qbitaicom-",
+    "date": "2026-05-01",
+    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/05/412577.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-01-cnbc-technology-",
+    "date": "2026-05-01",
+    "title": "由于劳动力短缺，日本航空开始在东京羽田机场进行人形机器人试验",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.（原题：Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
+    "tags": [],
+    "impact": "Fri, 01 May 2026 06:58:26 GMT"
+  }
+]
