@@ -1,44 +1,85 @@
 [
   {
-    "id": "2026-05-05-36krcom-ai200",
+    "id": "2026-05-05-the-robot-report--2026-",
     "date": "2026-05-05",
-    "title": "职场残酷预演：当AI学会自动进化，初级人才的生存空间正被“200小时智能体”挤压殆尽",
+    "title": "藤原浩和罗伯特·利特尔入选 2026 年约瑟夫·恩格伯格机器人奖",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A3 honored Hiroshi Fujiwara and Robert Little with the 2026 Engelberger Awards for their transformative leadership and robotics application breakthroughs. The post Hiroshi Fujiwara and Robert Little selected for 2026 Joseph F. Engelberger Robotics Awards appeared first on The Robot Report .（原题：Hiroshi Fujiwara and Robert Little selected for 2026 Joseph F. Engelberger Robotics Awards）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/hiroshi-fujiwara-robert-little-selected-2026-joseph-f-engelberger-robotics-awards/",
+    "tags": [],
+    "impact": "Tue, 05 May 2026 12:45:19 +0000"
+  },
+  {
+    "id": "2026-05-05--99",
+    "date": "2026-05-05",
+    "title": "杭州公园9块9租外骨骼机器人爬山",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "杭州公园9块9租外骨骼机器人爬山",
+    "source": "更多作品推荐",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%85%AC%E5%9B%AD9%E5%9D%979%E7%A7%9F%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%AC%E5%B1%B1",
+    "tags": [],
+    "impact": "20万"
+  },
+  {
+    "id": "2026-05-05-juejincn--ai-1495",
+    "date": "2026-05-05",
+    "title": "我用飞书多维表做了一个 AI 活动推荐智能体：每天自动催我别错过截止日期！1495",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "职场残酷预演：当AI学会自动进化，初级人才的生存空间正被“200小时智能体”挤压殆尽",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3748263885914880",
+    "summary": "我用飞书多维表做了一个 AI 活动推荐智能体：每天自动催我别错过截止日期！1495",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7636216092121874441",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-05-cnbc-technology-",
+    "id": "2026-05-05-mithomecom--72",
     "date": "2026-05-05",
-    "title": "由于劳动力短缺，日本航空开始在东京羽田机场进行人形机器人试验",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.（原题：Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite）",
-    "source": "CNBC Technology",
-    "source_url": "https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
-    "tags": [],
-    "impact": "Tue, 05 May 2026 04:47:22 GMT"
-  },
-  {
-    "id": "2026-05-05-mithomecom--62",
-    "date": "2026-05-05",
-    "title": "宇树机器人在美买票坐飞机，电池被没收 62评",
+    "title": "宇树机器人在美买票坐飞机，电池被没收 72评",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树机器人在美买票坐飞机，电池被没收 62评",
+    "summary": "宇树机器人在美买票坐飞机，电池被没收 72评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/946334.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-05-ai-botcn-officecli---ai--office-",
+    "date": "2026-05-05",
+    "title": "OfficeCLI – 专为 AI 智能体设计的开源命令行 Office 套件",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "OfficeCLI – 专为 AI 智能体设计的开源命令行 Office 套件",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/officecli/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-05-readhubcn-anthropic--ai-",
+    "date": "2026-05-05",
+    "title": "Anthropic 面向金融服务行业发布新款 AI 智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Anthropic 面向金融服务行业发布新款 AI 智能体",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8stCVvzY863",
     "tags": [],
     "impact": ""
   },
@@ -69,20 +110,6 @@
     "source_url": "https://spectrum.ieee.org/familiar-machines-and-magic",
     "tags": [],
     "impact": "Mon, 04 May 2026 17:30:02 +0000"
-  },
-  {
-    "id": "2026-05-04-the-verge-roomba-",
-    "date": "2026-05-04",
-    "title": "Roomba 的创造者带着毛茸茸的机器人伴侣回来了",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines & Magic, is a dog-sized robotic pet that resembles […]（原题：The creator of Roomba is back with a furry robot companion）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-    "tags": [],
-    "impact": "2026-05-04T12:51:38-04:00"
   },
   {
     "id": "2026-05-04-ieee-spectrum-robotics-daimon-robotics-",
@@ -137,20 +164,6 @@
     "summary": "特斯拉擎天柱正式量产！普通人也能拥有机器人？",
     "source": "autohome.com.cn",
     "source_url": "http://www.autohome.com.cn/news/202605/1314097.html#pvareaid=3311573",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-03-ai-botcn-vibe-trading--hkuds--ai-",
-    "date": "2026-05-03",
-    "title": "Vibe-Trading – HKUDS 开源的 AI 多智能体金融工作空间",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "Vibe-Trading – HKUDS 开源的 AI 多智能体金融工作空间",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/vibe-trading/",
     "tags": [],
     "impact": ""
   }
