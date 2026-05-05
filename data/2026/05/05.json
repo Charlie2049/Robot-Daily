@@ -14,6 +14,35 @@
     "impact": ""
   },
   {
+    "id": "2026-05-05-cnbc-technology-",
+    "date": "2026-05-05",
+    "title": "由于劳动力短缺，日本航空开始在东京羽田机场进行人形机器人试验",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.（原题：Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
+    "tags": [],
+    "impact": "Tue, 05 May 2026 04:47:22 GMT"
+  },
+  {
+    "id": "2026-05-05-mithomecom--62",
+    "date": "2026-05-05",
+    "title": "宇树机器人在美买票坐飞机，电池被没收 62评",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树机器人在美买票坐飞机，电池被没收 62评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/946334.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-05-04-the-robot-report--colin-angle-",
     "date": "2026-05-04",
     "title": "科林·安格 (Colin Angle) 用熟悉的机器和魔法打造伴侣机器人的计划内幕",
@@ -94,6 +123,20 @@
     "summary": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
     "source": "qbitai.com",
     "source_url": "https://www.qbitai.com/2026/05/412870.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-03-autohomecomcn-",
+    "date": "2026-05-03",
+    "title": "特斯拉擎天柱正式量产！普通人也能拥有机器人？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "特斯拉擎天柱正式量产！普通人也能拥有机器人？",
+    "source": "autohome.com.cn",
+    "source_url": "http://www.autohome.com.cn/news/202605/1314097.html#pvareaid=3311573",
     "tags": [],
     "impact": ""
   },
