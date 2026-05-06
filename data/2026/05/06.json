@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026-05-06-readhubcn---154-",
+    "date": "2026-05-06",
+    "title": "蚂蚁集团入股大晓无限机器人 后者注册资本增至 1.54 亿元",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "蚂蚁集团入股大晓无限机器人 后者注册资本增至 1.54 亿元",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8stxgFuw6IU",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-06-bloomberg-technology-",
+    "date": "2026-05-06",
+    "title": "现代机器人表演倒立等复杂体操动作",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Hyundai Motor Co.’s robotics unit released a video showing its production-ready Atlas humanoid robot performing complex gymnastics, marking a first-of-its-kind live demonstration that could signal the machine is nearing commercialization.（原题：Hyundai Robot Performs Handstand, Complex Gymnastics Moves）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-05-06/hyundai-s-production-ready-humanoid-debuts-in-first-live-demo",
+    "tags": [],
+    "impact": "Wed, 06 May 2026 07:03:50 GMT"
+  },
+  {
+    "id": "2026-05-06-36krcom-baai-cardiac-agent",
+    "date": "2026-05-06",
+    "title": "智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3797510044228616?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-06-cbndatacom-one",
+    "date": "2026-05-06",
+    "title": "人形机器人七小龙：谁真能卖，谁在讲故事？定焦One",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人七小龙：谁真能卖，谁在讲故事？定焦One",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295257",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-06-ai-botcn-uniclaw--",
+    "date": "2026-05-06",
+    "title": "UniClaw – 中国联通推出的自主执行智能体平台",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "UniClaw – 中国联通推出的自主执行智能体平台",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/uniclaw/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-06-ai-botcn-deepseek-tui--deepseek-v4",
+    "date": "2026-05-06",
+    "title": "DeepSeek-TUI – 开源终端编程智能体，适配DeepSeek V4",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "DeepSeek-TUI – 开源终端编程智能体，适配DeepSeek V4",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/deepseek-tui/",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-05-05-the-robot-report-waiv-robotics-",
     "date": "2026-05-05",
     "title": "WaiV Robotics 破茧而出，帮助无人机在海上起降",
@@ -27,19 +112,5 @@
     "source_url": "https://www.therobotreport.com/tutor-intelligence-builds-data-factory-to-train-robot-ai-in-the-real-world/",
     "tags": [],
     "impact": "Tue, 05 May 2026 20:04:24 +0000"
-  },
-  {
-    "id": "2026-05-05-readhubcn-openai-",
-    "date": "2026-05-05",
-    "title": "OpenAI 曾商议分拆机器人与硬件业务部门",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "OpenAI 曾商议分拆机器人与硬件业务部门",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8ssEVZD6jAB",
-    "tags": [],
-    "impact": ""
   }
 ]
