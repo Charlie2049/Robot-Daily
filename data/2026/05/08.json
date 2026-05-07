@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-08-m21jingjicom-l3-",
+    "date": "2026-05-08",
+    "title": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试 宏观",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试 宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260508/herald/8888eeb2d86f09712798982f1057cfae.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-05-08-36krcom-l3",
     "date": "2026-05-08",
     "title": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试",
@@ -10,6 +24,20 @@
     "summary": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试",
     "source": "36kr.com",
     "source_url": "https://36kr.com/newsflashes/3799223284915204?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-08-36krcom-2400",
+    "date": "2026-05-08",
+    "title": "深圳机器人产业产值超2400亿元",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "深圳机器人产业产值超2400亿元",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3799402405338119?f=rss",
     "tags": [],
     "impact": ""
   },
@@ -28,20 +56,6 @@
     "impact": ""
   },
   {
-    "id": "2026-05-07-readhubcn--l3-",
-    "date": "2026-05-07",
-    "title": "重庆出台智能汽车高速公路测试新规，规范 L3 级以上自动驾驶测试",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "重庆出台智能汽车高速公路测试新规，规范 L3 级以上自动驾驶测试",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8swM1ymTye7",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-05-07-the-robot-report-colin-angle--familiar-machines--magic-",
     "date": "2026-05-07",
     "title": "播客：Colin Angle 讨论用 Familiar Machines & Magic 构建伴侣机器人",
@@ -56,15 +70,15 @@
     "impact": "Thu, 07 May 2026 12:48:58 +0000"
   },
   {
-    "id": "2026-05-07-mithomecom--g1--160",
+    "id": "2026-05-07-mithomecom--g1--170",
     "date": "2026-05-07",
-    "title": "宇树 G1 人形机器人在韩国佛门“受戒”：法名“迦悲”，需遵守不过度充电等戒律 160评",
+    "title": "宇树 G1 人形机器人在韩国佛门“受戒”：法名“迦悲”，需遵守不过度充电等戒律 170评",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树 G1 人形机器人在韩国佛门“受戒”：法名“迦悲”，需遵守不过度充电等戒律 160评",
+    "summary": "宇树 G1 人形机器人在韩国佛门“受戒”：法名“迦悲”，需遵守不过度充电等戒律 170评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/947274.htm",
     "tags": [],
