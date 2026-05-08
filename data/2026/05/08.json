@@ -1,59 +1,45 @@
 [
   {
-    "id": "2026-05-08-m21jingjicom-l3-",
+    "id": "2026-05-08-ai-botcn-sensenova-67-flash-lite--",
     "date": "2026-05-08",
-    "title": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试 宏观",
+    "title": "SenseNova 6.7 Flash-Lite – 商汤推出的多模态智能体模型",
     "category": [
-      "autonomous-driving"
+      "general"
     ],
     "region": "Global",
-    "summary": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试 宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260508/herald/8888eeb2d86f09712798982f1057cfae.html",
+    "summary": "SenseNova 6.7 Flash-Lite – 商汤推出的多模态智能体模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/sensenova-6-7-flash-lite/",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-08-36krcom-l3",
+    "id": "2026-05-08-readhubcn-ff-ai-robotics-",
     "date": "2026-05-08",
-    "title": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3799223284915204?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-08-36krcom-2400",
-    "date": "2026-05-08",
-    "title": "深圳机器人产业产值超2400亿元",
+    "title": "FF AI-Robotics 与波士顿国际商学院达成战略合作",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "深圳机器人产业产值超2400亿元",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3799402405338119?f=rss",
+    "summary": "FF AI-Robotics 与波士顿国际商学院达成战略合作",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8sxQ3STABSd",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-08-36krcom-neuralink",
+    "id": "2026-05-08-bloomberg-technology-einride-",
     "date": "2026-05-08",
-    "title": "Neuralink：正研发一种能够到达大脑任何区域的手术机器人",
+    "title": "Einride 首席执行官表示，货运的未来是电动和自动化",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "Neuralink：正研发一种能够到达大脑任何区域的手术机器人",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3799233331731717?f=rss",
+    "summary": "Roozbeh Charli, chief executive officer of Swedish firm Einride, discusses how platform-driven logistics, electric trucks, and autonomous systems are transforming global freight, and why humans still play a critical role. He speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)（原题：Freight's Future Is Electric and Autonomous, Einride CEO Says）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-05-08/freight-s-future-is-electric-and-autonomous-einride-ceo-video",
     "tags": [],
-    "impact": ""
+    "impact": "Fri, 08 May 2026 08:01:47 GMT"
   },
   {
     "id": "2026-05-07-the-robot-report-colin-angle--familiar-machines--magic-",
@@ -68,21 +54,6 @@
     "source_url": "https://www.therobotreport.com/podcast-colin-angle-discusses-building-companion-robots-familiar-machines-magic/",
     "tags": [],
     "impact": "Thu, 07 May 2026 12:48:58 +0000"
-  },
-  {
-    "id": "2026-05-07-mithomecom--g1--170",
-    "date": "2026-05-07",
-    "title": "宇树 G1 人形机器人在韩国佛门“受戒”：法名“迦悲”，需遵守不过度充电等戒律 170评",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "宇树 G1 人形机器人在韩国佛门“受戒”：法名“迦悲”，需遵守不过度充电等戒律 170评",
-    "source": "m.ithome.com",
-    "source_url": "https://m.ithome.com/html/947274.htm",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-05-07-the-verge-",
