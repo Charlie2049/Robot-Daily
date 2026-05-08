@@ -1,5 +1,76 @@
 [
   {
+    "id": "2026-05-08-bloomberg-technology---2026--5--8-",
+    "date": "2026-05-08",
+    "title": "自动驾驶对决：谁将赢得自动驾驶竞赛？ |彭博科技：欧洲 2026 年 5 月 8 日",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "In this episode of Bloomberg Tech: Europe, Bloomberg’s Tom Mackenzie explores the accelerating race for autonomous driving. From Waymo’s sensor-driven precision to Wayve’s mapless, end-to-end AI approach, the battle for the future of mobility is intensifying. Which model will win out? We also hear from BYD, examine Vay’s vision for driverless transport, and see how Einride is reshaping freight with autonomous, electric trucks.  Who will lead the driverless future?\n\n\"Bloomberg Tech: Europe\" spotlights the biggest names and trends shaping the region's technology ecosystem as the global competition heats up. This monthly, 30-minute magazine-style show features in-depth interviews with top technology leaders, as well as major investors and policymakers - giving you a compelling A to Z of the most consequential innovations, opportunities and challenges.  (Source: Bloomberg)（原题：Autonomous Driving Showdown: Who Will Win the Self-Driving Race? | Bloomberg Tech: Europe 5/08/2026）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-05-08/rethinking-the-road-bloomberg-tech-europe-5-08-2026-video",
+    "tags": [],
+    "impact": "Fri, 08 May 2026 09:26:48 GMT"
+  },
+  {
+    "id": "2026-05-08-gelonghuicom-",
+    "date": "2026-05-08",
+    "title": "翼菲科技启航招股：拆解“轻工业全品类机器人第一股”的价值重塑逻辑",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "翼菲科技启航招股：拆解“轻工业全品类机器人第一股”的价值重塑逻辑",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/4660407",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-08-36krcom-",
+    "date": "2026-05-08",
+    "title": "给机器人穿衣服，正在长成一门多元化生意",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "给机器人穿衣服，正在长成一门多元化生意",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3800425451729665",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-08-36krcom-",
+    "date": "2026-05-08",
+    "title": "浙江人形机器人创新中心与杰克科技达成战略合作",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "浙江人形机器人创新中心与杰克科技达成战略合作",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3800544911186948?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-08-36krcom--ipo-",
+    "date": "2026-05-08",
+    "title": "比宇树机器人更早上春晚的公司，要敲钟 IPO 了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "比宇树机器人更早上春晚的公司，要敲钟 IPO 了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3800408468959745",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-05-08-ai-botcn-sensenova-67-flash-lite--",
     "date": "2026-05-08",
     "title": "SenseNova 6.7 Flash-Lite – 商汤推出的多模态智能体模型",
@@ -14,18 +85,32 @@
     "impact": ""
   },
   {
-    "id": "2026-05-08-readhubcn-ff-ai-robotics-",
+    "id": "2026-05-08-the-robot-report-qnx-",
     "date": "2026-05-08",
-    "title": "FF AI-Robotics 与波士顿国际商学院达成战略合作",
+    "title": "QNX 将在机器人峰会上带来实践演示和新研究",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "FF AI-Robotics 与波士顿国际商学院达成战略合作",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8sxQ3STABSd",
+    "summary": "QNX encourages visitors to stop by Booth 307 at the Robotics Summit & Expo to see its demonstrations firsthand. The post QNX to bring hands-on demonstrations and new research to the Robotics Summit appeared first on The Robot Report .（原题：QNX to bring hands-on demonstrations and new research to the Robotics Summit）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/qnx-brings-hands-on-demonstrations-new-research-2026-robotics-summit/",
     "tags": [],
-    "impact": ""
+    "impact": "Fri, 08 May 2026 12:45:52 +0000"
+  },
+  {
+    "id": "2026-05-08-the-verge-nanoleaf-",
+    "date": "2026-05-08",
+    "title": "Nanoleaf 将未来押注于机器人、红光疗法和人工智能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason for this lull - the company has […]（原题：Nanoleaf bets its future on robots, red light therapy, and AI）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+    "tags": [],
+    "impact": "2026-05-08T08:15:00-04:00"
   },
   {
     "id": "2026-05-08-bloomberg-technology-einride-",
@@ -42,6 +127,20 @@
     "impact": "Fri, 08 May 2026 08:01:47 GMT"
   },
   {
+    "id": "2026-05-08-gelonghuicom-a096",
+    "date": "2026-05-08",
+    "title": "A股收评：创业板指跌0.96%，机器人、商业航天爆发，电池股走低",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A股收评：创业板指跌0.96%，机器人、商业航天爆发，电池股走低",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/4674955",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-05-07-the-robot-report-colin-angle--familiar-machines--magic-",
     "date": "2026-05-07",
     "title": "播客：Colin Angle 讨论用 Familiar Machines & Magic 构建伴侣机器人",
@@ -54,20 +153,6 @@
     "source_url": "https://www.therobotreport.com/podcast-colin-angle-discusses-building-companion-robots-familiar-machines-magic/",
     "tags": [],
     "impact": "Thu, 07 May 2026 12:48:58 +0000"
-  },
-  {
-    "id": "2026-05-07-the-verge-",
-    "date": "2026-05-07",
-    "title": "一名黑客用割草机器人碾压了我",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "I'm lying in the dirt. It's coming for me. Then, with a lurch, it's climbing up my chest. If Andreas Makris doesn't stop the 200-pound robot lawn mower in time, it could drag its blades across my body. Makris certainly can't reach over and hit the emergency stop button - he's nearly 6,000 miles away, […]（原题：A hacker ran me over with a robot lawn mower）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt",
-    "tags": [],
-    "impact": "2026-05-07T12:00:00-04:00"
   },
   {
     "id": "2026-05-07-the-robot-report-brightpick-",
