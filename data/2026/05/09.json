@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2026-05-08-the-verge-",
+    "date": "2026-05-08",
+    "title": "这是亚博承诺修理撞倒我的割草机机器人的承诺",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Yesterday, I told you how a hacker ran me over with a robot lawn mower. We explained how thousands of these bladed Chinese robots, made by Yarbo, could be hijacked with ease - exposing people's GPS coordinates, Wi-Fi passwords, email addresses, and more to any casual hacker who comes along. Today, Yarbo has issued a […]（原题：Here is Yarbo’s promise to fix the robot mower that ran me over）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise",
+    "tags": [],
+    "impact": "2026-05-08T15:14:34-04:00"
+  },
+  {
+    "id": "2026-05-08-the-robot-report-",
+    "date": "2026-05-08",
+    "title": "在机器人峰会上了解如何成功设计医院物流机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Experts from Rovex Technologies, SKA Robotics, and ST Engineering Aethon will discuss design considerations for hospital robotics. The post Learn how to successfully design hospital logistics robots at the Robotics Summit appeared first on The Robot Report .（原题：Learn how to successfully design hospital logistics robots at the Robotics Summit）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/learn-how-to-successfully-design-hospital-logistics-robots-2026-robotics-summit/",
+    "tags": [],
+    "impact": "Fri, 08 May 2026 19:34:03 +0000"
+  },
+  {
+    "id": "2026-05-08-the-robot-report-",
+    "date": "2026-05-08",
+    "title": "为什么传统的机器人数据收集已经过时以及替代它的因素",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Eric Chan discusses Rhoda AI's innovative approach to robotics using video data for scalable, efficient learning. The post Why traditional robotics data collection is obsolete and what replaces it appeared first on The Robot Report .（原题：Why traditional robotics data collection is obsolete and what replaces it）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/why-traditional-robotics-data-collection-is-obsolete-and-what-replaces-it/",
+    "tags": [],
+    "impact": "Fri, 08 May 2026 22:40:04 +0000"
+  },
+  {
+    "id": "2026-05-08-the-robot-report-nyobolt-",
+    "date": "2026-05-08",
+    "title": "Nyobolt 筹集资金为更多机器人提供快速充电",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Nyobolt has grown its revenue fivefold year over year as its high-efficiency power systems enable greater robot performance. The post Nyobolt raises funding to bring fast charging to more robots appeared first on The Robot Report .（原题：Nyobolt raises funding to bring fast charging to more robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/nyobolt-raises-funding-bring-fast-charging-more-robots/",
+    "tags": [],
+    "impact": "Fri, 08 May 2026 17:29:37 +0000"
+  }
+]
