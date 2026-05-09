@@ -14,18 +14,18 @@
     "impact": ""
   },
   {
-    "id": "2026-05-09-36krcom-35",
+    "id": "2026-05-09-the-robot-report-",
     "date": "2026-05-09",
-    "title": "东土科技等在湖北成立智能机器人产业发展公司，注册资本3.5亿",
+    "title": "康耐视发布完全集成的人工智能驱动机器人视觉系统",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "东土科技等在湖北成立智能机器人产业发展公司，注册资本3.5亿",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3801625136684804?f=rss",
+    "summary": "The system combines Cognex-developed edge AI, advanced AI, and rule-based vision tools with a high-performance embedded compute. The post Cognex releases fully integrated AI-powered vision system for robotics appeared first on The Robot Report .（原题：Cognex releases fully integrated AI-powered vision system for robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/cognex-releases-fully-integrated-ai-powered-vision-system-robotics/",
     "tags": [],
-    "impact": ""
+    "impact": "Sat, 09 May 2026 12:30:37 +0000"
   },
   {
     "id": "2026-05-09-36krcom-zerothm1openclaw",
@@ -43,16 +43,30 @@
     "impact": ""
   },
   {
-    "id": "2026-05-09-36krcom-anthropic-ai",
+    "id": "2026-05-09-qbitaicom-vla",
     "date": "2026-05-09",
-    "title": "Anthropic最危险路线图曝光: 无限记忆、多智能体，硅谷AI终局仅剩双雄决顶",
+    "title": "VLA死了，遥操也死了！英伟达机器人一号位说的",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "VLA死了，遥操也死了！英伟达机器人一号位说的",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/05/414547.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-09-ai-botcn-taco--",
+    "date": "2026-05-09",
+    "title": "TACO – 北航等高校开源的端智能体自进化观测压缩框架",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "Anthropic最危险路线图曝光: 无限记忆、多智能体，硅谷AI终局仅剩双雄决顶",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3800364022209545",
+    "summary": "TACO – 北航等高校开源的端智能体自进化观测压缩框架",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/taco/",
     "tags": [],
     "impact": ""
   },
