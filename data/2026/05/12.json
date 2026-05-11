@@ -58,74 +58,47 @@
     "impact": ""
   },
   {
-    "id": "2026-05-11-techcrunch-robotics--config",
+    "id": "2026-05-11-readhubcn--uncharted-dynamics-",
     "date": "2026-05-11",
-    "title": "韩国最大制造商支持机器人数据领域的台积电 Config",
+    "title": "具身智能底层基础设施公司 Uncharted Dynamics 获数百万美元融资",
     "category": [
-      "robotics"
+      "humanoid",
+      "funding"
     ],
     "region": "Global",
-    "summary": "Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.（原题：Korea’s biggest manufacturers back Config, the TSMC of robot data）",
-    "source": "TechCrunch Robotics",
-    "source_url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
-    "tags": [],
-    "impact": "Mon, 11 May 2026 10:58:00 +0000"
-  },
-  {
-    "id": "2026-05-11-readhubcn--943-",
-    "date": "2026-05-11",
-    "title": "美湖股份：签署具身智能业务 9.43 亿元合同",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "美湖股份：签署具身智能业务 9.43 亿元合同",
+    "summary": "具身智能底层基础设施公司 Uncharted Dynamics 获数百万美元融资",
     "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8t2rM0VErBt",
+    "source_url": "https://readhub.cn/topic/8t2ETuvjrW7",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-11-readhubcn--200-",
+    "id": "2026-05-11-the-verge-yarbo-",
     "date": "2026-05-11",
-    "title": "空间感知机器人第一股乐动机器人市值超 200 亿：元璟、源码为股东",
+    "title": "Yarbo 表示将删除其机器人割草机的故意后门",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "空间感知机器人第一股乐动机器人市值超 200 亿：元璟、源码为股东",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8t2s502jeaU",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-11-m21jingjicom--",
-    "date": "2026-05-11",
-    "title": "从“造芯”到“做梦”，智能体自我进化提速 公司",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "从“造芯”到“做梦”，智能体自我进化提速 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260511/herald/974b2c3aa4f7c0d7bd79b1ff652f20cb.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-11-the-verge-",
-    "date": "2026-05-11",
-    "title": "乔安娜·斯特恩不是机器人，但她和他们住在一起",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my very closest friends. I mention that because Joanna […]（原题：Joanna Stern is not a robot, but she lived with them）",
+    "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder […]（原题：Yarbo says it will remove the intentional backdoor from its robot lawn mower）",
     "source": "The Verge",
-    "source_url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+    "source_url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
     "tags": [],
-    "impact": "2026-05-11T10:00:00-04:00"
+    "impact": "2026-05-11T18:40:20-04:00"
+  },
+  {
+    "id": "2026-05-11-the-robot-report-rlwrld--rldx-1",
+    "date": "2026-05-11",
+    "title": "RLWRLD 发布 RLDX-1，一种灵活性优先的机器人手基础模型",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "RLWRLD said with RLDX-1, it aimed to include things like context memorization or force sensing, which existing models often lack. The post RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands appeared first on The Robot Report .（原题：RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/rlwrld-releases-rldx-1-a-dexterity-first-foundation-model-for-robot-hands/",
+    "tags": [],
+    "impact": "Mon, 11 May 2026 18:37:20 +0000"
   },
   {
     "id": "2026-05-10-the-robot-report-",
