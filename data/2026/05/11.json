@@ -1,15 +1,57 @@
 [
   {
-    "id": "2026-05-10-readhubcn--ai-",
-    "date": "2026-05-10",
-    "title": "阿里将把通义千问 AI 接入淘宝，推出智能体式购物服务",
+    "id": "2026-05-11-bloomberg-technology-",
+    "date": "2026-05-11",
+    "title": "随着陆军人数下降，韩国探索使用现代机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "South Korea’s military is exploring a strategic partnership with Hyundai Motor Co. to potentially deploy robotics to the front lines as Seoul accelerates investment in AI-powered, unmanned systems to tackle a deepening troop shortage.（原题：South Korea Exploring Using Hyundai Robots as Army Numbers Fall）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall",
+    "tags": [],
+    "impact": "Mon, 11 May 2026 04:00:27 GMT"
+  },
+  {
+    "id": "2026-05-11-36krcom-app-store",
+    "date": "2026-05-11",
+    "title": "深扒机器人「App Store」：动作很多但全是舞蹈武术，国内厂商走偏了？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "深扒机器人「App Store」：动作很多但全是舞蹈武术，国内厂商走偏了？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3802022210822151",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-11-36krcom-glm-5v-turbo",
+    "date": "2026-05-11",
+    "title": "智谱GLM-5V-Turbo“擦枪走火”，国产多模态智能体战争一触即发",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "阿里将把通义千问 AI 接入淘宝，推出智能体式购物服务",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8t0ZrWvwICz",
+    "summary": "智谱GLM-5V-Turbo“擦枪走火”，国产多模态智能体战争一触即发",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3804181533531649",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-11-ai-botcn-agents-cli--",
+    "date": "2026-05-11",
+    "title": "agents-cli – 谷歌云智能体开源的官方命令行工具",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "agents-cli – 谷歌云智能体开源的官方命令行工具",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/agents-cli/",
     "tags": [],
     "impact": ""
   },
@@ -26,33 +68,5 @@
     "source_url": "https://www.therobotreport.com/cognex-releases-fully-integrated-ai-powered-vision-system-robotics/",
     "tags": [],
     "impact": "Sat, 09 May 2026 12:30:37 +0000"
-  },
-  {
-    "id": "2026-05-09-qbitaicom-vla",
-    "date": "2026-05-09",
-    "title": "VLA死了，遥操也死了！英伟达机器人一号位说的",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "VLA死了，遥操也死了！英伟达机器人一号位说的",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/05/414547.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-09-ai-botcn-taco--",
-    "date": "2026-05-09",
-    "title": "TACO – 北航等高校开源的端智能体自进化观测压缩框架",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "TACO – 北航等高校开源的端智能体自进化观测压缩框架",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/taco/",
-    "tags": [],
-    "impact": ""
   }
 ]
