@@ -16,16 +16,30 @@
     "impact": ""
   },
   {
-    "id": "2026-05-12-36krcom-",
+    "id": "2026-05-12-sspaicom--romo-2--",
     "date": "2026-05-12",
-    "title": "机器人接棒富士康",
+    "title": "派早报：大疆发布扫拖机器人 ROMO 2 系列等 少数派编辑部",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人接棒富士康",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3804688978304520",
+    "summary": "派早报：大疆发布扫拖机器人 ROMO 2 系列等 少数派编辑部",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/109647",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-12-readhubcn-",
+    "date": "2026-05-12",
+    "title": "智元发布「香港具身智能产业共创计划」计划围绕应用场景等方向",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "智元发布「香港具身智能产业共创计划」计划围绕应用场景等方向",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8t3xF67SqPA",
     "tags": [],
     "impact": ""
   },
@@ -44,31 +58,16 @@
     "impact": ""
   },
   {
-    "id": "2026-05-12-36krcom-2026",
+    "id": "2026-05-12-readhubcn-gitlab--ai-",
     "date": "2026-05-12",
-    "title": "2026，卖数据比卖机器人先赚钱",
+    "title": "GitLab 将裁员：为把握 AI 智能体时代市场机遇保留额外资金",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "2026，卖数据比卖机器人先赚钱",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3804813317431044",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-11-readhubcn--uncharted-dynamics-",
-    "date": "2026-05-11",
-    "title": "具身智能底层基础设施公司 Uncharted Dynamics 获数百万美元融资",
-    "category": [
-      "humanoid",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "具身智能底层基础设施公司 Uncharted Dynamics 获数百万美元融资",
+    "summary": "GitLab 将裁员：为把握 AI 智能体时代市场机遇保留额外资金",
     "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8t2ETuvjrW7",
+    "source_url": "https://readhub.cn/topic/8t4CxpxYZ4B",
     "tags": [],
     "impact": ""
   },
