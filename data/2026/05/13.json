@@ -1,43 +1,59 @@
 [
   {
-    "id": "2026-05-13-financesinacomcn--googlebook--gemini-728",
+    "id": "2026-05-13-36krcom-",
     "date": "2026-05-13",
-    "title": "谷歌：推出 Googlebook 产品，专为适配 Gemini 智能体系打造。728",
+    "title": "首次战胜高水平人类选手，打乒乓球的机器人来了",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "谷歌：推出 Googlebook 产品，专为适配 Gemini 智能体系打造。728",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-05-13/doc-inhxsiea9786606.shtml",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-13-m21jingjicom-21-",
-    "date": "2026-05-13",
-    "title": "21社论丨有序推动智能体释放技术红利 评论",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "21社论丨有序推动智能体释放技术红利 评论",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260513/19361a6db6af0c21ab9508cf1aef360f.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-13-36krcom-2026aiaiot",
-    "date": "2026-05-13",
-    "title": "2026新政解读：智能体与AI终端的\"双向奔赴\"，AIoT产业迎来三大价值重构",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "2026新政解读：智能体与AI终端的\"双向奔赴\"，AIoT产业迎来三大价值重构",
+    "summary": "首次战胜高水平人类选手，打乒乓球的机器人来了",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3806082901122568",
+    "source_url": "https://www.36kr.com/p/3806264000651012",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-13-36krcom-a--36",
+    "date": "2026-05-13",
+    "title": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+    "category": [
+      "humanoid",
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3807039782116865",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-13-36krcom-",
+    "date": "2026-05-13",
+    "title": "手术机器人留给后来者的时间不多了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "手术机器人留给后来者的时间不多了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3806966253870856",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-13-ai-botcn-okara-ai-cmo--ai",
+    "date": "2026-05-13",
+    "title": "Okara AI CMO – AI营销智能体系统，自动搞定全渠道获客",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Okara AI CMO – AI营销智能体系统，自动搞定全渠道获客",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/okara-ai-cmo/",
     "tags": [],
     "impact": ""
   },
@@ -154,16 +170,16 @@
     "impact": "Tue, 12 May 2026 13:10:00 +0000"
   },
   {
-    "id": "2026-05-11-ai-botcn-agents-cli--",
+    "id": "2026-05-11-geekparknet-figure-ai--demo",
     "date": "2026-05-11",
-    "title": "agents-cli – 谷歌云智能体开源的官方命令行工具",
+    "title": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "agents-cli – 谷歌云智能体开源的官方命令行工具",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/agents-cli/",
+    "summary": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/363963",
     "tags": [],
     "impact": ""
   }
