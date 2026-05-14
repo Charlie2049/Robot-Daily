@@ -1,43 +1,72 @@
 [
   {
-    "id": "2026-05-14-gelonghuicom-ai",
+    "id": "2026-05-14-geekparknet--15--6-",
     "date": "2026-05-14",
-    "title": "深演智能通过上市聆讯：解码企业决策AI智能体如何跑通“服务即软件”新模式",
+    "title": "脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的",
     "category": [
-      "general"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "深演智能通过上市聆讯：解码企业决策AI智能体如何跑通“服务即软件”新模式",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/4734351",
+    "summary": "脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/364131",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-14-blogcsdnnet-ai-43",
+    "id": "2026-05-14-36krcom-openai",
     "date": "2026-05-14",
-    "title": "当AI之眼握住方向盘：计算机视觉如何驱动自动驾驶革命 4.3万",
+    "title": "机器人领域的OpenAI时刻？这家公司想给机器人装上“通用大脑”",
     "category": [
-      "autonomous-driving"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "当AI之眼握住方向盘：计算机视觉如何驱动自动驾驶革命 4.3万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/q1457797371/article/details/161049291",
+    "summary": "机器人领域的OpenAI时刻？这家公司想给机器人装上“通用大脑”",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3808591107284487",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-14-blogcsdnnet-2026-android-io--ai--android-pc--28",
+    "id": "2026-05-14-ai-botcn-xiaomi-onevl--",
     "date": "2026-05-14",
-    "title": "2026 Android I/O ，全新 AI 手机、 Android PC 和自动驾驶 2.8万",
+    "title": "Xiaomi OneVL – 小米具身智能团队开源的自动驾驶大模型",
     "category": [
+      "humanoid",
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "2026 Android I/O ，全新 AI 手机、 Android PC 和自动驾驶 2.8万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/ZuoYueLiang/article/details/161033740",
+    "summary": "Xiaomi OneVL – 小米具身智能团队开源的自动驾驶大模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/xiaomi-onevl/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-14-qbitaicom-robotaxi",
+    "date": "2026-05-14",
+    "title": "Robotaxi第一股又涨疯了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Robotaxi第一股又涨疯了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/05/417754.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-14-36krcom-8120",
+    "date": "2026-05-14",
+    "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3808362853834502",
     "tags": [],
     "impact": ""
   },
@@ -54,20 +83,6 @@
     "source_url": "https://www.therobotreport.com/the-evolution-of-vision-connectivity-in-robotics-from-usb-and-ethernet-to-gmsl/",
     "tags": [],
     "impact": "Wed, 13 May 2026 12:13:10 +0000"
-  },
-  {
-    "id": "2026-05-13-caifuhaoeastmoneycom--115",
-    "date": "2026-05-13",
-    "title": "埃夫特游玮：机器人行业当前最大的瓶颈是缺乏技能 115",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "埃夫特游玮：机器人行业当前最大的瓶颈是缺乏技能 115",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20260513232315419783920",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-05-13-the-robot-report-",
@@ -110,19 +125,5 @@
     "source_url": "https://www.therobotreport.com/alva-industries-brings-frameless-motor-technology-2026-robotics-summit/",
     "tags": [],
     "impact": "Wed, 13 May 2026 12:30:04 +0000"
-  },
-  {
-    "id": "2026-05-12-sspaicom--romo-2--",
-    "date": "2026-05-12",
-    "title": "派早报：大疆发布扫拖机器人 ROMO 2 系列等 少数派编辑部",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "派早报：大疆发布扫拖机器人 ROMO 2 系列等 少数派编辑部",
-    "source": "sspai.com",
-    "source_url": "https://sspai.com/post/109647",
-    "tags": [],
-    "impact": ""
   }
 ]
