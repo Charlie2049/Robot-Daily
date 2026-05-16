@@ -1,15 +1,43 @@
 [
   {
-    "id": "2026-05-16-gelonghuicom-a1",
+    "id": "2026-05-16-36krcom-openlet",
     "date": "2026-05-16",
-    "title": "A股收评：沪指跌超1%，机器人概念逆势爆发，贵金属、白酒股下跌",
+    "title": "虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3811463677533704?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-16-36krcom-",
+    "date": "2026-05-16",
+    "title": "天津机器人军团，其实超能打",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "A股收评：沪指跌超1%，机器人概念逆势爆发，贵金属、白酒股下跌",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/4786790",
+    "summary": "天津机器人军团，其实超能打",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3810350538137604",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-16-m21jingjicom--",
+    "date": "2026-05-16",
+    "title": "何小鹏：以前我做机器人被取笑，现在他们来问我为什么能踩中风口 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "何小鹏：以前我做机器人被取笑，现在他们来问我为什么能踩中风口 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260516/herald/f53233240b9b0e405cdb371040bb32e5.html",
     "tags": [],
     "impact": ""
   },
@@ -41,20 +69,6 @@
     "source_url": "https://www.bloomberg.com/news/videos/2026-05-15/figure-ceo-says-humanoid-robot-test-had-no-outside-aid-video",
     "tags": [],
     "impact": "Fri, 15 May 2026 20:51:05 GMT"
-  },
-  {
-    "id": "2026-05-15-bloomberg-technology-bd-",
-    "date": "2026-05-15",
-    "title": "BD 首席执行官：人工智能、机器人技术是医疗保健转型的关键",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Tom Polen, CEO of medical technology company BD, says that in the next decade AI and robotics will transform health care in ways that will make today’s system seem archaic. Polen sits down with Bloomberg’s Caroline Hyde on the sidelines of the Consello Spark Summit. (Source: Bloomberg)（原题：AI, Robotics Key to Transforming Health Care: BD CEO）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-05-15/ai-robotics-key-to-transforming-health-care-bd-ceo-video",
-    "tags": [],
-    "impact": "Fri, 15 May 2026 14:33:22 GMT"
   },
   {
     "id": "2026-05-14-geekparknet--15--6-",
