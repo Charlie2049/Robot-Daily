@@ -14,6 +14,20 @@
     "impact": ""
   },
   {
+    "id": "2026-05-17-httpstophubtodayn74kvxwokxm-ai",
+    "date": "2026-05-17",
+    "title": "怕AI抢饭碗的美国人，在机器人身上发泄",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "怕AI抢饭碗的美国人，在机器人身上发泄",
+    "source": "https://tophub.today/n/74KvxwokxM",
+    "source_url": "https://www.bilibili.com/video/av116576451890984/",
+    "tags": [],
+    "impact": "88. 怕AI抢饭碗的美国人，在机器人身上发泄 184.9万 "
+  },
+  {
     "id": "2026-05-17-ai-botcn-grok-build--xai--ai-",
     "date": "2026-05-17",
     "title": "Grok Build – xAI 推出的终端原生 AI 编程智能体",
@@ -28,17 +42,17 @@
     "impact": ""
   },
   {
-    "id": "2026-05-17-juejincn-claude-code-1287",
+    "id": "2026-05-17-the-verge-elliq-",
     "date": "2026-05-17",
-    "title": "Claude Code 智能体是如何设计实现的？1287",
+    "title": "ElliQ 是一款对老年人非常有用的伴侣机器人",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "Claude Code 智能体是如何设计实现的？1287",
-    "source": "juejin.cn",
-    "source_url": "https://juejin.cn/post/7638807947525816366",
+    "summary": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, socializing, and engaging in hobbies. […]（原题：ElliQ is a surprisingly helpful companion robot for older adults）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
     "tags": [],
-    "impact": ""
+    "impact": "2026-05-17T09:00:00-04:00"
   }
 ]
