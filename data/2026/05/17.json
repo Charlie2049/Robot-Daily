@@ -1,43 +1,43 @@
 [
   {
-    "id": "2026-05-17-juejincn-claude-code-1091",
+    "id": "2026-05-17-36krcom-213",
     "date": "2026-05-17",
-    "title": "Claude Code 智能体是如何设计实现的？1091",
+    "title": "杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3812949703073285?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-17-ai-botcn-grok-build--xai--ai-",
+    "date": "2026-05-17",
+    "title": "Grok Build – xAI 推出的终端原生 AI 编程智能体",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "Claude Code 智能体是如何设计实现的？1091",
+    "summary": "Grok Build – xAI 推出的终端原生 AI 编程智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/grok-build/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-17-juejincn-claude-code-1287",
+    "date": "2026-05-17",
+    "title": "Claude Code 智能体是如何设计实现的？1287",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Claude Code 智能体是如何设计实现的？1287",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7638807947525816366",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-15-qbitaicom-ai",
-    "date": "2026-05-15",
-    "title": "手机的智能体AI，正在因为天玑全面跃升",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "手机的智能体AI，正在因为天玑全面跃升",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/05/417968.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-05-15-ai-botcn-tencentdb-agent-memory--",
-    "date": "2026-05-15",
-    "title": "TencentDB Agent Memory – 腾讯开源的智能体记忆管理工具",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "TencentDB Agent Memory – 腾讯开源的智能体记忆管理工具",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/tencentdb-agent-memory/",
     "tags": [],
     "impact": ""
   }
