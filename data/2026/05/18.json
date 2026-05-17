@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2026-05-18-36krcom-",
+    "date": "2026-05-18",
+    "title": "天津机器人军团，其实超能打",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "天津机器人军团，其实超能打",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3810350538137604",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-18-juejincn-mini-cc-ai-509",
+    "date": "2026-05-18",
+    "title": "mini-cc：用最小的代码，复刻一个“真正能干活”的 AI 编程智能体（并且把架构讲清楚）509",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "mini-cc：用最小的代码，复刻一个“真正能干活”的 AI 编程智能体（并且把架构讲清楚）509",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7638941724878307354",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-18-juejincn-claude-code-1413",
+    "date": "2026-05-18",
+    "title": "Claude Code 智能体是如何设计实现的？1413",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Claude Code 智能体是如何设计实现的？1413",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7638807947525816366",
+    "tags": [],
+    "impact": ""
+  }
+]
