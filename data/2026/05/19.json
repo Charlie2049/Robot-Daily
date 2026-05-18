@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2026-05-19-36krcom--321ai136",
+    "date": "2026-05-19",
+    "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3814695536336387?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-18-ieee-spectrum-robotics-",
+    "date": "2026-05-18",
+    "title": "机器人团队的代理人工智能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable architecture designed to support agentic behaviors in multi-robot environments. The talk concludes with key challenges encountered and practical lessons learned from ongoing research and development. Key learnings Provides an introduction to LLM-based AI Agents Describes an approach to applying LLM-based AI Agents to robotic teams Provides demonstrations of the approach running in hardware with a heterogeneous team of robots Presents lessons learned and future work in this area Download this free whitepaper now!（原题：Agentic AI for Robot Teams）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://events.bizzabo.com/867156",
+    "tags": [],
+    "impact": "Mon, 18 May 2026 10:00:01 +0000"
+  }
+]
