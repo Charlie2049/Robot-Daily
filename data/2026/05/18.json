@@ -1,43 +1,85 @@
 [
   {
-    "id": "2026-05-18-36krcom-",
+    "id": "2026-05-18-cbndatacom-vs-",
     "date": "2026-05-18",
-    "title": "天津机器人军团，其实超能打",
+    "title": "科沃斯VS石头科技：扫地机器人的蛋糕不够分了 锦缎",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "天津机器人军团，其实超能打",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3810350538137604",
+    "summary": "科沃斯VS石头科技：扫地机器人的蛋糕不够分了 锦缎",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295310",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-18-juejincn-mini-cc-ai-509",
+    "id": "2026-05-18-m21jingjicom-24-",
     "date": "2026-05-18",
-    "title": "mini-cc：用最小的代码，复刻一个“真正能干活”的 AI 编程智能体（并且把架构讲清楚）509",
+    "title": "煎饼机器人“出炉”又“出海”！让传统美食24小时在售 宏观",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "煎饼机器人“出炉”又“出海”！让传统美食24小时在售 宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260518/herald/cfe71832d737c37e22bd90685bd75464.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-18-qbitaicom-",
+    "date": "2026-05-18",
+    "title": "华为“养”出半个具身智能创业圈",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "华为“养”出半个具身智能创业圈",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/05/419414.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-18-juejincn-mini-cc-ai-552",
+    "date": "2026-05-18",
+    "title": "mini-cc：用最小的代码，复刻一个“真正能干活”的 AI 编程智能体（并且把架构讲清楚）552",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "mini-cc：用最小的代码，复刻一个“真正能干活”的 AI 编程智能体（并且把架构讲清楚）509",
+    "summary": "mini-cc：用最小的代码，复刻一个“真正能干活”的 AI 编程智能体（并且把架构讲清楚）552",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7638941724878307354",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-18-juejincn-claude-code-1413",
+    "id": "2026-05-18-juejincn-claude-code-1629",
     "date": "2026-05-18",
-    "title": "Claude Code 智能体是如何设计实现的？1413",
+    "title": "Claude Code 智能体是如何设计实现的？1629",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "Claude Code 智能体是如何设计实现的？1413",
+    "summary": "Claude Code 智能体是如何设计实现的？1629",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7638807947525816366",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-18-aibasecom-aiardot520openaichatgpt",
+    "date": "2026-05-18",
+    "title": "AI日报：腾讯发布设计智能体Ardot；千问5月20日将发布重大模型；OpenAI推出ChatGPT个人理财工具",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：腾讯发布设计智能体Ardot；千问5月20日将发布重大模型；OpenAI推出ChatGPT个人理财工具",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/28085",
     "tags": [],
     "impact": ""
   }
