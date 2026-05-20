@@ -1,27 +1,55 @@
 [
   {
-    "id": "2026-05-20-juejincn-mini-cc-ai-626",
+    "id": "2026-05-20-mithomecom--qwen37-max--124",
     "date": "2026-05-20",
-    "title": "mini-cc：用最小的代码，复刻一个“真正能干活”的 AI 编程智能体（并且把架构讲清楚）626",
+    "title": "阿里千问最强智能体模型 Qwen3.7-Max 发布 124评",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "mini-cc：用最小的代码，复刻一个“真正能干活”的 AI 编程智能体（并且把架构讲清楚）626",
+    "summary": "阿里千问最强智能体模型 Qwen3.7-Max 发布 124评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/952670.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-20-bloomberg-technology--cathie-wood--robotaxis",
+    "date": "2026-05-20",
+    "title": "凯西·伍德 (Cathie Wood) 表示，特斯拉和 Robotaxis“即将起飞”",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Cathie Wood of Ark Investment Management says \"the largest revenue generating opportunity from AI, in terms of embodied AI, is going to be in transportation.\" She tells Bloomberg's David Ingles that Tesla and robotaxis \"are about to take off.\" (Source: Other)（原题：Tesla and Robotaxis 'Are About to Take Off,' Cathie Wood Says）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-05-20/tesla-and-robotaxis-are-about-to-take-off-wood-says-video",
+    "tags": [],
+    "impact": "Wed, 20 May 2026 04:10:58 GMT"
+  },
+  {
+    "id": "2026-05-20-juejincn-mini-cc-ai-661",
+    "date": "2026-05-20",
+    "title": "mini-cc：用最小的代码，复刻一个“真正能干活”的 AI 编程智能体（并且把架构讲清楚）661",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "mini-cc：用最小的代码，复刻一个“真正能干活”的 AI 编程智能体（并且把架构讲清楚）661",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7638941724878307354",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-20-juejincn-claude-code-1975",
+    "id": "2026-05-20-juejincn-claude-code-2179",
     "date": "2026-05-20",
-    "title": "Claude Code 智能体是如何设计实现的？1975",
+    "title": "Claude Code 智能体是如何设计实现的？2179",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "Claude Code 智能体是如何设计实现的？1975",
+    "summary": "Claude Code 智能体是如何设计实现的？2179",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7638807947525816366",
     "tags": [],
@@ -54,20 +82,6 @@
     "source_url": "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
     "tags": [],
     "impact": "Tue, 19 May 2026 11:00:01 +0000"
-  },
-  {
-    "id": "2026-05-19-financesinacomcn--696",
-    "date": "2026-05-19",
-    "title": "国泰海通：看好机器人、半导体设备、商业航天 696",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "国泰海通：看好机器人、半导体设备、商业航天 696",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-05-19/doc-inhyknrs3471677.shtml",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-05-18-aibasecom-aiardot520openaichatgpt",
