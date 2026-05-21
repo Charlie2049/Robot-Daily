@@ -1,45 +1,58 @@
 [
   {
-    "id": "2026-05-21-36krcom-demo",
+    "id": "2026-05-21-qbitaicom-",
     "date": "2026-05-21",
-    "title": "Demo之后：人形机器人的下一个万亿赛道，不在大脑也不在本体",
+    "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Demo之后：人形机器人的下一个万亿赛道，不在大脑也不在本体",
+    "summary": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/05/420918.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-21-36krcom-ai-2026ai-partnerai",
+    "date": "2026-05-21",
+    "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3817408852886408",
+    "source_url": "https://www.36kr.com/p/3818889074557829",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-21-blogcsdnnet-2026ai-agent-46",
+    "id": "2026-05-21-ai-botcn-hypereyes--",
     "date": "2026-05-21",
-    "title": "2026年AI Agent将走向何方？十大趋势深度解析：从多模态融合到自主决策，从端侧部署到具身智能，提前布局下一个万亿级市场 4.6万",
+    "title": "HyperEyes – 小红书联合剑桥推出的并行多模态搜索智能体",
     "category": [
-      "humanoid"
+      "general"
     ],
     "region": "Global",
-    "summary": "2026年AI Agent将走向何方？十大趋势深度解析：从多模态融合到自主决策，从端侧部署到具身智能，提前布局下一个万亿级市场 4.6万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2602_94956987/article/details/161186943",
+    "summary": "HyperEyes – 小红书联合剑桥推出的并行多模态搜索智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/hypereyes/",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-20-caifuhaoeastmoneycom-ai-104",
-    "date": "2026-05-20",
-    "title": "物理AI引爆人形机器人黄金时代！稀缺的零部件卖水人，已浮出水面 104",
+    "id": "2026-05-21-ai-botcn-agora-1--odyssey-",
+    "date": "2026-05-21",
+    "title": "Agora-1 – Odyssey 推出的首款多智能体世界模型",
     "category": [
-      "humanoid",
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "物理AI引爆人形机器人黄金时代！稀缺的零部件卖水人，已浮出水面 104",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20260519161651278997550",
+    "summary": "Agora-1 – Odyssey 推出的首款多智能体世界模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/agora-1/",
     "tags": [],
     "impact": ""
   },
