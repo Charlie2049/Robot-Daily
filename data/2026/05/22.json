@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-22-m21jingjicom--5g-a",
+    "date": "2026-05-22",
+    "title": "导游机器人、外卖机器狗上岗 5G-A开启“千兆上行”时代",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "导游机器人、外卖机器狗上岗 5G-A开启“千兆上行”时代",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260522/herald/af1bccfd49b8e091de467abec0c82054.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-05-22-36krcom-1-",
     "date": "2026-05-22",
     "title": "华为“1 号员工”创业，复制大疆模式造机器人",
@@ -28,20 +42,6 @@
     "impact": ""
   },
   {
-    "id": "2026-05-21-caifuhaoeastmoneycom-7101937",
-    "date": "2026-05-21",
-    "title": "特斯拉机器人7月量产，背后真正的10家供应商！1937",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "特斯拉机器人7月量产，背后真正的10家供应商！1937",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20260521183705841954200",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-05-21-ieee-spectrum-robotics-",
     "date": "2026-05-21",
     "title": "物理人工智能的未来不是更智能的机器人，而是更智能的界面",
@@ -54,6 +54,20 @@
     "source_url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
     "tags": [],
     "impact": "Thu, 21 May 2026 10:00:02 +0000"
+  },
+  {
+    "id": "2026-05-21-cnbc-technology-",
+    "date": "2026-05-21",
+    "title": "机器人就业培训：中国如何让机器做好加入劳动力队伍的准备",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Tesla CEO Elon Musk said on the company's fourth-quarter earnings call that China is the biggest competition for humanoid robots.（原题：Job training for robots: How China is getting machines ready to join the workforce）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html",
+    "tags": [],
+    "impact": "Thu, 21 May 2026 21:07:25 GMT"
   },
   {
     "id": "2026-05-21-ieee-spectrum-robotics-",
@@ -83,5 +97,33 @@
     "source_url": "https://www.therobotreport.com/humanoid-partners-with-bosch-schaeffler-scale-robot-production/",
     "tags": [],
     "impact": "Thu, 21 May 2026 11:00:35 +0000"
+  },
+  {
+    "id": "2026-05-21-the-robot-report-fanuc--google-",
+    "date": "2026-05-21",
+    "title": "FANUC 与 Google 合作推进机器人的物理人工智能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Since FANUC released its physical AI system at IREX in Tokyo, customer interest has grown rapidly, and it is working with Google and NVIDIA. The post FANUC partners with Google to advance physical AI in its robots appeared first on The Robot Report .（原题：FANUC partners with Google to advance physical AI in its robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/fanuc-partners-google-advance-physical-ai-robots/",
+    "tags": [],
+    "impact": "Thu, 21 May 2026 17:33:43 +0000"
+  },
+  {
+    "id": "2026-05-21-the-robot-report-brain-corp-",
+    "date": "2026-05-21",
+    "title": "Brain Corp 与加州大学圣地亚哥分校合作，帮助机器人在复杂环境中运行",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The AI collaboration with UC San Diego builds on Brain’s operational footprint, including more than 50,000 robots deployed globally. The post Brain Corp partners with UC San Diego to help robots operate in complex environments appeared first on The Robot Report .（原题：Brain Corp partners with UC San Diego to help robots operate in complex environments）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/brain-corp-partners-uc-san-diego-help-robots-operate-complex-environments/",
+    "tags": [],
+    "impact": "Thu, 21 May 2026 20:07:52 +0000"
   }
 ]
