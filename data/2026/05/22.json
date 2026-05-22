@@ -1,43 +1,86 @@
 [
   {
-    "id": "2026-05-22-m21jingjicom--5g-a",
+    "id": "2026-05-22-blogcsdnnet--ai0624",
     "date": "2026-05-22",
-    "title": "导游机器人、外卖机器狗上岗 5G-A开启“千兆上行”时代",
+    "title": "读智能涌现： AI时代的思考与探索06自动驾驶(下)2.4万",
     "category": [
-      "robotics"
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "导游机器人、外卖机器狗上岗 5G-A开启“千兆上行”时代",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260522/herald/af1bccfd49b8e091de467abec0c82054.html",
+    "summary": "读智能涌现： AI时代的思考与探索06自动驾驶(下)2.4万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/lyingSeven/article/details/160986525",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-22-36krcom-1-",
+    "id": "2026-05-22-36krcom-cv--ai-agent--2026ai-partnerai",
     "date": "2026-05-22",
-    "title": "华为“1 号员工”创业，复制大疆模式造机器人",
+    "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "华为“1 号员工”创业，复制大疆模式造机器人",
+    "summary": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3818735041028353",
+    "source_url": "https://www.36kr.com/p/3820220616495492",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-22-36krcom-",
+    "id": "2026-05-22-36krcom-1",
     "date": "2026-05-22",
-    "title": "为了还原具身智能科研市场的全貌，我们找了多个头部高校聊聊",
+    "title": "宇树最大对手要上市了，但去年只卖了1台人形机器人",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树最大对手要上市了，但去年只卖了1台人形机器人",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3820191662874880",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-22-m21jingjicom-",
+    "date": "2026-05-22",
+    "title": "关于人工智能、具身智能、集成电路，国家发改委重磅回应！宏观",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "为了还原具身智能科研市场的全貌，我们找了多个头部高校聊聊",
+    "summary": "关于人工智能、具身智能、集成电路，国家发改委重磅回应！宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260522/herald/fe299e7ea8e9c5ad6464cc13984d79e4.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-22-36krcom-7000",
+    "date": "2026-05-22",
+    "title": "优必选等在温州成立具身智能科技公司，注册资本7000万",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "优必选等在温州成立具身智能科技公司，注册资本7000万",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3818909512687875",
+    "source_url": "https://36kr.com/newsflashes/3820258546077830?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-22-blogcsdnnet-ai-agent-26",
+    "date": "2026-05-22",
+    "title": "AI Agent在汽车与出行领域的应用：自动驾驶与智能座舱 2.6万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "AI Agent在汽车与出行领域的应用：自动驾驶与智能座舱 2.6万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/m0_62554628/article/details/161266053",
     "tags": [],
     "impact": ""
   },
@@ -77,7 +120,7 @@
       "robotics"
     ],
     "region": "Global",
-    "summary": "When a group of academics started making open-source robotics hardware , a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s starting to be open-sourced too. The shift is still early, but companies including Hugging Face, Nvidia, and Alibaba have all made significant bets on open-source robotics in the last two years, releasing tools and models aimed at the higher-level work of getting robots to reason, decide, and act. The open source movement that accelerated other AI applications is now being applied to the problem of making robots smarter. If these attempts to bring AI to robotics with open-source platforms succeed, the barrier to building a capable robot could fall as fast as the barrier to building an AI application did. The world ROS built Open-source robotics software has been around since the mid-1990s, with early projects like Carnegie Mellon’s Inter-Process Communication package and the Player project in the early 2000s laying the groundwork. But these were often tied to specific research groups, and the field remained fragmented. The Robot Operating System, ROS, changed that when it made its debut in 2007. By bundling tools and attracting more users, it became the de facto standard. The story of open-source robotics, in many ways, starts there. Despite its name, ROS is not actually an operating system. Rather, it is a software framework that sits on top of Linux and handles robotic fundamentals like moving data between components, talking to hardware, building maps, planning paths, and supporting developer tools, such as data logging and visualization. Before ROS, every robotics team wrote that infrastructure themselves. It often took a year or two before a lab could get to the research it actually cared about. Brian Gerkey , who helped build ROS in the mid-2000s, says he was drawn to the project because of how much open source had already changed the world, pointing out that nearly the entire internet is built on it . “I’m a tool builder, and I like to share everything as openly as I possibly can, because I think that’s where we get the most impact out of what we build,” says Gerkey, Board Chair at Open Robotics and now CTO at Intrinsic , a robotics and AI unit of Google. As it was developing, the AI community largely took the same approach, sharing research, models, and data openly, and the field accelerated faster than almost anyone predicted. Now some of those same advancements are arriving in robotics. Open-source AI for robotics Computer vision, once a hard problem, has advanced dramatically in just a few years, says Spencer Huang , Nvidia’s director of product for robotics. What once required significant expertise can now be done in a few lines of code. Simulation tools have become accurate enough to be useful for training, and access to the tooling that once required a specialized lab is now widely available, much of it open source. “To get into robotics, you no longer need a Ph.D.,” he says. The result is a much larger pool of people who can contribute, and the field is starting to look less like a specialized discipline and more like a platform that anyone can build on. Nvidia has built out an open-source robotics stack that covers the full development pipeline. Its Cosmos world models generate synthetic training data and simulate physical environments. Its GR00T models give robots the ability to reason about and execute complex tasks. And its Isaac frameworks handle the orchestration that ties training, simulation, and deployment together. Not everyone needs to train the robots from scratch, Huang says, and most people probably shouldn’t. “If you gate pre-training, the field just never grows,” he says. “We should be able to provide a high-quality, state-of-the-art pre-trained model that anyone can go and take and fine tune for their own purposes.” All of Nvidia’s open-source models live on Hugging Face, the open-source AI platform that has become the default place to share models and datasets. Hugging Face launched LeRobot , a community platform for robotics AI, in May 2024. Since its launch, the number of robotics datasets on the platform grew from 1,145 at the end of 2024 to more than 58,000 today, making it the single largest dataset category on the hub. Hugging Face has also moved into hardware, acquiring robotics company Pollen Robotics . The acquisition came from a realization that software alone was not enough, according to Clement Delangue , Hugging Face’s CEO. The goal, as with the software, was to bring more people in. The contributors to LeRobot include the biggest names in the industry, academic labs, and hobbyists building robots in their spare time. For instance, Alibaba released RynnBrain earlier this year, an open-source foundation model for physical AI that the company claims outperforms comparable offerings from Google and Nvidia on benchmarks. That diversity of projects, Delangue says, is important. “It is not just one model or one dataset or one hardware,” he says. “It is a lot of small contributions that everyone can be part of.” Commercial incentives muddle the field The stakes, Delangue says, go beyond convenience. A world where only a few proprietary systems control the robots in people’s homes is a concerning one. “Having robots at home that you don’t really understand, that you don’t really control, that a few people in Silicon Valley control is a scary thought,” he says. “Open source gives an alternative path.” But getting there is not straightforward. The open sourcing happening now looks different from what produced ROS, which emerged largely from academics pooling their work with no commercial stake in the outcome. The biggest contributors today are companies with clear business reasons to want more people building on their platforms. That’s not necessarily a bad thing, says Bill Smart , a professor at Oregon State University who was part of the early open-source robotics community. But the incentives are worth being aware of. He also worries that the lowered barrier to entry has a downside. Researchers coming from AI without a robotics background are sometimes solving problems the field already solved. A newcomer might spend a week training a neural network to move a robot’s hand from one point to another, unaware that the same task can be accomplished with a few lines of code using decades-old techniques. The incentives are not always pointing in the same direction as the progress. Smart is not without hope though. Whatever the motives behind the open sourcing, he says, the effect is real. More people are in the field than ever before, the tools are genuinely easier to use, and the community is bigger and more diverse than anything that existed when ROS was getting started. “Anyone can make a robot move now,” he says. “As an old tech guy, that makes me happy and sad, because I’m no longer special.”（原题：Open-Source Software Is Starting to Help Robots Think）",
+    "summary": "When a group of academics started making open-source robotics hardware , a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s starting to be open sourced too. The shift is still early, but companies including Hugging Face, Nvidia, and Alibaba have all made significant bets on open-source robotics in the last two years, releasing tools and models aimed at the higher-level work of getting robots to reason, decide, and act. The open source movement that accelerated other AI applications is now being applied to the problem of making robots smarter. If these attempts to bring AI to robotics with open-source platforms succeed, the barrier to building a capable robot could fall as fast as the barrier to building an AI application did. The world ROS built Open-source robotics software has been around since the mid-1990s, with early projects like Carnegie Mellon University’s Inter-Process Communication package and the Player Project in the early 2000s laying the groundwork. But these were often tied to specific research groups, and the field remained fragmented. The Robot Operating System, ROS, changed that when it made its debut in 2007. By bundling tools and attracting more users, it became the de facto standard. The story of open-source robotics, in many ways, starts there. Despite its name, ROS is not actually an operating system. Rather, it is a software framework that sits on top of Linux and handles robotic fundamentals like moving data between components, talking to hardware, building maps, planning paths, and supporting developer tools, such as data logging and visualization. Before ROS, every robotics team wrote that infrastructure themselves. It often took a year or two before a lab could get to the research it actually cared about. Brian Gerkey , who helped build ROS in the mid-2000s, says he was drawn to the project because of how much open source had already changed the world, pointing out that nearly the entire internet is built on it . “I’m a tool builder, and I like to share everything as openly as I possibly can, because I think that’s where we get the most impact out of what we build,” says Gerkey, board chair of Open Robotics and now CTO at Intrinsic , a robotics and AI unit of Google. As it was developing, the AI community largely took the same approach, sharing research, models, and data openly, and the field accelerated faster than almost anyone predicted. Now some of those same advancements are arriving in robotics. Open-source AI for robotics Computer vision, once a hard problem, has advanced dramatically in just a few years, says Spencer Huang , Nvidia’s director of product for robotics. What once required significant expertise can now be done in a few lines of code. Simulation tools have become accurate enough to be useful for training, and access to the tooling that once required a specialized lab is now widely available, much of it open source. “To get into robotics, you no longer need a Ph.D.,” he says. The result is a much larger pool of people who can contribute, and the field is starting to look less like a specialized discipline and more like a platform that anyone can build on. Nvidia has built out an open-source robotics stack that covers the full development pipeline. Its Cosmos world models generate synthetic training data and simulate physical environments. Its GR00T models give robots the ability to reason through and execute complex tasks. And its Isaac frameworks handle the orchestration that ties training, simulation, and deployment together. Not everyone needs to train the robots from scratch, Huang says, and most people probably shouldn’t. “If you gate pre-training, the field just never grows,” he says. “We should be able to provide a high-quality, state-of-the-art pre-trained model that anyone can go and take and fine tune for their own purposes.” All of Nvidia’s open-source models live on Hugging Face, the open-source AI platform that has become the default place to share models and datasets. Hugging Face launched LeRobot , a community platform for robotics AI, in May 2024. Since its launch, the number of robotics datasets on the platform grew from 1,145 at the end of 2024 to more than 58,000 today, making it the single largest dataset category on the hub. Hugging Face has also moved into hardware, acquiring robotics company Pollen Robotics . The acquisition came from a realization that software alone was not enough, according to Clement Delangue , Hugging Face’s CEO. The goal, as with the software, was to bring more people in. The contributors to LeRobot include the biggest names in the industry, academic labs, and hobbyists building robots in their spare time. For instance, earlier this year, Alibaba released RynnBrain , an open-source foundation model for physical AI that the company claims outperforms comparable offerings from Google and Nvidia on benchmarks. That diversity of projects, Delangue says, is important. “It is not just one model or one dataset or one hardware,” he says. “It is a lot of small contributions that everyone can be part of.” Commercial incentives muddle the field The stakes, Delangue says, go beyond convenience. A world where only a few proprietary systems control the robots in people’s homes is a concerning one. “Having robots at home that you don’t really understand, that you don’t really control, that a few people in Silicon Valley control is a scary thought,” he says. “Open source gives an alternative path.” But getting there is not straightforward. The open sourcing happening now looks different from what produced ROS, which emerged largely from academics pooling their work with no commercial stake in the outcome. The biggest contributors today are companies with clear business reasons to want more people building on their platforms. That’s not necessarily a bad thing, says Bill Smart , a professor at Oregon State University, in Corvallis, who was part of the early open-source robotics community. But the incentives are worth being aware of. He also worries that the lowered barrier to entry has a downside. Researchers coming from AI without a robotics background are sometimes solving problems the field already solved. A newcomer might spend a week training a neural network to move a robot’s hand from one point to another, unaware that the same task can be accomplished with a few lines of code using decades-old techniques. The incentives are not always pointing in the same direction as the progress. Smart is not without hope though. Whatever the motives behind the open sourcing, he says, the effect is real. More people are in the field than ever before, the tools are genuinely easier to use, and the community is bigger and more diverse than anything that existed when ROS was getting started. “Anyone can make a robot move now,” he says. “As an old tech guy, that makes me happy and sad, because I’m no longer special.”（原题：Open-Source Software Is Starting to Help Robots Think）",
     "source": "IEEE Spectrum Robotics",
     "source_url": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
     "tags": [],
