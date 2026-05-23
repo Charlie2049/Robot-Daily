@@ -1,29 +1,58 @@
 [
   {
-    "id": "2026-05-23-the-robot-report--yrg-robotics-chris-elston--plc-",
+    "id": "2026-05-23-36krcom-ai",
     "date": "2026-05-23",
-    "title": "与 YRG Robotics Chris Elston 探索 PLC 和机器人集成",
+    "title": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3821580899553668",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-23-the-robot-report--yrg-robotics--chris-elston--plc-",
+    "date": "2026-05-23",
+    "title": "与 YRG Robotics 的 Chris Elston 一起探索 PLC 和机器人集成",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Chris Elston discusses PLC integration, Yamaha Robotics, and AI's future in automation, highlighting accessibility and innovation. The post Exploring PLC and robot integration with YRG Robotics Chris Elston appeared first on The Robot Report .（原题：Exploring PLC and robot integration with YRG Robotics Chris Elston）",
+    "summary": "Chris Elston discusses PLC integration, Yamaha Robotics, and AI's role in advancing automation accessibility and innovation. The post Exploring PLC and robot integration with YRG Robotics’ Chris Elston appeared first on The Robot Report .（原题：Exploring PLC and robot integration with YRG Robotics’ Chris Elston）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/exploring-plc-and-robot-integration-with-yrg-robotics-chris-elston/",
     "tags": [],
     "impact": "Sat, 23 May 2026 00:17:49 +0000"
   },
   {
-    "id": "2026-05-23-blogcsdnnet-ai-agent-29",
+    "id": "2026-05-23-blogcsdnnet-ai-agent-28",
     "date": "2026-05-23",
-    "title": "AI Agent在交通领域的自动驾驶 2.9万",
+    "title": "AI Agent在交通领域的自动驾驶 2.8万",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "AI Agent在交通领域的自动驾驶 2.9万",
+    "summary": "AI Agent在交通领域的自动驾驶 2.8万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/2301_79832637/article/details/161324061",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-23-36krcom-36--",
+    "date": "2026-05-23",
+    "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3821371042877575?f=rss",
     "tags": [],
     "impact": ""
   },
