@@ -1,19 +1,5 @@
 [
   {
-    "id": "2026-05-24-36krcom-cv--ai-agent--2026ai-partnerai",
-    "date": "2026-05-24",
-    "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3820220616495492",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-05-24-36krcom-1",
     "date": "2026-05-24",
     "title": "宇树最大对手要上市了，但去年只卖了1台人形机器人",
@@ -25,6 +11,20 @@
     "summary": "宇树最大对手要上市了，但去年只卖了1台人形机器人",
     "source": "36kr.com",
     "source_url": "https://www.36kr.com/p/3820191662874880",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-24-blogcsdnnet-ai-agent-21",
+    "date": "2026-05-24",
+    "title": "AI Agent在汽车与出行领域的应用：自动驾驶与智能座舱 2.1万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "AI Agent在汽车与出行领域的应用：自动驾驶与智能座舱 2.1万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/m0_62554628/article/details/161266053",
     "tags": [],
     "impact": ""
   }
