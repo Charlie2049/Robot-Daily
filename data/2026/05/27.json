@@ -15,20 +15,6 @@
     "impact": ""
   },
   {
-    "id": "2026-05-27-gelonghuicom-ipo",
-    "date": "2026-05-27",
-    "title": "上会日期敲定！宇树冲刺IPO，机器人板块应声走强",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "上会日期敲定！宇树冲刺IPO，机器人板块应声走强",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/4926340",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-05-27-36krcom-30550robindamd",
     "date": "2026-05-27",
     "title": "30分钟整合550篇文献，生物学多智能体Robin跑通自主科研闭环，挖掘dAMD候选疗法",
@@ -83,6 +69,20 @@
     "source_url": "https://www.therobotreport.com/xela-robotics-show-tactile-sensing-2026-robotics-summit-expo/",
     "tags": [],
     "impact": "Tue, 26 May 2026 14:35:02 +0000"
+  },
+  {
+    "id": "2026-05-26-the-robot-report-gmsl-",
+    "date": "2026-05-26",
+    "title": "GMSL 和围绕机器人视觉系统不断发展的生态系统",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Sponsored by Analog Devices Inc. Just a few years ago, many site owners were satisfied if a robot could move from point A to point B. That’s not quite enough anymore. Today’s robots are being asked to move faster, operate in more dynamic environments, and deal with more obstacles along the way. As those demands… The post GMSL and the growing ecosystem around robotic vision systems appeared first on The Robot Report .（原题：GMSL and the growing ecosystem around robotic vision systems）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/gmsl-and-the-growing-ecosystem-around-robotic-vision-systems-2/",
+    "tags": [],
+    "impact": "Tue, 26 May 2026 20:34:40 +0000"
   },
   {
     "id": "2026-05-26-the-robot-report-allient--2026-",
