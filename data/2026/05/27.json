@@ -2,29 +2,86 @@
   {
     "id": "2026-05-27-36krcom-",
     "date": "2026-05-27",
-    "title": "人形机器人进入深水区：岗位优先，热度靠边",
+    "title": "让机器人拥有触觉，新智具身天使轮融资近亿",
     "category": [
       "humanoid",
-      "robotics"
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "人形机器人进入深水区：岗位优先，热度靠边",
+    "summary": "让机器人拥有触觉，新智具身天使轮融资近亿",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3825951391240838",
+    "source_url": "https://www.36kr.com/p/3826847117070979",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-27-36krcom-30550robindamd",
+    "id": "2026-05-27-jisilucn-217",
     "date": "2026-05-27",
-    "title": "30分钟整合550篇文献，生物学多智能体Robin跑通自主科研闭环，挖掘dAMD候选疗法",
+    "title": "科技轮动的顺序，下个是机器人（上游零部件）/电力/恒科/创新药？217",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "科技轮动的顺序，下个是机器人（上游零部件）/电力/恒科/创新药？217",
+    "source": "jisilu.cn",
+    "source_url": "https://www.jisilu.cn/question/521781",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-27-bloomberg-technology-11",
+    "date": "2026-05-27",
+    "title": "中国将向塞尔维亚投资11亿美元用于人工智能、机器人和汽车",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Chinese companies will pour an additional €940 million ($1.1 billion) to expand their footprint in Serbia, in a major boost to the Balkan country’s economy, President Aleksandar Vucic said.（原题：China to Invest $1.1 Billion in Serbia in AI, Robots and Cars）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-05-27/china-to-invest-1-1-billion-in-serbia-in-ai-robots-and-cars",
+    "tags": [],
+    "impact": "Wed, 27 May 2026 09:11:13 GMT"
+  },
+  {
+    "id": "2026-05-27-blogcsdnnet-igniteostai-28",
+    "date": "2026-05-27",
+    "title": "Ignite与OST携手攻克自动驾驶汽车AI合规难题 2.8万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "Ignite与OST携手攻克自动驾驶汽车AI合规难题 2.8万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/zhidingkeji/article/details/161431204",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-27-blogcsdnnet-flashattentionai-28",
+    "date": "2026-05-27",
+    "title": "FlashAttention与自动驾驶：让AI做出安全驾驶决策 2.8万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "FlashAttention与自动驾驶：让AI做出安全驾驶决策 2.8万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/2501_94610615/article/details/161397132",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-27-36krcom-7bo3gpt-5ai",
+    "date": "2026-05-27",
+    "title": "7B打败o3、GPT-5，医学AI智能体让模型学会“看哪里、怎么看”",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "30分钟整合550篇文献，生物学多智能体Robin跑通自主科研闭环，挖掘dAMD候选疗法",
+    "summary": "7B打败o3、GPT-5，医学AI智能体让模型学会“看哪里、怎么看”",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3825907838784385",
+    "source_url": "https://www.36kr.com/p/3827353790059143",
     "tags": [],
     "impact": ""
   },
@@ -41,20 +98,6 @@
     "source_url": "https://sspai.com/post/110184",
     "tags": [],
     "impact": ""
-  },
-  {
-    "id": "2026-05-26-bloomberg-technology-ai2026robotaxi",
-    "date": "2026-05-26",
-    "title": "小马AI提升2026年Robotaxi车队目标，实现更快增长",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Pony AI Inc. raised its robotaxi fleet target for this year by 500 vehicles to 3,500 after reporting stronger-than-expected first-quarter revenue.（原题：Pony AI Lifts 2026 Robotaxi Fleet Goal on Faster Growth）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-05-26/pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-on-fast-growth",
-    "tags": [],
-    "impact": "Tue, 26 May 2026 09:36:22 GMT"
   },
   {
     "id": "2026-05-26-the-robot-report-xela-robotics--2026-",
@@ -99,20 +142,6 @@
     "impact": "Tue, 26 May 2026 13:01:55 +0000"
   },
   {
-    "id": "2026-05-26-ai-botcn-agentscope-20--",
-    "date": "2026-05-26",
-    "title": "AgentScope 2.0 – 通义实验室开源的多智能体开发框架",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AgentScope 2.0 – 通义实验室开源的多智能体开发框架",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/agentscope-2-0/",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-05-26-the-robot-report-2026-",
     "date": "2026-05-26",
     "title": "2026 年机器人峰会暨博览会所有活动指南",
@@ -125,19 +154,5 @@
     "source_url": "https://www.therobotreport.com/a-guide-to-everything-happening-at-the-2026-robotics-summit-expo/",
     "tags": [],
     "impact": "Tue, 26 May 2026 12:00:32 +0000"
-  },
-  {
-    "id": "2026-05-25-qbitaicom-waymorobotaxi",
-    "date": "2026-05-25",
-    "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/05/424610.html",
-    "tags": [],
-    "impact": ""
   }
 ]
