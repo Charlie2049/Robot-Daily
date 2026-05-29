@@ -1,27 +1,41 @@
 [
   {
-    "id": "2026-05-28-mithomecom-l3--l4-90",
+    "id": "2026-05-29-cnbc-technology--robotaxi--waymo-",
+    "date": "2026-05-29",
+    "title": "文件显示，特斯拉在德克萨斯州的 Robotaxi 车队规模还不到 Waymo 的十分之一",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Tesla has registered 42 automated vehicles in its driverless Robotaxi service in Texas, putting it far behind Waymo in the state.（原题：Tesla Robotaxi fleet in Texas less than one-tenth size of Waymo's, filings reveal）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/05/28/tesla-robotaxi-fleet-texas-one-tenth-size-of-waymos-filings-reveal.html",
+    "tags": [],
+    "impact": "Fri, 29 May 2026 00:03:40 GMT"
+  },
+  {
+    "id": "2026-05-28-mithomecom-l3--l4-96",
     "date": "2026-05-28",
-    "title": "王传福：比亚迪天神之眼自动驾驶版（L3 / L4）将首搭超千线激光雷达 90评",
+    "title": "王传福：比亚迪天神之眼自动驾驶版（L3 / L4）将首搭超千线激光雷达 96评",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "王传福：比亚迪天神之眼自动驾驶版（L3 / L4）将首搭超千线激光雷达 90评",
+    "summary": "王传福：比亚迪天神之眼自动驾驶版（L3 / L4）将首搭超千线激光雷达 96评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/956779.htm",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-28-mithomecom--4nm--a3--l3l4--236",
+    "id": "2026-05-28-mithomecom--4nm--a3--l3l4--252",
     "date": "2026-05-28",
-    "title": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶 236评",
+    "title": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶 252评",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶 236评",
+    "summary": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶 252评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/956780.htm",
     "tags": [],
@@ -54,34 +68,6 @@
     "source_url": "https://www.cnbc.com/2026/05/28/waymo-opens-ojai-robotaxis-to-some-riders-aims-to-lower-cost-of-fleet.html",
     "tags": [],
     "impact": "Thu, 28 May 2026 15:57:22 GMT"
-  },
-  {
-    "id": "2026-05-28-bloomberg-technology-waymo--zeekr--robotaxi-",
-    "date": "2026-05-28",
-    "title": "Waymo 将部署由 Zeekr 打造的 Robotaxi 以扩大公共乘车范围",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Alphabet Inc.’s Waymo unit will deploy a new autonomous vehicle designed specifically for robotaxi use, offering public rides in California and Arizona without human supervision.（原题：Waymo to Deploy Robotaxi Built With Zeekr to Expand Public Rides）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-05-28/waymo-to-deploy-robotaxi-built-with-zeekr-to-expand-public-rides",
-    "tags": [],
-    "impact": "Thu, 28 May 2026 15:00:00 GMT"
-  },
-  {
-    "id": "2026-05-28-the-verge-waymo--ojai-",
-    "date": "2026-05-28",
-    "title": "Waymo 全新 Ojai 机器人出租车将开始载客",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "After several months of testing, Waymo is finally ready to invite non-employee passengers into its newest vehicle, the Zeekr RT minivan, which has been rebranded as Ojai. Waymo says it will begin offering \"select riders\" access in San Francisco, Los Angeles, and Phoenix, before \"gradually\" expanding to more riders and cities. Trips will be free […]（原题：Waymo to begin passenger rides in its new Ojai robotaxi）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/transportation/938156/waymo-zeekr-ojai-robotaxi-passenger-trips",
-    "tags": [],
-    "impact": "2026-05-28T11:00:00-04:00"
   },
   {
     "id": "2026-05-28-ai-botcn-wall-oss-05--",
