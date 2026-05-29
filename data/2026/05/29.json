@@ -14,28 +14,85 @@
     "impact": "Fri, 29 May 2026 00:03:40 GMT"
   },
   {
-    "id": "2026-05-28-mithomecom-l3--l4-96",
+    "id": "2026-05-29-bloomberg-technology-",
+    "date": "2026-05-29",
+    "title": "投资者在人形机器人上押下重注",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "the Humanoids Summit in Tokyo gathers leading companies, builders, and investors from around the world for live humanoid demonstrations and talks on commercialization, mass production, and safety. (Source: Bloomberg)（原题：Investors Bet Big on Humanoid Robots）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-05-29/investors-bet-big-on-humanoid-robots-video",
+    "tags": [],
+    "impact": "Fri, 29 May 2026 03:21:06 GMT"
+  },
+  {
+    "id": "2026-05-29-qbitaicom-workbuddymiora",
+    "date": "2026-05-29",
+    "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/05/426400.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-29-qbitaicom-",
+    "date": "2026-05-29",
+    "title": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/05/426366.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-29-qbitaicom-claude-48mythos",
+    "date": "2026-05-29",
+    "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/05/426314.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-28-mithomecom-l3--l4-114",
     "date": "2026-05-28",
-    "title": "王传福：比亚迪天神之眼自动驾驶版（L3 / L4）将首搭超千线激光雷达 96评",
+    "title": "王传福：比亚迪天神之眼自动驾驶版（L3 / L4）将首搭超千线激光雷达 114评",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "王传福：比亚迪天神之眼自动驾驶版（L3 / L4）将首搭超千线激光雷达 96评",
+    "summary": "王传福：比亚迪天神之眼自动驾驶版（L3 / L4）将首搭超千线激光雷达 114评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/956779.htm",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-05-28-mithomecom--4nm--a3--l3l4--252",
+    "id": "2026-05-28-mithomecom--4nm--a3--l3l4--327",
     "date": "2026-05-28",
-    "title": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶 252评",
+    "title": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶 327评",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶 252评",
+    "summary": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶 327评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/956780.htm",
     "tags": [],
@@ -68,21 +125,6 @@
     "source_url": "https://www.cnbc.com/2026/05/28/waymo-opens-ojai-robotaxis-to-some-riders-aims-to-lower-cost-of-fleet.html",
     "tags": [],
     "impact": "Thu, 28 May 2026 15:57:22 GMT"
-  },
-  {
-    "id": "2026-05-28-ai-botcn-wall-oss-05--",
-    "date": "2026-05-28",
-    "title": "Wall-OSS-0.5 – 自变量机器人开源的国产具身智能模型",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Wall-OSS-0.5 – 自变量机器人开源的国产具身智能模型",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/wall-oss-0-5/",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-05-28-the-robot-report-2026-",
