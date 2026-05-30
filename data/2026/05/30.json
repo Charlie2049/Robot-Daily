@@ -1,13 +1,28 @@
 [
   {
-    "id": "2026-05-30-blogcsdnnet--28",
+    "id": "2026-05-30-cnbc-technology-",
     "date": "2026-05-30",
-    "title": "算力的理性回归：自动驾驶下半场的算力之争 2.8万",
+    "title": "这家与特朗普有关联的初创公司计划将人形机器人投入军队",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.（原题：This Trump-linked startup plans to put humanoid robots in the military）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
+    "tags": [],
+    "impact": "Sat, 30 May 2026 10:03:32 GMT"
+  },
+  {
+    "id": "2026-05-30-blogcsdnnet--27",
+    "date": "2026-05-30",
+    "title": "算力的理性回归：自动驾驶下半场的算力之争 2.7万",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "算力的理性回归：自动驾驶下半场的算力之争 2.8万",
+    "summary": "算力的理性回归：自动驾驶下半场的算力之争 2.7万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/redmustdie/article/details/161519099",
     "tags": [],
