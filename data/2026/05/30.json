@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-30-blogcsdnnet--28",
+    "date": "2026-05-30",
+    "title": "算力的理性回归：自动驾驶下半场的算力之争 2.8万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "算力的理性回归：自动驾驶下半场的算力之争 2.8万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/redmustdie/article/details/161519099",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-05-30-36krcom-",
+    "date": "2026-05-30",
+    "title": "机器人不像人，还算“赛博物种”吗？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人不像人，还算“赛博物种”吗？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3831238496167808",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-05-30-36krcom-beyond-expophysical-ai",
     "date": "2026-05-30",
     "title": "普渡机器人创始人张涛出席BEYOND Expo开幕式，共话“数实共生”下的Physical AI路径",
@@ -14,17 +42,17 @@
     "impact": ""
   },
   {
-    "id": "2026-05-29-caifuhaoeastmoneycom-optimus-67",
-    "date": "2026-05-29",
-    "title": "特斯拉人形机器人Optimus核心零部件黑马，即将浮出水面 67",
+    "id": "2026-05-30-36krcom-36--",
+    "date": "2026-05-30",
+    "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
     "category": [
-      "humanoid",
-      "robotics"
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "特斯拉人形机器人Optimus核心零部件黑马，即将浮出水面 67",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20260529162259133039360",
+    "summary": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3831135917107075?f=rss",
     "tags": [],
     "impact": ""
   },
@@ -45,7 +73,7 @@
   {
     "id": "2026-05-29-the-robot-report-nist-",
     "date": "2026-05-29",
-    "title": "NIST 提出了人形机器人的基线性能基准",
+    "title": "NIST 提出了人形机器人的基准性能基准",
     "category": [
       "humanoid",
       "robotics"
@@ -56,19 +84,5 @@
     "source_url": "https://www.therobotreport.com/nist-proposes-a-baseline-performance-benchmark-for-humanoid-robots/",
     "tags": [],
     "impact": "Fri, 29 May 2026 14:24:18 +0000"
-  },
-  {
-    "id": "2026-05-28-ifanrcom-2--",
-    "date": "2026-05-28",
-    "title": "对话云鲸创始人张峻彬：2 年之后，扫地机器人就有「手」干更多活了 专访",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "对话云鲸创始人张峻彬：2 年之后，扫地机器人就有「手」干更多活了 专访",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1667261",
-    "tags": [],
-    "impact": ""
   }
 ]
