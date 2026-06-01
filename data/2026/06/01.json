@@ -1,43 +1,130 @@
 [
   {
-    "id": "2026-06-01-36krcom-",
+    "id": "2026-06-01-mithomecom-40--3--238",
     "date": "2026-06-01",
-    "title": "机器人不像人，还算“赛博物种”吗？",
+    "title": "辅助驾驶≠自动驾驶！司机开“智驾”40 秒后追尾致 3 死，曾双手脱离方向盘 238评",
     "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "辅助驾驶≠自动驾驶！司机开“智驾”40 秒后追尾致 3 死，曾双手脱离方向盘 238评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/958080.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-01-m21jingjicom-",
+    "date": "2026-06-01",
+    "title": "记者观察｜过会的宇树科技，不再只是“人形机器人第一股”证券",
+    "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人不像人，还算“赛博物种”吗？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3831238496167808",
+    "summary": "记者观察｜过会的宇树科技，不再只是“人形机器人第一股”证券",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260601/herald/d3c1d737ea6a875792a06c2fcfd3b271.html",
     "tags": [],
     "impact": ""
   },
   {
     "id": "2026-06-01-36krcom-",
     "date": "2026-06-01",
-    "title": "成都卡诺普机器人技术股份有限公司向港交所提交上市申请书",
+    "title": "稚晖君不是智元机器人的全部",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "成都卡诺普机器人技术股份有限公司向港交所提交上市申请书",
+    "summary": "稚晖君不是智元机器人的全部",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3833801704269443?f=rss",
+    "source_url": "https://www.36kr.com/p/3834085403830146",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-01-36krcom-",
+    "id": "2026-06-01-m21jingjicom-",
     "date": "2026-06-01",
-    "title": "宇树上会，机器人会成为半导体下一个超级终端吗？",
+    "title": "明星宇树自揭伤疤，人形机器人行业真相藏不住了！公司",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "明星宇树自揭伤疤，人形机器人行业真相藏不住了！公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260601/herald/d4d4a373ed6ff4e4317ec930e4b3848f.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-01-ifanrcom--ai--mirror-ai-agent--",
+    "date": "2026-06-01",
+    "title": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入 制糖工厂",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入 制糖工厂",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1667606",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-01-cnbc-technology--unitree-",
+    "date": "2026-06-01",
+    "title": "中国初创公司考虑首次公开募股，英伟达选择 Unitree 作为人形机器人平台",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.（原题：Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
+    "tags": [],
+    "impact": "Mon, 01 Jun 2026 05:45:45 GMT"
+  },
+  {
+    "id": "2026-06-01-36krcom-openai",
+    "date": "2026-06-01",
+    "title": "OpenAI重返机器人赛道，四大核心岗位开招",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树上会，机器人会成为半导体下一个超级终端吗？",
+    "summary": "OpenAI重返机器人赛道，四大核心岗位开招",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3832629304780423",
+    "source_url": "https://www.36kr.com/p/3834397506185094",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-01-qbitaicom-openai",
+    "date": "2026-06-01",
+    "title": "OpenAI重返机器人赛道！四大核心岗位开招",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "OpenAI重返机器人赛道！四大核心岗位开招",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/427238.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-01-ai-botcn-gamma-world--",
+    "date": "2026-06-01",
+    "title": "Gamma-World – 英伟达推出的多智能体世界模型",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Gamma-World – 英伟达推出的多智能体世界模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/gamma-world/",
     "tags": [],
     "impact": ""
   },
