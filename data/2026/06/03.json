@@ -1,0 +1,59 @@
+[
+  {
+    "id": "2026-06-03-gelonghuicom-6600hk",
+    "date": "2026-06-03",
+    "title": "欧洲高增、北美补强，卧安机器人(6600.HK)全球化增长版图加速成型",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "欧洲高增、北美补强，卧安机器人(6600.HK)全球化增长版图加速成型",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/5026014",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-02-the-robot-report-fort-robotics--mapless-ai-",
+    "date": "2026-06-02",
+    "title": "FORT Robotics 收购 Mapless AI 以扩展远程操作能力",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "While FORT has traditionally worked with technology in industrial environments, Mapless AI brings experience in more unstructured settings. The post FORT Robotics acquires Mapless AI to expand teleoperation capabilities appeared first on The Robot Report .（原题：FORT Robotics acquires Mapless AI to expand teleoperation capabilities）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/fort-robotics-acquires-mapless-ai-to-expand-teleop-capabilities/",
+    "tags": [],
+    "impact": "Tue, 02 Jun 2026 17:46:58 +0000"
+  },
+  {
+    "id": "2026-06-01-ifanrcom--ai--mirror-ai-agent--",
+    "date": "2026-06-01",
+    "title": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入 制糖工厂",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入 制糖工厂",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1667606",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-01-cnbc-technology--unitree-",
+    "date": "2026-06-01",
+    "title": "中国初创公司考虑首次公开募股，英伟达选择 Unitree 作为人形机器人平台",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.（原题：Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
+    "tags": [],
+    "impact": "Mon, 01 Jun 2026 05:45:45 GMT"
+  }
+]
