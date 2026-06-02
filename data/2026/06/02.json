@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-06-02--",
+    "date": "2026-06-02",
+    "title": "黄仁勋官宣联手宇树造参考人形机器人",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "黄仁勋官宣联手宇树造参考人形机器人",
+    "source": "更多作品推荐",
+    "source_url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%AE%98%E5%AE%A3%E8%81%94%E6%89%8B%E5%AE%87%E6%A0%91%E9%80%A0%E5%8F%82%E8%80%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
+    "tags": [],
+    "impact": "32万"
+  },
+  {
     "id": "2026-06-02-36krcom-6openai1",
     "date": "2026-06-02",
     "title": "解散6年后，OpenAI复活机器人团队，奥特曼目标：人手1台",
@@ -28,6 +43,20 @@
     "impact": ""
   },
   {
+    "id": "2026-06-02-m21jingjicom-21-",
+    "date": "2026-06-02",
+    "title": "21评论丨宇树上市，市场机制为具身智能续航 评论",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "21评论丨宇树上市，市场机制为具身智能续航 评论",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260602/e5cfa08fb630b6e7ceab63332c12fe47.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-06-01-the-robot-report-",
     "date": "2026-06-01",
     "title": "了解机器人案例和每次拣选的进展",
@@ -40,6 +69,21 @@
     "source_url": "https://www.therobotreport.com/learn-about-advances-robotic-case-each-picking-webinar/",
     "tags": [],
     "impact": "Mon, 01 Jun 2026 15:24:45 +0000"
+  },
+  {
+    "id": "2026-06-01-the-robot-report-anscer-robotics--a-",
+    "date": "2026-06-01",
+    "title": "ANSCER Robotics 完成工业物料搬运 A 轮融资",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "ANSCER Robotics has raised $5.4 million to scale its hybrid industrial automation robots in North America and globally. The post ANSCER Robotics closes Series A round for industrial material handling appeared first on The Robot Report .（原题：ANSCER Robotics closes Series A round for industrial material handling）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/anscer-robotics-closes-series-a-round-industrial-material-handling/",
+    "tags": [],
+    "impact": "Mon, 01 Jun 2026 19:55:18 +0000"
   },
   {
     "id": "2026-06-01-the-robot-report-2026--5-",
