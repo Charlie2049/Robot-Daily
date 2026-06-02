@@ -1,60 +1,146 @@
 [
   {
-    "id": "2026-06-02--",
+    "id": "2026-06-02-financesinacomcn-4664",
     "date": "2026-06-02",
-    "title": "黄仁勋官宣联手宇树造参考人形机器人",
+    "title": "过会的宇树科技，不再只是“人形机器人第一股”4,664",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "黄仁勋官宣联手宇树造参考人形机器人",
-    "source": "更多作品推荐",
-    "source_url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%AE%98%E5%AE%A3%E8%81%94%E6%89%8B%E5%AE%87%E6%A0%91%E9%80%A0%E5%8F%82%E8%80%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
-    "tags": [],
-    "impact": "32万"
-  },
-  {
-    "id": "2026-06-02-36krcom-6openai1",
-    "date": "2026-06-02",
-    "title": "解散6年后，OpenAI复活机器人团队，奥特曼目标：人手1台",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "解散6年后，OpenAI复活机器人团队，奥特曼目标：人手1台",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3834443792017285",
+    "summary": "过会的宇树科技，不再只是“人形机器人第一股”4,664",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzyhiy3418995.shtml",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-02-36krcom-",
+    "id": "2026-06-02-bloomberg-technology--8-",
     "date": "2026-06-02",
-    "title": "机器人行业的真正瓶颈，中美谁能率先攻克？",
+    "title": "软银正在早期洽谈支持 8 亿美元敏捷机器人融资",
     "category": [
-      "robotics"
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "机器人行业的真正瓶颈，中美谁能率先攻克？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3834465052452743",
+    "summary": "German industrial robotics startup Agile Robots is in discussions to raise about $800 million in new funding from backers including SoftBank Group Corp., as investors seek out companies deploying artificial intelligence in real-world settings.（原题：SoftBank in Early Talks to Back $800 Million Agile Robots Round）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-02/softbank-in-early-talks-to-back-800-million-agile-robots-round",
+    "tags": [],
+    "impact": "Tue, 02 Jun 2026 09:40:34 GMT"
+  },
+  {
+    "id": "2026-06-02-m21jingjicom--",
+    "date": "2026-06-02",
+    "title": "独家专访西班牙加区厅长：中国自动驾驶技术在欧洲前景广阔 全球",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "独家专访西班牙加区厅长：中国自动驾驶技术在欧洲前景广阔 全球",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260602/herald/a7eae9d4fc35da75861676c8e0226863.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-02-m21jingjicom-21-",
+    "id": "2026-06-02-qbitaicom-airunilab310mac",
     "date": "2026-06-02",
-    "title": "21评论丨宇树上市，市场机制为具身智能续航 评论",
+    "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/427729.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-02-ifanrcom-openaiai-",
+    "date": "2026-06-02",
+    "title": "早报｜OpenAI官宣进军机器人领域/AI误把文物照片上架，闲鱼致歉/天涯社区重启首日被挤爆 早报",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "早报｜OpenAI官宣进军机器人领域/AI误把文物照片上架，闲鱼致歉/天涯社区重启首日被挤爆 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1667792",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-02-qbitaicom-lios",
+    "date": "2026-06-02",
+    "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "21评论丨宇树上市，市场机制为具身智能续航 评论",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260602/e5cfa08fb630b6e7ceab63332c12fe47.html",
+    "summary": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/427472.html",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-06-02-bloomberg-technology-brainco",
+    "date": "2026-06-02",
+    "title": "中国BrainCo看到机器人制造商的仿生手销售繁荣",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Chinese neurotechnology startup and prosthetics developer BrainCo expects sales of its robotic hands to surge this year as demand grows from the country’s fast-expanding humanoid robotics industry.（原题：China’s BrainCo Sees Bionic Hand Sales Boom From Robot Makers）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-02/chinese-bionic-hand-maker-sees-humanoid-robot-led-sales-boom",
+    "tags": [],
+    "impact": "Tue, 02 Jun 2026 02:01:50 GMT"
+  },
+  {
+    "id": "2026-06-02-ai-botcn-qwen37-plus--",
+    "date": "2026-06-02",
+    "title": "Qwen3.7-Plus – 阿里通义推出的智能体多模态大模型",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Qwen3.7-Plus – 阿里通义推出的智能体多模态大模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/qwen3-7-plus/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-02-ai-botcn-polar--",
+    "date": "2026-06-02",
+    "title": "Polar – 英伟达开源的智能体强化学习训练框架",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Polar – 英伟达开源的智能体强化学习训练框架",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/polar/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-02-bloomberg-technology-abb--nvidia-",
+    "date": "2026-06-02",
+    "title": "ABB 机器人与 Nvidia 合作，物理人工智能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Craig McDonnell, Business Line Managing Director Industries at ABB Robotics, discusses the company's partnership with Nvidia and the outlook for physical AI technologies. He speaks with Stephen Engle from the sidelines of Computex in Taipei. (Source: Bloomberg)（原题：ABB Robotics on Nvidia Partnership, Physical AI）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-06-02/abb-robotics-on-nvidia-partnership-physical-ai-video",
+    "tags": [],
+    "impact": "Tue, 02 Jun 2026 03:26:37 GMT"
   },
   {
     "id": "2026-06-01-the-robot-report-",
