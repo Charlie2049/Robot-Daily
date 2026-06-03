@@ -14,6 +14,20 @@
     "impact": ""
   },
   {
+    "id": "2026-06-02-the-robot-report-petal-surgical-",
+    "date": "2026-06-02",
+    "title": "Petal Surgical 为无切口手术机器人增加更多资金",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Petal said its incisionless surgery method could create a new standard of care, making advanced treatments safer, more accessible and less traumatic for patients worldwide. The post Petal Surgical adds more funding for incisionless surgical robot appeared first on The Robot Report .（原题：Petal Surgical adds more funding for incisionless surgical robot）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/petal-surgical-adds-more-funding-for-incisionless-surgical-robot/",
+    "tags": [],
+    "impact": "Tue, 02 Jun 2026 18:15:24 +0000"
+  },
+  {
     "id": "2026-06-02-the-robot-report-fort-robotics--mapless-ai-",
     "date": "2026-06-02",
     "title": "FORT Robotics 收购 Mapless AI 以扩展远程操作能力",
@@ -21,11 +35,25 @@
       "robotics"
     ],
     "region": "Global",
-    "summary": "While FORT has traditionally worked with technology in industrial environments, Mapless AI brings experience in more unstructured settings. The post FORT Robotics acquires Mapless AI to expand teleoperation capabilities appeared first on The Robot Report .（原题：FORT Robotics acquires Mapless AI to expand teleoperation capabilities）",
+    "summary": "While FORT has traditionally worked with technology in industrial environments, Mapless AI brings experience in more unstructured settings. The post FORT Robotics acquires Mapless AI to expand teleop capabilities appeared first on The Robot Report .（原题：FORT Robotics acquires Mapless AI to expand teleop capabilities）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/fort-robotics-acquires-mapless-ai-to-expand-teleop-capabilities/",
     "tags": [],
     "impact": "Tue, 02 Jun 2026 17:46:58 +0000"
+  },
+  {
+    "id": "2026-06-02-the-robot-report-2026-",
+    "date": "2026-06-02",
+    "title": "2026 机器人峰会暨博览会回顾",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Listen to the podcast this week as The Robot Report editorial staff recaps the recent Robotics Summit & Expo from Boston. The post 2026 Robotics Summit & Expo Recap appeared first on The Robot Report .（原题：2026 Robotics Summit & Expo Recap）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/2026-robotics-summit-expo-recap/",
+    "tags": [],
+    "impact": "Tue, 02 Jun 2026 19:15:57 +0000"
   },
   {
     "id": "2026-06-01-ifanrcom--ai--mirror-ai-agent--",
@@ -40,20 +68,5 @@
     "source_url": "https://www.ifanr.com/1667606",
     "tags": [],
     "impact": ""
-  },
-  {
-    "id": "2026-06-01-cnbc-technology--unitree-",
-    "date": "2026-06-01",
-    "title": "中国初创公司考虑首次公开募股，英伟达选择 Unitree 作为人形机器人平台",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.（原题：Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO）",
-    "source": "CNBC Technology",
-    "source_url": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
-    "tags": [],
-    "impact": "Mon, 01 Jun 2026 05:45:45 GMT"
   }
 ]
