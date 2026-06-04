@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-04-m21jingjicom---",
+    "date": "2026-06-04",
+    "title": "中国机器人登上美国达人秀 高难度帅气舞蹈点燃全场 全球",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "中国机器人登上美国达人秀 高难度帅气舞蹈点燃全场 全球",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260604/herald/aa2fcb91464799a903b1bfb9951b482b.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-06-04-36krcom-310",
     "date": "2026-06-04",
     "title": "3个月融资10亿，又一机器人独角兽杀出",
@@ -15,6 +29,20 @@
     "impact": ""
   },
   {
+    "id": "2026-06-03-the-robot-report--mach-industries--3-",
+    "date": "2026-06-03",
+    "title": "自主国防制造商 Mach Industries 融资 3 亿美元",
+    "category": [
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "Mach Industries will use the funding to accelerate executing government contracts, acquire talent, develop products, and expand its network. The post Autonomous defense manufacturer Mach Industries raises $300M appeared first on The Robot Report .（原题：Autonomous defense manufacturer Mach Industries raises $300M）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/autonomous-defense-manufacturer-mach-industries-raises-300m/",
+    "tags": [],
+    "impact": "Wed, 03 Jun 2026 21:41:43 +0000"
+  },
+  {
     "id": "2026-06-03-the-robot-report--massrobotics-",
     "date": "2026-06-03",
     "title": "波士顿大学团队在机器人峰会上赢得 MassRobotics 形式与功能挑战赛",
@@ -27,6 +55,20 @@
     "source_url": "https://www.therobotreport.com/boston-university-team-wins-massrobotics-form-function-challenge-2026-robotics-summit/",
     "tags": [],
     "impact": "Wed, 03 Jun 2026 12:15:45 +0000"
+  },
+  {
+    "id": "2026-06-03-financesinacomcn--ai-635",
+    "date": "2026-06-03",
+    "title": "欧普泰成立智能科技公司 含AI及机器人业务 635",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "欧普泰成立智能科技公司 含AI及机器人业务 635",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/7x24/2026-06-03/doc-iniacaes2505961.shtml",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-06-03-qbitaicom-onemodel-17",
