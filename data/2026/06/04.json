@@ -1,30 +1,115 @@
 [
   {
-    "id": "2026-06-04-m21jingjicom---",
+    "id": "2026-06-04-36krcom-01",
     "date": "2026-06-04",
-    "title": "中国机器人登上美国达人秀 高难度帅气舞蹈点燃全场 全球",
+    "title": "模塑科技：目前仅获得机器人外覆盖件小批量采购订单，金额占营收比例不足0.1%",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "中国机器人登上美国达人秀 高难度帅气舞蹈点燃全场 全球",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260604/herald/aa2fcb91464799a903b1bfb9951b482b.html",
+    "summary": "模塑科技：目前仅获得机器人外覆盖件小批量采购订单，金额占营收比例不足0.1%",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3838705769875719?f=rss",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-04-36krcom-310",
+    "id": "2026-06-04-qbitaicom-",
     "date": "2026-06-04",
-    "title": "3个月融资10亿，又一机器人独角兽杀出",
+    "title": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
     "category": [
       "robotics",
       "funding"
     ],
     "region": "Global",
-    "summary": "3个月融资10亿，又一机器人独角兽杀出",
+    "summary": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/428778.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-04-36krcom-",
+    "date": "2026-06-04",
+    "title": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "力合科创战略入局！星灿智能集齐三大产业资本，领跑家用具身智能赛道",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3837372018362885",
+    "source_url": "https://www.36kr.com/p/3838659889711618",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-04-xueqiucom-",
+    "date": "2026-06-04",
+    "title": "关于具身智能机器人投资的思考",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "关于具身智能机器人投资的思考",
+    "source": "xueqiu.com",
+    "source_url": "http://xueqiu.com/1665500619/392684166",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-04-the-verge-",
+    "date": "2026-06-04",
+    "title": "亚马逊开发了一款可以与工人交谈的仓库机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. Amazon says the AI-powered upgrade means its human employees can assign […]（原题：Amazon develops a warehouse robot workers can speak to）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+    "tags": [],
+    "impact": "2026-06-04T05:31:14-04:00"
+  },
+  {
+    "id": "2026-06-04-bloomberg-technology-",
+    "date": "2026-06-04",
+    "title": "中国的机器人出租车困境显示了增长与就业之间的人工智能政策紧张",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "China leads the world on robotaxis, but is finding that competitive edge comes with a price.（原题：China’s Robotaxi Dilemma Shows AI Policy Tension Between Growth and Jobs）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/newsletters/2026-06-04/china-s-robotaxi-dilemma-how-to-lead-in-ai-without-fueling-unemployment",
+    "tags": [],
+    "impact": "Thu, 04 Jun 2026 10:30:01 GMT"
+  },
+  {
+    "id": "2026-06-04-qbitaicom-gpt-plus",
+    "date": "2026-06-04",
+    "title": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/428791.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-04-qbitaicom-arobotaxi",
+    "date": "2026-06-04",
+    "title": "A股账户可以买Robotaxi了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A股账户可以买Robotaxi了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/428954.html",
     "tags": [],
     "impact": ""
   },
@@ -57,20 +142,6 @@
     "impact": "Wed, 03 Jun 2026 12:15:45 +0000"
   },
   {
-    "id": "2026-06-03-financesinacomcn--ai-635",
-    "date": "2026-06-03",
-    "title": "欧普泰成立智能科技公司 含AI及机器人业务 635",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "欧普泰成立智能科技公司 含AI及机器人业务 635",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-06-03/doc-iniacaes2505961.shtml",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-06-03-qbitaicom-onemodel-17",
     "date": "2026-06-03",
     "title": "从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层",
@@ -82,20 +153,6 @@
     "summary": "从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层",
     "source": "qbitai.com",
     "source_url": "https://www.qbitai.com/2026/06/428703.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-06-02-ifanrcom-openaiai-",
-    "date": "2026-06-02",
-    "title": "早报｜OpenAI官宣进军机器人领域/AI误把文物照片上架，闲鱼致歉/天涯社区重启首日被挤爆 早报",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "早报｜OpenAI官宣进军机器人领域/AI误把文物照片上架，闲鱼致歉/天涯社区重启首日被挤爆 早报",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1667792",
     "tags": [],
     "impact": ""
   }
