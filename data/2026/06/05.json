@@ -1,43 +1,72 @@
 [
   {
-    "id": "2026-06-05-36krcom--openaiai",
+    "id": "2026-06-05-36krcom---",
     "date": "2026-06-05",
-    "title": "氪星晚报 ｜OpenAI首席财务官谈公司AI设备：今年年底前将正式发布；腾讯客服回应与华为、小米等合作；香港推出首个生产力级超级智能体",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "氪星晚报 ｜OpenAI首席财务官谈公司AI设备：今年年底前将正式发布；腾讯客服回应与华为、小米等合作；香港推出首个生产力级超级智能体",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3838652242823687?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-06-05-m21jingjicom--",
-    "date": "2026-06-05",
-    "title": "工业机器人核心零部件“小巨人”今日上市丨打新早知道 投资",
+    "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "工业机器人核心零部件“小巨人”今日上市丨打新早知道 投资",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260605/herald/7a27017b941f0140d3812af8e35726a4.html",
+    "summary": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3838835333253385",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-05-36krcom-",
+    "id": "2026-06-05-36krcom-4",
     "date": "2026-06-05",
-    "title": "从数字化到智能体：财务组织的下一场变革",
+    "title": "比亚迪官宣自研人形机器人，“尧舜禹”计划曝光：已秘密研发了4年",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "比亚迪官宣自研人形机器人，“尧舜禹”计划曝光：已秘密研发了4年",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3838956663650948",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-05-blogcsdnnet-spssai-24",
+    "date": "2026-06-05",
+    "title": "告别SPSS卡顿：用AI智能体自动跑回归、生存曲线、生成方法学段落 2.4万",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "从数字化到智能体：财务组织的下一场变革",
+    "summary": "告别SPSS卡顿：用AI智能体自动跑回归、生存曲线、生成方法学段落 2.4万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/xhlo521/article/details/161648571",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-05-qbitaicom-30",
+    "date": "2026-06-05",
+    "title": "全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/429349.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-05-36krcom-bonus6",
+    "date": "2026-06-05",
+    "title": "Bonus独家｜小鹏机器人核心产品一号位施晓鑫6月初主动离职",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Bonus独家｜小鹏机器人核心产品一号位施晓鑫6月初主动离职",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3838612615923973",
+    "source_url": "https://www.36kr.com/p/3839560961116417",
     "tags": [],
     "impact": ""
   },
