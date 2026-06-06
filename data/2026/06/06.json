@@ -17,6 +17,20 @@
   {
     "id": "2026-06-06-36krcom-",
     "date": "2026-06-06",
+    "title": "拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3835876543806340",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-06-36krcom-",
+    "date": "2026-06-06",
     "title": "宇树、智元的线下门店叙事：具身智能正入迈进商业周期",
     "category": [
       "humanoid"
@@ -44,6 +58,20 @@
     "impact": ""
   },
   {
+    "id": "2026-06-06-ifanrcom--ai-",
+    "date": "2026-06-06",
+    "title": "从感知智能到智能体 AI：高通汽车中国布局深化加速 公司",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "从感知智能到智能体 AI：高通汽车中国布局深化加速 公司",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1668242",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-06-06-36krcom-agent-",
     "date": "2026-06-06",
     "title": "互联网变天：机器人流量首次反超人类，Agent 时代拉开大幕",
@@ -58,16 +86,16 @@
     "impact": ""
   },
   {
-    "id": "2026-06-06-gelonghuicom-a3",
+    "id": "2026-06-06-m21jingjicom-",
     "date": "2026-06-06",
-    "title": "A股收评：创业板指放量跌超3%，机器人、电机板块逆势走强",
+    "title": "专访探迹科技联合创始人翁淑蓁：争做智能体时代“水电煤”粤港澳",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "A股收评：创业板指放量跌超3%，机器人、电机板块逆势走强",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/5083398",
+    "summary": "专访探迹科技联合创始人翁淑蓁：争做智能体时代“水电煤”粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260606/herald/877bbb1288c77def222e78fce52d9034.html",
     "tags": [],
     "impact": ""
   },
@@ -154,5 +182,19 @@
     "source_url": "https://www.therobotreport.com/genisom-ai-debuts-deployable-robotics-platforms-icra-2026/",
     "tags": [],
     "impact": "Fri, 05 Jun 2026 15:30:40 +0000"
+  },
+  {
+    "id": "2026-06-05-gelonghuicom-etf--etf5etf17",
+    "date": "2026-06-05",
+    "title": "ETF风向标 | 机器人板块逆势上扬，机器人ETF涨超5%，通信ETF单日“吸金”超17亿",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "ETF风向标 | 机器人板块逆势上扬，机器人ETF涨超5%，通信ETF单日“吸金”超17亿",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/5085911",
+    "tags": [],
+    "impact": ""
   }
 ]
