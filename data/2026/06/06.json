@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-06-gelonghuicom-ceoai50ai",
+    "date": "2026-06-06",
+    "title": "软银CEO孙正义：AI规模将是互联网泡沫的50倍，下一个万亿赛道是物理AI、机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "软银CEO孙正义：AI规模将是互联网泡沫的50倍，下一个万亿赛道是物理AI、机器人",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/5089402",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-06-06-36krcom-",
     "date": "2026-06-06",
     "title": "比亚迪玩跨界？进军人形机器人，代号“尧舜禹”",
@@ -13,6 +27,20 @@
     "source_url": "https://www.36kr.com/p/3840170310502663",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-06-06-the-robot-report-",
+    "date": "2026-06-06",
+    "title": "机器人可以增强制造业工人而不是取代他们",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "With the right AI, teleoperation, and safeguards, robotics can augment manufacturing opportunities, says one to ONE Holdings' president. The post Robots can enhance manufacturing workers rather than replace them appeared first on The Robot Report .（原题：Robots can enhance manufacturing workers rather than replace them）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/robots-can-enhance-manufacturing-workers-rather-than-replace-them/",
+    "tags": [],
+    "impact": "Sat, 06 Jun 2026 12:30:12 +0000"
   },
   {
     "id": "2026-06-06-36krcom-",
@@ -86,16 +114,30 @@
     "impact": ""
   },
   {
-    "id": "2026-06-06-m21jingjicom-",
+    "id": "2026-06-06-geekparknet-genesis-ai-",
     "date": "2026-06-06",
-    "title": "专访探迹科技联合创始人翁淑蓁：争做智能体时代“水电煤”粤港澳",
+    "title": "Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "专访探迹科技联合创始人翁淑蓁：争做智能体时代“水电煤”粤港澳",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260606/herald/877bbb1288c77def222e78fce52d9034.html",
+    "summary": "Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/363905",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-06-geekparknet-figure-ai--demo",
+    "date": "2026-06-06",
+    "title": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/363963",
     "tags": [],
     "impact": ""
   },
@@ -182,19 +224,5 @@
     "source_url": "https://www.therobotreport.com/genisom-ai-debuts-deployable-robotics-platforms-icra-2026/",
     "tags": [],
     "impact": "Fri, 05 Jun 2026 15:30:40 +0000"
-  },
-  {
-    "id": "2026-06-05-gelonghuicom-etf--etf5etf17",
-    "date": "2026-06-05",
-    "title": "ETF风向标 | 机器人板块逆势上扬，机器人ETF涨超5%，通信ETF单日“吸金”超17亿",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "ETF风向标 | 机器人板块逆势上扬，机器人ETF涨超5%，通信ETF单日“吸金”超17亿",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/5085911",
-    "tags": [],
-    "impact": ""
   }
 ]
