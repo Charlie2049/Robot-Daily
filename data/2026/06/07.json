@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-07-36krcom-",
+    "date": "2026-06-07",
+    "title": "马斯克要造百万台机器人，经济学人说关键在宁波",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "马斯克要造百万台机器人，经济学人说关键在宁波",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3839639104571655",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-07-36krcom-",
+    "date": "2026-06-07",
+    "title": "比亚迪的机器人还没打算卖",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "比亚迪的机器人还没打算卖",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3841123811133705",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-06-07-36krcom-560",
     "date": "2026-06-07",
     "title": "人形机器人5万块一车甩卖，三年前还要60万",
@@ -11,6 +39,20 @@
     "summary": "人形机器人5万块一车甩卖，三年前还要60万",
     "source": "36kr.com",
     "source_url": "https://www.36kr.com/p/3840171074357766",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-07-36krcom-deepseek-v4500",
+    "date": "2026-06-07",
+    "title": "DeepSeek V4做数学证明，500倍成本优势：智能体系统刷新多项纪录",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "DeepSeek V4做数学证明，500倍成本优势：智能体系统刷新多项纪录",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3841174468151553",
     "tags": [],
     "impact": ""
   }
