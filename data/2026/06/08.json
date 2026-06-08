@@ -1,45 +1,73 @@
 [
   {
-    "id": "2026-06-08-geekparknet--15--6-",
+    "id": "2026-06-08-bloomberg-technology-",
     "date": "2026-06-08",
-    "title": "脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的",
-    "source": "geekpark.net",
-    "source_url": "http://www.geekpark.net/news/364131",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-06-08-geekparknet-genesis-ai-",
-    "date": "2026-06-08",
-    "title": "Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋",
+    "title": "英伟达和现代深化联合进军人工智能驱动的机器人领域",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋",
-    "source": "geekpark.net",
-    "source_url": "http://www.geekpark.net/news/363905",
+    "summary": "Nvidia Corp. and Hyundai Motor Group agreed to deepen their alliance to turn so-called physical AI and robotics into real industrial products.（原题：Nvidia, Hyundai Deepen Joint Push Into AI-Powered Robotics）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-08/nvidia-hyundai-deepen-joint-push-into-ai-powered-robotics",
     "tags": [],
-    "impact": ""
+    "impact": "Mon, 08 Jun 2026 10:14:24 GMT"
   },
   {
-    "id": "2026-06-08-geekparknet-figure-ai--demo",
+    "id": "2026-06-08-wallstreetcncom-321044",
     "date": "2026-06-08",
-    "title": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
+    "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%4.4万",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
-    "source": "geekpark.net",
-    "source_url": "http://www.geekpark.net/news/363963",
+    "summary": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%4.4万",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3774065",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-06-08-wallstreetcncom-",
+    "date": "2026-06-08",
+    "title": "仙工智能冲刺港股“机器人大脑第一股”",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "仙工智能冲刺港股“机器人大脑第一股”",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3774113",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-08-bloomberg-technology-uber--wayve-robotaxis-",
+    "date": "2026-06-08",
+    "title": "Uber 在 Wayve Robotaxis 推出前在伦敦设立候补名单",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Uber Technologies Inc. has set up a waitlist for customers interested in riding in a robotaxi in London, ahead of a planned commercial debut in the UK this year.（原题：Uber Opens London Waitlist for Wayve Robotaxis Ahead of Launch）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-08/uber-opens-london-waitlist-for-wayve-robotaxis-ahead-of-launch",
+    "tags": [],
+    "impact": "Mon, 08 Jun 2026 11:00:00 GMT"
+  },
+  {
+    "id": "2026-06-08-the-verge-uber-",
+    "date": "2026-06-08",
+    "title": "Uber 告诉伦敦为机器人出租车做好准备",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Uber is getting ready to put robotaxis on London's streets, opening an interest list for riders who want to be among the first to hail one of Wayve's autonomous vehicles when the service goes live later this year. The rollout would be a milestone in one of Uber's biggest markets and an early test of […]（原题：Uber tells London to get ready for robotaxis）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london",
+    "tags": [],
+    "impact": "2026-06-08T07:26:42-04:00"
   },
   {
     "id": "2026-06-06-the-robot-report-",
