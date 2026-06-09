@@ -1,72 +1,99 @@
 [
   {
-    "id": "2026-06-09-36krcom-",
+    "id": "2026-06-09-caifuhaoeastmoneycom-40267",
     "date": "2026-06-09",
-    "title": "开始爆单，天津杀出一家机器人黑马",
+    "title": "蛰伏40年，股价翻倍！宁波华翔：一个汽配老兵的“机器人觉醒”267",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "开始爆单，天津杀出一家机器人黑马",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3844197540235522",
+    "summary": "蛰伏40年，股价翻倍！宁波华翔：一个汽配老兵的“机器人觉醒”267",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20260609154031864955010",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-09-36krcom-",
+    "id": "2026-06-09-sspaicom--144---ai--matrix",
     "date": "2026-06-09",
-    "title": "中国具身智能“超级融资周期”，能否复制“新能源车时刻”？",
+    "title": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架 Matrix机器人",
     "category": [
-      "humanoid",
-      "funding"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "中国具身智能“超级融资周期”，能否复制“新能源车时刻”？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3844275317082628",
+    "summary": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架 Matrix机器人",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/110907",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-09-36krcom-vivoai",
+    "id": "2026-06-09-bloomberg-technology-",
     "date": "2026-06-09",
-    "title": "vivo、荣耀接连入场，戳破了具身智能的AI叙事",
+    "title": "机器人可能有助于化解中美紧张局势",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "vivo、荣耀接连入场，戳破了具身智能的AI叙事",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3844291402021767",
+    "summary": "The two countries have vital tech for the coming wave of robots（原题：Robots May Help Defuse US-China Tensions）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/newsletters/2026-06-09/as-ai-moves-into-robots-nvidia-may-be-bridging-a-us-china-divide",
     "tags": [],
-    "impact": ""
+    "impact": "Tue, 09 Jun 2026 10:30:01 GMT"
   },
   {
-    "id": "2026-06-08-wallstreetcncom-",
-    "date": "2026-06-08",
-    "title": "智能体上车提速，舱驾融合进入卡位期",
+    "id": "2026-06-09-ai-botcn-vitabench-20---longcat-",
+    "date": "2026-06-09",
+    "title": "VitaBench 2.0 – 美团 LongCat 推出的长期动态智能体评测基准",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "智能体上车提速，舱驾融合进入卡位期",
-    "source": "wallstreetcn.com",
-    "source_url": "https://wallstreetcn.com/articles/3774143",
+    "summary": "VitaBench 2.0 – 美团 LongCat 推出的长期动态智能体评测基准",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/vitabench-2-0/",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-08-ai-botcn-kairos-homeworld--",
-    "date": "2026-06-08",
-    "title": "Kairos-HomeWorld – 大晓机器人推出的全屋三维可交互世界模型",
+    "id": "2026-06-09-ai-botcn-u2--",
+    "date": "2026-06-09",
+    "title": "U2 – 云知声推出的原生智能体大模型",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "Kairos-HomeWorld – 大晓机器人推出的全屋三维可交互世界模型",
+    "summary": "U2 – 云知声推出的原生智能体大模型",
     "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/kairos-homeworld/",
+    "source_url": "https://ai-bot.cn/u2/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-09-ai-botcn-bigset--tinyfish-",
+    "date": "2026-06-09",
+    "title": "BigSet – TinyFish 开源的多智能体实时网络抓取工具",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "BigSet – TinyFish 开源的多智能体实时网络抓取工具",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/bigset/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-09-aibasecom-aikimi-code-ios-27-ai-",
+    "date": "2026-06-09",
+    "title": "AI日报：Kimi Code开源编码代理升级；苹果正面回应 iOS 27 AI 争议；蚂蚁打通全球智能体支付新链路",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：Kimi Code开源编码代理升级；苹果正面回应 iOS 27 AI 争议；蚂蚁打通全球智能体支付新链路",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/28781",
     "tags": [],
     "impact": ""
   },
