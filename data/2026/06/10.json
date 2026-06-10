@@ -1,5 +1,75 @@
 [
   {
+    "id": "2026-06-10-bloomberg-technology--1-",
+    "date": "2026-06-10",
+    "title": "安巴尼支持的机器人初创公司寻求 1 亿美元以在印度取得领先地位",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Indian startup Addverb Technologies Ltd. is seeking to raise more than $100 million, trying to cement its role as the country’s top maker of robots.（原题：Ambani-Backed Robot Startup Seeks $100 Million to Lead in India）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-10/ambani-backed-robot-startup-seeks-100-million-to-take-on-china",
+    "tags": [],
+    "impact": "Wed, 10 Jun 2026 03:38:29 GMT"
+  },
+  {
+    "id": "2026-06-10-36krcom-",
+    "date": "2026-06-10",
+    "title": "坏了，机器人行业也开始“崩老头”了?",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "坏了，机器人行业也开始“崩老头”了?",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3846015475321091",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-10-36krcom-",
+    "date": "2026-06-10",
+    "title": "中国机器人「网红」，在外网杀疯了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "中国机器人「网红」，在外网杀疯了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3846659575810565",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-10-blogcsdnnet-ai-lab-30",
+    "date": "2026-06-10",
+    "title": "上海AI Lab：轻量级智能体安全对齐框架 3.0万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "上海AI Lab：轻量级智能体安全对齐框架 3.0万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/weixin_46739757/article/details/161804228",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-10-blogcsdnnet-ai--erp28",
+    "date": "2026-06-10",
+    "title": "AI 正在接管 ERP：经营分析的终局不是报表而是「自动驾驶」2.8万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "AI 正在接管 ERP：经营分析的终局不是报表而是「自动驾驶」2.8万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/PowerBI365/article/details/161805935",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-06-09-ieee-spectrum-robotics-",
     "date": "2026-06-09",
     "title": "超越灵巧：为什么接触可能定义机器人的下一个时代",
@@ -28,45 +98,46 @@
     "impact": "Tue, 09 Jun 2026 14:58:30 +0000"
   },
   {
-    "id": "2026-06-09-bloomberg-technology-standard-bots-",
+    "id": "2026-06-09-mithomecom--3000--119",
     "date": "2026-06-09",
-    "title": "Standard Bots 首席执行官表示，机器人对美国制造业至关重要",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Standard Bots has raised $200 million in a new round of funding to ramp up manufacturing of robotic arms in the US as the country vies to keep pace with China in building more advanced robots. Standard Bots co-founder and CEO, Evan Beard joins Caroline Hyde to discuss on \"Bloomberg Tech.\" (Source: Bloomberg)（原题：Robots Are Critical to US Manufacturing, Says Standard Bots CEO）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-06-09/robots-critical-to-us-manufacturing-standard-bots-ceo-video",
-    "tags": [],
-    "impact": "Tue, 09 Jun 2026 18:22:15 GMT"
-  },
-  {
-    "id": "2026-06-08-wallstreetcncom-iphone-58",
-    "date": "2026-06-08",
-    "title": "人形机器人价格大跳水，比iPhone还便宜 5.8万",
+    "title": "优必选全球首款全尺寸超仿生人形机器人小订突破 3000 台，仅限成年人购买使用 119评",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "人形机器人价格大跳水，比iPhone还便宜 5.8万",
-    "source": "wallstreetcn.com",
-    "source_url": "https://wallstreetcn.com/articles/3774234",
+    "summary": "优必选全球首款全尺寸超仿生人形机器人小订突破 3000 台，仅限成年人购买使用 119评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/962144.htm",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-08-ai-botcn-kairos-homeworld--",
+    "id": "2026-06-08-wallstreetcncom-ceo",
     "date": "2026-06-08",
-    "title": "Kairos-HomeWorld – 大晓机器人推出的全屋三维可交互世界模型",
+    "title": "何小鹏兼任机器人业务CEO，冲刺年底量产",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Kairos-HomeWorld – 大晓机器人推出的全屋三维可交互世界模型",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/kairos-homeworld/",
+    "summary": "何小鹏兼任机器人业务CEO，冲刺年底量产",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3774318",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-08-wallstreetcncom-iphone-69",
+    "date": "2026-06-08",
+    "title": "人形机器人价格大跳水，比iPhone还便宜 6.9万",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人价格大跳水，比iPhone还便宜 6.9万",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3774234",
     "tags": [],
     "impact": ""
   }
