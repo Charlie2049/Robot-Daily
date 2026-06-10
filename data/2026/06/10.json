@@ -28,18 +28,46 @@
     "impact": "Tue, 09 Jun 2026 14:58:30 +0000"
   },
   {
-    "id": "2026-06-09-bloomberg-technology-standard-bots--2-",
+    "id": "2026-06-09-bloomberg-technology-standard-bots-",
     "date": "2026-06-09",
-    "title": "Standard Bots 融资 2 亿美元用于在美国制造机器人",
+    "title": "Standard Bots 首席执行官表示，机器人对美国制造业至关重要",
     "category": [
-      "robotics",
-      "funding"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "Standard Bots has raised $200 million in a new round of funding to ramp up manufacturing of robotic arms in the US as the country vies to keep pace with China in building more advanced robots.（原题：Standard Bots Raises $200 Million to Manufacture Robots in US）",
+    "summary": "Standard Bots has raised $200 million in a new round of funding to ramp up manufacturing of robotic arms in the US as the country vies to keep pace with China in building more advanced robots. Standard Bots co-founder and CEO, Evan Beard joins Caroline Hyde to discuss on \"Bloomberg Tech.\" (Source: Bloomberg)（原题：Robots Are Critical to US Manufacturing, Says Standard Bots CEO）",
     "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-06-09/standard-bots-raises-200-million-to-manufacture-robots-in-us",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-06-09/robots-critical-to-us-manufacturing-standard-bots-ceo-video",
     "tags": [],
-    "impact": "Tue, 09 Jun 2026 11:00:00 GMT"
+    "impact": "Tue, 09 Jun 2026 18:22:15 GMT"
+  },
+  {
+    "id": "2026-06-08-wallstreetcncom-iphone-58",
+    "date": "2026-06-08",
+    "title": "人形机器人价格大跳水，比iPhone还便宜 5.8万",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人价格大跳水，比iPhone还便宜 5.8万",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3774234",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-08-ai-botcn-kairos-homeworld--",
+    "date": "2026-06-08",
+    "title": "Kairos-HomeWorld – 大晓机器人推出的全屋三维可交互世界模型",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Kairos-HomeWorld – 大晓机器人推出的全屋三维可交互世界模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/kairos-homeworld/",
+    "tags": [],
+    "impact": ""
   }
 ]
