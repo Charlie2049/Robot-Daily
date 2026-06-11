@@ -14,30 +14,59 @@
     "impact": ""
   },
   {
-    "id": "2026-06-11-36krcom-",
+    "id": "2026-06-11-guokrcom-",
     "date": "2026-06-11",
-    "title": "拆了一台宇树机器人，美国研究机构说它会是下一个比亚迪",
+    "title": "全球首款伴侣机器人上市！尺寸与真人一样，男同胞的春天要来了？",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "拆了一台宇树机器人，美国研究机构说它会是下一个比亚迪",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3847303087166464",
+    "summary": "全球首款伴侣机器人上市！尺寸与真人一样，男同胞的春天要来了？",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/469406/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-11-juejincn--agent--3d--1454",
+    "date": "2026-06-11",
+    "title": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1454",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1454",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7649738148373823529",
     "tags": [],
     "impact": ""
   },
   {
     "id": "2026-06-11-36krcom-mushanghai",
     "date": "2026-06-11",
-    "title": "当中国机器人供应链，决定开始卖“基础设施”｜muShanghai现场笔记",
+    "title": "一个自动驾驶老兵，决定去做机器人的“触觉”｜muShanghai现场笔记",
     "category": [
-      "robotics"
+      "robotics",
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "当中国机器人供应链，决定开始卖“基础设施”｜muShanghai现场笔记",
+    "summary": "一个自动驾驶老兵，决定去做机器人的“触觉”｜muShanghai现场笔记",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3847394898679044",
+    "source_url": "https://www.36kr.com/p/3848596499797256",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-11-ai-botcn-tuanjie-cowork--unity--ai-agent-",
+    "date": "2026-06-11",
+    "title": "Tuanjie Cowork – Unity 中国推出的 AI Agent 编程智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Tuanjie Cowork – Unity 中国推出的 AI Agent 编程智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/tuanjie-cowork/",
     "tags": [],
     "impact": ""
   },
@@ -70,20 +99,6 @@
     "impact": "Wed, 10 Jun 2026 13:13:14 +0000"
   },
   {
-    "id": "2026-06-10-bloomberg-technology--mujin--2030--ipo-",
-    "date": "2026-06-10",
-    "title": "工厂机器人初创公司 Mujin 在 2030 年 IPO 前筹集资金",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Japanese robot software developer Mujin plans to go public by 2030, building up funds and momentum to capture fast-growing demand for factory-use AI.（原题：Factory Robot Startup Mujin Raising Funds Ahead of IPO by 2030）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-06-10/factory-robot-startup-mujin-raising-funds-ahead-of-ipo-by-2030",
-    "tags": [],
-    "impact": "Wed, 10 Jun 2026 20:30:00 GMT"
-  },
-  {
     "id": "2026-06-10-the-robot-report-neura-robotics--14b--c-",
     "date": "2026-06-10",
     "title": "NEURA Robotics 将为物理人工智能筹集高达 1.4B 美元的 C 轮资金",
@@ -111,33 +126,5 @@
     "source_url": "https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html",
     "tags": [],
     "impact": "Wed, 10 Jun 2026 17:03:30 GMT"
-  },
-  {
-    "id": "2026-06-09-sspaicom--144---ai--matrix",
-    "date": "2026-06-09",
-    "title": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架 Matrix机器人",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架 Matrix机器人",
-    "source": "sspai.com",
-    "source_url": "https://sspai.com/post/110907",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-06-09-aibasecom-aikimi-code-ios-27-ai-",
-    "date": "2026-06-09",
-    "title": "AI日报：Kimi Code开源编码代理升级；苹果正面回应 iOS 27 AI 争议；蚂蚁打通全球智能体支付新链路",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI日报：Kimi Code开源编码代理升级；苹果正面回应 iOS 27 AI 争议；蚂蚁打通全球智能体支付新链路",
-    "source": "aibase.com",
-    "source_url": "https://www.aibase.com/zh/daily/28781",
-    "tags": [],
-    "impact": ""
   }
 ]
