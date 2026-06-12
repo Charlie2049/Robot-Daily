@@ -1,5 +1,78 @@
 [
   {
+    "id": "2026-06-12-bloomberg-technology-",
+    "date": "2026-06-12",
+    "title": "据称，中国机器人家电制造商梦想科技考虑在香港首次公开募股",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Dreame Technology, a Chinese maker of robotic vacuum cleaners and other smart home appliances, is considering a Hong Kong initial public offering as soon as next year, people familiar with the matter said.（原题：Chinese Robot Appliance Maker Dreame Tech Is Said to Consider IPO in Hong Kong）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-12/chinese-robot-appliance-maker-dreame-tech-is-said-to-consider-ipo-in-hong-kong",
+    "tags": [],
+    "impact": "Fri, 12 Jun 2026 04:03:32 GMT"
+  },
+  {
+    "id": "2026-06-12-m21jingjicom--",
+    "date": "2026-06-12",
+    "title": "具脑磐石刘晋宇：让具身智能机器人举一反三，需要类脑智能 公司",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "具脑磐石刘晋宇：让具身智能机器人举一反三，需要类脑智能 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260612/herald/d69177e7dae2cc4269e019900f20ff69.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-12-bloomberg-technology-",
+    "date": "2026-06-12",
+    "title": "人形机器人真的需要腿吗？",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "There’s a long-running disagreement among roboticists about whether wheeled robots make more sense than walking ones.（原题：Do Humanoid Robots Really Need Legs?）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs",
+    "tags": [],
+    "impact": "Fri, 12 Jun 2026 10:00:19 GMT"
+  },
+  {
+    "id": "2026-06-12-bloomberg-technology-engineaiipo",
+    "date": "2026-06-12",
+    "title": "人形机器人制造商EngineAI据称将申请香港IPO",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Chinese robotics startup EngineAI has filed confidentially for a Hong Kong initial public offering, according to people familiar with the matter, joining a legion of companies in the sector seeking funding.（原题：Humanoid Robot Manufacturer EngineAI Is Said to File for Hong Kong IPO）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo",
+    "tags": [],
+    "impact": "Fri, 12 Jun 2026 02:25:54 GMT"
+  },
+  {
+    "id": "2026-06-12-ai-botcn-swarmflow--openjiuwen-",
+    "date": "2026-06-12",
+    "title": "SwarmFlow – openJiuwen 开源的多智能体工作流编排框架",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "SwarmFlow – openJiuwen 开源的多智能体工作流编排框架",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/swarmflow/",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-06-11-ieee-spectrum-robotics-",
     "date": "2026-06-11",
     "title": "定义老年护理健康机器人的自主性",
@@ -40,5 +113,20 @@
     "source_url": "https://www.therobotreport.com/hello-robot-is-recognized-by-world-economic-forum-as-a-tech-pioneer/",
     "tags": [],
     "impact": "Thu, 11 Jun 2026 21:24:03 +0000"
+  },
+  {
+    "id": "2026-06-11-aibasecom-aiaimimo-codemalldiffusiongemma",
+    "date": "2026-06-11",
+    "title": "AI日报：小米开源AI编程助手MiMo Code；京东MALL首批人形机器人上岗；谷歌发布DiffusionGemma",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AI日报：小米开源AI编程助手MiMo Code；京东MALL首批人形机器人上岗；谷歌发布DiffusionGemma",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/28856",
+    "tags": [],
+    "impact": ""
   }
 ]
