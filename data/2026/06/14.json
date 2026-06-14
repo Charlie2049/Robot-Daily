@@ -1,16 +1,44 @@
 [
   {
-    "id": "2026-06-12-ai-botcn-swarmflow--openjiuwen-",
-    "date": "2026-06-12",
-    "title": "SwarmFlow – openJiuwen 开源的多智能体工作流编排框架",
+    "id": "2026-06-14-36krcom-",
+    "date": "2026-06-14",
+    "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "SwarmFlow – openJiuwen 开源的多智能体工作流编排框架",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/swarmflow/",
+    "summary": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3851572421432324",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-06-14-financesinacomcn--727",
+    "date": "2026-06-14",
+    "title": "机器人伴侣仅限成人购买 727",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人伴侣仅限成人购买 727",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/stock/wbstock/2026-06-14/doc-iniciymx9125543.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-14----",
+    "date": "2026-06-14",
+    "title": "机器人伴侣仅限成人购买",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人伴侣仅限成人购买",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0",
+    "tags": [],
+    "impact": "18万"
   }
 ]
