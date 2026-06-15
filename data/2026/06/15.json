@@ -1,29 +1,143 @@
 [
   {
-    "id": "2026-06-15-juejincn--agent--3d--1865",
+    "id": "2026-06-15-geekparknet--15--6-",
     "date": "2026-06-15",
-    "title": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1865",
+    "title": "脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1865",
+    "summary": "脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/364131",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-15-geekparknet-openai-",
+    "date": "2026-06-15",
+    "title": "美团推「养虾社区」；OpenAI 推出三款实时语音模型；宇树机器人在韩国佛门「受戒」，法名「迦悲」",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "美团推「养虾社区」；OpenAI 推出三款实时语音模型；宇树机器人在韩国佛门「受戒」，法名「迦悲」",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/363813",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-15-qbitaicom-",
+    "date": "2026-06-15",
+    "title": "宇树机器人要登珠峰了！",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树机器人要登珠峰了！",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/435817.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-15-qbitaicom-",
+    "date": "2026-06-15",
+    "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/435574.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-15-juejincn--agent--3d--1898",
+    "date": "2026-06-15",
+    "title": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1898",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1898",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7649738148373823529",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-15-36krcom-",
+    "id": "2026-06-15-qbitaicom-icracvpr",
     "date": "2026-06-15",
-    "title": "中国四大厂押注的机器人，还叠不好家里的枕巾",
+    "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "中国四大厂押注的机器人，还叠不好家里的枕巾",
+    "summary": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/435841.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-15-cbndatacom-",
+    "date": "2026-06-15",
+    "title": "人形机器人出海，从“演员”到“打工人”霞光社",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人出海，从“演员”到“打工人”霞光社",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295430",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-15-geekparknet-genesis-ai-",
+    "date": "2026-06-15",
+    "title": "Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/363905",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-15-geekparknet-figure-ai--demo",
+    "date": "2026-06-15",
+    "title": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/363963",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-15-36krcom-81sk2000u1",
+    "date": "2026-06-15",
+    "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3849888109804421",
+    "source_url": "https://www.36kr.com/p/3853670570743040",
     "tags": [],
     "impact": ""
   },
