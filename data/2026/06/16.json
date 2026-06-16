@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-06-16-sspaicom--145---matrix",
+    "date": "2026-06-16",
+    "title": "社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅 Matrix机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅 Matrix机器人",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/111099",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-16-guokrcom-30",
+    "date": "2026-06-16",
+    "title": "仅限成年人？30万一台的全球首款仿生机器人爆火！网友：单身福音",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "仅限成年人？30万一台的全球首款仿生机器人爆火！网友：单身福音",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/469441/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-16-the-robot-report-psyonic--abb-robotics-",
+    "date": "2026-06-16",
+    "title": "PSYONIC 与 ABB Robotics 合作，将人类触觉应用于机器人灵活性",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "PSYONIC is combining its Ability Hand with ABB Robotics' GoFa cobot arm to apply data from prosthetics users to robotic grasping. The post PSYONIC partners with ABB Robotics to apply human touch to robot dexterity appeared first on The Robot Report .（原题：PSYONIC partners with ABB Robotics to apply human touch to robot dexterity）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/psyonic-abb-robotics-partner-apply-human-touch-data-robot-dexterity/",
+    "tags": [],
+    "impact": "Tue, 16 Jun 2026 04:01:53 +0000"
+  },
+  {
+    "id": "2026-06-16-the-robot-report-building-robotics--penn-xlab-",
+    "date": "2026-06-16",
+    "title": "Building Robotics 与 Penn xLAB 共同开发用于建筑的物理人工智能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "xLAB and Built Robotics partner to capture additional data, advancing AI models to improve construction site safety. The post Built Robotics, Penn xLAB to develop physical AI for construction appeared first on The Robot Report .（原题：Built Robotics, Penn xLAB to develop physical AI for construction）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/xlab-and-built-robotics-partner-to-advance-construction/",
+    "tags": [],
+    "impact": "Tue, 16 Jun 2026 11:04:11 +0000"
+  },
+  {
     "id": "2026-06-15-the-robot-report--einride--spac-",
     "date": "2026-06-15",
     "title": "自主货运开发商 Einride 通过 SPAC 上市",
