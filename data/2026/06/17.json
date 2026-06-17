@@ -1,30 +1,88 @@
 [
   {
-    "id": "2026-06-17-m21jingjicom-25-",
+    "id": "2026-06-17-juejincn-openclawqq-1227",
     "date": "2026-06-17",
-    "title": "深圳地瓜机器人，拿下25亿融资 公司",
+    "title": "腾讯云一键部署OpenClaw打造QQ机器人 1227",
     "category": [
-      "robotics",
-      "funding"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "深圳地瓜机器人，拿下25亿融资 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260617/herald/bdf0188468e80bebb0f7afbf0ecfce14.html",
+    "summary": "腾讯云一键部署OpenClaw打造QQ机器人 1227",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7651145221669355571",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-17-juejincn--agent--3d--1931",
+    "id": "2026-06-17-juejincn--agent--3d--1969",
     "date": "2026-06-17",
-    "title": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1931",
+    "title": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1969",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1931",
+    "summary": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1969",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7649738148373823529",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-17-the-verge-",
+    "date": "2026-06-17",
+    "title": "下一个人形机器人可能看起来根本不像人类",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup […]（原题：The next humanoid robot might not look human at all）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+    "tags": [],
+    "impact": "2026-06-17T05:46:56-04:00"
+  },
+  {
+    "id": "2026-06-17-cbndatacom-500one",
+    "date": "2026-06-17",
+    "title": "一年融资超500起，谁在豪赌具身智能？定焦One",
+    "category": [
+      "humanoid",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "一年融资超500起，谁在豪赌具身智能？定焦One",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295441",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-17-bloomberg-technology-uber--lucid--nuro--waymo-",
+    "date": "2026-06-17",
+    "title": "Uber 将在休斯顿推出 Lucid 和 Nuro 机器人出租车，对 Waymo 构成挑战",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Uber Technologies Inc. will offer driverless robotaxi rides in Houston in vehicles developed by Lucid Group Inc. and Nuro Inc., setting it up to challenge Waymo in the fourth-largest US city.（原题：Uber to Offer Robotaxis in Houston With Lucid and Nuro, Posing Challenge to Waymo）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-17/uber-lucid-and-nuro-plan-robotaxis-in-houston-taking-on-waymo-in-no-4-us-city",
+    "tags": [],
+    "impact": "Wed, 17 Jun 2026 11:00:19 GMT"
+  },
+  {
+    "id": "2026-06-17-ai-botcn-ace-ego---vla-",
+    "date": "2026-06-17",
+    "title": "ACE-Ego – 大晓机器人联合港中文开源的具身操作 VLA 模型",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "ACE-Ego – 大晓机器人联合港中文开源的具身操作 VLA 模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/ace-ego/",
     "tags": [],
     "impact": ""
   },
@@ -44,6 +102,20 @@
     "impact": "Tue, 16 Jun 2026 15:26:31 GMT"
   },
   {
+    "id": "2026-06-16-bloomberg-technology-lg-",
+    "date": "2026-06-16",
+    "title": "由前谷歌首席执行官支持的初创公司首次推出机器人，LG 合作",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A startup backed by former Google Chief Executive Officer Eric Schmidt unveiled an industrial robot powered by artificial intelligence, as investors pile into the emerging field of humanoids.（原题：Startup Backed by Ex-Google CEO Debuts Robot, LG Partnership）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-16/startup-backed-by-ex-google-ceo-debuts-industrial-robot-with-lg",
+    "tags": [],
+    "impact": "Tue, 16 Jun 2026 13:00:00 GMT"
+  },
+  {
     "id": "2026-06-16-the-robot-report--automate--rl030n-",
     "date": "2026-06-16",
     "title": "川崎机器人公司将在 Automate 展会上首次亮相 RL030N 物理人工智能平台",
@@ -58,20 +130,6 @@
     "impact": "Tue, 16 Jun 2026 13:59:25 +0000"
   },
   {
-    "id": "2026-06-16-qbitaicom-",
-    "date": "2026-06-16",
-    "title": "一个模型控制手脚腰身！机器人终于学会全身协同干精细活了",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "一个模型控制手脚腰身！机器人终于学会全身协同干精细活了",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/06/436073.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-06-16-the-robot-report-genesis-aieno",
     "date": "2026-06-16",
     "title": "Genesis AI推出Eno通用机器人",
@@ -84,20 +142,5 @@
     "source_url": "https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/",
     "tags": [],
     "impact": "Tue, 16 Jun 2026 12:59:29 +0000"
-  },
-  {
-    "id": "2026-06-15-cbndatacom-",
-    "date": "2026-06-15",
-    "title": "人形机器人出海，从“演员”到“打工人”霞光社",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "人形机器人出海，从“演员”到“打工人”霞光社",
-    "source": "cbndata.com",
-    "source_url": "https://cbndata.com/information/295430",
-    "tags": [],
-    "impact": ""
   }
 ]
