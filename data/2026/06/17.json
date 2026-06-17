@@ -1,13 +1,28 @@
 [
   {
-    "id": "2026-06-17-juejincn--agent--3d--1930",
+    "id": "2026-06-17-m21jingjicom-25-",
     "date": "2026-06-17",
-    "title": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1930",
+    "title": "深圳地瓜机器人，拿下25亿融资 公司",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "深圳地瓜机器人，拿下25亿融资 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260617/herald/bdf0188468e80bebb0f7afbf0ecfce14.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-17-juejincn--agent--3d--1931",
+    "date": "2026-06-17",
+    "title": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1931",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1930",
+    "summary": "从纯文本到具身智能：魔珐星云让国产大模型 Agent 拥有 3D 具身躯壳 1931",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7649738148373823529",
     "tags": [],
@@ -27,20 +42,6 @@
     "source_url": "https://www.cnbc.com/2026/06/16/self-driving-tech-supplier-mobileye-targets-us-robotaxi-launch-in-2027.html",
     "tags": [],
     "impact": "Tue, 16 Jun 2026 15:26:31 GMT"
-  },
-  {
-    "id": "2026-06-16-bloomberg-technology--lg-",
-    "date": "2026-06-16",
-    "title": "由前谷歌首席执行官支持的初创公司与 LG 合作推出工业机器人",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "A startup backed by former Google Chief Executive Officer Eric Schmidt unveiled an industrial robot powered by artificial intelligence, as investors pile into the emerging field of humanoids.（原题：Startup Backed by Ex-Google CEO Debuts Industrial Robot With LG）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-06-16/startup-backed-by-ex-google-ceo-debuts-industrial-robot-with-lg",
-    "tags": [],
-    "impact": "Tue, 16 Jun 2026 13:00:00 GMT"
   },
   {
     "id": "2026-06-16-the-robot-report--automate--rl030n-",
