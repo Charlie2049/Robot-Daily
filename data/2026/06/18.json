@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-06-18-readhubcn--5--83--",
+    "date": "2026-06-18",
+    "title": "前 5 个月上海口岸机器人出口额超 83 亿元 规模居全国首位",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "前 5 个月上海口岸机器人出口额超 83 亿元 规模居全国首位",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8u3oIqaGUKb",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-18-ai-botcn-stockbuddy---ai-",
+    "date": "2026-06-18",
+    "title": "StockBuddy – 腾讯自选股推出的 AI 金融智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "StockBuddy – 腾讯自选股推出的 AI 金融智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/stockbuddy/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-18-xueqiucom-ai",
+    "date": "2026-06-18",
+    "title": "AI学习笔记（二）：具身智能（概览）",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "AI学习笔记（二）：具身智能（概览）",
+    "source": "xueqiu.com",
+    "source_url": "http://xueqiu.com/5332385101/395533911",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-06-17-ieee-spectrum-robotics-",
     "date": "2026-06-17",
     "title": "赢得马拉松比赛的人形机器人的秘密",
@@ -42,20 +84,6 @@
     "source_url": "https://www.therobotreport.com/autonomique-deploys-semi-humanoid-robots-canadian-tier-1/",
     "tags": [],
     "impact": "Wed, 17 Jun 2026 14:00:34 +0000"
-  },
-  {
-    "id": "2026-06-16-sspaicom--145---matrix",
-    "date": "2026-06-16",
-    "title": "社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅 Matrix机器人",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅 Matrix机器人",
-    "source": "sspai.com",
-    "source_url": "https://sspai.com/post/111099",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-06-16-the-robot-report-psyonic--abb-robotics-",
