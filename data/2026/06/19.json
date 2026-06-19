@@ -1,15 +1,30 @@
 [
   {
-    "id": "2026-06-19-juejincn-openclawqq-1376",
+    "id": "2026-06-19-juejincn-openclawqq-1383",
     "date": "2026-06-19",
-    "title": "腾讯云一键部署OpenClaw打造QQ机器人 1376",
+    "title": "腾讯云一键部署OpenClaw打造QQ机器人 1383",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "腾讯云一键部署OpenClaw打造QQ机器人 1376",
+    "summary": "腾讯云一键部署OpenClaw打造QQ机器人 1383",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7651145221669355571",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-19-qbitaicom-2",
+    "date": "2026-06-19",
+    "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/436813.html",
     "tags": [],
     "impact": ""
   },
@@ -29,28 +44,14 @@
     "impact": "2026-06-18T14:08:17-04:00"
   },
   {
-    "id": "2026-06-18-bloomberg-technology-",
+    "id": "2026-06-18-mithomecom--l3l4-2027--7--172",
     "date": "2026-06-18",
-    "title": "自动驾驶卡车可以拯救生命",
+    "title": "我国首部 L3/L4 自动驾驶强制性国标公示：2027 年 7 月起正式实施，车企靠模糊宣传抢市场的阶段结束 172评",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "After experiencing the technology firsthand, Bloomberg Opinion columnist Thomas Black examined the data to find out what autonomous trucks could mean for the future of road safety. (Source: Bloomberg)（原题：Autonomous Trucks Can Be Life-Saving）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-06-18/opinion-autonomous-trucks-can-be-life-saving-video",
-    "tags": [],
-    "impact": "Thu, 18 Jun 2026 18:15:16 GMT"
-  },
-  {
-    "id": "2026-06-18-mithomecom--l3l4-2027--7--92",
-    "date": "2026-06-18",
-    "title": "我国首部 L3/L4 自动驾驶强制性国标公示：2027 年 7 月起正式实施，车企靠模糊宣传抢市场的阶段结束 92评",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "我国首部 L3/L4 自动驾驶强制性国标公示：2027 年 7 月起正式实施，车企靠模糊宣传抢市场的阶段结束 92评",
+    "summary": "我国首部 L3/L4 自动驾驶强制性国标公示：2027 年 7 月起正式实施，车企靠模糊宣传抢市场的阶段结束 172评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/966272.htm",
     "tags": [],
@@ -128,21 +129,6 @@
     "impact": "Thu, 18 Jun 2026 12:45:06 +0000"
   },
   {
-    "id": "2026-06-18-caifuhaoeastmoneycom-5000-74",
-    "date": "2026-06-18",
-    "title": "5000台央企大单落地！人形机器人核心零部件厂商，将迎放量周期 74",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "5000台央企大单落地！人形机器人核心零部件厂商，将迎放量周期 74",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20260618151133017083710",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-06-17-cbndatacom-500one",
     "date": "2026-06-17",
     "title": "一年融资超500起，谁在豪赌具身智能？定焦One",
@@ -154,21 +140,6 @@
     "summary": "一年融资超500起，谁在豪赌具身智能？定焦One",
     "source": "cbndata.com",
     "source_url": "https://cbndata.com/information/295441",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-06-17-ai-botcn-ace-ego---vla-",
-    "date": "2026-06-17",
-    "title": "ACE-Ego – 大晓机器人联合港中文开源的具身操作 VLA 模型",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "ACE-Ego – 大晓机器人联合港中文开源的具身操作 VLA 模型",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/ace-ego/",
     "tags": [],
     "impact": ""
   }
