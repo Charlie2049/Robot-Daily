@@ -1,31 +1,74 @@
 [
   {
-    "id": "2026-06-19-juejincn-openclawqq-1371",
+    "id": "2026-06-19-juejincn-openclawqq-1376",
     "date": "2026-06-19",
-    "title": "腾讯云一键部署OpenClaw打造QQ机器人 1371",
+    "title": "腾讯云一键部署OpenClaw打造QQ机器人 1376",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "腾讯云一键部署OpenClaw打造QQ机器人 1371",
+    "summary": "腾讯云一键部署OpenClaw打造QQ机器人 1376",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7651145221669355571",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-18-bloomberg-technology-waymo-",
+    "id": "2026-06-18-the-verge-",
     "date": "2026-06-18",
-    "title": "Waymo 召回超过高速公路工作区的机器人出租车",
+    "title": "这个机器人自动驾驶厕所来找你了",
+    "category": [
+      "robotics",
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes to you. The autonomous self-driving Xiaoban toilet was designed to improve accessibility for those dealing with mobility issues due to age, […]（原题：This robotic self-driving toilet comes to you）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
+    "tags": [],
+    "impact": "2026-06-18T14:08:17-04:00"
+  },
+  {
+    "id": "2026-06-18-bloomberg-technology-",
+    "date": "2026-06-18",
+    "title": "自动驾驶卡车可以拯救生命",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "After experiencing the technology firsthand, Bloomberg Opinion columnist Thomas Black examined the data to find out what autonomous trucks could mean for the future of road safety. (Source: Bloomberg)（原题：Autonomous Trucks Can Be Life-Saving）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-06-18/opinion-autonomous-trucks-can-be-life-saving-video",
+    "tags": [],
+    "impact": "Thu, 18 Jun 2026 18:15:16 GMT"
+  },
+  {
+    "id": "2026-06-18-mithomecom--l3l4-2027--7--92",
+    "date": "2026-06-18",
+    "title": "我国首部 L3/L4 自动驾驶强制性国标公示：2027 年 7 月起正式实施，车企靠模糊宣传抢市场的阶段结束 92评",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "我国首部 L3/L4 自动驾驶强制性国标公示：2027 年 7 月起正式实施，车企靠模糊宣传抢市场的阶段结束 92评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/966272.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-18-cnbc-technology-waymo--3900-",
+    "date": "2026-06-18",
+    "title": "Waymo 召回约 3,900 辆机器人出租车，原因是部分机器人出租车驶入“高速公路施工区”",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Waymo is recalling thousands of its robotaxis to fix a software issue that could cause the autonomous vehicles to enter and drive at speed through freeway construction zones.（原题：Waymo Recalls Robotaxis Over Driving Through Freeway Work Zones）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-06-18/waymo-recalls-robotaxis-over-driving-through-freeway-work-zones",
+    "summary": "After some Waymo robotaxis drove into closed construction zones, the company implemented a recall to fix underlying software issues.（原题：Waymo recalls about 3,900 robotaxis after some drove into 'freeway construction zones'）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/06/18/waymo-nhtsa-voluntary-recall-robotaxis-entered-freeway-construction-zones.html",
     "tags": [],
-    "impact": "Thu, 18 Jun 2026 14:13:22 GMT"
+    "impact": "Thu, 18 Jun 2026 21:57:32 GMT"
   },
   {
     "id": "2026-06-18-the-robot-report-richtech-robotics--adam-ai-",
@@ -57,20 +100,6 @@
     "impact": "Thu, 18 Jun 2026 13:10:02 +0000"
   },
   {
-    "id": "2026-06-18-the-verge-prime-day-",
-    "date": "2026-06-18",
-    "title": "Prime Day 之前提供的最佳扫地机器人优惠",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. Prime Day is next week, but many retailers are offering early deals on several models we’ve tested from brands like Roborock, […]（原题：The best robot vacuum deals available ahead of Prime Day）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-    "tags": [],
-    "impact": "2026-06-18T10:00:00-04:00"
-  },
-  {
     "id": "2026-06-18-the-robot-report-microbot-medical--liberty-",
     "date": "2026-06-18",
     "title": "Microbot Medical 通过 LIBERTY 扩大退伍军人接受机器人手术的机会",
@@ -99,15 +128,15 @@
     "impact": "Thu, 18 Jun 2026 12:45:06 +0000"
   },
   {
-    "id": "2026-06-18-caifuhaoeastmoneycom-5000-47",
+    "id": "2026-06-18-caifuhaoeastmoneycom-5000-74",
     "date": "2026-06-18",
-    "title": "5000台央企大单落地！人形机器人核心零部件厂商，将迎放量周期 47",
+    "title": "5000台央企大单落地！人形机器人核心零部件厂商，将迎放量周期 74",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "5000台央企大单落地！人形机器人核心零部件厂商，将迎放量周期 47",
+    "summary": "5000台央企大单落地！人形机器人核心零部件厂商，将迎放量周期 74",
     "source": "caifuhao.eastmoney.com",
     "source_url": "http://caifuhao.eastmoney.com/news/20260618151133017083710",
     "tags": [],
