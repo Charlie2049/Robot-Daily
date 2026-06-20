@@ -1,20 +1,5 @@
 [
   {
-    "id": "2026-06-20-36krcom-moody",
-    "date": "2026-06-20",
-    "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3859926114161665?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-06-20-xueqiucom-ai",
     "date": "2026-06-20",
     "title": "AI学习笔记（二）：具身智能（概览）",
@@ -43,6 +28,21 @@
     "impact": "Fri, 19 Jun 2026 15:00:02 +0000"
   },
   {
+    "id": "2026-06-19-mithomecom--6200--g1--69",
+    "date": "2026-06-19",
+    "title": "人形机器人成功登顶海拔 6200 米火山：基于宇树 G1 改装，目标挑战珠峰 69评",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人成功登顶海拔 6200 米火山：基于宇树 G1 改装，目标挑战珠峰 69评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/966427.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-06-19-ieee-spectrum-robotics--astro-",
     "date": "2026-06-19",
     "title": "亚马逊的 Astro 教会我如何赋予机器人灵魂",
@@ -69,19 +69,5 @@
     "source_url": "https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/",
     "tags": [],
     "impact": "Fri, 19 Jun 2026 12:45:52 +0000"
-  },
-  {
-    "id": "2026-06-18-ai-botcn-stockbuddy---ai-",
-    "date": "2026-06-18",
-    "title": "StockBuddy – 腾讯自选股推出的 AI 金融智能体",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "StockBuddy – 腾讯自选股推出的 AI 金融智能体",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/stockbuddy/",
-    "tags": [],
-    "impact": ""
   }
 ]
