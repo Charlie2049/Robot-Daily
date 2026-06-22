@@ -1,16 +1,44 @@
 [
   {
-    "id": "2026-06-22-36krcom-moody",
+    "id": "2026-06-22-36krcom-",
     "date": "2026-06-22",
-    "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+    "title": "人形机器人还在学习干活，灵巧手先成了热门生意",
     "category": [
-      "robotics",
-      "funding"
+      "humanoid",
+      "robotics"
     ],
     "region": "Global",
-    "summary": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+    "summary": "人形机器人还在学习干活，灵巧手先成了热门生意",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3859926114161665?f=rss",
+    "source_url": "https://www.36kr.com/p/3864146944414980",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-22-ai-botcn-sakana-fugu--sakana-ai-",
+    "date": "2026-06-22",
+    "title": "Sakana Fugu – Sakana AI 推出的多智能体编排系统",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Sakana Fugu – Sakana AI 推出的多智能体编排系统",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/sakana-fugu/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-22-mithomecom-10--29--483-yu7-gt--332",
+    "date": "2026-06-22",
+    "title": "10 分 29 秒 483，小米 YU7 GT 达成全球首个纽北自动驾驶圈速纪录 332评",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "10 分 29 秒 483，小米 YU7 GT 达成全球首个纽北自动驾驶圈速纪录 332评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/966794.htm",
     "tags": [],
     "impact": ""
   },
