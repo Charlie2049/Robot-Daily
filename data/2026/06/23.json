@@ -1,0 +1,59 @@
+[
+  {
+    "id": "2026-06-22-bloomberg-technology-nvidia-",
+    "date": "2026-06-22",
+    "title": "Nvidia 寻求让人形人工智能机器人在人类周围更安全",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Nvidia Corp. is working to make humanoid robots safer around people, arguing that they’ll need to handle split-second decisions before they can be trusted to work closely with humans.（原题：Nvidia Seeks to Make Humanoid AI Robots Safer Around Humans）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-22/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans",
+    "tags": [],
+    "impact": "Mon, 22 Jun 2026 13:00:00 GMT"
+  },
+  {
+    "id": "2026-06-22-the-robot-report-nvidia--halos",
+    "date": "2026-06-22",
+    "title": "NVIDIA 发布 Halos，一款用于机器人的全栈安全系统",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "NVIDIA said Halos connects AI compute, system software, sensor data, safety applications, and inspection for robotic systems. The post NVIDIA releases Halos, a full-stack safety system for robotics appeared first on The Robot Report .（原题：NVIDIA releases Halos, a full-stack safety system for robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/nvidia-releases-halos-a-full-stack-safety-system-for-robotics/",
+    "tags": [],
+    "impact": "Mon, 22 Jun 2026 15:01:24 +0000"
+  },
+  {
+    "id": "2026-06-22-the-robot-report-cobot--proxie-gen-2-",
+    "date": "2026-06-22",
+    "title": "Cobot 的 Proxie Gen 2 机器人增加了自动任务处理和移动操作功能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Cobot founder and CEO Brad Porter said Proxie Gen 2 can determine when materials are ready to move, identify destinations, and create tasks without human intervention. The post Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation appeared first on The Robot Report .（原题：Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/",
+    "tags": [],
+    "impact": "Mon, 22 Jun 2026 12:59:51 +0000"
+  },
+  {
+    "id": "2026-06-21-the-robot-report-gdel--automate-2026-",
+    "date": "2026-06-21",
+    "title": "Güdel 将在 Automate 2026 上展示超越固定机器人的垂直、水平运动磨削",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Güdel has added two degrees of freedom to heavy-duty robotic grinding applications through its TMV and TMF systems. The post Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026 appeared first on The Robot Report .（原题：Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/gudel-to-showcase-grinding-beyond-stationary-robots-integrated-vertical-horizontal-motion-automate/",
+    "tags": [],
+    "impact": "Sun, 21 Jun 2026 12:30:43 +0000"
+  }
+]
