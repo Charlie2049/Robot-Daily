@@ -1,18 +1,17 @@
 [
   {
-    "id": "2026-06-22-bloomberg-technology-nvidia-",
-    "date": "2026-06-22",
-    "title": "Nvidia 寻求让人形人工智能机器人在人类周围更安全",
+    "id": "2026-06-23-m21jingjicom-ai-",
+    "date": "2026-06-23",
+    "title": "从实验室到量产线：“AI+柔性智造”让广东机器人越跑越快 粤港澳",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Nvidia Corp. is working to make humanoid robots safer around people, arguing that they’ll need to handle split-second decisions before they can be trusted to work closely with humans.（原题：Nvidia Seeks to Make Humanoid AI Robots Safer Around Humans）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-06-22/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans",
+    "summary": "从实验室到量产线：“AI+柔性智造”让广东机器人越跑越快 粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260623/herald/c0f58a4514d5b3c124e56ab9a9d68ef5.html",
     "tags": [],
-    "impact": "Mon, 22 Jun 2026 13:00:00 GMT"
+    "impact": ""
   },
   {
     "id": "2026-06-22-the-robot-report-nvidia--halos",
@@ -29,6 +28,20 @@
     "impact": "Mon, 22 Jun 2026 15:01:24 +0000"
   },
   {
+    "id": "2026-06-22-the-robot-report-intrinsic-",
+    "date": "2026-06-22",
+    "title": "Intrinsic 如何消除手动机器人编码",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Alphabet’s Intrinsic has debuted its AI-powered \"Intelligence Cell\" to simplify factory automation and eliminate complex robot programming. The post How Intrinsic eliminates manual robot coding appeared first on The Robot Report .（原题：How Intrinsic eliminates manual robot coding）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/",
+    "tags": [],
+    "impact": "Mon, 22 Jun 2026 19:17:05 +0000"
+  },
+  {
     "id": "2026-06-22-the-robot-report-cobot--proxie-gen-2-",
     "date": "2026-06-22",
     "title": "Cobot 的 Proxie Gen 2 机器人增加了自动任务处理和移动操作功能",
@@ -41,6 +54,34 @@
     "source_url": "https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/",
     "tags": [],
     "impact": "Mon, 22 Jun 2026 12:59:51 +0000"
+  },
+  {
+    "id": "2026-06-22-the-robot-report-bear-robotics--kinisi-robotics--ai-",
+    "date": "2026-06-22",
+    "title": "Bear Robotics 收购 Kinisi Robotics 以增强其物理 AI 能力",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Kinisi's KR1 humanoid robot, its Bristol-based engineering team, and its physical AI capabilities will be integrated into Bear Robotics. The post Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities appeared first on The Robot Report .（原题：Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/",
+    "tags": [],
+    "impact": "Mon, 22 Jun 2026 19:13:14 +0000"
+  },
+  {
+    "id": "2026-06-21-huxiucom--288",
+    "date": "2026-06-21",
+    "title": "这类工作要被机器人抢走了 28.8万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "这类工作要被机器人抢走了 28.8万",
+    "source": "huxiu.com",
+    "source_url": "https://www.huxiu.com/article/4860037.html",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-06-21-the-robot-report-gdel--automate-2026-",
