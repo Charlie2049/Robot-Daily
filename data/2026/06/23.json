@@ -1,17 +1,74 @@
 [
   {
-    "id": "2026-06-23-m21jingjicom-ai-",
+    "id": "2026-06-23-ai-botcn-21--",
     "date": "2026-06-23",
-    "title": "从实验室到量产线：“AI+柔性智造”让广东机器人越跑越快 粤港澳",
+    "title": "豆包2.1 – 字节跳动推出的全新智能体模型系列",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "豆包2.1 – 字节跳动推出的全新智能体模型系列",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/doubao-seed-2-1/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-23-sspaicom--146---matrix",
+    "date": "2026-06-23",
+    "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器 Matrix机器人",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "从实验室到量产线：“AI+柔性智造”让广东机器人越跑越快 粤港澳",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260623/herald/c0f58a4514d5b3c124e56ab9a9d68ef5.html",
+    "summary": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器 Matrix机器人",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/111410",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-06-23-qbitaicom-",
+    "date": "2026-06-23",
+    "title": "机器人全栈操作系统！老黄率先抛出“具身版安卓”",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人全栈操作系统！老黄率先抛出“具身版安卓”",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/437382.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-23-36krcom-",
+    "date": "2026-06-23",
+    "title": "具身智能芯片，先卷疯了",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能芯片，先卷疯了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3865591032337671",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-23-the-verge-prime-day-",
+    "date": "2026-06-23",
+    "title": "Prime Day 期间提供最佳机器人吸尘器优惠",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. Prime Day has kicked off, though more than just Amazon is offering deals on several models we’ve tested from brands like […]（原题：The best robot vacuum deals available during Prime Day）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+    "tags": [],
+    "impact": "2026-06-23T06:24:10-04:00"
   },
   {
     "id": "2026-06-22-the-robot-report-nvidia--halos",
@@ -70,14 +127,14 @@
     "impact": "Mon, 22 Jun 2026 19:13:14 +0000"
   },
   {
-    "id": "2026-06-21-huxiucom--288",
+    "id": "2026-06-21-huxiucom--317",
     "date": "2026-06-21",
-    "title": "这类工作要被机器人抢走了 28.8万",
+    "title": "这类工作要被机器人抢走了 31.7万",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "这类工作要被机器人抢走了 28.8万",
+    "summary": "这类工作要被机器人抢走了 31.7万",
     "source": "huxiu.com",
     "source_url": "https://www.huxiu.com/article/4860037.html",
     "tags": [],
