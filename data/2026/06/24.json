@@ -1,16 +1,58 @@
 [
   {
-    "id": "2026-06-24-36krcom-ai",
+    "id": "2026-06-24-juejincn----618-509",
     "date": "2026-06-24",
-    "title": "当AI智能体走进伊利一线服务，导购和达人营销有了新解法",
+    "title": "企业中要做智能体，最佳的方案是什么？ | 沸点周刊 6.18 509",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "当AI智能体走进伊利一线服务，导购和达人营销有了新解法",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3865187393934598",
+    "summary": "企业中要做智能体，最佳的方案是什么？ | 沸点周刊 6.18 509",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7652334548865826862",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-06-23-the-robot-report-vention--fanuc--universal-robots-",
+    "date": "2026-06-23",
+    "title": "Vention 与 FANUC 和 Universal Robots 合作开发软件定义自动化",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Vention is working with partners to make design and deployment of industrial and collaborative robots easier for manufacturers. The post Vention collaborates with FANUC and Universal Robots on software-defined automation appeared first on The Robot Report .（原题：Vention collaborates with FANUC and Universal Robots on software-defined automation）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/vention-collaborates-with-fanuc-universal-robots-software-defined-automation/",
+    "tags": [],
+    "impact": "Tue, 23 Jun 2026 19:49:36 +0000"
+  },
+  {
+    "id": "2026-06-23-technologyreviewcom-ultrasound-imaging-turns-a-robot-hand-in",
+    "date": "2026-06-23",
+    "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Ultrasound imaging turns a robot hand into a skillful mimic",
+    "source": "technologyreview.com",
+    "source_url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-23-the-robot-report-exrobotics--ul-",
+    "date": "2026-06-23",
+    "title": "ExRobotics 推出适用于危险环境的 UL 认证检查机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "ExRobotics says its ExR-2.5 inspection robot is certified for safe operations in explosive environments in North America. The post ExRobotics launches UL-certified inspection robot for hazardous environments appeared first on The Robot Report .（原题：ExRobotics launches UL-certified inspection robot for hazardous environments）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/exrobotics-launches-ul-certified-inspection-robot-for-hazardous-environments/",
+    "tags": [],
+    "impact": "Tue, 23 Jun 2026 23:00:45 +0000"
   }
 ]
