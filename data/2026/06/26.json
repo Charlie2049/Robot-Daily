@@ -15,36 +15,6 @@
     "impact": ""
   },
   {
-    "id": "2026-06-26-aibasecom-aiaimimo-codemalldiffusiongemma",
-    "date": "2026-06-26",
-    "title": "AI日报：小米开源AI编程助手MiMo Code；京东MALL首批人形机器人上岗；谷歌发布DiffusionGemma",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "AI日报：小米开源AI编程助手MiMo Code；京东MALL首批人形机器人上岗；谷歌发布DiffusionGemma",
-    "source": "aibase.com",
-    "source_url": "https://www.aibase.com/zh/daily/28856",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-06-25-bloomberg-technology--50-",
-    "date": "2026-06-25",
-    "title": "这家价值 50 亿美元的初创公司正在将人形机器人投入工作",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "A $5 billion startup is putting humanoid robots to work in Texas. Joshua Brustein explains what it could mean for the potential of a machine-powered future.\n\n (Source: Bloomberg)（原题：This $5 Billion Startup Is Putting Humanoid Robots To Work）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-06-25/this-5-billion-startup-is-putting-humanoid-robots-to-work",
-    "tags": [],
-    "impact": "Thu, 25 Jun 2026 12:00:04 GMT"
-  },
-  {
     "id": "2026-06-25-guokrcom-deepseek",
     "date": "2026-06-25",
     "title": "周鸿祎宣布打造漏洞挖掘智能体，特斯拉中国确认接入豆包与DeepSeek双模型",
@@ -59,19 +29,18 @@
     "impact": ""
   },
   {
-    "id": "2026-06-25-bloomberg-technology-nvidia-",
+    "id": "2026-06-25-the-robot-report-robustaiaptiv-pulse",
     "date": "2026-06-25",
-    "title": "Nvidia 希望使人形人工智能机器人在人类身边更加安全",
+    "title": "Robust.AI为第三代卡特移动机器人选择Aptiv PULSE传感器",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Humanoid robots are getting smarter and moving closer to the real world. But before they can work alongside humans, Nvidia says they need something even more important: the ability to recognize danger and react in an instant. Bloomberg's Ed Ludlow speaks with Deepu Talla, Vice President of Robotics and Edge AI at Nvidia, about the technology designed to make that possible. (Source: Bloomberg)（原题：Nvidia Wants to Make Humanoid AI Robots Safer Around Humans）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video",
+    "summary": "Aptiv provides sensor fusion from radar and vision using AI to enable Robust.AI's Carter robot to move safely around people. The post Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot appeared first on The Robot Report .（原题：Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/robust-ai-chooses-aptiv-pulse-sensor-for-gen-3-carter-mobile-robot/",
     "tags": [],
-    "impact": "Thu, 25 Jun 2026 15:06:06 GMT"
+    "impact": "Thu, 25 Jun 2026 19:18:25 +0000"
   },
   {
     "id": "2026-06-25-the-robot-report-arm--roboticscareerorg--ai",
