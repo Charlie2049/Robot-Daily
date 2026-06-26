@@ -1,16 +1,71 @@
 [
   {
-    "id": "2026-06-26-36krcom-",
+    "id": "2026-06-26-36krcom-5000",
     "date": "2026-06-26",
-    "title": "具身数据采集产业链调查：被机器人采集的人",
+    "title": "陪伴类机器人卖了5000台，优必选能松口气了？",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "具身数据采集产业链调查：被机器人采集的人",
+    "summary": "陪伴类机器人卖了5000台，优必选能松口气了？",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3868536772236297",
+    "source_url": "https://www.36kr.com/p/3868626103325952",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-26-huxiucom--356",
+    "date": "2026-06-26",
+    "title": "这类工作要被机器人抢走了 35.6万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "这类工作要被机器人抢走了 35.6万",
+    "source": "huxiu.com",
+    "source_url": "https://www.huxiu.com/article/4860037.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-26-qbitaicom-tacforesight",
+    "date": "2026-06-26",
+    "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/06/438701.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-26-36krcom-8",
+    "date": "2026-06-26",
+    "title": "我每天做8小时家务，给机器人当燃料",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "我每天做8小时家务，给机器人当燃料",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3869421624235013",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-26-36krcom-",
+    "date": "2026-06-26",
+    "title": "华为腾讯百度齐下场，机器人大脑生态战全面打响",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "华为腾讯百度齐下场，机器人大脑生态战全面打响",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3869447033017351",
     "tags": [],
     "impact": ""
   },
@@ -55,20 +110,6 @@
     "source_url": "https://www.therobotreport.com/arm-institute-launches-physical-ai-focused-expansion-roboticscareer-org/",
     "tags": [],
     "impact": "Thu, 25 Jun 2026 12:30:20 +0000"
-  },
-  {
-    "id": "2026-06-24-cnbc-technology-",
-    "date": "2026-06-24",
-    "title": "随着商业化加速，摩根士丹利将中国仿人机器人出货量预测提高一倍",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Morgan Stanley has sharply raised its outlook for China's humanoid robotics market, as early commercial deployment in real-world scenarios accelerated.（原题：Morgan Stanley doubles China humanoid robot shipment forecast as commercialization accelerates）",
-    "source": "CNBC Technology",
-    "source_url": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
-    "tags": [],
-    "impact": "Wed, 24 Jun 2026 06:39:10 GMT"
   },
   {
     "id": "2026-06-24-the-robot-report--drew-henry--arm-",
