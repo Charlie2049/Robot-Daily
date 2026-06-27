@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-06-27----",
+    "date": "2026-06-27",
+    "title": "荣耀机器人到重庆也得拍落地签",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "荣耀机器人到重庆也得拍落地签",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%B0%E9%87%8D%E5%BA%86%E4%B9%9F%E5%BE%97%E6%8B%8D%E8%90%BD%E5%9C%B0%E7%AD%BE",
+    "tags": [],
+    "impact": "45万"
+  },
+  {
+    "id": "2026-06-27-the-robot-report-",
+    "date": "2026-06-27",
+    "title": "紧凑型协作机器人集成如何增强自主移动机器人应用",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Cobots are quickly shaping the future of warehousing, with their use rising 10-fold from 2018 to 2025, Kassow said. The post How compact cobot integration enhances autonomous mobile robot applications appeared first on The Robot Report .（原题：How compact cobot integration enhances autonomous mobile robot applications）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/",
+    "tags": [],
+    "impact": "Sat, 27 Jun 2026 12:35:55 +0000"
+  },
+  {
+    "id": "2026-06-27-the-robot-report-",
+    "date": "2026-06-27",
+    "title": "我们知道如何制造更智能的机器人。现在，我们需要学习更智能的方法来测试它们",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Atharv Kolhar, a staff test automation engineer at Figure AI, says the robotics industry needs a testing philosophy that scales alongside autonomy. The post We know how to build smarter robots. Now, we need to learn smarter ways to test them appeared first on The Robot Report .（原题：We know how to build smarter robots. Now, we need to learn smarter ways to test them）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/",
+    "tags": [],
+    "impact": "Sat, 27 Jun 2026 13:00:47 +0000"
+  },
+  {
     "id": "2026-06-27-the-verge--prime--17-",
     "date": "2026-06-27",
     "title": "在 Prime 会员日结束之前您仍然可以获得 17 个最佳机器人吸尘器优惠",
@@ -14,28 +56,28 @@
     "impact": "2026-06-26T20:42:42-04:00"
   },
   {
-    "id": "2026-06-27-blogcsdnnet-aimomenta-26",
+    "id": "2026-06-27-blogcsdnnet-aimomenta-25",
     "date": "2026-06-27",
-    "title": "从自动驾驶到物理AI，Momenta 在下多大一盘棋？2.6万",
+    "title": "从自动驾驶到物理AI，Momenta 在下多大一盘棋？2.5万",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "从自动驾驶到物理AI，Momenta 在下多大一盘棋？2.6万",
+    "summary": "从自动驾驶到物理AI，Momenta 在下多大一盘棋？2.5万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/szqx2025/article/details/162314880",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-27-blogcsdnnet-ai-28",
+    "id": "2026-06-27-blogcsdnnet-ai-27",
     "date": "2026-06-27",
-    "title": "AI在自动驾驶中的应用：感知、决策与控制技术解析 2.8万",
+    "title": "AI在自动驾驶中的应用：感知、决策与控制技术解析 2.7万",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "AI在自动驾驶中的应用：感知、决策与控制技术解析 2.8万",
+    "summary": "AI在自动驾驶中的应用：感知、决策与控制技术解析 2.7万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/shanwei_spider/article/details/162327328",
     "tags": [],
