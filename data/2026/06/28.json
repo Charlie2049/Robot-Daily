@@ -14,16 +14,44 @@
     "impact": ""
   },
   {
-    "id": "2026-06-28-blogcsdnnet-ai525",
+    "id": "2026-06-28-m21jingjicom--",
     "date": "2026-06-28",
-    "title": "AI智能体分类及其应用解析（5）2.5万",
+    "title": "瞄准中国机器人制造之都，顺德机器人“五虎”集结 粤港澳",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "瞄准中国机器人制造之都，顺德机器人“五虎”集结 粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260628/herald/5b4b3e7540686596969b56273d40d2d3.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-28-bloomberg-technology-",
+    "date": "2026-06-28",
+    "title": "机器人出租车如何取得进展、出现故障等等",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "It’s one of those technologies that were always around the corner but never arrived. Now it has, kind of...（原题：How Robotaxis Are Making Headway, Glitches and All）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/features/2026-06-28/robotaxis-why-waymo-tesla-baidu-and-others-face-continued-challenges",
+    "tags": [],
+    "impact": "Sun, 28 Jun 2026 14:00:15 GMT"
+  },
+  {
+    "id": "2026-06-28-blogcsdnnet-ai425",
+    "date": "2026-06-28",
+    "title": "AI智能体分类及其应用解析（4）2.5万",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "AI智能体分类及其应用解析（5）2.5万",
+    "summary": "AI智能体分类及其应用解析（4）2.5万",
     "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2501_94287723/article/details/162331646",
+    "source_url": "https://blog.csdn.net/2501_94287723/article/details/162312799",
     "tags": [],
     "impact": ""
   },
