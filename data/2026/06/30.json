@@ -1,0 +1,88 @@
+[
+  {
+    "id": "2026-06-30-blogcsdnnet-ai-28",
+    "date": "2026-06-30",
+    "title": "阿里通义团队打造AI世界模拟器，让智能体在虚拟环境中练就真功夫 2.8万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "阿里通义团队打造AI世界模拟器，让智能体在虚拟环境中练就真功夫 2.8万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/weixin_49122920/article/details/162373136",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-29-guokrcom-86-55",
+    "date": "2026-06-29",
+    "title": "美的分体空调在欧洲遭哄抢；智元机器人8台人形机器人工厂连轴6天直播 ；四川宜宾市高县发生5.5级浅层地震",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "美的分体空调在欧洲遭哄抢；智元机器人8台人形机器人工厂连轴6天直播 ；四川宜宾市高县发生5.5级浅层地震",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/469542/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-29-techcrunch-robotics--1100-",
+    "date": "2026-06-29",
+    "title": "机器人手公司就特斯拉商业秘密诉讼达成和解并宣布融资 1100 万美元",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.（原题：Robot hand company settles Tesla trade secret suit and announces $11M raise）",
+    "source": "TechCrunch Robotics",
+    "source_url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "tags": [],
+    "impact": "Mon, 29 Jun 2026 14:00:08 +0000"
+  },
+  {
+    "id": "2026-06-29-ifanrcom--",
+    "date": "2026-06-29",
+    "title": "大晓机器人的赛博机器狗，开始在上海和天津「打全工」了 爱范儿",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "大晓机器人的赛博机器狗，开始在上海和天津「打全工」了 爱范儿",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1670434",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-29-the-robot-report-mbody-ai-",
+    "date": "2026-06-29",
+    "title": "MBody AI 将服务机器人业务扩展到十一个州和加拿大",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "MBody AI has deployed its hardware-agnostic Orchestrator platform to Florida and California, with a pilot in Ontario. The post MBody AI expands service robotics operations to eleven states and Canada appeared first on The Robot Report .（原题：MBody AI expands service robotics operations to eleven states and Canada）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/",
+    "tags": [],
+    "impact": "Mon, 29 Jun 2026 15:41:42 +0000"
+  },
+  {
+    "id": "2026-06-28-the-robot-report-agibot15000",
+    "date": "2026-06-28",
+    "title": "AGIBOT生产第15,000台机器人，标志着实体人工智能部署的里程碑",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AGIBOT has rolled out 15,000 wheeled semi-humanoid robots as it moves from embodied AI from development and production to deployment. The post AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment appeared first on The Robot Report .（原题：AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/agibot-produces-15000th-robot-marking-milestone-embodied-ai-deployment/",
+    "tags": [],
+    "impact": "Sun, 28 Jun 2026 09:00:12 +0000"
+  }
+]
