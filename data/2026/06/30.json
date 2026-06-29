@@ -1,15 +1,15 @@
 [
   {
-    "id": "2026-06-30-blogcsdnnet-ai-28",
+    "id": "2026-06-30-blogcsdnnet-harmonyos-6api-23hmafpcai-31",
     "date": "2026-06-30",
-    "title": "阿里通义团队打造AI世界模拟器，让智能体在虚拟环境中练就真功夫 2.8万",
+    "title": "HarmonyOS 6（API 23）实战：基于HMAF的「智行中枢」——PC端AI智能体智慧城市交通大脑与车路协同决策平台 3.1万",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "阿里通义团队打造AI世界模拟器，让智能体在虚拟环境中练就真功夫 2.8万",
+    "summary": "HarmonyOS 6（API 23）实战：基于HMAF的「智行中枢」——PC端AI智能体智慧城市交通大脑与车路协同决策平台 3.1万",
     "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/weixin_49122920/article/details/162373136",
+    "source_url": "https://blog.csdn.net/u014727709/article/details/162427113",
     "tags": [],
     "impact": ""
   },
@@ -58,6 +58,34 @@
     "impact": ""
   },
   {
+    "id": "2026-06-29-cnbc-technology-waymo--uber-",
+    "date": "2026-06-29",
+    "title": "Waymo 和 Uber 终止凤凰城机器人出租车试点",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The Waymo self-driving cars deployed in Phoenix for the Uber pilot will remain in use and make autonomous deliveries with DoorDash.（原题：Waymo and Uber end robotaxi pilot in Phoenix）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html",
+    "tags": [],
+    "impact": "Mon, 29 Jun 2026 23:24:59 GMT"
+  },
+  {
+    "id": "2026-06-29-bloomberg-technology-uber--waymo--robotaxi-",
+    "date": "2026-06-29",
+    "title": "Uber 和 Waymo 结束了在凤凰城的 Robotaxi 合作；优步宣布新合作伙伴",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Uber Technologies Inc. said it has wound down its robotaxi offering with Alphabet Inc.’s Waymo in Phoenix, the latest relationship twist between two companies that simultaneously function as partners and competitors.（原题：Uber and Waymo Have Ended Their Robotaxi Tie-Up in Phoenix; Uber to Announce New Partner）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-29/uber-waymo-have-ended-robotaxi-tie-up-in-phoenix-uber-to-announce-new-partner",
+    "tags": [],
+    "impact": "Mon, 29 Jun 2026 18:54:59 GMT"
+  },
+  {
     "id": "2026-06-29-the-robot-report-mbody-ai-",
     "date": "2026-06-29",
     "title": "MBody AI 将服务机器人业务扩展到十一个州和加拿大",
@@ -70,6 +98,20 @@
     "source_url": "https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/",
     "tags": [],
     "impact": "Mon, 29 Jun 2026 15:41:42 +0000"
+  },
+  {
+    "id": "2026-06-29-the-robot-report-bear-robotics--kinisi-",
+    "date": "2026-06-29",
+    "title": "Bear Robotics 收购 Kinisi 背后的见解",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Brennand Pierce, founder and CEO of Kinisi Robotics, discusses the company's approach to physical AI and its acquisition by Bear Robotics. The post Insights behind Kinisi’s acquisition by Bear Robotics appeared first on The Robot Report .（原题：Insights behind Kinisi’s acquisition by Bear Robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/",
+    "tags": [],
+    "impact": "Mon, 29 Jun 2026 22:29:11 +0000"
   },
   {
     "id": "2026-06-28-the-robot-report-agibot15000",
