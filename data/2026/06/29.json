@@ -1,59 +1,120 @@
 [
   {
-    "id": "2026-06-29-blogcsdnnet-vla-29",
+    "id": "2026-06-29-36krcom--23-",
     "date": "2026-06-29",
-    "title": "神经网络与深度学习第五周总结——具身智能、VLA与世界模型 2.9万",
+    "title": "这家公司用游戏训练机器人，估值 23 亿美元",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "神经网络与深度学习第五周总结——具身智能、VLA与世界模型 2.9万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/weixin_61163359/article/details/162393099",
+    "summary": "这家公司用游戏训练机器人，估值 23 亿美元",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3873734527816706",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-29-blogcsdnnet-ai524",
+    "id": "2026-06-29-36krcom-",
     "date": "2026-06-29",
-    "title": "AI智能体分类及其应用解析（5）2.4万",
+    "title": "超级仿生，人形机器人的新战场",
     "category": [
-      "general"
+      "humanoid",
+      "robotics"
     ],
     "region": "Global",
-    "summary": "AI智能体分类及其应用解析（5）2.4万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2501_94287723/article/details/162331646",
+    "summary": "超级仿生，人形机器人的新战场",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3873555825408898",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-29-blogcsdnnet-ai-24",
+    "id": "2026-06-29-bloomberg-technology-",
     "date": "2026-06-29",
-    "title": "AI在自动驾驶中的应用：感知、决策与控制技术解析 2.4万",
+    "title": "行业资金强劲，中国诞生两家机器人独角兽",
     "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Two Chinese robotics startups have been valued at more than $2.9 billion in recent funding rounds, demonstrating steady interest in the sector and boosting the country’s efforts to compete with US firms like Tesla Inc. and Figure AI Inc.（原题：China Births Two Robot Unicorns as Sector Funding Stays Strong）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong",
+    "tags": [],
+    "impact": "Mon, 29 Jun 2026 09:24:07 GMT"
+  },
+  {
+    "id": "2026-06-29-36krcom-moxyai",
+    "date": "2026-06-29",
+    "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3874015941645570",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-29-m21jingjicom-ctoai-robotaxi",
+    "date": "2026-06-29",
+    "title": "滴滴自动驾驶CTO盛克华：深化AI创新 加速Robotaxi智能涌现",
+    "category": [
+      "robotics",
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "AI在自动驾驶中的应用：感知、决策与控制技术解析 2.4万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/shanwei_spider/article/details/162327328",
+    "summary": "滴滴自动驾驶CTO盛克华：深化AI创新 加速Robotaxi智能涌现",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260629/herald/b7b181fb0a7ee474a79ce9003ee2efcd.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-06-29-blogcsdnnet-ai-agentrag-24",
+    "id": "2026-06-29-ifanrcom-iphone-189gbb1724200-",
     "date": "2026-06-29",
-    "title": "AI Agent：从RAG到多智能体 2.4万",
+    "title": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元 早报",
     "category": [
-      "general"
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "AI Agent：从RAG到多智能体 2.4万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2301_79484620/article/details/162397617",
+    "summary": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1670360",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-06-29-36krcom-460",
+    "date": "2026-06-29",
+    "title": "人形机器人降至万元级，上半年具身智能融资超460亿元",
+    "category": [
+      "humanoid",
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "人形机器人降至万元级，上半年具身智能融资超460亿元",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3871216256455938",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-06-29-bloomberg-technology-",
+    "date": "2026-06-29",
+    "title": "中国机器人尝试世界杯式点球",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Chinese humanoid robots are stealing the spotlight at Mobile World Congress in Shanghai — but can they keep up with the World Cup spirit? From penalty kicks to piano playing, Bloomberg's Stephen Engle puts them to the test. (Source: Bloomberg)（原题：China's Robots Try World Cup-Style Penalty Kicks）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-06-29/china-s-robots-try-world-cup-style-penalty-kicks-video",
+    "tags": [],
+    "impact": "Mon, 29 Jun 2026 06:11:02 GMT"
   },
   {
     "id": "2026-06-27-the-robot-report-",
