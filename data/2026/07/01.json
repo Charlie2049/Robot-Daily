@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-01--",
+    "date": "2026-07-01",
+    "title": "机器人概念暴涨原因",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人概念暴涨原因",
+    "source": "更多作品推荐",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A6%82%E5%BF%B5%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0",
+    "tags": [],
+    "impact": "3万"
+  },
+  {
     "id": "2026-07-01-36krcom-",
     "date": "2026-07-01",
     "title": "智能体互联国标发布:为什么统一了接口,依然可能连不通物理世界?",
@@ -28,14 +42,14 @@
     "impact": ""
   },
   {
-    "id": "2026-07-01-blogcsdnnet-harmonyos-6api-23hmafpcai-30",
+    "id": "2026-07-01-blogcsdnnet-harmonyos-6api-23hmafpcai-29",
     "date": "2026-07-01",
-    "title": "HarmonyOS 6（API 23）实战：基于HMAF的「智行中枢」——PC端AI智能体智慧城市交通大脑与车路协同决策平台 3.0万",
+    "title": "HarmonyOS 6（API 23）实战：基于HMAF的「智行中枢」——PC端AI智能体智慧城市交通大脑与车路协同决策平台 2.9万",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "HarmonyOS 6（API 23）实战：基于HMAF的「智行中枢」——PC端AI智能体智慧城市交通大脑与车路协同决策平台 3.0万",
+    "summary": "HarmonyOS 6（API 23）实战：基于HMAF的「智行中枢」——PC端AI智能体智慧城市交通大脑与车路协同决策平台 2.9万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/u014727709/article/details/162427113",
     "tags": [],
@@ -70,20 +84,6 @@
     "impact": ""
   },
   {
-    "id": "2026-06-30-bloomberg-technology-ipo",
-    "date": "2026-06-30",
-    "title": "传美的考虑让德国机器人制造商库卡在中国IPO",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Midea Group Co. is considering listing German robot maker Kuka in mainland China, according to people familiar with the matter, a decade after acquiring the company.（原题：Midea Is Said to Consider China IPO for German Robot Maker Kuka）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-06-30/midea-is-said-to-consider-china-ipo-for-german-robot-maker-kuka",
-    "tags": [],
-    "impact": "Tue, 30 Jun 2026 09:13:35 GMT"
-  },
-  {
     "id": "2026-06-30-the-robot-report-morph-",
     "date": "2026-06-30",
     "title": "morph 的软机器人细胞将物理人工智能嵌入到硬件中",
@@ -96,6 +96,21 @@
     "source_url": "https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/",
     "tags": [],
     "impact": "Tue, 30 Jun 2026 12:30:35 +0000"
+  },
+  {
+    "id": "2026-06-30-the-robot-report-x-square-robot-brings-its-valuation-to-28b-",
+    "date": "2026-06-30",
+    "title": "X Square Robot brings its valuation to $2.8B with four consecutive funding rounds",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "X Square Robots' system combines foundation models, robotics hardware, a data pipeline system, and real-world deployments. The post X Square Robot brings its valuation to $2.8B with four consecutive funding rounds appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/",
+    "tags": [],
+    "impact": "Tue, 30 Jun 2026 19:49:05 +0000"
   },
   {
     "id": "2026-06-30-the-robot-report-queue-",
