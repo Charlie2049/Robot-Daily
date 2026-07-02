@@ -32,31 +32,45 @@
   {
     "id": "2026-07-02--",
     "date": "2026-07-02",
-    "title": "人形机器人",
+    "title": "机器人伴侣你会买吗",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "人形机器人",
+    "summary": "机器人伴侣你会买吗",
     "source": "更多作品推荐",
-    "source_url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97",
     "tags": [],
-    "impact": "115万"
+    "impact": "3万"
   },
   {
-    "id": "2026-07-01-bloomberg-technology-",
+    "id": "2026-07-01-techcrunch-robotics-humble-robotics-",
     "date": "2026-07-01",
-    "title": "日产首席执行官谈自动驾驶、在美国制造汽车",
+    "title": "自动驾驶汽车热潮卷土重来，Humble Robotics 正在将其带入货运领域",
     "category": [
+      "robotics",
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "Nissan Motor Co. President and CEO Ivan Espinosa talks about the future of autonomous driving, investing in the US and how tariffs are making it harder to sell Mexican-made cars in the US. Those cars are being tariffed at a 25% rate. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)（原题：Nissan CEO on Autonomous Driving, Making Cars in US）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-07-01/nissan-ceo-on-autonomous-driving-making-cars-in-us-video",
+    "summary": "The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the talent wars and capital are heating up the same way they did the first time around. The money’s flowing back, and it’s the people who lived through that first […]（原题：Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight）",
+    "source": "TechCrunch Robotics",
+    "source_url": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
     "tags": [],
-    "impact": "Wed, 01 Jul 2026 14:57:47 GMT"
+    "impact": "Wed, 01 Jul 2026 16:48:58 +0000"
+  },
+  {
+    "id": "2026-07-01-the-robot-report-",
+    "date": "2026-07-01",
+    "title": "在机器人技术中，加固不再是可选的",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "As autonomy moves beyond controlled environments, ruggedized design is becoming a prerequisite for reliable robotic operations. The post In Robotics, Ruggedization Is No Longer Optional appeared first on The Robot Report .（原题：In Robotics, Ruggedization Is No Longer Optional）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/",
+    "tags": [],
+    "impact": "Wed, 01 Jul 2026 18:44:05 +0000"
   },
   {
     "id": "2026-07-01-guokrcom-longcat-20cybercab",
@@ -72,6 +86,35 @@
     "source_url": "https://www.guokr.com/article/469560/",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-07-01-techcrunch-robotics-humble-robotics-",
+    "date": "2026-07-01",
+    "title": "Humble Robotics 首席执行官表示，该技术终于赶上了自动驾驶汽车的愿景",
+    "category": [
+      "robotics",
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "We’ve said it before, and we’ll say it again: the autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the talent wars and capital are heating up the same way they did the first time around. The money’s flowing back, and it’s the people who lived through that first wave […]（原题：Humble Robotics’ CEO says the tech finally caught up to the vision for autonomous vehicles）",
+    "source": "TechCrunch Robotics",
+    "source_url": "https://techcrunch.com/podcast/humble-robotics-ceo-says-the-tech-finally-caught-up-to-the-vision-for-autonomous-vehicles/",
+    "tags": [],
+    "impact": "Wed, 01 Jul 2026 16:34:48 +0000"
+  },
+  {
+    "id": "2026-07-01-the-robot-report-2026--6-",
+    "date": "2026-07-01",
+    "title": "2026 年 6 月十大机器人技术发展",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Humanoid robots made many headlines in June 2026, whether it be for companies going public, new deployments, or hitting production milestones. The post Top 10 robotics developments of June 2026 appeared first on The Robot Report .（原题：Top 10 robotics developments of June 2026）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/top-10-robotic-stories-june-2026/",
+    "tags": [],
+    "impact": "Wed, 01 Jul 2026 16:10:57 +0000"
   },
   {
     "id": "2026-06-30-sspaicom--147---matrix",
