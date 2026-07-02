@@ -1,47 +1,103 @@
 [
   {
-    "id": "2026-07-02-36krcom---",
+    "id": "2026-07-02-cnbc-technology--18-",
     "date": "2026-07-02",
-    "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
+    "title": "阿里巴巴旗下蚂蚁集团在 18 个月内完成十几笔交易，进军人形机器人领域",
     "category": [
-      "robotics",
-      "funding"
+      "humanoid",
+      "robotics"
     ],
     "region": "Global",
-    "summary": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3877060559433984",
+    "summary": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.（原题：Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
+    "tags": [],
+    "impact": "Thu, 02 Jul 2026 01:00:01 GMT"
+  },
+  {
+    "id": "2026-07-02-m21jingjicom--",
+    "date": "2026-07-02",
+    "title": "工信部韩夏：我国智能体互联网逐步从概念构想走向实践落地 宏观",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "工信部韩夏：我国智能体互联网逐步从概念构想走向实践落地 宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260702/herald/5e7ce3fb03ae630ea63a60288472890a.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-02-36krcom---moody",
+    "id": "2026-07-02-financesinacomcn-50461--9961",
     "date": "2026-07-02",
-    "title": "硬氪首发 | moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+    "title": "午评：科创50半日大跌4.61% 人形机器人概念爆发 9,961",
     "category": [
-      "robotics",
-      "funding"
+      "humanoid",
+      "robotics"
     ],
     "region": "Global",
-    "summary": "硬氪首发 | moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3877015761039619",
+    "summary": "午评：科创50半日大跌4.61% 人形机器人概念爆发 9,961",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/tob/2026-07-02/doc-inifkqfw0439079.shtml",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-02--",
+    "id": "2026-07-02-36krcom--935",
     "date": "2026-07-02",
-    "title": "机器人伴侣你会买吗",
+    "title": "具身智能的“热夏”来了，半年 935亿元的资本狂欢，谁在豪赌？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能的“热夏”来了，半年 935亿元的资本狂欢，谁在豪赌？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3878012843307009",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-02-mithomecom--ceo--20--192",
+    "date": "2026-07-02",
+    "title": "优必选 CEO 周剑：珍惜我们作为牛马的最后光阴，可能 20 年后都是机器人干活 192评",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人伴侣你会买吗",
-    "source": "更多作品推荐",
-    "source_url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97",
+    "summary": "优必选 CEO 周剑：珍惜我们作为牛马的最后光阴，可能 20 年后都是机器人干活 192评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/971428.htm",
     "tags": [],
-    "impact": "3万"
+    "impact": ""
+  },
+  {
+    "id": "2026-07-02-ai-botcn-voice-agent-builder--xai",
+    "date": "2026-07-02",
+    "title": "Voice Agent Builder – xAI推出的生产级语音智能体平台",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Voice Agent Builder – xAI推出的生产级语音智能体平台",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/voice-agent-builder/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-02-blogcsdnnet-harmonyos-6api-23hmafpcai-23",
+    "date": "2026-07-02",
+    "title": "HarmonyOS 6（API 23）实战：基于HMAF的「智行中枢」——PC端AI智能体智慧城市交通大脑与车路协同决策平台 2.3万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "HarmonyOS 6（API 23）实战：基于HMAF的「智行中枢」——PC端AI智能体智慧城市交通大脑与车路协同决策平台 2.3万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/u014727709/article/details/162427113",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-07-01-techcrunch-robotics-humble-robotics-",
