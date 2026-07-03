@@ -15,20 +15,6 @@
     "impact": ""
   },
   {
-    "id": "2026-07-03-qbitaicom-agentareal-20rl",
-    "date": "2026-07-03",
-    "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/07/442134.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-07-03-36krcom-meta-ai",
     "date": "2026-07-03",
     "title": "扎克伯格承认：Meta AI智能体研发不及预期",
@@ -57,16 +43,72 @@
     "impact": ""
   },
   {
-    "id": "2026-07-03-financesinacomcn-ipo-a-6308",
+    "id": "2026-07-03-financesinacomcn-ipo-a-7509",
     "date": "2026-07-03",
-    "title": "宇树科技科创板IPO注册获批 A股“具身智能第一股”即将登场 6,308",
+    "title": "宇树科技科创板IPO注册获批 A股“具身智能第一股”即将登场 7,509",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "宇树科技科创板IPO注册获批 A股“具身智能第一股”即将登场 6,308",
+    "summary": "宇树科技科创板IPO注册获批 A股“具身智能第一股”即将登场 7,509",
     "source": "finance.sina.com.cn",
     "source_url": "https://finance.sina.com.cn/stock/newstock/zxdt/2026-07-03/doc-inifnhrq0594694.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-guokrcom-ipo16ai4",
+    "date": "2026-07-03",
+    "title": "宇树科技科创板IPO注册生效；苹果下半年将推出16款硬件产品；达摩院AI智能体发现4种全新超导材料",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "宇树科技科创板IPO注册生效；苹果下半年将推出16款硬件产品；达摩院AI智能体发现4种全新超导材料",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/469579/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-m21jingjicom--",
+    "date": "2026-07-03",
+    "title": "多路资本涌入具身智能，工业场景落地仍在爬坡 公司",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "多路资本涌入具身智能，工业场景落地仍在爬坡 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260703/herald/ef3dff779fc15da0d75652fa87659728.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-36krcom-",
+    "date": "2026-07-03",
+    "title": "三年亏一亿、股价跌七成，高瓴还在力挺这家机器人公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "三年亏一亿、股价跌七成，高瓴还在力挺这家机器人公司",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3879748658428552",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-m21jingjicom--",
+    "date": "2026-07-03",
+    "title": "一夜之间，多只机器人概念股提示风险 投资",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "一夜之间，多只机器人概念股提示风险 投资",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260703/herald/53ae81cc3254ee2e0bc7d5c6d94dbdf3.html",
     "tags": [],
     "impact": ""
   },
@@ -81,6 +123,20 @@
     "summary": "Command Code – AI 编程智能体，自动记录沉淀编码偏好",
     "source": "ai-bot.cn",
     "source_url": "https://ai-bot.cn/command-code/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-gelonghuicom-a037",
+    "date": "2026-07-03",
+    "title": "A股收评：沪指涨0.37%！机器人概念掀涨停潮，贵金属板块“暴走”",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A股收评：沪指涨0.37%！机器人概念掀涨停潮，贵金属板块“暴走”",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/5447671",
     "tags": [],
     "impact": ""
   },
