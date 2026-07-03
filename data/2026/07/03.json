@@ -1,29 +1,100 @@
 [
   {
-    "id": "2026-07-03-36krcom-15",
+    "id": "2026-07-03-36krcom-",
     "date": "2026-07-03",
-    "title": "雷军押注“机器人指尖”，不到15克身价已过亿",
+    "title": "高瓴、智元，投了个人形机器人“关节”",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "雷军押注“机器人指尖”，不到15克身价已过亿",
+    "summary": "高瓴、智元，投了个人形机器人“关节”",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3878332349840256",
+    "source_url": "https://www.36kr.com/p/3879589408977155",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-03-36krcom-",
+    "id": "2026-07-03-qbitaicom-agentareal-20rl",
     "date": "2026-07-03",
-    "title": "巨头接踵入场，具身智能大战开打",
+    "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/442134.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-36krcom-meta-ai",
+    "date": "2026-07-03",
+    "title": "扎克伯格承认：Meta AI智能体研发不及预期",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "扎克伯格承认：Meta AI智能体研发不及预期",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3879484968398852",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-ifanrcom--ceo--",
+    "date": "2026-07-03",
+    "title": "对话乐享科技 CEO 郭人杰：具身智能有希望诞生苹果级别的公司，我们有机会成为这家丨多样性公司 专访",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "巨头接踵入场，具身智能大战开打",
+    "summary": "对话乐享科技 CEO 郭人杰：具身智能有希望诞生苹果级别的公司，我们有机会成为这家丨多样性公司 专访",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1670916",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-financesinacomcn-ipo-a-6308",
+    "date": "2026-07-03",
+    "title": "宇树科技科创板IPO注册获批 A股“具身智能第一股”即将登场 6,308",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "宇树科技科创板IPO注册获批 A股“具身智能第一股”即将登场 6,308",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/stock/newstock/zxdt/2026-07-03/doc-inifnhrq0594694.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-ai-botcn-command-code--ai-",
+    "date": "2026-07-03",
+    "title": "Command Code – AI 编程智能体，自动记录沉淀编码偏好",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Command Code – AI 编程智能体，自动记录沉淀编码偏好",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/command-code/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-36krcom-81-sk100000",
+    "date": "2026-07-03",
+    "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3878315095470083",
+    "source_url": "https://www.36kr.com/p/3879158039834629",
     "tags": [],
     "impact": ""
   },
