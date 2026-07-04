@@ -1,43 +1,71 @@
 [
   {
-    "id": "2026-07-04-gelonghuicom-10",
+    "id": "2026-07-04-financesinacomcn---7151201",
     "date": "2026-07-04",
-    "title": "订单破万、售价10万起，优必选用全球首个量产级仿生陪伴机器人回应“人机共生”时代命题",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "订单破万、售价10万起，优必选用全球首个量产级仿生陪伴机器人回应“人机共生”时代命题",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/5438681",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-04-m21jingjicom--",
-    "date": "2026-07-04",
-    "title": "产业出题，科技答题！具身智能走进真实世界 宏观",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "产业出题，科技答题！具身智能走进真实世界 宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260704/herald/1541ef474f6cb847bfccbf30c6d26dba.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-03-mithomecom--7--15--40",
-    "date": "2026-07-03",
-    "title": "豆包智能体功能将于 7 月 15 日下线，官方建议提前完成备份 40评",
+    "title": "突发 | 豆包、千问：7月15日，下线智能体功能！1,201",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "豆包智能体功能将于 7 月 15 日下线，官方建议提前完成备份 40评",
+    "summary": "突发 | 豆包、千问：7月15日，下线智能体功能！1,201",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifrana2226218.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-04-blogcsdnnet-chatbi-vs-ai-28",
+    "date": "2026-07-04",
+    "title": "ChatBI vs 数据分析智能体：企业AI分析能力的关键分水岭 2.8万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "ChatBI vs 数据分析智能体：企业AI分析能力的关键分水岭 2.8万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/Aloudata/article/details/162551001",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-04-blogcsdnnet-agent-harness-37",
+    "date": "2026-07-04",
+    "title": "Agent Harness：模型之外的智能体系统工程 3.7万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Agent Harness：模型之外的智能体系统工程 3.7万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/2401_82452722/article/details/162524957",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-mithomecom--7--15--54",
+    "date": "2026-07-03",
+    "title": "豆包智能体功能将于 7 月 15 日下线，官方建议提前完成备份 54评",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "豆包智能体功能将于 7 月 15 日下线，官方建议提前完成备份 54评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/972448.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-03-gelonghuicom-etf--etfetf50etf25",
+    "date": "2026-07-03",
+    "title": "ETF风向标 | 机器人板块掀涨停潮，机器人ETF涨停，多只宽基ETF“吸金”，科创50ETF昨日流入超25亿",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "ETF风向标 | 机器人板块掀涨停潮，机器人ETF涨停，多只宽基ETF“吸金”，科创50ETF昨日流入超25亿",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/5449829",
     "tags": [],
     "impact": ""
   },
