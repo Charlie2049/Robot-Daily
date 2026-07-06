@@ -1,29 +1,85 @@
 [
   {
-    "id": "2026-07-06-36krcom-12",
+    "id": "2026-07-06-36krcom-",
     "date": "2026-07-06",
-    "title": "宇树的1/2，机器人“祖师爷”彻底卖身",
+    "title": "机器人看视频学操作，伯克利首次打通互联网视频到灵巧手真机部署链路",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树的1/2，机器人“祖师爷”彻底卖身",
+    "summary": "机器人看视频学操作，伯克利首次打通互联网视频到灵巧手真机部署链路",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3881015494504708",
+    "source_url": "https://www.36kr.com/p/3883801658880258",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-06-blogcsdnnet-agent-harness-31",
+    "id": "2026-07-06-gelonghuicom-",
     "date": "2026-07-06",
-    "title": "Agent Harness：模型之外的智能体系统工程 3.1万",
+    "title": "机器人商业化\"最后一公里\"：谁来解决落地难题？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人商业化\"最后一公里\"：谁来解决落地难题？",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/5456580",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-06-36krcom-waic-2026scaling",
+    "date": "2026-07-06",
+    "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "Agent Harness：模型之外的智能体系统工程 3.1万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2401_82452722/article/details/162524957",
+    "summary": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3883534451699721",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-06-bloomberg-technology-ondas--8758--dzyne",
+    "date": "2026-07-06",
+    "title": "Ondas 将以 8.758 亿美元收购自主飞机制造商 DZYNE",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Ondas Inc. agreed to buy autonomous aircraft maker DZYNE Technologies in an $875.8 million cash-and stock-deal that positions Ondas as a full-service autonomous defense technology platform.（原题：Ondas to Buy Autonomous Aircraft Maker DZYNE for $875.8 Million）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-06/ondas-to-buy-autonomous-aircraft-maker-dzyne-for-875-8-million",
+    "tags": [],
+    "impact": "Mon, 06 Jul 2026 11:00:00 GMT"
+  },
+  {
+    "id": "2026-07-06-ai-botcn-elements-claw---ai-",
+    "date": "2026-07-06",
+    "title": "Elements Claw – 阿里达摩院推出的超导材料发现 AI 智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Elements Claw – 阿里达摩院推出的超导材料发现 AI 智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/elements-claw/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-05-juejincn--3--794",
+    "date": "2026-07-05",
+    "title": "豆包和千问同时关了智能体，我用它们搭的 3 个自动化全废了——迁移方案整理 794",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "豆包和千问同时关了智能体，我用它们搭的 3 个自动化全废了——迁移方案整理 794",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7658599462051086371",
     "tags": [],
     "impact": ""
   },
