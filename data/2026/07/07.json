@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-07-36krcom-agent",
+    "date": "2026-07-07",
+    "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3884179708787593",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-07-huxiucom-12-318",
+    "date": "2026-07-07",
+    "title": "宇树的1/2，机器人“祖师爷”彻底卖身 31.8万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树的1/2，机器人“祖师爷”彻底卖身 31.8万",
+    "source": "huxiu.com",
+    "source_url": "https://www.huxiu.com/article/4872646.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-07-07-36krcom-104",
     "date": "2026-07-07",
     "title": "创下104天科创板最快审核纪录，宇树科技能否打赢人形机器人硬仗？",
@@ -11,20 +39,6 @@
     "summary": "创下104天科创板最快审核纪录，宇树科技能否打赢人形机器人硬仗？",
     "source": "36kr.com",
     "source_url": "https://www.36kr.com/p/3884005490424704",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-07-blogcsdnnet-agent-harness-29",
-    "date": "2026-07-07",
-    "title": "Agent Harness：模型之外的智能体系统工程 2.9万",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "Agent Harness：模型之外的智能体系统工程 2.9万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2401_82452722/article/details/162524957",
     "tags": [],
     "impact": ""
   },
@@ -43,17 +57,31 @@
     "impact": ""
   },
   {
-    "id": "2026-07-06-m21jingjicom-10--",
+    "id": "2026-07-06-the-robot-report--fifa-",
     "date": "2026-07-06",
-    "title": "优必选单日股价跌10% 回应超仿生机器人争议 投资",
+    "title": "波士顿动力公司将其腿式机器人带到 FIFA 世界杯",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "优必选单日股价跌10% 回应超仿生机器人争议 投资",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260706/herald/42a4eadda55fef7035aebdca3b385590.html",
+    "summary": "Around the 2026 FIFA World Cup, Hyundai and Boston Dynamics have taught footwork to the Atlas humanoid, while the Spot robot is on patrol. The post Boston Dynamics brings its legged robots to the FIFA World Cup appeared first on The Robot Report .（原题：Boston Dynamics brings its legged robots to the FIFA World Cup）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/",
     "tags": [],
-    "impact": ""
+    "impact": "Mon, 06 Jul 2026 20:45:48 +0000"
+  },
+  {
+    "id": "2026-07-06-the-robot-report-kraken-robotics--615--covelya-group",
+    "date": "2026-07-06",
+    "title": "Kraken Robotics 以 6.15 亿美元收购 Covelya Group",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Covelya Group expands Kraken Robotics' product offerings and total addressable market in subsea technology. The post Kraken Robotics acquires Covelya Group for $615M appeared first on The Robot Report .（原题：Kraken Robotics acquires Covelya Group for $615M）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/",
+    "tags": [],
+    "impact": "Mon, 06 Jul 2026 21:00:54 +0000"
   }
 ]
