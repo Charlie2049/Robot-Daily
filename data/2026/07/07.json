@@ -1,44 +1,58 @@
 [
   {
-    "id": "2026-07-07-36krcom-agent",
+    "id": "2026-07-07-financesinacomcn-992-4-8139",
     "date": "2026-07-07",
-    "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3884179708787593",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-07-huxiucom-12-318",
-    "date": "2026-07-07",
-    "title": "宇树的1/2，机器人“祖师爷”彻底卖身 31.8万",
+    "title": "最高99万买的仿生机器人，续航仅2-4小时？公司回应 8,139",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树的1/2，机器人“祖师爷”彻底卖身 31.8万",
-    "source": "huxiu.com",
-    "source_url": "https://www.huxiu.com/article/4872646.html",
+    "summary": "最高99万买的仿生机器人，续航仅2-4小时？公司回应 8,139",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1650537.shtml",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-07-36krcom-104",
+    "id": "2026-07-07-qbitaicom-",
     "date": "2026-07-07",
-    "title": "创下104天科创板最快审核纪录，宇树科技能否打赢人形机器人硬仗？",
+    "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "创下104天科创板最快审核纪录，宇树科技能否打赢人形机器人硬仗？",
+    "summary": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/445230.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-07-m21jingjicom-",
+    "date": "2026-07-07",
+    "title": "下线智能体，大厂集体选择“性价比”公司",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "下线智能体，大厂集体选择“性价比”公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260707/herald/b6dd4e3fa5ce1cc87705651fd619b1fa.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-07-36krcom-81sk99tcl",
+    "date": "2026-07-07",
+    "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3884005490424704",
+    "source_url": "https://www.36kr.com/p/3884831072514309",
     "tags": [],
     "impact": ""
   },
