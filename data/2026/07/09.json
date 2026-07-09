@@ -1,57 +1,86 @@
 [
   {
-    "id": "2026-07-09-gelonghuicom-1n",
+    "id": "2026-07-09-ifanrcom-aideepseek-",
     "date": "2026-07-09",
-    "title": "本末科技冲刺港交所：“从1到N”，打通机器人全场景落地路径",
+    "title": "早报｜努比亚确认推出全球首款AI智能体手机/法拉利高管:中国车企做的是快消品/华为天才少年回应DeepSeek面试争议 早报",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "本末科技冲刺港交所：“从1到N”，打通机器人全场景落地路径",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/5487934",
+    "summary": "早报｜努比亚确认推出全球首款AI智能体手机/法拉利高管:中国车企做的是快消品/华为天才少年回应DeepSeek面试争议 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1671401",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-09-36krcom-ai",
+    "id": "2026-07-09-m21jingjicom--",
     "date": "2026-07-09",
-    "title": "团灭，大厂集体下架AI聊天机器人",
+    "title": "具身智能机器人给人类带来新职业 宏观",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "团灭，大厂集体下架AI聊天机器人",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3886535763914752",
+    "summary": "具身智能机器人给人类带来新职业 宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260709/herald/a4b41a07a028cce7356357da26ef9534.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-09-36krcom-100128",
+    "id": "2026-07-09-36krcom-ipo",
     "date": "2026-07-09",
-    "title": "具身智能“高考”难疯了，人类100分，最强模型12.8",
+    "title": "具身智能扎堆IPO，“商业化元年”谁能率先抢滩登陆？",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "具身智能“高考”难疯了，人类100分，最强模型12.8",
+    "summary": "具身智能扎堆IPO，“商业化元年”谁能率先抢滩登陆？",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3886887316500745",
+    "source_url": "https://www.36kr.com/p/3887868452649474",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-09-36krcom-waicagentai",
+    "id": "2026-07-09-ai-botcn-robostral-navigate--mistral-ai-",
     "date": "2026-07-09",
-    "title": "WAIC前瞻：Agent接管终端、机器人进厂，AI叙事逻辑剧变",
+    "title": "Robostral Navigate – Mistral AI 推出的具身智能导航模型",
     "category": [
-      "robotics"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "WAIC前瞻：Agent接管终端、机器人进厂，AI叙事逻辑剧变",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3886617317604233",
+    "summary": "Robostral Navigate – Mistral AI 推出的具身智能导航模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/robostral-navigate/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-09-ai-botcn-lingbot-video--",
+    "date": "2026-07-09",
+    "title": "LingBot-Video – 蚂蚁灵波开源面向具身智能的视频模型",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "LingBot-Video – 蚂蚁灵波开源面向具身智能的视频模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/lingbot-video/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-09-aibasecom-aispacexaiopusgrok45ai-lingbot-video",
+    "date": "2026-07-09",
+    "title": "AI日报：SpaceXAI推出“Opus级”大模型Grok4.5;阶跃星辰首款AI智能体手机即将发布；蚂蚁灵波开源 LingBot-Video",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：SpaceXAI推出“Opus级”大模型Grok4.5;阶跃星辰首款AI智能体手机即将发布；蚂蚁灵波开源 LingBot-Video",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/29501",
     "tags": [],
     "impact": ""
   },
@@ -70,16 +99,16 @@
     "impact": "2026-07-08T11:00:00-04:00"
   },
   {
-    "id": "2026-07-08-qbitaicom-100128",
+    "id": "2026-07-08-wallstreetcncom-raas",
     "date": "2026-07-08",
-    "title": "具身智能“高考”难疯了！人类100分，最强模型12.8",
+    "title": "花旗：数据仍是具身智能商业化最大瓶颈，RaaS模式或成破局关键",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "具身智能“高考”难疯了！人类100分，最强模型12.8",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/07/446363.html",
+    "summary": "花旗：数据仍是具身智能商业化最大瓶颈，RaaS模式或成破局关键",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3776553",
     "tags": [],
     "impact": ""
   },
