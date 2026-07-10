@@ -28,5 +28,61 @@
     "source_url": "https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/",
     "tags": [],
     "impact": "Thu, 09 Jul 2026 12:30:47 +0000"
+  },
+  {
+    "id": "2026-07-09-bloomberg-technology-",
+    "date": "2026-07-09",
+    "title": "机器人技术并没有像人们宣传的那样",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "At the Automate Show, Bloomberg Opinion columnist Thomas Black saw a lot of robots, but it was clear to him that there is still a long way to go before widespread, everyday use of the machines. (Source: Bloomberg)（原题：Robotics Isn't Living Up to the Hype）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-07-09/opinion-robotics-isn-t-living-up-to-the-hype-video",
+    "tags": [],
+    "impact": "Thu, 09 Jul 2026 18:55:04 GMT"
+  },
+  {
+    "id": "2026-07-09-the-robot-report--robobusiness-startup-alley",
+    "date": "2026-07-09",
+    "title": "呼吁所有机器人初创公司：申请 RoboBusiness Startup Alley",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "We're looking for robotics startups that are creating a full system, component, or software system to show off their work at RoboBusiness. The post Calling all robotics startups: apply to RoboBusiness Startup Alley appeared first on The Robot Report .（原题：Calling all robotics startups: apply to RoboBusiness Startup Alley）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-to-robobusiness-startup-alley/",
+    "tags": [],
+    "impact": "Thu, 09 Jul 2026 17:53:38 +0000"
+  },
+  {
+    "id": "2026-07-09-the-robot-report-forsight-robotics-",
+    "date": "2026-07-09",
+    "title": "ForSight Robotics 的全机器人白内障手术之路",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "ForSight Robotics' JASPER Platform assists surgeons with cataract surgeries, while still leaving the power in the surgeon's hands. The post ForSight Robotics’ road to performing a fully robotic cataract surgery appeared first on The Robot Report .（原题：ForSight Robotics’ road to performing a fully robotic cataract surgery）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/",
+    "tags": [],
+    "impact": "Thu, 09 Jul 2026 21:14:06 +0000"
+  },
+  {
+    "id": "2026-07-08-wallstreetcncom-gpt-56chatgpt",
+    "date": "2026-07-08",
+    "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3776605",
+    "tags": [],
+    "impact": ""
   }
 ]
