@@ -1,16 +1,58 @@
 [
   {
-    "id": "2026-07-10-36krcom-",
+    "id": "2026-07-10-juejincn--3--2214",
     "date": "2026-07-10",
-    "title": "产业狂欢之下的冷思考：人形机器人为何困于展厅？",
+    "title": "豆包和千问同时关了智能体，我用它们搭的 3 个自动化全废了——迁移方案整理 2214",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "豆包和千问同时关了智能体，我用它们搭的 3 个自动化全废了——迁移方案整理 2214",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7658599462051086371",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-10-qbitaicom-",
+    "date": "2026-07-10",
+    "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "产业狂欢之下的冷思考：人形机器人为何困于展厅？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3888245582133765",
+    "summary": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/447627.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-10-qbitaicom-",
+    "date": "2026-07-10",
+    "title": "一群做自动驾驶的人，盯上了睡眠这件事",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "一群做自动驾驶的人，盯上了睡眠这件事",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/447796.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-10-ai-botcn-chatgpt-work--openai--chatgpt-",
+    "date": "2026-07-10",
+    "title": "ChatGPT Work – OpenAI 推出的 ChatGPT 智能体工作台",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "ChatGPT Work – OpenAI 推出的 ChatGPT 智能体工作台",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/chatgpt-work/",
     "tags": [],
     "impact": ""
   },
@@ -28,20 +70,6 @@
     "source_url": "https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/",
     "tags": [],
     "impact": "Thu, 09 Jul 2026 12:30:47 +0000"
-  },
-  {
-    "id": "2026-07-09-bloomberg-technology-",
-    "date": "2026-07-09",
-    "title": "机器人技术并没有像人们宣传的那样",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "At the Automate Show, Bloomberg Opinion columnist Thomas Black saw a lot of robots, but it was clear to him that there is still a long way to go before widespread, everyday use of the machines. (Source: Bloomberg)（原题：Robotics Isn't Living Up to the Hype）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-07-09/opinion-robotics-isn-t-living-up-to-the-hype-video",
-    "tags": [],
-    "impact": "Thu, 09 Jul 2026 18:55:04 GMT"
   },
   {
     "id": "2026-07-09-the-robot-report--robobusiness-startup-alley",
@@ -72,14 +100,42 @@
     "impact": "Thu, 09 Jul 2026 21:14:06 +0000"
   },
   {
-    "id": "2026-07-08-wallstreetcncom-gpt-56chatgpt",
+    "id": "2026-07-08-wallstreetcncom-ai2026-waic810-",
     "date": "2026-07-08",
-    "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+    "title": "报道：豆包AI智能体手机计划于2026 WAIC期间亮相开售，现已备货8万至10万台 上海证券报",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+    "summary": "报道：豆包AI智能体手机计划于2026 WAIC期间亮相开售，现已备货8万至10万台 上海证券报",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3776655",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-08-wallstreetcncom-nature-",
+    "date": "2026-07-08",
+    "title": "宇树机器人做了台手术，登上Nature 上海证券报",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树机器人做了台手术，登上Nature 上海证券报",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3776648",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-08-wallstreetcncom-gpt-56chatgpt84",
+    "date": "2026-07-08",
+    "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”8.4万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”8.4万",
     "source": "wallstreetcn.com",
     "source_url": "https://wallstreetcn.com/articles/3776605",
     "tags": [],
