@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-07-11-ifanrcom-openaiain90-",
+    "date": "2026-07-11",
+    "title": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光 早报",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1671681",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-11-the-robot-report-",
+    "date": "2026-07-11",
+    "title": "供应商准备好迎接新的机器人安全标准了吗？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Suppliers that are well prepared for standard changes will benefit, while underprepared companies may face market access disruption. The post Are suppliers ready for new robot safety standards? appeared first on The Robot Report .（原题：Are suppliers ready for new robot safety standards?）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/",
+    "tags": [],
+    "impact": "Sat, 11 Jul 2026 13:30:02 +0000"
+  },
+  {
+    "id": "2026-07-11-the-robot-report-",
+    "date": "2026-07-11",
+    "title": "为什么机器人团队在部署之前需要虚拟健身房",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "To address environmental and task variability, robots can benefit from 'virtual gyms' to bridge the sim-to-real gap, says SoftServe. The post Why robotics teams need virtual gyms before deployment appeared first on The Robot Report .（原题：Why robotics teams need virtual gyms before deployment）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
+    "tags": [],
+    "impact": "Sat, 11 Jul 2026 12:36:16 +0000"
+  },
+  {
+    "id": "2026-07-11-juejincn-agent----ai--356",
+    "date": "2026-07-11",
+    "title": "Agent 智能体：从概念到实践 —— 如何打造一个真正能干活的 AI 助手 356",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Agent 智能体：从概念到实践 —— 如何打造一个真正能干活的 AI 助手 356",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7659249446257688591",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-07-11-36krcom-91sk13openaichatgpt",
     "date": "2026-07-11",
     "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
@@ -12,20 +68,6 @@
     "source_url": "https://www.36kr.com/p/3890553690192384",
     "tags": [],
     "impact": ""
-  },
-  {
-    "id": "2026-07-10-ieee-spectrum-robotics-",
-    "date": "2026-07-10",
-    "title": "视频星期五：机器人世界杯",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 2026 : 27 September–1 October 2026, PITTSBURGH Humanoids Summit Seoul : 22–23 September 2026, SEOUL Enjoy today’s videos! For the first time, two full teams of humanoid robots played an 11-vs-11 soccer match on hardware, bringing one of robotics’ most ambitious long-term visions closer to reality. Never before have two full-sized humanoid robot teams played a soccer game against each other. [ RoboCup ] Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can swim underwater, and flap out of the water to continue flying through air, much like a diving bird. The robot can help scientists study the mechanics that enable these actions in aquatic aviators and may help launch a new class of aerial-aquatic drones and vehicles. [ MIT ] We’re excited to announce our breakthrough robotic hands for the NEO platform: hands that match or exceed human-level dexterity, strength, safety, and reliability. Designed from the ground up, these 25-DoF hands combine 25 fully actuated degrees of freedom with a tendon-driven system, rich tactile sensing, and built-in compliance. The result is a hand capable of true in-hand manipulation, precision tool use, and delicate interaction. [ 1X ] This match, Tech United played against IRIS at the mid size league at RoboCup 2026 in Incheon South-Korea. [ Tech United ] Atlas arrived pitchside at NYNJ Stadium in front of 80,000 people gathered to see Brazil vs Norway. After performing some of the sport’s most memorable player celebrations, Atlas helped kick-off the second half by delivering the match ball! [ Boston Dynamics ] Navigating discrete terrain such as stepping stones remains a major challenge for legged robots. Conventional approaches often rely on dense environment reconstruction from cameras or LiDAR, which can be affected by latency, occlusions, and significant computational overhead. We show that proximity sensors integrated into the bottom of a quadruped’s feet enable safe, terrain-seeking autonomous locomotion. [ Paper ] On this holiday, Digit is on grill duty. It turns out precise force control is good for more than payload handling. Happy 4th of July from all of us at Agility. [ Agility ] We’ve created GEN-1, our latest milestone in scaling robot learning. We believe it to be the first general-purpose AI model that crosses a new performance threshold: mastery of simple physical tasks. It improves average success rates to 99% on tasks where previous models achieve 64%, completes tasks roughly 3x faster than state of the art, and requires only 1 hour of robot data for each of these results. GEN-1 unlocks commercial viability across a broad range of applications—and while it cannot solve all tasks today, it is a significant step towards our mission of creating generalist intelligence for the physical world. [ Generalist ] 4 years at Figure. [ Figure ] Reachy Mini is becoming your real AI companion. The Conversation App makes it able to talk fluently with you, help you with your to-do list, remind you of important tasks, and even chat about music. Long-term memory, voice interaction, always ready to help. [ Reachy Mini ] Is this sort of thing now a real job for humanoid robots, then? [ Unitree ] Quite a story, but is it a real job? [ EngineAI ] If you have a cute animal logo for your research I will always share it. [ BIEVR-LIO ] This is very delicate work, although the real challenge would be picking those nuts out of a jumbled bin full of randomly sized nuts, which is how most of us live our lives. [ Sanctuary ] Not for me, thank you, although I’m not saying that most of the other humanoid robots out there are any better looking, fundamentally. [ UBTECH ] Robotics professor, Dr. Christian Hubicki, judges robot soccer skills while knowing very little about soccer himself. [ ORL ] In this presentation, Brendan Schulman, Vice President of Policy at Boston Dynamics, outlines the critical role of government engagement in driving the success of the humanoid robotics industry. He demonstrates how legged robots like the Spot quadruped and Atlas humanoid are moving beyond factory settings to deliver real-world value in infrastructure inspection, industrial manufacturing, and public safety. Schulman highlights the intersection of AI and robotics, showcasing how large behavioral models and reinforcement learning enable robots to navigate slippery floors and autonomously avoid workplace hazards. Ultimately, he calls for a proactive national robotics strategy focused on workforce training, safety standards, and ethical frameworks to support supply chain resilience and global competitiveness. [ Humanoids Summit ]（原题：Video Friday: A World Cup for Robots）",
-    "source": "IEEE Spectrum Robotics",
-    "source_url": "https://spectrum.ieee.org/video-friday-robot-world-cup",
-    "tags": [],
-    "impact": "Fri, 10 Jul 2026 16:00:01 +0000"
   },
   {
     "id": "2026-07-10-guokrcom-",
@@ -54,6 +96,20 @@
     "source_url": "https://spectrum.ieee.org/ukraine-ground-drones",
     "tags": [],
     "impact": "Fri, 10 Jul 2026 11:00:01 +0000"
+  },
+  {
+    "id": "2026-07-10-ieee-spectrum-robotics-",
+    "date": "2026-07-10",
+    "title": "周五视频：机器人世界杯",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 2026 : 27 September–1 October 2026, PITTSBURGH Humanoids Summit Seoul : 22–23 September 2026, SEOUL Enjoy today’s videos! For the first time, two full teams of humanoid robots played an 11-vs-11 soccer match on hardware, bringing one of robotics’ most ambitious long-term visions closer to reality. Never before have two full-sized humanoid robot teams played a soccer game against each other. [ RoboCup ] Engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can swim underwater, and flap out of the water to continue flying through air, much like a diving bird. The robot can help scientists study the mechanics that enable these actions in aquatic aviators and may help launch a new class of aerial-aquatic drones and vehicles. [ MIT ] We’re excited to announce our breakthrough robotic hands for the NEO platform: hands that match or exceed human-level dexterity, strength, safety, and reliability. Designed from the ground up, these 25-DoF hands combine 25 fully actuated degrees of freedom with a tendon-driven system, rich tactile sensing, and built-in compliance. The result is a hand capable of true in-hand manipulation, precision tool use, and delicate interaction. [ 1X ] This match, Tech United played against IRIS at the mid size league at RoboCup 2026 in Incheon South-Korea. [ Tech United ] Atlas arrived pitchside at NYNJ Stadium in front of 80,000 people gathered to see Brazil vs Norway. After performing some of the sport’s most memorable player celebrations, Atlas helped kick-off the second half by delivering the match ball! [ Boston Dynamics ] Navigating discrete terrain such as stepping stones remains a major challenge for legged robots. Conventional approaches often rely on dense environment reconstruction from cameras or LiDAR, which can be affected by latency, occlusions, and significant computational overhead. We show that proximity sensors integrated into the bottom of a quadruped’s feet enable safe, terrain-seeking autonomous locomotion. [ Paper ] On this holiday, Digit is on grill duty. It turns out precise force control is good for more than payload handling. Happy 4th of July from all of us at Agility. [ Agility ] We’ve created GEN-1, our latest milestone in scaling robot learning. We believe it to be the first general-purpose AI model that crosses a new performance threshold: mastery of simple physical tasks. It improves average success rates to 99% on tasks where previous models achieve 64%, completes tasks roughly 3x faster than state of the art, and requires only 1 hour of robot data for each of these results. GEN-1 unlocks commercial viability across a broad range of applications—and while it cannot solve all tasks today, it is a significant step towards our mission of creating generalist intelligence for the physical world. [ Generalist ] 4 years at Figure. [ Figure ] Reachy Mini is becoming your real AI companion. The Conversation App makes it able to talk fluently with you, help you with your to-do list, remind you of important tasks, and even chat about music. Long-term memory, voice interaction, always ready to help. [ Reachy Mini ] Is this sort of thing now a real job for humanoid robots, then? [ Unitree ] Quite a story, but is it a real job? [ EngineAI ] If you have a cute animal logo for your research I will always share it. [ BIEVR-LIO ] This is very delicate work, although the real challenge would be picking those nuts out of a jumbled bin full of randomly sized nuts, which is how most of us live our lives. [ Sanctuary ] Not for me, thank you, although I’m not saying that most of the other humanoid robots out there are any better looking, fundamentally. [ UBTECH ] Robotics professor, Dr. Christian Hubicki, judges robot soccer skills while knowing very little about soccer himself. [ ORL ] In this presentation, Brendan Schulman, Vice President of Policy at Boston Dynamics, outlines the critical role of government engagement in driving the success of the humanoid robotics industry. He demonstrates how legged robots like the Spot quadruped and Atlas humanoid are moving beyond factory settings to deliver real-world value in infrastructure inspection, industrial manufacturing, and public safety. Schulman highlights the intersection of AI and robotics, showcasing how large behavioral models and reinforcement learning enable robots to navigate slippery floors and autonomously avoid workplace hazards. Ultimately, he calls for a proactive national robotics strategy focused on workforce training, safety standards, and ethical frameworks to support supply chain resilience and global competitiveness. [ Humanoids Summit ]（原题：Video Friday: A World Cup for Robots）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://spectrum.ieee.org/video-friday-robot-world-cup",
+    "tags": [],
+    "impact": "Fri, 10 Jul 2026 16:00:01 +0000"
   },
   {
     "id": "2026-07-10-the-robot-report-xtend-",
