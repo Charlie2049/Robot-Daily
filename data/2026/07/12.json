@@ -1,31 +1,29 @@
 [
   {
-    "id": "2026-07-12-36krcom-36--00",
+    "id": "2026-07-12-juejincn--3--2338",
     "date": "2026-07-12",
-    "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+    "title": "豆包和千问同时关了智能体，我用它们搭的 3 个自动化全废了——迁移方案整理 2338",
     "category": [
-      "humanoid",
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3889516712065799",
+    "summary": "豆包和千问同时关了智能体，我用它们搭的 3 个自动化全废了——迁移方案整理 2338",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7658599462051086371",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-10-qbitaicom-",
-    "date": "2026-07-10",
-    "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
+    "id": "2026-07-11-ai-botcn-agents-a1---ai-lab",
+    "date": "2026-07-11",
+    "title": "Agents-A1 – 上海 AI Lab开源的混合专家智能体模型",
     "category": [
-      "humanoid",
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/07/447627.html",
+    "summary": "Agents-A1 – 上海 AI Lab开源的混合专家智能体模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/agents-a1/",
     "tags": [],
     "impact": ""
   },
