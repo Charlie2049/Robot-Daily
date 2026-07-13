@@ -1,13 +1,69 @@
 [
   {
-    "id": "2026-07-13-juejincn-agent----ai--383",
+    "id": "2026-07-13-ifanrcom--",
     "date": "2026-07-13",
-    "title": "Agent 智能体：从概念到实践 —— 如何打造一个真正能干活的 AI 助手 383",
+    "title": "这个机器人的手，有点灵活过头了 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "这个机器人的手，有点灵活过头了 公司",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1671799",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-13-blogcsdnnet--39",
+    "date": "2026-07-13",
+    "title": "自动驾驶感知数据集选型指南：目标检测、分割、车道线、车牌识别 3.9万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "自动驾驶感知数据集选型指南：目标检测、分割、车道线、车牌识别 3.9万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/Lvou123/article/details/162556510",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-13-bloomberg-technology-",
+    "date": "2026-07-13",
+    "title": "现代汽车工人因奖金和机器人工作保障而罢工",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Hyundai Motor Co. workers began a three-day partial strike on Monday as their union demands bigger bonuses following landmark deals at semiconductor companies, and seek guarantees jobs won’t be lost to AI and robots.（原题：Hyundai Motor Workers Strike Over Bonuses, Robot Job Security）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-13/hyundai-hymtf-workers-strike-over-bonuses-ai-robot-job-security",
+    "tags": [],
+    "impact": "Mon, 13 Jul 2026 02:32:53 GMT"
+  },
+  {
+    "id": "2026-07-13-36krcom-ipo",
+    "date": "2026-07-13",
+    "title": "北京亦庄，将跑出一个机器人独角兽IPO",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "北京亦庄，将跑出一个机器人独角兽IPO",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3893520033364744",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-13-juejincn-agent----ai--408",
+    "date": "2026-07-13",
+    "title": "Agent 智能体：从概念到实践 —— 如何打造一个真正能干活的 AI 助手 408",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "Agent 智能体：从概念到实践 —— 如何打造一个真正能干活的 AI 助手 383",
+    "summary": "Agent 智能体：从概念到实践 —— 如何打造一个真正能干活的 AI 助手 408",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7659249446257688591",
     "tags": [],
