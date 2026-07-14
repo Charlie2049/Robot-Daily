@@ -1,30 +1,29 @@
 [
   {
-    "id": "2026-07-14-36krcom-292-94",
+    "id": "2026-07-14-qbitaicom-",
     "date": "2026-07-14",
-    "title": "融资2亿，机器人开始帮农民种地：省水92% 省地94%",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "融资2亿，机器人开始帮农民种地：省水92% 省地94%",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3894868636679431",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-14-36krcom-",
-    "date": "2026-07-14",
-    "title": "机器人大脑，值钱的生意还是卖炭的苦活？",
+    "title": "马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人大脑，值钱的生意还是卖炭的苦活？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3894816764623496",
+    "summary": "马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/449906.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-14-cbndatacom--",
+    "date": "2026-07-14",
+    "title": "订单热、股价凉，陪伴机器人没能让优必选放下焦虑 市值榜",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "订单热、股价凉，陪伴机器人没能让优必选放下焦虑 市值榜",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295537",
     "tags": [],
     "impact": ""
   },
@@ -57,6 +56,20 @@
     "impact": ""
   },
   {
+    "id": "2026-07-14----98",
+    "date": "2026-07-14",
+    "title": "小米机器人装配成功率98%",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "小米机器人装配成功率98%",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A3%85%E9%85%8D%E6%88%90%E5%8A%9F%E7%8E%8798%25",
+    "tags": [],
+    "impact": "14万"
+  },
+  {
     "id": "2026-07-14-36krcom-ai",
     "date": "2026-07-14",
     "title": "全球首款AI智能体手机，来了：联动支付宝、美团、滴滴、百度",
@@ -87,6 +100,34 @@
     "impact": ""
   },
   {
+    "id": "2026-07-14----g9l3",
+    "date": "2026-07-14",
+    "title": "享界G9获批北京L3自动驾驶测试牌照",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "享界G9获批北京L3自动驾驶测试牌照",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E4%BA%AB%E7%95%8CG9%E8%8E%B7%E6%89%B9%E5%8C%97%E4%BA%ACL3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B5%8B%E8%AF%95%E7%89%8C%E7%85%A7",
+    "tags": [],
+    "impact": "14万"
+  },
+  {
+    "id": "2026-07-14-ai-botcn-stepamoo--",
+    "date": "2026-07-14",
+    "title": "StepAmoo – 阶跃星辰推出的新一代个人智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "StepAmoo – 阶跃星辰推出的新一代个人智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/stepamoo/",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-07-14-ai-botcn-stepx-neo--ai",
     "date": "2026-07-14",
     "title": "STEPX Neo – 阶跃星辰推出的首款大模型原生AI智能体手机",
@@ -113,6 +154,20 @@
     "source_url": "https://ai-bot.cn/libtv-agent/",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-07-13-ieee-spectrum-robotics-",
+    "date": "2026-07-13",
+    "title": "为通用机器人构建基础堆栈",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and control parts that rarely add up to intelligence a robot can carry from one task to another, or one machine to another. The central problem in embodied AI is to find the equivalent recipe, and the field does not yet agree on what it is. X Square Robot , a Chinese embodied-AI company, has made an unusually explicit bet. It argues that the recipe is an integrated stack, spanning the data a robot learns from, a world model for predicting changes in the physical world, and an action model that brings together perception, planning, reasoning, and decision-making to generate executable robot behavior. The company also believes that the stack should be built and released in the open . X Square Robot shares its vision of bringing robots into real homes. X Square Robot X Square Robot’s embodied AI stack What holds the stack together is a small set of principles rather than a single overarching model. The first is that the basic unit of robot data is an interaction, not a trajectory; a demonstration is successful only if it changes the world as intended, not simply because the joints moved. The second is that pretraining should yield usable capability, not just an initialization for later fine-tuning. The third is that behavior should be modeled around physical events rather than fixed slices of time. These principles make the layers interdependent, since the same robot-free data that trains the action model is also structured to feed the world model. It is worth being precise, though. The company describes the world model and the action model as complementary but independent model families that share a code base. Both sit within its broader World Unified Model, which it has presented as an architecture for training vision, language, action, and physical prediction together. Robot learning data: Engineering for quality and cost, not scale For the X Square Robot team, one of the biggest constraints on general-purpose robots is the cost and quality of interaction data, not the number of parameters. To address that, the company built its Universal Manipulation Interface (UMI) data collection system, QUANXTA Zero Series . It works by collecting demonstrations from people wearing a rig with dual grippers rather than teleoperating a robot. This approach is not itself new, and builds on established methods for robot-free data capture. What sets it apart are two engineering choices. X Square Robot emphasizes data quality control, recording trajectories and replaying them on a real robot, with only those that actually complete the task counted as valid. X Square Robot The first is quality control, and it is the most distinctive part. Rather than accepting recorded trajectories as they are, the system runs a closed inspection loop, and its notable step is physical playback. A sample of trajectories is replayed on the real robot, and only those that actually complete the task count as valid. That makes the validity rate a measured quantity rather than an assumption. For example, a gripper that closes a fraction of a second too early still looks like a grasp in the data, yet it has pushed the object away, so it shouldn’t be classified as valid. A smaller clean dataset can be worth more than a larger noisy one. The second choice is how lower-cost human data and scarce robot data are combined. The company pretrains on a large volume of robot-free demonstrations to build general representations, then adds a small amount of real-robot data as an anchor to the specific machine’s dynamics. It reports that this reaches performance comparable to an all-robot dataset at roughly a 20-fold lower cost of collection, driven mainly by how much cheaper the wearable rig is than a teleoperation setup. The resulting dataset is deliberately model-agnostic, formatted to feed both action models and world models. The caveat is that the strongest results are measured on the company’s own robots and data-collection pipelines. Broader independent testing will help confirm and extend these promising results across a wider range of settings. A world model organized around events In developing its world model, called WALL-WM , X Square Robot took a differentiated approach. Most action models predict a fixed-length chunk of motion from the current image and instruction. That is convenient, but it segments behavior into fixed-duration windows, so the boundaries fall where elapsed time dictates rather than where one action ends and the next begins. WALL-WM instead treats an action-grounded semantic event as its unit: a coherent piece of behavior such as reaching, grasping, or placing, something that can be named in language, seen in video, and executed as motion. X Square Robot’s world model, called WALL-WM, treats an action-grounded semantic event as its unit: a coherent piece of behavior such as reaching, grasping, or placing, something that can be named in language, seen in video, and executed as motion. X Square Robot WALL-WM’s design reflects a specific concern about not discarding what large video models already know. To achieve that, a text-to-video model is coupled to a freshly initialized action network that reads from the video features without overwriting them, which preserves the visual prior. From that one process, it offers two modes. An event mode runs in variable-length segments and suits reasoning over long horizons, while a fixed-length mode produces the steady, real-time output a controller needs. That places WALL-WM between mainstream chunk-based action models and pure video world models, keeping the predictive character of a world model while still yielding executable control. In a series of experiments, the company relied on a generalization test that is more specific than most. A model trained on a limited dataset was evaluated on long-horizon tasks in unseen settings and, on the company’s real-robot benchmark, reportedly outscored baselines that had been fine-tuned on related data. That is a meaningful result if it holds. For now, it is measured on the company’s own benchmark. With the code now being released, the broader community will have the opportunity to test, reproduce, and build on them across more settings. A policy that runs before fine-tuning, and action tokens with meaning The action layer carries two connected ideas. The first is a requirement the company sets for itself with Wall-OSS-0.5 , its vision-language-action model: The pretrained model should run on a real robot before any task-specific fine-tuning. The interest is less in the scores than in the design behind them. The model trains three objectives together, namely discrete action tokens, language grounding, and continuous action generation. And it keeps gradients flowing through all of them rather than freezing parts of the network as some rival designs do. It’s also a more strict method, since it reports untuned behavior such as approaching, grasping, and recovering, including on a deformable task held out of training. As part of X Square Robot’s Wall-OSS-0.5 vision-language-action model design, the pretrained model should run on a real robot before any task-specific fine-tuning. X Square Robot The second idea is the action interface itself, called X-Tokenizer. Most systems that turn continuous motion into discrete tokens produce codes that the language model cannot interpret. X-Tokenizer reframes tokenization as learning a semantic interface, so that the top-level code stands for the intent of a motion while lower-level codes carry finer detail, all aligned with the language model’s own features. A useful consequence is stability. Adding noise to an action barely moves the intent code, which is what lets one tokenizer to be reused across robots without re-tuning. The tokenizer inside the production action model is a related variant of this approach. Together, the two ideas give the action layer something rather powerful: capability that transfers. The future of embodied AI stacks X Square Robot is betting that its unique approach combining three layers, each specialized in solving a key part of the problem, will stand out from other embodied AI stacks. The physical-playback step that grounds data quality is uncommon and sensible. The reframing of world modeling around events, with one backbone serving both reasoning and control, is a genuinely distinct approach. And the pairing of a deployable pretraining standard with a tokenizer designed as a semantic interface gives the action layer unusual coherence. X Square Robot’s valuation has climbed above 20 billion yuan (about US $2.9 billion), suggesting that investors increasingly view data infrastructure, foundation models, and scalable training systems as long-term differentiators in embodied AI. The next phase will bring broader validation. Much of the current evidence comes from X Square’s own robots and benchmarks. With the world model code now being made public, and as the community begins to test, reproduce, and build on the work, the reported capabilities will be tested across more robots, tasks, and settings. X Square Robot’s recent funding rounds reflect similar confidence. The company’s valuation has climbed above 20 billion yuan (about US $2.9 billion), suggesting that investors increasingly view data infrastructure, foundation models, and scalable training systems as long-term differentiators in embodied AI. What’s next for X Square Robot To learn more about its future plans, the following Q&A with the X Square Robot team further explores the company’s technology, strategy, and vision. What made now the right moment, technically, to commit to this stack? What recently became possible that wasn’t possible a couple of years ago? It is not one breakthrough but several trends maturing together. Foundation models gave us a shared representation across vision, language, and action, so we can model what a robot sees, what it is asked to do, and how its actions change the world in one framework, rather than as separate perception, planning, and control modules. Compute and infrastructure are finally sufficient for large-scale pretraining over long-horizon, multi-embodiment data. Just as importantly, we realized that data, not model size, is the real bottleneck for general robots—what is scarce is diverse, high-quality, reproducible interaction data. And world modeling has become practical. The useful question is no longer how to predict a few seconds of video, but how to understand the ways actions change objects, contacts, and task states. Two years ago these ingredients existed separately. Today they are mature enough to work as one system. “We realized that data, not model size, is the real bottleneck for general robots—what is scarce is diverse, high-quality, reproducible interaction data. And world modeling has become practical.” Your data system captures demonstrations with a wearable VR rig and custom grippers rather than teleoperating robots. What was wrong with standard teleoperation? Teleoperation is built around controlling the robot. It forces the operator to work within the machine’s kinematics, latency, and viewpoint, and the resulting demonstrations are slower, stiffer, and less diverse. We built our system around capturing human skill instead. Manipulation is really about contact, timing, finger coordination, and recovery, not just the path the hand takes, and a wearable rig records those before the behavior is compressed onto one particular robot. It also breaks teleoperation’s expensive scaling law, in which every demonstration needs a robot. People can generate rich data independently of any robot, and the crucial property is that those demonstrations can still be replayed and executed on a physical robot through the model. Mobility is convenient, but that replay is the real point, because it is what lets the same data be reused across different platforms. In X Square Robot’s approach, demonstrations can be replayed and executed on a physical robot through the AI model, allowing the same data to be reused across different platforms. X Square Robot X Square Robot reports that its pipeline has roughly an 85 percent data-validity rate. Why is quality control such an underrated bottleneck? Because errors in robot data are far more expensive than in language data. A small timing or contact error can change what a demonstration means. If a gripper closes a fraction of a second too early, the motion still looks like a grasp, but physically it has pushed the object away. A dataset that mixes failures and accidental successes teaches ambiguity, not skill, because the real unit is the interaction, not the trajectory. So we run automated inspection, kinematic checks, and physical replay, where we play a sample of trajectories back on the real robot and count only the ones that actually complete the task. Data quality sets the ceiling on how good a policy can be. In our experience a smaller, cleaner dataset often beats a much larger, noisier one, which is why we treat quality control as part of the model, not a preprocessing afterthought. The model runs in both “event mode” and “chunk mode.” When does each matter? Both matter, for different reasons. The physical world changes through events—when contact occurs, a grasp forms, or an object slips—not in fixed-frame windows. Event mode concentrates the model’s attention on those moments, and it matters most for long-horizon tasks, like clearing a table, where progress is a sequence of semantic events rather than a smooth stream. It runs in variable-length segments that follow the task rather than a clock. Chunk mode matters for deployment. Real controllers need a stable, real-time interface, and fixed-length chunks integrate cleanly with existing control systems. We organize learning around events in the first place because a fixed window can split one motion in half or merge two together, which turns training into short-horizon pattern matching and weakens the model on long tasks. So the world model’s job is to connect event-level understanding, which is where the reasoning happens, with a fixed-length output a real robot can actually run. Why make “deployable before fine-tuning” the criterion? Pretraining should produce capability, not just a good starting point. If a model is only useful after heavy fine-tuning, then most of the intelligence still lives in the downstream supervision, not in the foundation model. Deployable before fine-tuning is a more honest test of what pretraining actually learned. A well-pretrained robot should already know how to approach, grasp, move, avoid obstacles, and correct itself. Fine-tuning should adapt it to a specific task or robot, not create the ability from nothing. It is also a practical requirement. A robot in a home or a workplace shouldn’t need a brand-new dataset and a new policy every time the task changes, so a foundation model that already carries general skill, and some ability to recover, is the minimum bar for something genuinely useful in the real world. What is the most challenging part of cross-embodiment learning? Robots differ in control frequency, delay, compliance, sensing precision, and contact dynamics, so the same instruction can require different action decompositions and recovery strategies, and a behavior that works on one arm cannot simply be copied to another. Cross-embodiment learning needs an intermediate abstraction, lower than language but higher than joint angles: how you approach an object, how you make contact, how you apply force, and how you recover from a mistake. When we say cross-embodiment, the main capability we mean is multi-embodiment generalization: transferring across robots, training on many embodiments at once, and adapting to different kinematics. Human-to-robot transfer and other techniques are specific approaches to that goal. “A robot in a home or workplace shouldn’t need a new dataset and policy every time the task changes. A useful foundation model should already carry general skills and the ability to recover.” What would you most like to see other researchers attempt to reproduce or stress-test? Three things, above all. Whether event-level representations really generalize beyond our own datasets, across more tasks, scenes, objects, embodiments, and failure conditions. Whether pretraining stays effective on robots the model never saw during training, or whether its capability is still too tightly coupled to what it has already seen. And whether real-robot evaluation can become a shared language for the field, so that we compare not just success rates but the reasons systems fail, where an instruction was misread, where perception broke down, or where recovery fell short. Robotics has been driven too often by impressive demonstrations, and real progress comes from results that are reproducible and diagnosable. What capability is still missing before robots become dependable in homes? Benchmarks measure competence, like whether a model can finish a task. Homes demand reliability, safe and consistent operation over time in a place that changes every day, with objects moving, instructions that are vague, and people interrupting. The missing piece is not a higher one-time success rate: it is robust recovery. A dependable home robot has to know when it is uncertain, when to slow down, when to ask for help, and how to bring the world back to a safe state after it drops something or misunderstands a request. In a real home, failure recovery matters more than raw success, because the home does not reset itself. Homes also demand careful personalization, learning a household’s routines and preferences over time, with safety and trust as first principles. That combination, not any single skill, separates a capable demonstration from a robot people can live with. X Square Robot’s approach is that, in a real home, failure recovery matters more than raw success, because the home does not reset itself and it demands careful personalization, with safety and trust as first principles. X Square Robot How do the open-source components fit into X Square Robot’s World Unified Model direction? We see these releases as layers of the World Unified Model direction rather than isolated projects. Wall-OSS-0.5 , the action model, asks whether an open vision-language-action model can gain directly measurable capability from large-scale pretraining, so it is the capability layer. WALL-WM, the world model, asks how a robot should understand change in the world, shifting from fixed windows to event-level modeling, so it is the representation layer. The data system supplies the interaction data that both of them learn from. Together they form a loop in which models produce capability, world models organize understanding, and the open-source community drives reproduction and improvement. World Unified Model is the broader architecture those layers support, bringing vision, language, action, and physical prediction together. We are releasing these pieces openly because embodied intelligence cannot be solved by one organization; it needs many embodiments, many real tasks, and broad feedback, and the long-term goal is a stack that keeps learning and ultimately moves robots from laboratory demonstrations toward reliable everyday use.（原题：Building a Foundation Stack for General-Purpose Robots）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+    "tags": [],
+    "impact": "Mon, 13 Jul 2026 10:19:51 +0000"
   },
   {
     "id": "2026-07-13-the-robot-report-robot-report--wtwh-media--arrowfly",
