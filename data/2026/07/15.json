@@ -30,16 +30,32 @@
     "impact": ""
   },
   {
-    "id": "2026-07-15-caifuhaoeastmoneycom--800",
+    "id": "2026-07-15-36krcom-",
     "date": "2026-07-15",
-    "title": "不赚钱的机器人公司，都去港股上市了 800",
+    "title": "别人拼命造人形机器人，这家公司先给机器狗装了只手",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "不赚钱的机器人公司，都去港股上市了 800",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20260715080720245803050",
+    "summary": "别人拼命造人形机器人，这家公司先给机器狗装了只手",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3896735746901382",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-15-ai-botcn-xiaomi-robotics-u0--",
+    "date": "2026-07-15",
+    "title": "Xiaomi-Robotics-U0 – 小米推出的统一具身合成模型",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Xiaomi-Robotics-U0 – 小米推出的统一具身合成模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/xiaomi-robotics-u0/",
     "tags": [],
     "impact": ""
   },
@@ -54,6 +70,34 @@
     "summary": "AI智能体突然下架，“豆包恋人”们天都塌了……",
     "source": "guokr.com",
     "source_url": "https://www.guokr.com/article/469662/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-15-aibasecom-aigpt-56solai-agent",
+    "date": "2026-07-15",
+    "title": "AI日报：豆包千问同日下线智能体功能；GPT-5.6Sol被曝自主删除用户数据库；京东AI Agent与腾讯元宝打通小程序生态",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：豆包千问同日下线智能体功能；GPT-5.6Sol被曝自主删除用户数据库；京东AI Agent与腾讯元宝打通小程序生态",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/29621",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-15-caifuhaoeastmoneycom-7215",
+    "date": "2026-07-15",
+    "title": "7月加银行保险证券持仓比，是对的，今天我加机器人！215",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "7月加银行保险证券持仓比，是对的，今天我加机器人！215",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20260715145556248466320",
     "tags": [],
     "impact": ""
   },
