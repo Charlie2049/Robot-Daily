@@ -1,5 +1,75 @@
 [
   {
+    "id": "2026-07-16-bloomberg-technology-",
+    "date": "2026-07-16",
+    "title": "现代汽车将收购软银波士顿动力公司机器人推送股份",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Hyundai Motor Co. and its affiliates are moving to acquire SoftBank Group Corp.’s remaining stake in the automaker’s Boston Dynamics unit, securing full ownership of the robotics pioneer at a steep discount as it prepares to deploy its Atlas humanoid robot on factory floors.（原题：Hyundai to Buy SoftBank Boston Dynamics Stake in Robot Push）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-16/hyundai-to-buy-softbank-s-boston-dynamics-stake-in-robot-push",
+    "tags": [],
+    "impact": "Thu, 16 Jul 2026 02:59:18 GMT"
+  },
+  {
+    "id": "2026-07-16-bloomberg-technology--nvidia-",
+    "date": "2026-07-16",
+    "title": "日本机器人领导者与 Nvidia 联手挑战中国",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Fujitsu Ltd., Fanuc Corp. and two of Japan’s biggest robotics companies will work together in robot development, a move aimed at staying ahead of surging competition from China.（原题：Japan’s Robotics Leaders Unite With Nvidia to Take On China）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-16/japan-s-robot-makers-join-nvidia-s-physical-ai-cosmos-coalition",
+    "tags": [],
+    "impact": "Thu, 16 Jul 2026 03:40:00 GMT"
+  },
+  {
+    "id": "2026-07-16-bloomberg-technology--nvidia-rubin-",
+    "date": "2026-07-16",
+    "title": "日本将购买 Nvidia Rubin 芯片为机器人构建主权人工智能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Japan is planning to buy 27,500 next-generation Rubin chips from Nvidia Corp. to build a homegrown foundational AI model for robots.（原题：Japan to Buy Nvidia Rubin Chips to Build Sovereign AI for Robots）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-16/japan-to-buy-nvidia-rubin-chips-to-build-sovereign-ai-for-robots",
+    "tags": [],
+    "impact": "Thu, 16 Jul 2026 07:40:03 GMT"
+  },
+  {
+    "id": "2026-07-16-36krcom-",
+    "date": "2026-07-16",
+    "title": "半年吸金千亿，具身智能在赌第二个王兴兴",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "半年吸金千亿，具身智能在赌第二个王兴兴",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3897035907303305",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-16-36krcom-ai",
+    "date": "2026-07-16",
+    "title": "AI情感陪伴迎“强监管”，多平台下线自定义智能体功能",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI情感陪伴迎“强监管”，多平台下线自定义智能体功能",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3897801145567108",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-07-15-bloomberg-technology-",
     "date": "2026-07-15",
     "title": "中国派遣机器人到世界各地学习如何做人",
@@ -81,20 +151,6 @@
     "summary": "早报｜苹果iPhone 20或迎来大幅设计调整/海南规划2030年禁售燃油车/字节回应探索自动驾驶传闻 早报",
     "source": "ifanr.com",
     "source_url": "https://www.ifanr.com/1671983",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-14-cbndatacom-30150-tech",
-    "date": "2026-07-14",
-    "title": "我给机器人当“燃料”：叠衣服时薪30元，卖数据估值150亿 Tech星球",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "我给机器人当“燃料”：叠衣服时薪30元，卖数据估值150亿 Tech星球",
-    "source": "cbndata.com",
-    "source_url": "https://cbndata.com/information/295533",
     "tags": [],
     "impact": ""
   }
