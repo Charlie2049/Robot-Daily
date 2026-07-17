@@ -1,15 +1,58 @@
 [
   {
-    "id": "2026-07-17-m21jingjicom--ai",
+    "id": "2026-07-17-mithomecom--91",
     "date": "2026-07-17",
-    "title": "让机器人拥有人工智能 认识AI背后那些“师父们”学习经济",
+    "title": "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打 91评",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "震撼功夫巨星甄子丹：全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打 91评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/977823.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-17-m21jingjicom--",
+    "date": "2026-07-17",
+    "title": "极智嘉陈曦：具身智能落地是明显趋势，但大规模商用还有距离 公司",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "极智嘉陈曦：具身智能落地是明显趋势，但大规模商用还有距离 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260717/herald/ade8c8d1d99f60fd2f57fb65f8cb8ad3.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-17-ifanrcom-ai-",
+    "date": "2026-07-17",
+    "title": "早报｜真我暂停产品更新/华为撤回「世界」商标申请/努比亚全球首款AI智能体手机搭载豆包手机助手 早报",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "早报｜真我暂停产品更新/华为撤回「世界」商标申请/努比亚全球首款AI智能体手机搭载豆包手机助手 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1672229",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-17-ai-botcn-imoochi---ai-",
+    "date": "2026-07-17",
+    "title": "iMoochi – 努比亚推出的 AI 情感陪伴宠物机器人",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "让机器人拥有人工智能 认识AI背后那些“师父们”学习经济",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260717/herald/1327c4f937aed01a426bf57b99447290.html",
+    "summary": "iMoochi – 努比亚推出的 AI 情感陪伴宠物机器人",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/imoochi/",
     "tags": [],
     "impact": ""
   },
@@ -26,21 +69,6 @@
     "source_url": "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/",
     "tags": [],
     "impact": "Thu, 16 Jul 2026 18:51:40 +0000"
-  },
-  {
-    "id": "2026-07-15-ifanrcom--lumo-2-",
-    "date": "2026-07-15",
-    "title": "机器人也开始修炼「见闻色」，星尘智能发布具身基座模型 Lumo-2，让动作更快更准了 爱范儿",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "机器人也开始修炼「见闻色」，星尘智能发布具身基座模型 Lumo-2，让动作更快更准了 爱范儿",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1672067",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-07-15-aibasecom-aigpt-56solai-agent",
