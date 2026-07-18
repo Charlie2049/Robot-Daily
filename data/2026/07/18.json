@@ -1,19 +1,5 @@
 [
   {
-    "id": "2026-07-18-m21jingjicom-2027-",
-    "date": "2026-07-18",
-    "title": "桌面机器人风潮涌起！有厂商预计2027年出货量万台起步 公司",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "桌面机器人风潮涌起！有厂商预计2027年出货量万台起步 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260718/herald/2cb50f1be333ec6f8d2faf38b4857d3c.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-07-18-ifanrcom-apple-musicsu7waic-",
     "date": "2026-07-18",
     "title": "早报｜苹果上调Apple Music价格/小米SU7虚假碰撞测评博主被判一年八个月/努比亚、阶跃星辰智能体手机亮相WAIC 早报",
@@ -28,18 +14,18 @@
     "impact": ""
   },
   {
-    "id": "2026-07-18-36krcom-",
+    "id": "2026-07-18-the-robot-report-palm-garden-ai--coherence-guard-",
     "date": "2026-07-18",
-    "title": "十年服务世界，正在成为普渡迈向具身智能的底牌",
+    "title": "Palm Garden AI 为人脸机器人开发 Coherence Guard 关系决策层",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "十年服务世界，正在成为普渡迈向具身智能的底牌",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3900610713175938",
+    "summary": "Palm Garden AI is developing a hardware-agnostic software layer, including Coherence Guard, for human-robot interaction and relationships. The post Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots appeared first on The Robot Report .（原题：Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/",
     "tags": [],
-    "impact": ""
+    "impact": "Sat, 18 Jul 2026 12:30:20 +0000"
   },
   {
     "id": "2026-07-18-ifanrcom-6--ai-waic-2026-",
