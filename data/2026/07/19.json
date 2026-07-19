@@ -1,29 +1,71 @@
 [
   {
-    "id": "2026-07-18-qbitaicom-vlaunitac",
-    "date": "2026-07-18",
-    "title": "让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”",
+    "id": "2026-07-19----",
+    "date": "2026-07-19",
+    "title": "高通发布会机器人现场摔倒",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/07/453897.html",
+    "summary": "高通发布会机器人现场摔倒",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9A%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%BA%E6%91%94%E5%80%92",
+    "tags": [],
+    "impact": "15万"
+  },
+  {
+    "id": "2026-07-19-m21jingjicom-ai-",
+    "date": "2026-07-19",
+    "title": "广药、华为共创新药创制AI智能体项目入选国家级案例 粤港澳",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "广药、华为共创新药创制AI智能体项目入选国家级案例 粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260719/herald/f293d2bc2f260702219016b807cfc8c9.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-18-m21jingjicom--",
-    "date": "2026-07-18",
-    "title": "从智能体手机到机器人手机 多模态交互能否打开新一轮换机潮？公司",
+    "id": "2026-07-19-m21jingjicom--",
+    "date": "2026-07-19",
+    "title": "具身智能技术下半场拼落地 公司",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能技术下半场拼落地 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260719/herald/c65693fc1db9ace922db0d69bf701845.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-19-qbitaicom-waic",
+    "date": "2026-07-19",
+    "title": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "从智能体手机到机器人手机 多模态交互能否打开新一轮换机潮？公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260718/herald/b43c7b3196d3bcadc3bcc303ec6cd0b2.html",
+    "summary": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/453802.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-19-gelonghuicom-waic-2026ai",
+    "date": "2026-07-19",
+    "title": "WAIC 2026：机器人抢镜、芯片上桌，AI公司的较量不止大模型",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "WAIC 2026：机器人抢镜、芯片上桌，AI公司的较量不止大模型",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/5632700",
     "tags": [],
     "impact": ""
   },
