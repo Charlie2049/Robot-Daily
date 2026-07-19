@@ -1,57 +1,57 @@
 [
   {
-    "id": "2026-07-19----",
+    "id": "2026-07-19-qbitaicom-20",
     "date": "2026-07-19",
-    "title": "高通发布会机器人现场摔倒",
+    "title": "看了20万小时「人类干活实录」，机器人悟了",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "高通发布会机器人现场摔倒",
-    "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9A%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%BA%E6%91%94%E5%80%92",
-    "tags": [],
-    "impact": "15万"
-  },
-  {
-    "id": "2026-07-19-m21jingjicom-ai-",
-    "date": "2026-07-19",
-    "title": "广药、华为共创新药创制AI智能体项目入选国家级案例 粤港澳",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "广药、华为共创新药创制AI智能体项目入选国家级案例 粤港澳",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260719/herald/f293d2bc2f260702219016b807cfc8c9.html",
+    "summary": "看了20万小时「人类干活实录」，机器人悟了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/454592.html",
     "tags": [],
     "impact": ""
   },
   {
     "id": "2026-07-19-m21jingjicom--",
     "date": "2026-07-19",
-    "title": "具身智能技术下半场拼落地 公司",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "具身智能技术下半场拼落地 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260719/herald/c65693fc1db9ace922db0d69bf701845.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-19-qbitaicom-waic",
-    "date": "2026-07-19",
-    "title": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
+    "title": "监管急开闭门会讨论情感机器人 公司",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/07/453802.html",
+    "summary": "监管急开闭门会讨论情感机器人 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260719/herald/ce2c7cdcdf0b009e68129ea927c16ccd.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-19-the-robot-report-",
+    "date": "2026-07-19",
+    "title": "机器人开发中如何避免遥操作陷阱",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Teleoperation is necessary for training humanoid robots, but reinforcement learning and simulation are still necessary, says Flexion's CEO. The post How to avoid the teleoperation trap in robotics development appeared first on The Robot Report .（原题：How to avoid the teleoperation trap in robotics development）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/",
+    "tags": [],
+    "impact": "Sun, 19 Jul 2026 12:30:25 +0000"
+  },
+  {
+    "id": "2026-07-19-36krcom-waicvla-",
+    "date": "2026-07-19",
+    "title": "WAIC机器人狂卷落地：细分赛道爆发，VLA 与世界模型争做大脑",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "WAIC机器人狂卷落地：细分赛道爆发，VLA 与世界模型争做大脑",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3901340695872647",
     "tags": [],
     "impact": ""
   },
@@ -66,20 +66,6 @@
     "summary": "WAIC 2026：机器人抢镜、芯片上桌，AI公司的较量不止大模型",
     "source": "gelonghui.com",
     "source_url": "https://www.gelonghui.com/p/5632700",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-18-qbitaicom-waic",
-    "date": "2026-07-18",
-    "title": "WAIC看了一圈，这家公司的机器人在认真打工",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "WAIC看了一圈，这家公司的机器人在认真打工",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/07/454040.html",
     "tags": [],
     "impact": ""
   },
