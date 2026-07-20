@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2026-07-20-the-robot-report-",
+    "date": "2026-07-20",
+    "title": "波士顿动力讨论人机交互背后的艺术",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Boston Dynamics experts will share insights into design considerations for safe human-robot interaction in a webinar. The post Boston Dynamics to discuss the art behind human-robot interaction appeared first on The Robot Report .（原题：Boston Dynamics to discuss the art behind human-robot interaction）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/boston-dynamics-discuss-art-behind-human-robot-interaction/",
+    "tags": [],
+    "impact": "Mon, 20 Jul 2026 17:53:58 +0000"
+  },
+  {
+    "id": "2026-07-20-the-robot-report-",
+    "date": "2026-07-20",
+    "title": "为不可预测、无基础设施的环境构建机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Real-world robotics success requires building infrastructure-free systems that thrive in unpredictable, harsh outdoor environments. The post Building robots for unpredictable, infrastructure-free environments appeared first on The Robot Report .（原题：Building robots for unpredictable, infrastructure-free environments）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/",
+    "tags": [],
+    "impact": "Mon, 20 Jul 2026 18:39:57 +0000"
+  },
+  {
+    "id": "2026-07-20-the-robot-report-braincoai",
+    "date": "2026-07-20",
+    "title": "BrainCo展示脑控机器人AI平台",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "During BrainCo's demo, the mind-controlled robotic arm completed tasks that require precision, such as grasping a cup or picking up an apple. The post BrainCo demonstrates brain-controlled robot AI platform appeared first on The Robot Report .（原题：BrainCo demonstrates brain-controlled robot AI platform）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/brainco-demonstrates-brain-controlled-robot-ai-platform/",
+    "tags": [],
+    "impact": "Mon, 20 Jul 2026 18:14:11 +0000"
+  },
+  {
+    "id": "2026-07-19-the-robot-report-",
+    "date": "2026-07-19",
+    "title": "机器人开发中如何避免遥操作陷阱",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Teleoperation is necessary for training humanoid robots, but reinforcement learning and simulation are still necessary, says Flexion's CEO. The post How to avoid the teleoperation trap in robotics development appeared first on The Robot Report .（原题：How to avoid the teleoperation trap in robotics development）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/",
+    "tags": [],
+    "impact": "Sun, 19 Jul 2026 12:30:25 +0000"
+  }
+]
