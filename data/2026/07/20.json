@@ -1,19 +1,5 @@
 [
   {
-    "id": "2026-07-20-m21jingjicom--",
-    "date": "2026-07-20",
-    "title": "机器人进化：指尖触觉解锁手部精细操作 公司",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "机器人进化：指尖触觉解锁手部精细操作 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260720/herald/20f4f48ae15ef98f46eedd0b16b6751a.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-07-20-ifanrcom-robot-phoneidc203022-",
     "date": "2026-07-20",
     "title": "早报｜曝月之暗面最快半年内上市/荣耀Robot Phone开启预约/IDC:2030年全球活跃智能体将超22亿个 早报",
@@ -56,30 +42,16 @@
     "impact": ""
   },
   {
-    "id": "2026-07-20-qbitaicom-rss7088",
+    "id": "2026-07-20-ai-botcn-lohosearch--",
     "date": "2026-07-20",
-    "title": "刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/07/455277.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-20-m21jingjicom-waic-",
-    "date": "2026-07-20",
-    "title": "从“能干活”到“自进化”，WAIC上智能体开启新纪元 公司",
+    "title": "LoHoSearch – 美团推出的下一代搜索智能体评测基准",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "从“能干活”到“自进化”，WAIC上智能体开启新纪元 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260720/herald/3e6c21c722506a4de0e5e80a793fe43f.html",
+    "summary": "LoHoSearch – 美团推出的下一代搜索智能体评测基准",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/lohosearch/",
     "tags": [],
     "impact": ""
   },
