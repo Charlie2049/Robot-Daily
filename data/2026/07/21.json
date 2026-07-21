@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-07-21-bloomberg-technology-",
+    "date": "2026-07-21",
+    "title": "三星聘请波士顿动力公司前高管推动机器人技术发展",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Samsung Electronics Co. has hired one of South Korea’s leading robotics executives from Hyundai Motor Group to oversee a new robotics division, escalating competition in a sector emerging as the next battleground among global technology companies.（原题：Samsung Hires Ex-Boston Dynamics Executive in Robotics Push）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-21/samsung-hires-ex-boston-dynamics-executive-in-robotics-push",
+    "tags": [],
+    "impact": "Tue, 21 Jul 2026 03:21:45 GMT"
+  },
+  {
+    "id": "2026-07-21-ai-botcn-hyra--",
+    "date": "2026-07-21",
+    "title": "Hyra – 腾讯混元推出的科学发现智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Hyra – 腾讯混元推出的科学发现智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/hyra/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-21-aibasecom-aihyra-10qwen-image-30grokexcel",
+    "date": "2026-07-21",
+    "title": "AI日报：腾讯混元发布科研智能体Hyra-1.0；阿里发布Qwen-Image-3.0；马斯克把Grok塞进Excel",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：腾讯混元发布科研智能体Hyra-1.0；阿里发布Qwen-Image-3.0；马斯克把Grok塞进Excel",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/29758",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-20-mithomecom--robot-phone--1tb--15999--146",
+    "date": "2026-07-20",
+    "title": "消息称荣耀 Robot Phone 形态有专利友商难跟进，行业预测 1TB 版价格在 15999 元左右 146评",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "消息称荣耀 Robot Phone 形态有专利友商难跟进，行业预测 1TB 版价格在 15999 元左右 146评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/979221.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-07-20-the-robot-report-",
     "date": "2026-07-20",
     "title": "波士顿动力讨论人机交互背后的艺术",
