@@ -1,0 +1,87 @@
+[
+  {
+    "id": "2026-07-21-the-verge-",
+    "date": "2026-07-21",
+    "title": "特斯拉机器人出租车前往佛罗里达州",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area. No word on fleet size or whether interested customers would be able to […]（原题：Tesla Robotaxis go to Florida）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
+    "tags": [],
+    "impact": "2026-07-21T12:11:41-04:00"
+  },
+  {
+    "id": "2026-07-21-ai-botcn-hyra--",
+    "date": "2026-07-21",
+    "title": "Hyra – 腾讯混元推出的科学发现智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Hyra – 腾讯混元推出的科学发现智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/hyra/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-21-the-robot-report-generative-bionics-",
+    "date": "2026-07-21",
+    "title": "Generative Bionics 推出具有全身触觉传感的人形机器人",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Generative Bionics said its Gene.01 humanoid is fully sensorized, helping it quickly anticipate human presence and respond. The post Generative Bionics unveils humanoid robot with full-body tactile sensing appeared first on The Robot Report .（原题：Generative Bionics unveils humanoid robot with full-body tactile sensing）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/",
+    "tags": [],
+    "impact": "Tue, 21 Jul 2026 19:44:26 +0000"
+  },
+  {
+    "id": "2026-07-21-aibasecom-aihyra-10qwen-image-30grokexcel",
+    "date": "2026-07-21",
+    "title": "AI日报：腾讯混元发布科研智能体Hyra-1.0；阿里发布Qwen-Image-3.0；马斯克把Grok塞进Excel",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：腾讯混元发布科研智能体Hyra-1.0；阿里发布Qwen-Image-3.0；马斯克把Grok塞进Excel",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/29758",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-20-ifanrcom-robot-phoneidc203022-",
+    "date": "2026-07-20",
+    "title": "早报｜曝月之暗面最快半年内上市/荣耀Robot Phone开启预约/IDC:2030年全球活跃智能体将超22亿个 早报",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "早报｜曝月之暗面最快半年内上市/荣耀Robot Phone开启预约/IDC:2030年全球活跃智能体将超22亿个 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1672471",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-20-aibasecom-ai38seed-audio-10minicpm-robot",
+    "date": "2026-07-20",
+    "title": "AI日报：千问3.8模型将发布；字节发布Seed Audio 1.0；面壁智能开源MiniCPM-Robot",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AI日报：千问3.8模型将发布；字节发布Seed Audio 1.0；面壁智能开源MiniCPM-Robot",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/29723",
+    "tags": [],
+    "impact": ""
+  }
+]
