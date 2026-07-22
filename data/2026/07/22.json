@@ -1,29 +1,71 @@
 [
   {
-    "id": "2026-07-21-the-verge-",
-    "date": "2026-07-21",
-    "title": "特斯拉机器人出租车前往佛罗里达州",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area. No word on fleet size or whether interested customers would be able to […]（原题：Tesla Robotaxis go to Florida）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
-    "tags": [],
-    "impact": "2026-07-21T12:11:41-04:00"
-  },
-  {
-    "id": "2026-07-21-ai-botcn-hyra--",
-    "date": "2026-07-21",
-    "title": "Hyra – 腾讯混元推出的科学发现智能体",
+    "id": "2026-07-22-qbitaicom-waic-2026",
+    "date": "2026-07-22",
+    "title": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "Hyra – 腾讯混元推出的科学发现智能体",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/hyra/",
+    "summary": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/456178.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-22-geekparknet--15--6-",
+    "date": "2026-07-22",
+    "title": "脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/364131",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-22-qbitaicom-agentclaudegpt",
+    "date": "2026-07-22",
+    "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/457117.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-22-mithomecom--robot-phone--132",
+    "date": "2026-07-22",
+    "title": "全球首款机器人手机：荣耀 Robot Phone 拍照页面曝光，将支持大师电影模式 132评",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "全球首款机器人手机：荣耀 Robot Phone 拍照页面曝光，将支持大师电影模式 132评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/979801.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-22-geekparknet-figure-ai--demo",
+    "date": "2026-07-22",
+    "title": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/363963",
     "tags": [],
     "impact": ""
   },
@@ -53,20 +95,6 @@
     "summary": "AI日报：腾讯混元发布科研智能体Hyra-1.0；阿里发布Qwen-Image-3.0；马斯克把Grok塞进Excel",
     "source": "aibase.com",
     "source_url": "https://www.aibase.com/zh/daily/29758",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-20-ifanrcom-robot-phoneidc203022-",
-    "date": "2026-07-20",
-    "title": "早报｜曝月之暗面最快半年内上市/荣耀Robot Phone开启预约/IDC:2030年全球活跃智能体将超22亿个 早报",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "早报｜曝月之暗面最快半年内上市/荣耀Robot Phone开启预约/IDC:2030年全球活跃智能体将超22亿个 早报",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1672471",
     "tags": [],
     "impact": ""
   },
