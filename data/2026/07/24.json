@@ -1,0 +1,118 @@
+[
+  {
+    "id": "2026-07-24-m21jingjicom--",
+    "date": "2026-07-24",
+    "title": "专访暨大柳宁：具身智能必须死磕应用，广东深耕工业实景是最优解 粤港澳",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "专访暨大柳宁：具身智能必须死磕应用，广东深耕工业实景是最优解 粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260724/herald/ac7f8bcaf071cbed8501202aa47ed399.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-23-the-verge-",
+    "date": "2026-07-23",
+    "title": "特斯拉的机器人出租车承诺与现实发生冲突",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people are experiencing Tesla's unsupervised vehicles. But Musk's typical bullishness seemed to be absent from the call, as the occasional trillionaire […]（原题：Tesla’s robotaxi promises are clashing with reality）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
+    "tags": [],
+    "impact": "2026-07-23T13:09:31-04:00"
+  },
+  {
+    "id": "2026-07-23-bloomberg-technology--genesis--5-",
+    "date": "2026-07-23",
+    "title": "机器人初创公司 Genesis 正在洽谈融资约 5 亿美元",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "AI robotics startup Genesis AI is in talks with investors to raise around $500 million in a new funding round, according to people familiar with the efforts.（原题：Robotics Startup Genesis in Talks to Raise About $500 Million）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million",
+    "tags": [],
+    "impact": "Thu, 23 Jul 2026 22:20:13 GMT"
+  },
+  {
+    "id": "2026-07-23-the-robot-report-uber--atoms--17b-",
+    "date": "2026-07-23",
+    "title": "Uber 联合创始人为新机器人初创公司 ATOMS 融资 1.7B 美元",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "Travis Kalanick, the former CEO of Uber, said with ATOMS, he hopes to create physical automation to transform industry. The post Uber co-founder raises $1.7B for new robotics startup ATOMS appeared first on The Robot Report .（原题：Uber co-founder raises $1.7B for new robotics startup ATOMS）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/",
+    "tags": [],
+    "impact": "Thu, 23 Jul 2026 18:53:11 +0000"
+  },
+  {
+    "id": "2026-07-23-the-robot-report-ropedia--2200-",
+    "date": "2026-07-23",
+    "title": "Ropedia 融资 2200 万美元，用于扩展训练机器人的数据收集",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "Ropdeia's HOMIE is a head-mounted device, equipped with a 360º camera view, that captures first-person data for training robots. The post Ropedia raises $22M to scale data collection for training robots appeared first on The Robot Report .（原题：Ropedia raises $22M to scale data collection for training robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/ropedia-raises-22m-scale-data-collection-training-robots/",
+    "tags": [],
+    "impact": "Thu, 23 Jul 2026 15:55:39 +0000"
+  },
+  {
+    "id": "2026-07-23-the-robot-report-holiday-robotics--friday--105-",
+    "date": "2026-07-23",
+    "title": "Holiday Robotics 为其 FRIDAY 轮式人形机器人筹集了 1.05 亿美元资金",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Holiday's robot features a wheel-based mobile base, an upper body for dexterous manipulation, and hot-swappable batteries. The post Holiday Robotics raises $105M for its FRIDAY wheeled humanoid appeared first on The Robot Report .（原题：Holiday Robotics raises $105M for its FRIDAY wheeled humanoid）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/",
+    "tags": [],
+    "impact": "Thu, 23 Jul 2026 20:45:47 +0000"
+  },
+  {
+    "id": "2026-07-23-the-robot-report-amdkria",
+    "date": "2026-07-23",
+    "title": "AMD推出用于机器人实时控制和统一内存的Kria模块",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AMD has launched the Ryzen AI Embedded X100 and Kria AI SoM, bringing unified memory and real-time control to challenge NVIDIA in robotics. The post AMD unveils Kria module for real-time control, unified memory for robots appeared first on The Robot Report .（原题：AMD unveils Kria module for real-time control, unified memory for robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/",
+    "tags": [],
+    "impact": "Thu, 23 Jul 2026 18:30:56 +0000"
+  },
+  {
+    "id": "2026-07-22-mit-technology-review-nasa--openai-",
+    "date": "2026-07-22",
+    "title": "下载：NASA 的新型太空望远镜和 OpenAI 的自主黑客",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will…（原题：The Download: NASA’s new space telescope and OpenAI’s autonomous hacker）",
+    "source": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "tags": [],
+    "impact": "Wed, 22 Jul 2026 12:10:00 +0000"
+  }
+]
