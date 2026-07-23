@@ -28,16 +28,44 @@
     "impact": ""
   },
   {
-    "id": "2026-07-23-m21jingjicom-",
+    "id": "2026-07-23-m21jingjicom-mngs",
     "date": "2026-07-23",
-    "title": "数据确权首单！深圳具身智能，领到一张“身份证”粤港澳",
+    "title": "检验医学网：mNGS病原检测智能体多中心临床转化项目重磅开启",
     "category": [
-      "humanoid"
+      "general"
     ],
     "region": "Global",
-    "summary": "数据确权首单！深圳具身智能，领到一张“身份证”粤港澳",
+    "summary": "检验医学网：mNGS病原检测智能体多中心临床转化项目重磅开启",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260723/herald/cce4d74494547a3195672420afcf4227.html",
+    "source_url": "https://m.21jingji.com/article/20260723/herald/bc69df61e5d37da14d02eb925edd823e.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-23-qbitaicom-demo",
+    "date": "2026-07-23",
+    "title": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/457698.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-23-m21jingjicom-",
+    "date": "2026-07-23",
+    "title": "国产工业机器人全球“打工”粤港澳",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "国产工业机器人全球“打工”粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260723/herald/bde89a0201bdbd9da85949411c66d0d1.html",
     "tags": [],
     "impact": ""
   },
@@ -82,20 +110,6 @@
     "source_url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
     "tags": [],
     "impact": "Wed, 22 Jul 2026 18:50:44 +0000"
-  },
-  {
-    "id": "2026-07-21-guokrcom-55",
-    "date": "2026-07-21",
-    "title": "阿里速卖通被欧盟罚款5.5亿欧元；特斯拉首次确认人为远程操作导致的事故；智能体服务法治白皮书发布",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "阿里速卖通被欧盟罚款5.5亿欧元；特斯拉首次确认人为远程操作导致的事故；智能体服务法治白皮书发布",
-    "source": "guokr.com",
-    "source_url": "https://www.guokr.com/article/469726/",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-07-21-the-robot-report-",
