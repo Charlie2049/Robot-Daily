@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-07-23-qbitaicom-01b",
+    "date": "2026-07-23",
+    "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/457537.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-23-gelonghuicom-",
+    "date": "2026-07-23",
+    "title": "特斯拉营收狂飙、利润失血！马斯克坦言机器人量产难题",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "特斯拉营收狂飙、利润失血！马斯克坦言机器人量产难题",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/5697002",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-23-m21jingjicom-",
+    "date": "2026-07-23",
+    "title": "数据确权首单！深圳具身智能，领到一张“身份证”粤港澳",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "数据确权首单！深圳具身智能，领到一张“身份证”粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260723/herald/cce4d74494547a3195672420afcf4227.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-23-aibasecom-ai-codebuddy-npcgalaxy-glasses",
+    "date": "2026-07-23",
+    "title": "AI日报：腾讯云推出 CodeBuddy NPC；北京抛出智能体新政十策；三星眼镜Galaxy Glasses亮相",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：腾讯云推出 CodeBuddy NPC；北京抛出智能体新政十策；三星眼镜Galaxy Glasses亮相",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/29842",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-07-22-the-robot-report-",
     "date": "2026-07-22",
     "title": "报告分享了物理人工智能和机器人技术的现状",
