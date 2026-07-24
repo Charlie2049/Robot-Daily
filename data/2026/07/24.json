@@ -14,60 +14,47 @@
     "impact": "Fri, 24 Jul 2026 08:45:39 GMT"
   },
   {
-    "id": "2026-07-24-36krcom-",
+    "id": "2026-07-24-gelonghuicom-65",
     "date": "2026-07-24",
-    "title": "晶核能源发布全球首个电池仿生智能体系统",
+    "title": "智能体自主交付占比65%之后，易鑫如何重写汽车金融的效率公式",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "晶核能源发布全球首个电池仿生智能体系统",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/newsflashes/3909410491978880?f=rss",
+    "summary": "智能体自主交付占比65%之后，易鑫如何重写汽车金融的效率公式",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/5718208",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-24-m21jingjicom--",
+    "id": "2026-07-24-caifuhaoeastmoneycom-80",
     "date": "2026-07-24",
-    "title": "工业机器人双雄的转型探索 投资",
+    "title": "人形机器人量产元年的市场逻辑！谁是特斯拉供应链中的隐形冠军？80",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "工业机器人双雄的转型探索 投资",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260724/herald/423cd564d3ba07fdd84589734dfc82d6.html",
+    "summary": "人形机器人量产元年的市场逻辑！谁是特斯拉供应链中的隐形冠军？80",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20260724160222554439480",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-24-qbitaicom-waic",
+    "id": "2026-07-24-the-robot-report-neura-robotics--neura-gym-rwth-aachen-",
     "date": "2026-07-24",
-    "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+    "title": "NEURA Robotics 建立 NEURA Gym RWTH Aachen 来训练物理人工智能",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "WAIC看了一圈，这家公司的机器人在认真打工",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/07/458348.html",
+    "summary": "NEURA Robotics has partnered with a German university for NEURA Gym RWTH Aachen, one of 10 facilities for training physical AI. The post NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI appeared first on The Robot Report .（原题：NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/",
     "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-23-the-verge-",
-    "date": "2026-07-23",
-    "title": "特斯拉的机器人出租车承诺与现实发生冲突",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people are experiencing Tesla's unsupervised vehicles. But Musk's typical bullishness seemed to be absent from the call, as the occasional trillionaire […]（原题：Tesla’s robotaxi promises are clashing with reality）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
-    "tags": [],
-    "impact": "2026-07-23T13:09:31-04:00"
+    "impact": "Fri, 24 Jul 2026 12:30:42 +0000"
   },
   {
     "id": "2026-07-23-bloomberg-technology--genesis--30-",
@@ -144,17 +131,17 @@
     "impact": "Thu, 23 Jul 2026 18:30:56 +0000"
   },
   {
-    "id": "2026-07-22-mit-technology-review-nasa--openai-",
+    "id": "2026-07-22-technologyreviewcom-the-download-nasas-new-space-telescope-a",
     "date": "2026-07-22",
-    "title": "下载：NASA 的新型太空望远镜和 OpenAI 的自主黑客",
+    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
     "category": [
-      "general"
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will…（原题：The Download: NASA’s new space telescope and OpenAI’s autonomous hacker）",
-    "source": "MIT Technology Review",
+    "summary": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+    "source": "technologyreview.com",
     "source_url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
     "tags": [],
-    "impact": "Wed, 22 Jul 2026 12:10:00 +0000"
+    "impact": ""
   }
 ]
