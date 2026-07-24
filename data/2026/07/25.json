@@ -1,0 +1,60 @@
+[
+  {
+    "id": "2026-07-24-the-robot-report-",
+    "date": "2026-07-24",
+    "title": "时间序列数据库如何解锁机器人的实时数据",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Discover how time series databases help robotics teams manage high-volume sensor data, power AI insights, and keep systems running at scale. The post How time series databases unlock real-time data for robotics appeared first on The Robot Report .（原题：How time series databases unlock real-time data for robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/",
+    "tags": [],
+    "impact": "Fri, 24 Jul 2026 16:28:39 +0000"
+  },
+  {
+    "id": "2026-07-24-caifuhaoeastmoneycom--58",
+    "date": "2026-07-24",
+    "title": "史河机器人再获数亿元融资：收入规模最高的具身公司之一 58",
+    "category": [
+      "humanoid",
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "史河机器人再获数亿元融资：收入规模最高的具身公司之一 58",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20260724215958993347890",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-24-the-robot-report-generalist--gen-1-",
+    "date": "2026-07-24",
+    "title": "Generalist 的 GEN-1 基础模型现在支持一系列机器人末端执行器",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "By training GEN-1 to work with new hands, Generalist said a single base model can learn sensorimotor policies on different robots. The post Generalist’s GEN-1 foundation model now supports a range of robot end effectors appeared first on The Robot Report .（原题：Generalist’s GEN-1 foundation model now supports a range of robot end effectors）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/",
+    "tags": [],
+    "impact": "Fri, 24 Jul 2026 18:23:42 +0000"
+  },
+  {
+    "id": "2026-07-23-aibasecom-ai-codebuddy-npcgalaxy-glasses",
+    "date": "2026-07-23",
+    "title": "AI日报：腾讯云推出 CodeBuddy NPC；北京抛出智能体新政十策；三星眼镜Galaxy Glasses亮相",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：腾讯云推出 CodeBuddy NPC；北京抛出智能体新政十策；三星眼镜Galaxy Glasses亮相",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/29842",
+    "tags": [],
+    "impact": ""
+  }
+]
