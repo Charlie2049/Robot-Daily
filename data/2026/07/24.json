@@ -1,15 +1,57 @@
 [
   {
-    "id": "2026-07-24-m21jingjicom--",
+    "id": "2026-07-24-bloomberg-technology--gravis",
     "date": "2026-07-24",
-    "title": "专访暨大柳宁：具身智能必须死磕应用，广东深耕工业实景是最优解 粤港澳",
+    "title": "软银考虑收购机器人初创公司 Gravis",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "专访暨大柳宁：具身智能必须死磕应用，广东深耕工业实景是最优解 粤港澳",
+    "summary": "SoftBank Group Corp. is considering an acquisition of Gravis Robotics AG, people familiar with the matter said, as the Japanese investor targets the artificial intelligence technologies underpinning robotics.（原题：SoftBank Weighs Deal for Robotics Startup Gravis）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis",
+    "tags": [],
+    "impact": "Fri, 24 Jul 2026 08:45:39 GMT"
+  },
+  {
+    "id": "2026-07-24-36krcom-",
+    "date": "2026-07-24",
+    "title": "晶核能源发布全球首个电池仿生智能体系统",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "晶核能源发布全球首个电池仿生智能体系统",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3909410491978880?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-24-m21jingjicom--",
+    "date": "2026-07-24",
+    "title": "工业机器人双雄的转型探索 投资",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "工业机器人双雄的转型探索 投资",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260724/herald/ac7f8bcaf071cbed8501202aa47ed399.html",
+    "source_url": "https://m.21jingji.com/article/20260724/herald/423cd564d3ba07fdd84589734dfc82d6.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-24-qbitaicom-waic",
+    "date": "2026-07-24",
+    "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "WAIC看了一圈，这家公司的机器人在认真打工",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/458348.html",
     "tags": [],
     "impact": ""
   },
@@ -28,15 +70,15 @@
     "impact": "2026-07-23T13:09:31-04:00"
   },
   {
-    "id": "2026-07-23-bloomberg-technology--genesis--5-",
+    "id": "2026-07-23-bloomberg-technology--genesis--30-",
     "date": "2026-07-23",
-    "title": "机器人初创公司 Genesis 正在洽谈融资约 5 亿美元",
+    "title": "机器人初创公司 Genesis 正在洽谈融资 30 亿美元",
     "category": [
       "robotics",
       "funding"
     ],
     "region": "Global",
-    "summary": "AI robotics startup Genesis AI is in talks with investors to raise around $500 million in a new funding round, according to people familiar with the efforts.（原题：Robotics Startup Genesis in Talks to Raise About $500 Million）",
+    "summary": "Robotics startup Genesis AI is in talks with investors to raise around $500 million in a new funding round, according to people familiar with the efforts.（原题：Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation）",
     "source": "Bloomberg Technology",
     "source_url": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million",
     "tags": [],
