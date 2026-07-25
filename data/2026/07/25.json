@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-07-25-ifanrcom-claude-opus-5fable-5-",
+    "date": "2026-07-25",
+    "title": "早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格 早报",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1673124",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-07-24-the-robot-report-",
     "date": "2026-07-24",
     "title": "时间序列数据库如何解锁机器人的实时数据",
@@ -12,22 +27,6 @@
     "source_url": "https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/",
     "tags": [],
     "impact": "Fri, 24 Jul 2026 16:28:39 +0000"
-  },
-  {
-    "id": "2026-07-24-caifuhaoeastmoneycom--58",
-    "date": "2026-07-24",
-    "title": "史河机器人再获数亿元融资：收入规模最高的具身公司之一 58",
-    "category": [
-      "humanoid",
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "史河机器人再获数亿元融资：收入规模最高的具身公司之一 58",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20260724215958993347890",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-07-24-the-robot-report-generalist--gen-1-",
