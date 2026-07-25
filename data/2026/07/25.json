@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-25-the-robot-report--ottava-",
+    "date": "2026-07-25",
+    "title": "照片：强生 Ottava 手术机器人初探",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Johnson & Johnson MedTech unveiled its long-awaited Ottava surgical robot after winning FDA de novo authorization. It’s the world’s first table-integrated, soft-tissue robotics system. The robot-in-table design is meant to save space in the operating room, with J&J saying its novel architecture takes up 30-50% less space than boom-and-cart systems. “Ottava’s robotic arms are built directly… The post Photos: First look at J&J’s Ottava surgical robot appeared first on The Robot Report .（原题：Photos: First look at J&J’s Ottava surgical robot）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/",
+    "tags": [],
+    "impact": "Sat, 25 Jul 2026 14:00:13 +0000"
+  },
+  {
     "id": "2026-07-25-ifanrcom-claude-opus-5fable-5-",
     "date": "2026-07-25",
     "title": "早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格 早报",
@@ -11,6 +25,21 @@
     "summary": "早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格 早报",
     "source": "ifanr.com",
     "source_url": "https://www.ifanr.com/1673124",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-25-qbitaicom-chatgpt",
+    "date": "2026-07-25",
+    "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/460234.html",
     "tags": [],
     "impact": ""
   },
