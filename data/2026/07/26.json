@@ -1,5 +1,48 @@
 [
   {
+    "id": "2026-07-26----",
+    "date": "2026-07-26",
+    "title": "特斯拉人形机器人",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "特斯拉人形机器人",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
+    "tags": [],
+    "impact": "17万"
+  },
+  {
+    "id": "2026-07-26----",
+    "date": "2026-07-26",
+    "title": "日方拆解宇树机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "日方拆解宇树机器人",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%96%B9%E6%8B%86%E8%A7%A3%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+    "tags": [],
+    "impact": "22万"
+  },
+  {
+    "id": "2026-07-26-qbitaicom-3",
+    "date": "2026-07-26",
+    "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/460962.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-07-24-the-robot-report-neura-robotics--neura-gym-rwth-aachen-",
     "date": "2026-07-24",
     "title": "NEURA Robotics 建立 NEURA Gym RWTH Aachen 来训练物理人工智能",
