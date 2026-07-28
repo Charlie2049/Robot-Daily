@@ -1,15 +1,30 @@
 [
   {
-    "id": "2026-07-28-m21jingjicom-330--",
+    "id": "2026-07-28-cbndatacom-ai-app",
     "date": "2026-07-28",
-    "title": "国产手术机器人出口额大增330% “新新三样”圈粉全球 宏观",
+    "title": "AI智能体手机竞赛启幕，努比亚、阶跃星辰、荣耀竞速 时代财经APP",
     "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI智能体手机竞赛启幕，努比亚、阶跃星辰、荣耀竞速 时代财经APP",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295585",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-27-wallstreetcncom-8iron",
+    "date": "2026-07-27",
+    "title": "车企扎堆“造人”！比亚迪人形机器人8月发布、小鹏IRON量产在即，理想双路并进",
+    "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "国产手术机器人出口额大增330% “新新三样”圈粉全球 宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260728/herald/1e59439c3f490d91207d122d4e83ef14.html",
+    "summary": "车企扎堆“造人”！比亚迪人形机器人8月发布、小鹏IRON量产在即，理想双路并进",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3778114",
     "tags": [],
     "impact": ""
   },
@@ -40,19 +55,5 @@
     "source_url": "https://spectrum.ieee.org/ai-in-robotics",
     "tags": [],
     "impact": "Sun, 26 Jul 2026 13:00:01 +0000"
-  },
-  {
-    "id": "2026-07-26-qbitaicom-3",
-    "date": "2026-07-26",
-    "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/07/460962.html",
-    "tags": [],
-    "impact": ""
   }
 ]
