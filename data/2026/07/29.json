@@ -28,32 +28,19 @@
     "impact": "Wed, 29 Jul 2026 04:11:42 GMT"
   },
   {
-    "id": "2026-07-29-m21jingjicom--",
+    "id": "2026-07-29-the-robot-report--fcc-",
     "date": "2026-07-29",
-    "title": "外交部回应美国实施先进机器人进口限制 全球",
+    "title": "专家对 FCC 对美国进口新型人形机器人和移动机器人的限制作出反应",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "外交部回应美国实施先进机器人进口限制 全球",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260729/herald/e9717d149b059cd2af00f91b3102e8a5.html",
+    "summary": "The FCC has banned some foreign humanoids, which industry experts say could help U.S. industry but hinder innovation. The post Experts react to FCC limits on U.S. imports of new humanoid and mobile robots appeared first on The Robot Report .（原题：Experts react to FCC limits on U.S. imports of new humanoid and mobile robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/",
     "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-07-29-m21jingjicom--",
-    "date": "2026-07-29",
-    "title": "具身智能进入生产力时代 公司",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "具身智能进入生产力时代 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260729/herald/36ee3b1f96128ebd94806bd963b54b2f.html",
-    "tags": [],
-    "impact": ""
+    "impact": "Wed, 29 Jul 2026 14:11:19 +0000"
   },
   {
     "id": "2026-07-29-aibasecom-aifish-audios21progrok4687360work",
@@ -70,16 +57,16 @@
     "impact": ""
   },
   {
-    "id": "2026-07-29-m21jingjicom-360-",
+    "id": "2026-07-29-caifuhaoeastmoneycom-2026729a2153",
     "date": "2026-07-29",
-    "title": "360入局办公智能体赛道，周鸿祎挑战腾讯、字节 公司",
+    "title": "2026.7.29A股分析（不主观预设立场，做个机器人2）153",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "360入局办公智能体赛道，周鸿祎挑战腾讯、字节 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260729/herald/a7cd034e3284dd8baa72be6e4e632105.html",
+    "summary": "2026.7.29A股分析（不主观预设立场，做个机器人2）153",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20260729190543720173090",
     "tags": [],
     "impact": ""
   },
