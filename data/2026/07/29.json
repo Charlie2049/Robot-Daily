@@ -1,15 +1,85 @@
 [
   {
-    "id": "2026-07-29-m21jingjicom-",
+    "id": "2026-07-29-qbitaicom-openaianthropicai",
     "date": "2026-07-29",
-    "title": "机器人产业链，“爆单”了！宏观",
+    "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/462447.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-29-bloomberg-technology-",
+    "date": "2026-07-29",
+    "title": "美国对机器人、逆变器的限制可能导致中国与美国的冲突扩大",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人产业链，“爆单”了！宏观",
+    "summary": "Washington tightened curbs on some foreign-made robots and inverters, vital components of solar-powered electricity, in a sweeping move that risks widening its tech confrontation with Beijing less than two months before a meeting between the countries’ leaders.（原题：US Risks Broadening China Clash With Robot, Inverter Curbs）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs",
+    "tags": [],
+    "impact": "Wed, 29 Jul 2026 04:11:42 GMT"
+  },
+  {
+    "id": "2026-07-29-m21jingjicom--",
+    "date": "2026-07-29",
+    "title": "外交部回应美国实施先进机器人进口限制 全球",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "外交部回应美国实施先进机器人进口限制 全球",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260729/herald/53c3dfbe45f8c8d2d473a0465bb71711.html",
+    "source_url": "https://m.21jingji.com/article/20260729/herald/e9717d149b059cd2af00f91b3102e8a5.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-29-m21jingjicom--",
+    "date": "2026-07-29",
+    "title": "具身智能进入生产力时代 公司",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能进入生产力时代 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260729/herald/36ee3b1f96128ebd94806bd963b54b2f.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-29-aibasecom-aifish-audios21progrok4687360work",
+    "date": "2026-07-29",
+    "title": "AI日报：Fish Audio发布S2.1Pro实时对话语音模型；Grok4.6定档8月7日；360发布企业智能体平台“纳米Work”",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：Fish Audio发布S2.1Pro实时对话语音模型；Grok4.6定档8月7日；360发布企业智能体平台“纳米Work”",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/29982",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-29-m21jingjicom-360-",
+    "date": "2026-07-29",
+    "title": "360入局办公智能体赛道，周鸿祎挑战腾讯、字节 公司",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "360入局办公智能体赛道，周鸿祎挑战腾讯、字节 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260729/herald/a7cd034e3284dd8baa72be6e4e632105.html",
     "tags": [],
     "impact": ""
   },
@@ -49,7 +119,7 @@
       "robotics"
     ],
     "region": "Global",
-    "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns of the Lincoln Memorial. Getting a robot to sense the same things is an imposing task, often requiring gathering data on pressure and force at many spatial locations at once. But that’s just what a team of scientists in Europe has now managed to do, using an unusual, colorful robotic skin that provides high-resolution sensing in real time. “To be honest, when they showed us this, we thought it was, and pardon my French, [expletive] cool, because it’s a distinctly different approach,” recalled Rich Walker, director of Shadow Robot , the U.K.’s longest-running robot company, which primarily focuses on robotic hands . RELATED: “This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors” The research team, which hails from Queen Mary University of London, the University of Florence, the University of Trieste, and the University of Trento, designed a robotic fingertip with a synthetic skin that reflects different colors of light in response to mechanical deformation. By reading the light reflected off the skin, the fingertip generates maps of topology, strain, and contact pressure. The team has already used the sensor to generate maps of a human fingertip, a penny, and a leaf. Giacomo Sasso , a postdoctoral research associate in the lab of Federico Carpi at Queen Mary University of London, came up with the idea for the sensor. He had been researching optics when he stumbled upon an interesting paper published in the journal Nature . It described the “mechanochromic material” that would eventually make up the reflector in the skin. Following the method described in Nature , Sasso exposed a light-sensitive film to a 5-megawatt, 635-nanometer (red) laser for seven minutes. The laser beam creates an interference pattern which causes the film to polymerize in alternating densities, creating layers with different refractive indices. This structure is called a Bragg reflector . The alternating densities and refractive indices in the polymer cause specific wavelengths of light to be reflected. When the reflector is deformed by contact with an object, its layers are stretched, becoming thinner and reflecting light of a different wavelength. It took Sasso less than a week to recreate the material in the lab. “From there, we started seeing how we could translate these color patterns into something that was useful for us,” he says. Soon, they realized that the color produced by the material was all they needed to be able to sense the topology of objects. In the robotic finger, the Bragg reflector is sandwiched between a layer of silicone which protects it from the outside, and a transparent, fingertip-shaped silicone finger with a camera and LED light embedded inside of it. The light from the LED shines through the clear polymer of the finger. When the fingertip is deformed by an object, the reflector bounces light back to the camera, with wavelengths depending on the level of deformation—red for least deformation, shifting to green and then to blue when most deformed. The team also made adjustments to increase the sensitivity of the skin and help the camera to better read color differences. The silicone of the outer layer of the fingertip is colored black to increase the color contrast, allowing the camera to better translate color into the morphology. The rigidity of the camera inside the finger also enhances the deformation of the reflector, producing greater differences in reflected wavelengths. After all that optimization, the finger provided 100-micrometer resolution with no computational latency, the researchers determined. What robot fingers need Human skin takes in a variety of tactile information in order to successfully move and manipulate objects, including temperature, texture, pressure, and vibration. But engineering a robot to do the same is challenging because of spatial constraints. There often isn’t enough room in a robotic fingertip to incorporate more than one type of sensor. The question then becomes: which type of sensor should be used? “And the answer to that is… that’s a really hard question. No one knows yet,” says Walker. Carpi’s team’s robotic finger is exciting because it presents yet another option for roboticists to experiment with, Walker says. Although Carpi’s team isn’t the first to use soft materials for tactile sensing, its technology is unique because it is able to extract quantitative information about depth and size from the topologic maps it generates. According to Walker, most sensors can only generate topological maps which reveal the relative sizes of object features. To Sasso, another key advantage of this robotic finger is that it embeds tactile sensing directly into the material of the finger, rather than using taxels, or pixels that measure force or pressure at specific spatial points. RELATED: Robot Hand Manipulates Complex Objects by Touch Alone “The core aspect of the sensor is that we’re essentially [moving towards] having the sensing element at the material level,” he says. “The camera, which is a very highly optimized electronic component, is translating whatever the material is already doing directly into digital signals.” Michael Wang , co-founder and chief scientist at Daimon Robotics , which, unlike Shadow Robot, primarily uses vision-based sensing, echoed Walker’s sentiment that it’s beneficial to explore new methods of sensing which may bring unique advantages. But, he also explained that soft materials often face challenges with durability and that the significance of the team’s work would be revealed when the finger is integrated into real robot hands . “The practical and useful benefits, especially in the context of robot hands, remain to be tested and validated,” he says. When the materials of soft sensors, like the silicone in Carpi’s team’s fingertip, become eroded or damaged after repeated use, the signals measured by the sensors may not reflect objects’ topography as well. “Especially if you have the electronics embedded into the material layer itself, that becomes a very challenging engineering problem. And I haven’t seen [many] good soft electronics materials that really can undergo long periods of usage,” Wang says. However, because the Bragg reflector isn’t in direct contact with objects itself, the outer layer of silicone material acts as a protective barrier, Sasso says. The silicone can also be made more durable using certain chemical coatings, according to Wang. The team has already been talking to companies that could potentially employ the new sensor. They also hope to improve the sensor so that it can sense objects that don’t lie flat on surfaces. That could open up its use in surgical instruments that require precise contact mapping of tissues and organs, Carpi says. “There are significant developments that we expect with a clear path toward transition to real world applications,” he says.（原题：Robot Finger Feels in Color）",
+    "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns of the Lincoln Memorial. Getting a robot to sense the same things is an imposing task, often requiring gathering data on pressure and force at many spatial locations at once. But that’s just what a team of scientists in Europe has now managed to do, using an unusual, colorful robotic skin that provides high-resolution sensing in real time. “To be honest, when they showed us this, we thought it was, and pardon my French, [expletive] cool, because it’s a distinctly different approach,” recalled Rich Walker, director of Shadow Robot , the U.K.’s longest-running robot company, which primarily focuses on robotic hands . RELATED: “This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors” The research team, which hails from Queen Mary University of London, the University of Florence, the University of Trieste, and the University of Trento, designed a robotic fingertip with a synthetic skin that reflects different colors of light in response to mechanical deformation. By reading the light reflected off the skin, the fingertip generates maps of topology, strain, and contact pressure. The team has already used the sensor to generate maps of a human fingertip, a penny, and a leaf. Giacomo Sasso , a postdoctoral research associate in the lab of Federico Carpi at Queen Mary University of London, came up with the idea for the sensor. He had been researching optics when he stumbled upon an interesting paper published in the journal Nature . It described the “mechanochromic material” that would eventually make up the reflector in the skin. Following the method described in Nature , Sasso exposed a light-sensitive film to a 5-megawatt, 635-nanometer (red) laser for seven minutes. The laser beam creates an interference pattern which causes the film to polymerize in alternating densities, creating layers with different refractive indices. This structure is called a Bragg reflector . The alternating densities and refractive indices in the polymer cause specific wavelengths of light to be reflected. When the reflector is deformed by contact with an object, its layers are stretched, becoming thinner and reflecting light of a different wavelength. It took Sasso less than a week to re-create the material in the lab. “From there, we started seeing how we could translate these color patterns into something that was useful for us,” he says. Soon, they realized that the color produced by the material was all they needed to be able to sense the topology of objects. In the robotic finger, the Bragg reflector is sandwiched between a layer of silicone, which protects it from the outside, and a transparent, fingertip-shaped silicone finger with a camera and LED light embedded inside of it. The light from the LED shines through the clear polymer of the finger. When the fingertip is deformed by an object, the reflector bounces light back to the camera, with wavelengths depending on the level of deformation—red for least deformation, shifting to green, and then to blue when most deformed. The team also made adjustments to increase the sensitivity of the skin and help the camera to better read color differences. The silicone of the outer layer of the fingertip is colored black to increase the color contrast, allowing the camera to better translate color into the morphology. The rigidity of the camera inside the finger also enhances the deformation of the reflector, producing greater differences in reflected wavelengths. After all that optimization, the finger provided 100-micrometer resolution with no computational latency, the researchers determined. What robot fingers need Human skin takes in a variety of tactile information in order to successfully move and manipulate objects, including temperature, texture, pressure, and vibration. But engineering a robot to do the same is challenging because of spatial constraints. There often isn’t enough room in a robotic fingertip to incorporate more than one type of sensor. The question then becomes: Which type of sensor should be used? “And the answer to that is…that’s a really hard question. No one knows yet,” says Walker. Carpi’s team’s robotic finger is exciting because it presents yet another option for roboticists to experiment with, Walker says. Although Carpi’s team isn’t the first to use soft materials for tactile sensing, its technology is unique because it is able to extract quantitative information about depth and size from the topologic maps it generates. According to Walker, most sensors can only generate topological maps, which reveal the relative sizes of object features. To Sasso, another key advantage of this robotic finger is that it embeds tactile sensing directly into the material of the finger, rather than using taxels, or pixels that measure force or pressure at specific spatial points. RELATED: Robot Hand Manipulates Complex Objects by Touch Alone “The core aspect of the sensor is that we’re essentially [moving toward] having the sensing element at the material level,” he says. “The camera, which is a very highly optimized electronic component, is translating whatever the material is already doing directly into digital signals.” Michael Wang , co-founder and chief scientist at Daimon Robotics , which, unlike Shadow Robot, primarily uses vision-based sensing, echoed Walker’s sentiment that it’s beneficial to explore new methods of sensing, which may bring unique advantages. But he also explained that soft materials often face challenges with durability, and that the significance of the team’s work would be revealed when the finger is integrated into real robot hands . “The practical and useful benefits, especially in the context of robot hands, remain to be tested and validated,” he says. When the materials of soft sensors, like the silicone in Carpi’s team’s fingertip, become eroded or damaged after repeated use, the signals measured by the sensors may not reflect objects’ topography as well. “Especially if you have the electronics embedded into the material layer itself, that becomes a very challenging engineering problem. And I haven’t seen [many] good soft electronics materials that really can undergo long periods of usage,” Wang says. However, because the Bragg reflector isn’t in direct contact with objects itself, the outer layer of silicone material acts as a protective barrier, Sasso says. The silicone can also be made more durable using certain chemical coatings, according to Wang. The team has already been talking to companies that could potentially employ the new sensor. They also hope to improve the sensor so that it can sense objects that don’t lie flat on surfaces. That could open up its use in surgical instruments that require precise contact mapping of tissues and organs, Carpi says. “There are significant developments that we expect with a clear path toward transition to real world applications,” he says.（原题：Robot Finger Feels in Color）",
     "source": "IEEE Spectrum Robotics",
     "source_url": "https://spectrum.ieee.org/robot-finger",
     "tags": [],
@@ -68,19 +138,5 @@
     "source_url": "https://www.therobotreport.com/envue-medical-develops-robotic-feeding-tube-placement-system/",
     "tags": [],
     "impact": "Tue, 28 Jul 2026 19:00:55 +0000"
-  },
-  {
-    "id": "2026-07-27-wallstreetcncom-openaimodal-labs",
-    "date": "2026-07-27",
-    "title": "OpenAI“失控智能体”入侵Modal Labs的一名客户",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "OpenAI“失控智能体”入侵Modal Labs的一名客户",
-    "source": "wallstreetcn.com",
-    "source_url": "https://wallstreetcn.com/articles/3778164",
-    "tags": [],
-    "impact": ""
   }
 ]
