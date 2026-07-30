@@ -1,18 +1,60 @@
 [
   {
-    "id": "2026-07-29-caifuhaoeastmoneycom--1043",
-    "date": "2026-07-29",
-    "title": "比亚迪引爆人形机器人赛道！稀缺的机器人结构件黑马，已浮出水面 1043",
+    "id": "2026-07-30-financesinacomcn--3814",
+    "date": "2026-07-30",
+    "title": "美方将外国电力逆变器和先进机器人设备列入“覆盖清单”，商务部回应 3,814",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "美方将外国电力逆变器和先进机器人设备列入“覆盖清单”，商务部回应 3,814",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpxkp1212325.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-30-36krcom-aisota",
+    "date": "2026-07-30",
+    "title": "比亚迪AI团队首次曝光，哈工大机器人基因亮眼，大模型首发即SOTA",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "比亚迪AI团队首次曝光，哈工大机器人基因亮眼，大模型首发即SOTA",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3916234018156166",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-30-cbndatacom-",
+    "date": "2026-07-30",
+    "title": "人形机器人量产前夜：成本、场景、生态，商业化还差几步？新熵",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "比亚迪引爆人形机器人赛道！稀缺的机器人结构件黑马，已浮出水面 1043",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20260729152511541246650",
+    "summary": "人形机器人量产前夜：成本、场景、生态，商业化还差几步？新熵",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295597",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-07-30-cnbc-technology-",
+    "date": "2026-07-30",
+    "title": "中国威胁对美国仿人机器人禁令进行报复，称其“严重损害”两国关系",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.（原题：China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+    "tags": [],
+    "impact": "Thu, 30 Jul 2026 02:52:30 GMT"
   },
   {
     "id": "2026-07-29-the-robot-report-gmex-robotics--mediametaai-",
@@ -27,19 +69,5 @@
     "source_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
     "tags": [],
     "impact": "Wed, 29 Jul 2026 14:53:15 +0000"
-  },
-  {
-    "id": "2026-07-28-cbndatacom-ai-app",
-    "date": "2026-07-28",
-    "title": "AI智能体手机竞赛启幕，努比亚、阶跃星辰、荣耀竞速 时代财经APP",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI智能体手机竞赛启幕，努比亚、阶跃星辰、荣耀竞速 时代财经APP",
-    "source": "cbndata.com",
-    "source_url": "https://cbndata.com/information/295585",
-    "tags": [],
-    "impact": ""
   }
 ]
