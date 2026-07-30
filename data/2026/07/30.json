@@ -1,29 +1,72 @@
 [
   {
-    "id": "2026-07-30-financesinacomcn--3814",
+    "id": "2026-07-30-bloomberg-technology--gemini-ai",
     "date": "2026-07-30",
-    "title": "美方将外国电力逆变器和先进机器人设备列入“覆盖清单”，商务部回应 3,814",
+    "title": "谷歌推出 Gemini AI，帮助机器人提高灵活性",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "美方将外国电力逆变器和先进机器人设备列入“覆盖清单”，商务部回应 3,814",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpxkp1212325.shtml",
+    "summary": "Alphabet Inc.’s Google DeepMind unveiled a new artificial intelligence model for robots that allows humanoid machines to coordinate movements across their entire bodies, marking its latest effort to extend its Gemini AI technology to allow robots to reason, plan multi-step tasks and adapt to human environments.（原题：Google Unveils Gemini AI for Robots Struggling With Dexterity）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity",
+    "tags": [],
+    "impact": "Thu, 30 Jul 2026 15:00:21 GMT"
+  },
+  {
+    "id": "2026-07-30-caifuhaoeastmoneycom-ai-0",
+    "date": "2026-07-30",
+    "title": "物理AI将引爆具身智能赛道！人形机器人丝杠环节的黑马，浮出水面 0",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "物理AI将引爆具身智能赛道！人形机器人丝杠环节的黑马，浮出水面 0",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20260730164043084641860",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-30-36krcom-aisota",
+    "id": "2026-07-30-qbitaicom-",
     "date": "2026-07-30",
-    "title": "比亚迪AI团队首次曝光，哈工大机器人基因亮眼，大模型首发即SOTA",
+    "title": "李飞飞的世界模型，终于开始训练机器人了",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "比亚迪AI团队首次曝光，哈工大机器人基因亮眼，大模型首发即SOTA",
+    "summary": "李飞飞的世界模型，终于开始训练机器人了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/07/463217.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-30-m21jingjicom--",
+    "date": "2026-07-30",
+    "title": "机器人奔向杭州“新考场”，有企业订单已翻番｜活力中国调研行 宏观",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人奔向杭州“新考场”，有企业订单已翻番｜活力中国调研行 宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260730/herald/01a4003b4513bb94eaedf2c2f4051551.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-30-36krcom-meta7800",
+    "date": "2026-07-30",
+    "title": "小扎预告个人智能体，Meta一夜蒸发7800亿",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "小扎预告个人智能体，Meta一夜蒸发7800亿",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3916234018156166",
+    "source_url": "https://www.36kr.com/p/3917605642743426",
     "tags": [],
     "impact": ""
   },
@@ -55,6 +98,20 @@
     "source_url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
     "tags": [],
     "impact": "Thu, 30 Jul 2026 02:52:30 GMT"
+  },
+  {
+    "id": "2026-07-30-the-verge-zoox-",
+    "date": "2026-07-30",
+    "title": "Zoox 现在可以为其无方向盘机器人出租车的乘车服务收费",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption, allowing it to deploy up to 2,500 vehicles annually over the next two years, as reported earlier by Reuters. The NHTSA's decision exempts […]（原题：Zoox can now charge for rides in its steering-wheel-free robotaxis）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
+    "tags": [],
+    "impact": "2026-07-30T10:35:43-04:00"
   },
   {
     "id": "2026-07-29-the-robot-report-gmex-robotics--mediametaai-",
