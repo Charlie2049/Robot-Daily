@@ -1,0 +1,101 @@
+[
+  {
+    "id": "2026-08-01-36krcom-",
+    "date": "2026-08-01",
+    "title": "全球协作机器人一哥，盯上了“复活恐龙”的生意",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "全球协作机器人一哥，盯上了“复活恐龙”的生意",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3919371161671297",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-01-36krcom-615175",
+    "date": "2026-08-01",
+    "title": "上半年上海智能车载设备、机器人销售收入同比增长61.5%和17.5%",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "上半年上海智能车载设备、机器人销售收入同比增长61.5%和17.5%",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/newsflashes/3919510952291713?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-31-the-verge-",
+    "date": "2026-07-31",
+    "title": "对扫地机器人的禁令不会让它们变得更安全，只会变得更糟",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see, the privacy and security risks these autonomous robots pose are […]（原题：The ban on robot vacuums won’t make them safer, only worse）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
+    "tags": [],
+    "impact": "2026-07-31T13:30:49-04:00"
+  },
+  {
+    "id": "2026-07-31-bloomberg-technology-lux-capital--shakir-",
+    "date": "2026-07-31",
+    "title": "Lux Capital 的 Shakir 表示，下一个人工智能热潮将出现在医疗保健和机器人领域",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Recent disclosures from Anthropic and OpenAI have shifted the AI conversation from model capabilities to real-world deployment and security. Lux Capital Partner Deena Shakir says the next wave of AI innovation will be built on trust, partnerships and vertical applications like health care and robotics, not just more powerful foundation models. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)（原题：The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video",
+    "tags": [],
+    "impact": "Fri, 31 Jul 2026 18:49:14 GMT"
+  },
+  {
+    "id": "2026-07-31-the-robot-report-fcc",
+    "date": "2026-07-31",
+    "title": "FCC机器人裁决让美国政策成为焦点；下一代人工智能如何帮助仓储",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "OSARO’s Derek Pridmore says warehouse robots are advancing, but real-world safety and reliability still depend on specialized, layered AI systems. The post FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing appeared first on The Robot Report .（原题：FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/",
+    "tags": [],
+    "impact": "Fri, 31 Jul 2026 22:41:44 +0000"
+  },
+  {
+    "id": "2026-07-30-cbndatacom-",
+    "date": "2026-07-30",
+    "title": "人形机器人量产前夜：成本、场景、生态，商业化还差几步？新熵",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人量产前夜：成本、场景、生态，商业化还差几步？新熵",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295597",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-07-30-cnbc-technology-",
+    "date": "2026-07-30",
+    "title": "中国威胁对美国仿人机器人禁令进行报复，称其“严重损害”两国关系",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.（原题：China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+    "tags": [],
+    "impact": "Thu, 30 Jul 2026 02:52:30 GMT"
+  }
+]
