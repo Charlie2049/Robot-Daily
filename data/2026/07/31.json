@@ -1,32 +1,32 @@
 [
   {
-    "id": "2026-07-31-financesinacomcn-810a-5003",
+    "id": "2026-07-31-financesinacomcn-810a-6867",
     "date": "2026-07-31",
-    "title": "宇树科技，8月10日启动申购！A股人形机器人第一股来了 5,003",
+    "title": "宇树科技，8月10日启动申购！A股人形机器人第一股来了 6,867",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树科技，8月10日启动申购！A股人形机器人第一股来了 5,003",
+    "summary": "宇树科技，8月10日启动申购！A股人形机器人第一股来了 6,867",
     "source": "finance.sina.com.cn",
     "source_url": "https://finance.sina.com.cn/stock/zqgd/2026-07-31/doc-iniksaik9284852.shtml",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-07-30-the-verge-deepmind",
-    "date": "2026-07-30",
-    "title": "谷歌DeepMind的新人工智能模型可以控制机器人的整个身体",
+    "id": "2026-07-31-readhubcn--615--175",
+    "date": "2026-07-31",
+    "title": "上半年上海智能车载设备、机器人销售收入同比增长 61.5% 和 17.5%",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots […]（原题：Google DeepMind’s new AI model can control a robot’s entire body）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "summary": "上半年上海智能车载设备、机器人销售收入同比增长 61.5% 和 17.5%",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8vDCDAwE5l6",
     "tags": [],
-    "impact": "2026-07-30T13:18:45-04:00"
+    "impact": ""
   },
   {
     "id": "2026-07-30-the-robot-report--33",
@@ -43,14 +43,14 @@
     "impact": "Thu, 30 Jul 2026 17:38:52 +0000"
   },
   {
-    "id": "2026-07-30-the-robot-report--2026--5-",
+    "id": "2026-07-30-the-robot-report-2026--5-",
     "date": "2026-07-30",
-    "title": "塑造 2026 年机器人技术的 5 个物理人工智能基础设施平台",
+    "title": "2026 年塑造机器人技术的 5 个物理人工智能基础设施平台",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "From accelerated computing and simulation to data operations, open-source tooling, validation engineering, and continuous learning, these five platforms represent distinct control points in the emerging physical AI stack. For most of the modern AI boom, infrastructure had a single center of gravity: compute. Models grew larger, training runs consumed more GPUs, and the industry organized… The post 5 Physical AI Infrastructure Platforms Shaping Robotics in 2026 appeared first on The Robot Report .（原题：5 Physical AI Infrastructure Platforms Shaping Robotics in 2026）",
+    "summary": "These five platforms address different challenges and provide the basis for the emerging physical AI tech stack, according to Lightwheel. The post 5 Physical AI infrastructure platforms shaping robotics in 2026 appeared first on The Robot Report .（原题：5 Physical AI infrastructure platforms shaping robotics in 2026）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/",
     "tags": [],
