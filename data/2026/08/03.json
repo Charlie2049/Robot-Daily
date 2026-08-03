@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026-08-03--",
+    "date": "2026-08-03",
+    "title": "荣耀机器人手机开箱",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "荣耀机器人手机开箱",
+    "source": "更多作品推荐",
+    "source_url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BC%80%E7%AE%B1",
+    "tags": [],
+    "impact": "22万"
+  },
+  {
+    "id": "2026-08-03-geekparknet-macbook-air-",
+    "date": "2026-08-03",
+    "title": "内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/368278",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-03-cbndatacom-2008-one",
+    "date": "2026-08-03",
+    "title": "具身智能“200亿俱乐部”：8家公司、吸金千亿，豪赌一个未来 定焦One",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能“200亿俱乐部”：8家公司、吸金千亿，豪赌一个未来 定焦One",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295605",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-03-36krcom-",
+    "date": "2026-08-03",
+    "title": "人形机器人行业真的没门槛吗？",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人行业真的没门槛吗？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3923258273076873",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-03-the-robot-report-reimagine-robotics-",
+    "date": "2026-08-03",
+    "title": "Reimagine Robotics 推出“在工作中学习”的机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Reimagine Robotics, founded by former Google DeepMind Applied Robotics leaders, is developing systems that do not require specialized programmers. The post Reimagine Robotics emerges from stealth with robots that ‘learn on the job’ appeared first on The Robot Report .（原题：Reimagine Robotics emerges from stealth with robots that ‘learn on the job’）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
+    "tags": [],
+    "impact": "Mon, 03 Aug 2026 07:00:51 +0000"
+  },
+  {
+    "id": "2026-08-03-qbitaicom-demo",
+    "date": "2026-08-03",
+    "title": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/465225.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-08-01-the-robot-report-2026--7-",
     "date": "2026-08-01",
     "title": "2026 年 7 月十大机器人故事",
