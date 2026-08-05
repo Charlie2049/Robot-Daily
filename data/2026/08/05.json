@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-08-05-m21jingjicom---",
+    "date": "2026-08-05",
+    "title": "自动驾驶汽车迎来安全新标尺 压实车企全生命周期安全主体责任 证券",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "自动驾驶汽车迎来安全新标尺 压实车企全生命周期安全主体责任 证券",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260805/herald/cd401a99ed79221b8c52b5bdf093221e.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-05-ifanrcom-openail3l4-",
+    "date": "2026-08-05",
+    "title": "早报｜OpenAI发文回击苹果:你做错了/我国发布L3、L4自动驾驶国标/鸿蒙智行回应「竹知了」事件 早报",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "早报｜OpenAI发文回击苹果:你做错了/我国发布L3、L4自动驾驶国标/鸿蒙智行回应「竹知了」事件 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1673981",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-08-05-guokrcom-64",
     "date": "2026-08-05",
     "title": "当初花6.4万买了特斯拉自动驾驶的人，好像等不到解禁的那天了……",
@@ -14,6 +42,20 @@
     "impact": ""
   },
   {
+    "id": "2026-08-05-cnbc-technology--zoox--8--10-",
+    "date": "2026-08-05",
+    "title": "亚马逊旗下 Zoox 将于 8 月 10 日在拉斯维加斯推出付费机器人出租车服务",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "It's the company's first commercial market after Zoox started offering free rides to the public in parts of Las Vegas and San Francisco less than a year ago.（原题：Amazon's Zoox to launch paid robotaxi service in Las Vegas on Aug. 10）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html",
+    "tags": [],
+    "impact": "Wed, 05 Aug 2026 15:36:22 GMT"
+  },
+  {
     "id": "2026-08-05-ai-botcn-memharness---ai-lab-",
     "date": "2026-08-05",
     "title": "MemHarness – 上海 AI Lab 等推出的智能体记忆重构框架",
@@ -24,34 +66,6 @@
     "summary": "MemHarness – 上海 AI Lab 等推出的智能体记忆重构框架",
     "source": "ai-bot.cn",
     "source_url": "https://ai-bot.cn/memharness/",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-05-m21jingjicom-l3l4",
-    "date": "2026-08-05",
-    "title": "L3/L4强制国标发布，高级别自动驾驶能力有望看齐“老司机”宏观",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "L3/L4强制国标发布，高级别自动驾驶能力有望看齐“老司机”宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260805/herald/03ed38599e18d17634aea562fd6c6da5.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-05-mithomecom-it-0805-l3l4-28",
-    "date": "2026-08-05",
-    "title": "IT早报 0805：鸿蒙智行回应“竹知了”事件；格力朱磊、小米单联瑜谈“为什么冰箱能一直开但空调不能”；首部 L3/L4 自动驾驶强制国标发布...28评",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "IT早报 0805：鸿蒙智行回应“竹知了”事件；格力朱磊、小米单联瑜谈“为什么冰箱能一直开但空调不能”；首部 L3/L4 自动驾驶强制国标发布...28评",
-    "source": "m.ithome.com",
-    "source_url": "https://m.ithome.com/html/985748.htm",
     "tags": [],
     "impact": ""
   },
@@ -114,12 +128,12 @@
   {
     "id": "2026-08-04-technologyreviewcom-the-download-us-robot-restrictions-and-i",
     "date": "2026-08-04",
-    "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+    "title": "The Download: US robot restrictions and ICE’s DNA grab",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "The Download: US robot restrictions, and ICE’s DNA grab",
+    "summary": "The Download: US robot restrictions and ICE’s DNA grab",
     "source": "technologyreview.com",
     "source_url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "tags": [],
