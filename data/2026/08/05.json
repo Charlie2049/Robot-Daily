@@ -1,15 +1,57 @@
 [
   {
-    "id": "2026-08-05-m21jingjicom-ai-",
+    "id": "2026-08-05-guokrcom-64",
     "date": "2026-08-05",
-    "title": "AI盯数据、判风险、派工单，智能体接管超大城市水务服务 粤港澳",
+    "title": "当初花6.4万买了特斯拉自动驾驶的人，好像等不到解禁的那天了……",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "当初花6.4万买了特斯拉自动驾驶的人，好像等不到解禁的那天了……",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/469833/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-05-ai-botcn-memharness---ai-lab-",
+    "date": "2026-08-05",
+    "title": "MemHarness – 上海 AI Lab 等推出的智能体记忆重构框架",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "AI盯数据、判风险、派工单，智能体接管超大城市水务服务 粤港澳",
+    "summary": "MemHarness – 上海 AI Lab 等推出的智能体记忆重构框架",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/memharness/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-05-m21jingjicom-l3l4",
+    "date": "2026-08-05",
+    "title": "L3/L4强制国标发布，高级别自动驾驶能力有望看齐“老司机”宏观",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "L3/L4强制国标发布，高级别自动驾驶能力有望看齐“老司机”宏观",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260805/herald/644bde77d724861bd9740f9cbf6956ab.html",
+    "source_url": "https://m.21jingji.com/article/20260805/herald/03ed38599e18d17634aea562fd6c6da5.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-05-mithomecom-it-0805-l3l4-28",
+    "date": "2026-08-05",
+    "title": "IT早报 0805：鸿蒙智行回应“竹知了”事件；格力朱磊、小米单联瑜谈“为什么冰箱能一直开但空调不能”；首部 L3/L4 自动驾驶强制国标发布...28评",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "IT早报 0805：鸿蒙智行回应“竹知了”事件；格力朱磊、小米单联瑜谈“为什么冰箱能一直开但空调不能”；首部 L3/L4 自动驾驶强制国标发布...28评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/985748.htm",
     "tags": [],
     "impact": ""
   },
@@ -80,34 +122,6 @@
     "summary": "The Download: US robot restrictions, and ICE’s DNA grab",
     "source": "technologyreview.com",
     "source_url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-03-geekparknet-macbook-air-",
-    "date": "2026-08-03",
-    "title": "内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能",
-    "source": "geekpark.net",
-    "source_url": "http://www.geekpark.net/news/368278",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-03-cbndatacom-2008-one",
-    "date": "2026-08-03",
-    "title": "具身智能“200亿俱乐部”：8家公司、吸金千亿，豪赌一个未来 定焦One",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "具身智能“200亿俱乐部”：8家公司、吸金千亿，豪赌一个未来 定焦One",
-    "source": "cbndata.com",
-    "source_url": "https://cbndata.com/information/295605",
     "tags": [],
     "impact": ""
   },
