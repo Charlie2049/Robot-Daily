@@ -1,58 +1,43 @@
 [
   {
-    "id": "2026-08-07-readhubcn--8--19-",
+    "id": "2026-08-07-geekparknet-",
     "date": "2026-08-07",
-    "title": "皮克斯经典《机器人总动员》内地首度公映，定档 8 月 19 日",
+    "title": "打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "皮克斯经典《机器人总动员》内地首度公映，定档 8 月 19 日",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8vOOnSWc51l",
+    "summary": "打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/368553",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-07-m21jingjicom-ai-",
+    "id": "2026-08-07-juejincn--20-10--skill-468",
     "date": "2026-08-07",
-    "title": "智能体第一案反转：亚马逊也阻止不了AI代理 公司",
+    "title": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」468",
     "category": [
-      "general"
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "智能体第一案反转：亚马逊也阻止不了AI代理 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260807/herald/77b6c03466ee8527c5a805558d777531.html",
+    "summary": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」468",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7670092136000716843",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-07-m21jingjicom-deepseek-14-",
+    "id": "2026-08-07-ifanrcom--chinajoy--",
     "date": "2026-08-07",
-    "title": "DeepSeek 1.4亿元入局宇树战略配售，为具身智能铺路 公司",
+    "title": "在 ChinaJoy ，我看到了第一台「科技潮玩」机器人 产品",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "DeepSeek 1.4亿元入局宇树战略配售，为具身智能铺路 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260807/herald/2f4c4e973b88f2730d3b05b6eaa6f1c7.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-07-36krcom-36--",
-    "date": "2026-08-07",
-    "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3926003098843272?f=rss",
+    "summary": "在 ChinaJoy ，我看到了第一台「科技潮玩」机器人 产品",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1674308",
     "tags": [],
     "impact": ""
   },
