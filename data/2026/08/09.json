@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-08-09-juejincn--20-10--skill-648",
+    "date": "2026-08-09",
+    "title": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」648",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」648",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7670092136000716843",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-09-ai-botcn-alpamayo-2-super---ai-",
+    "date": "2026-08-09",
+    "title": "Alpamayo 2 Super – 英伟达开源的自动驾驶 AI 推理模型",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "Alpamayo 2 Super – 英伟达开源的自动驾驶 AI 推理模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/alpamayo-2-super/",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-08-07-geekparknet-",
     "date": "2026-08-07",
     "title": "打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线",
