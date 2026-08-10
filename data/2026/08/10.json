@@ -14,6 +14,48 @@
     "impact": ""
   },
   {
+    "id": "2026-08-10-36krcom-",
+    "date": "2026-08-10",
+    "title": "用户不买单，资本狂下注，家用机器人到底赌什么？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "用户不买单，资本狂下注，家用机器人到底赌什么？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3933606919437447",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-10-36krcom-ipo",
+    "date": "2026-08-10",
+    "title": "宇树之外的“遗珠”，“最像特斯拉”的机器人公司也要IPO了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树之外的“遗珠”，“最像特斯拉”的机器人公司也要IPO了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3933486188353157",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-10-juejincn--20-10--skill-737",
+    "date": "2026-08-10",
+    "title": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」737",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」737",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7670092136000716843",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-08-10-cbndatacom-tech",
     "date": "2026-08-10",
     "title": "一只手几十万，机器人零部件玩家比宇树还赚？Tech星球",
@@ -24,6 +66,21 @@
     "summary": "一只手几十万，机器人零部件玩家比宇树还赚？Tech星球",
     "source": "cbndata.com",
     "source_url": "https://cbndata.com/information/295633",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-10-36krcom-36--",
+    "date": "2026-08-10",
+    "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3926003098843272?f=rss",
     "tags": [],
     "impact": ""
   },
