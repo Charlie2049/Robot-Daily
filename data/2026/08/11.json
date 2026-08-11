@@ -1,17 +1,117 @@
 [
   {
-    "id": "2026-08-11-36krcom-",
+    "id": "2026-08-11-sspaicom-meta--ai--muse-glimmer-",
     "date": "2026-08-11",
-    "title": "小鹏汽车离职高管，扎堆去往同一家机器人公司",
+    "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等 少数派编辑部",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等 少数派编辑部",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/113301",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-11-qbitaicom-6000",
+    "date": "2026-08-11",
+    "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "小鹏汽车离职高管，扎堆去往同一家机器人公司",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3933500733128070",
+    "summary": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/469880.html",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-08-11-m21jingjicom---",
+    "date": "2026-08-11",
+    "title": "异动速递丨三大指数集体冲高回落 人形机器人概念逆势走强 投资",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "异动速递丨三大指数集体冲高回落 人形机器人概念逆势走强 投资",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260811/herald/44132d80893fee5dd98008e9787aaaca.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-11-m21jingjicom--",
+    "date": "2026-08-11",
+    "title": "对话希夕智能毛梁：配餐机器人靠“端云协同”跑通商业化 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "对话希夕智能毛梁：配餐机器人靠“端云协同”跑通商业化 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260811/herald/77229e4e82c3535fcd2106c03abaa289.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-11-m21jingjicom-1-",
+    "date": "2026-08-11",
+    "title": "宇树科技申购引爆人形机器人板块，巨轮智能1分钟封板 投资",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树科技申购引爆人形机器人板块，巨轮智能1分钟封板 投资",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260811/herald/14adb54bb8bd2e21f5617a5a86813224.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-11-qbitaicom-",
+    "date": "2026-08-11",
+    "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/469860.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-10-ieee-spectrum-robotics-",
+    "date": "2026-08-10",
+    "title": "机器人回收商从损坏的机器中回收零件",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Objects constructed by robots are ubiquitous. If you’ve used a car, household appliance, or smartphone today, you’ve used an object constructed at least in part by robots. The more products that manufacturers want to produce (and consumers want to consume) at lower costs, the more industrial robots will be needed. There are over 4 million industrial robots in use worldwide, according to the International Federation of Robotics . And researchers predict that number to grow to over 16 million by 2030, as manufacturing rapidly increases. But what’s going to happen when they start breaking down? A new system, designed by researchers at the Karlsruhe Institute of Technology (KIT) in Karlsruhe, Germany, can predict the defect in a broken robot and disassemble it, while protecting valuable parts from damage. To continue robotic development sustainably , the industry should prepare for the dismantling, recycling , and rebuilding of our robotic systems. The system consists of a predictive algorithm that guesses how a robot is broken, along with robotic manipulators that actually take the broken robot apart. At every stage of the process, the system checks to see if the results align with its predictions, and updates its methods if necessary. For example, in the video below, the system begins by unscrewing a broken component. To simulate a stuck screw, the researcher replaces the screw. When the system observes the screw still in place, it switches to milling away material to remove the part. Building a robot with new parts is easy, says Jan Baumgärtner , one of the designers of the system. Each step is clearly outlined, and there are no expected deviations. But taking apart something that’s broken is unpredictable. “We can imagine 100 ways that something can go wrong.” And if you start taking something apart without knowing how it broke, you might have to undo part of your work when you find the problem. For example, if you have to unscrew 100 screws holding two parts together, but the last screw is stuck, you’ll have wasted time unscrewing all those screws when you should have used a different method to remove the part in the first place. How to Take Apart a Robot KIT’s robotic disassembly system relies on a CAD model of the broken robot and of each part, so it can see the parts should behave and understand if anything is out of the ordinary. It also uses a mathematical model to predict the damage done to a broken part. When you give the system a broken device and a CAD model, it first guesses how each part of the broken device should move. The axes each part can move along are called degrees of freedom (for example, a screw should rotate, but not move side to side). The disassembler nudges each part to see if it moves as expected. Based on how the part actually moves, it then uses the mathematical model to predict what went wrong with the part: a corroded part might move less than you think it should, a loose screw may move more, and a deformed part might have different degrees of freedom than expected. At the beginning of disassembly, the system formulates a plan. It guesses what might be wrong with the device it’s taking apart, and then can change its guess based on observing each piece it takes apart. For example, if there was a screw loose in the part, that might be hard to guess from an initial photograph of the broken part. But when the system moves the screw, it will notice that it can move in more ways than a screw should move, and take that loose screw into account when deconstructing the device. You can also tell the disassembly system which parts are most important to salvage intact from a broken device, and it can adjust its strategy to preserve those specific parts. The Automated Circular Economy Baumgärtner’s motivation behind the design of the robotic disassembler is to help create a circular economy, where old devices are repurposed to make new ones, reducing waste. “The big future is saving our planet,” he says. Baumgärtner envisions scaling up this one system, comprised of a few robotic arms, to have many robotic disassembler arms, each with different tools. These arms will specialize in a different part of the disassembly process, so that an entire factory could use different robotic limbs to disassemble a wide range of products. Think of an industrial robot factory that creates cars, but instead is specialized to take them apart. Or, as he puts it, “as a giant robot with 100 arms.” Ultimately, if this system works as intended, it would be a fully automated way of extracting a broken part from a system, replacing it, and rebuilding the device. Then the circular economy would really shine, as people replaced broken parts in old devices instead of buying new ones all the time. “That’s why we need to think about scaling this,” he says. “Because it means it becomes so cheap that it’s cheaper to repair this [electronic device] than to produce it. That’s the goal.” This research was presented at the IEEE International Conference on Robotics and Automation (ICRA) 2026 in Vienna.（原题：Robot Recycler Salvages Parts from Broken Machines）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://spectrum.ieee.org/recycling-robot",
+    "tags": [],
+    "impact": "Mon, 10 Aug 2026 18:01:25 +0000"
+  },
+  {
+    "id": "2026-08-10-the-robot-report-robostore--robo-inc-",
+    "date": "2026-08-10",
+    "title": "RoboStore 成立 Robo Inc. 帮助美国组织部署机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "RoboStore, a distributor of Unitree's legged robots, has launched Robo Inc. to serve as a U.S.-based manufacturer and integrator. The post RoboStore launches Robo Inc. to help U.S. organizations deploy robots appeared first on The Robot Report .（原题：RoboStore launches Robo Inc. to help U.S. organizations deploy robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/robostore-launches-robo-inc-to-help-u-s-organizations-deploy-robots/",
+    "tags": [],
+    "impact": "Mon, 10 Aug 2026 23:40:18 +0000"
   },
   {
     "id": "2026-08-09-the-robot-report-analog-devices--massrobotics-",
