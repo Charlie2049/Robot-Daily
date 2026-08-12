@@ -1,43 +1,29 @@
 [
   {
-    "id": "2026-08-12-financesinacomcn-grokgrok-46717",
+    "id": "2026-08-12----robotphone",
     "date": "2026-08-12",
-    "title": "马斯克：我们在解决早期测试版的基础问题后，会扩大Grok聊天机器人测试版的开放范围，并将于本周晚些时候推出Grok 4.6版本。717",
+    "title": "李健称放弃RobotPhone有一万个理由",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "马斯克：我们在解决早期测试版的基础问题后，会扩大Grok聊天机器人测试版的开放范围，并将于本周晚些时候推出Grok 4.6版本。717",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-08-12/doc-inimynrz7300524.shtml",
+    "summary": "李健称放弃RobotPhone有一万个理由",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%81%A5%E7%A7%B0%E6%94%BE%E5%BC%83RobotPhone%E6%9C%89%E4%B8%80%E4%B8%87%E4%B8%AA%E7%90%86%E7%94%B1",
     "tags": [],
-    "impact": ""
+    "impact": "33万"
   },
   {
-    "id": "2026-08-12-m21jingjicom--",
+    "id": "2026-08-12-qbitaicom-",
     "date": "2026-08-12",
-    "title": "密集上新！创业板智能驾驶、机器人、光伏主题指数来了 证券",
+    "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
     "category": [
-      "robotics"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "密集上新！创业板智能驾驶、机器人、光伏主题指数来了 证券",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260812/herald/5a1288942ba14a71472038c8c6fbb29b.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-12-juejincn--20-10--skill-799",
-    "date": "2026-08-12",
-    "title": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」799",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」799",
-    "source": "juejin.cn",
-    "source_url": "https://juejin.cn/post/7670092136000716843",
+    "summary": "人形之外，擎羽把“身体”变成具身智能的新变量",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/470874.html",
     "tags": [],
     "impact": ""
   },
@@ -70,6 +56,20 @@
     "impact": "Tue, 11 Aug 2026 14:34:31 +0000"
   },
   {
+    "id": "2026-08-11-ai-botcn-ai--",
+    "date": "2026-08-11",
+    "title": "千问AI智能体广场实测 – 一句话寄快递、约保洁",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "千问AI智能体广场实测 – 一句话寄快递、约保洁",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/qwen-ai-agents-review/",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-08-11-the-robot-report-plusai-",
     "date": "2026-08-11",
     "title": "PlusAI 在推出自动驾驶卡车之前实现了关键里程碑",
@@ -82,19 +82,5 @@
     "source_url": "https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks/",
     "tags": [],
     "impact": "Tue, 11 Aug 2026 17:13:33 +0000"
-  },
-  {
-    "id": "2026-08-10-cbndatacom-tech",
-    "date": "2026-08-10",
-    "title": "一只手几十万，机器人零部件玩家比宇树还赚？Tech星球",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "一只手几十万，机器人零部件玩家比宇树还赚？Tech星球",
-    "source": "cbndata.com",
-    "source_url": "https://cbndata.com/information/295633",
-    "tags": [],
-    "impact": ""
   }
 ]
