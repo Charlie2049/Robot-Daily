@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2026-08-12-bloomberg-technology-",
+    "date": "2026-08-12",
+    "title": "数千名印度工人正在帮助人工智能公司训练机器人来取代他们",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.（原题：Thousands of India Workers Are Helping AI Firms Train Robots to Replace Them）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them",
+    "tags": [],
+    "impact": "Wed, 12 Aug 2026 21:00:17 GMT"
+  },
+  {
+    "id": "2026-08-12-the-robot-report-celona--orion-",
+    "date": "2026-08-12",
+    "title": "Celona 推出专为物理人工智能和机器人技术打造的 Orion 代理无线平台",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Celona launched Celona Orion, a unified agentic platform merging private 5G, Wi-Fi, cellular, and satellite into one network for physical AI. The post Celona launches Orion agentic wireless platform built for physical AI and robotics appeared first on The Robot Report .（原题：Celona launches Orion agentic wireless platform built for physical AI and robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/",
+    "tags": [],
+    "impact": "Wed, 12 Aug 2026 12:00:08 +0000"
+  },
+  {
+    "id": "2026-08-11-qbitaicom-",
+    "date": "2026-08-11",
+    "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/470674.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-11-sspaicom-meta--ai--muse-glimmer-",
+    "date": "2026-08-11",
+    "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等 少数派编辑部",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等 少数派编辑部",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/113301",
+    "tags": [],
+    "impact": ""
+  }
+]
