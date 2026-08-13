@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-08-13-36krcom-vla",
+    "date": "2026-08-13",
+    "title": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3937440337575047",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-13-sspaicom--robot-phonegoogle--pixel-11--",
+    "date": "2026-08-13",
+    "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等 少数派编辑部",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等 少数派编辑部",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/113385",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-08-13-ifanrcom-9999robot-phonegooglepixel-11",
     "date": "2026-08-13",
     "title": "早报｜9999起，荣耀Robot Phone发布/Google发布Pixel 11系列/岚图董事长卢放:开发周期短不等于「速成车」早报",
@@ -14,32 +42,47 @@
     "impact": ""
   },
   {
-    "id": "2026-08-12-mithomecom-robot-phone--40--115",
-    "date": "2026-08-12",
-    "title": "荣耀罗巍：Robot Phone 手机预定超过 40 万台 115评",
+    "id": "2026-08-13-the-robot-report--robobusiness-",
+    "date": "2026-08-13",
+    "title": "专家们在 RoboBusiness 讨论人形机器人的现状",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The RoboBusiness panel will include insights on humanoid robots from Agility, Apptronik, Persona AI, and PSYONIC experts. The post Experts to discuss the state of humanoid robots at RoboBusiness appeared first on The Robot Report .（原题：Experts to discuss the state of humanoid robots at RoboBusiness）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/",
+    "tags": [],
+    "impact": "Thu, 13 Aug 2026 12:30:25 +0000"
+  },
+  {
+    "id": "2026-08-13-blogcsdnnet-yolo-amraibenchmark-26",
+    "date": "2026-08-13",
+    "title": "YOLO-AMR自主移动机器人AI视觉检测Benchmark 2.6万",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "荣耀罗巍：Robot Phone 手机预定超过 40 万台 115评",
-    "source": "m.ithome.com",
-    "source_url": "https://m.ithome.com/html/988965.htm",
+    "summary": "YOLO-AMR自主移动机器人AI视觉检测Benchmark 2.6万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/2301_80164692/article/details/163687747",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-12-bloomberg-technology-",
-    "date": "2026-08-12",
-    "title": "数千名印度工人正在帮助人工智能公司训练机器人来取代他们",
+    "id": "2026-08-13-ai-botcn-loomy---",
+    "date": "2026-08-13",
+    "title": "Loomy 教程玩法 – 多智能体协作实现桌面自动化",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.（原题：Thousands of India Workers Are Helping AI Firms Train Robots to Replace Them）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them",
+    "summary": "Loomy 教程玩法 – 多智能体协作实现桌面自动化",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/loomy-multi-agent-desktop-automation-guide/",
     "tags": [],
-    "impact": "Wed, 12 Aug 2026 21:00:17 GMT"
+    "impact": ""
   },
   {
     "id": "2026-08-12-ifanrcom-deepseek--figure-ai-",
