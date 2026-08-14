@@ -1,46 +1,89 @@
 [
   {
-    "id": "2026-08-14-m21jingjicom--",
+    "id": "2026-08-14-36krcom-",
     "date": "2026-08-14",
-    "title": "三大逻辑看懂“人形机器人第一股”|财经早察 评论",
+    "title": "进厂打工还没干明白，这家中国机器人就要登月了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "进厂打工还没干明白，这家中国机器人就要登月了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3937751365015432",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-14-m21jingjicom-",
+    "date": "2026-08-14",
+    "title": "宇树上市锚定行业估值，人形机器人进入\"资本检验期\"证券",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "三大逻辑看懂“人形机器人第一股”|财经早察 评论",
+    "summary": "宇树上市锚定行业估值，人形机器人进入\"资本检验期\"证券",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260814/herald/ff1c09ad3165c80f4fee4679050d036a.html",
+    "source_url": "https://m.21jingji.com/article/20260814/herald/34c65d80a657c21307c23c904d7f8a51.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-14-blogcsdnnet-ai-28",
+    "id": "2026-08-14-cnbc-technology-",
     "date": "2026-08-14",
-    "title": "AI往哪长｜云计算·边缘计算·世界模型·空间智能·具身智能一次讲透 2.8万",
+    "title": "中国制造了可以后空翻的机器人——但它们能赚钱吗？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.（原题：China built robots that can do backflips – but can they make money?）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html",
+    "tags": [],
+    "impact": "Fri, 14 Aug 2026 05:00:47 GMT"
+  },
+  {
+    "id": "2026-08-14-cnbc-technology-uber--2000-",
+    "date": "2026-08-14",
+    "title": "Uber 与中国小马智行合作在欧洲提供 2,000 辆机器人出租车",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.（原题：Uber partners with China's Pony.ai for 2,000 robotaxis in Europe）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
+    "tags": [],
+    "impact": "Fri, 14 Aug 2026 01:02:39 GMT"
+  },
+  {
+    "id": "2026-08-14-blogcsdnnet-ai-27",
+    "date": "2026-08-14",
+    "title": "AI往哪长｜云计算·边缘计算·世界模型·空间智能·具身智能一次讲透 2.7万",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "AI往哪长｜云计算·边缘计算·世界模型·空间智能·具身智能一次讲透 2.8万",
+    "summary": "AI往哪长｜云计算·边缘计算·世界模型·空间智能·具身智能一次讲透 2.7万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/yuhaiqun1989/article/details/163719646",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-13-bloomberg-technology-",
-    "date": "2026-08-13",
-    "title": "美国扫地机器人制造商通过语音命令击败中国竞争对手",
+    "id": "2026-08-14-36krcom-36--",
+    "date": "2026-08-14",
+    "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
     "category": [
-      "robotics"
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "The device, from Silicon Valley brand Matic, can be controlled fully by voice instructions, helping it stand apart from the competition.（原题：US Robot Vacuum Maker One-Ups China Rivals With Voice Commands）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-08-13/us-robot-vacuum-maker-one-ups-china-rivals-with-voice-commands",
+    "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3926003098843272?f=rss",
     "tags": [],
-    "impact": "Thu, 13 Aug 2026 17:00:17 GMT"
+    "impact": ""
   },
   {
     "id": "2026-08-13-the-robot-report-",
@@ -55,20 +98,6 @@
     "source_url": "https://www.therobotreport.com/mobile-manipulators-and-humanoids/",
     "tags": [],
     "impact": "Thu, 13 Aug 2026 15:06:47 +0000"
-  },
-  {
-    "id": "2026-08-13-the-verge-",
-    "date": "2026-08-13",
-    "title": "现在你只要指着乱七八糟的东西，这个扫地机器人就会把它吸起来",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. The feature […]（原题：You can now just point at a mess and this robot vacuum will suck it up）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
-    "tags": [],
-    "impact": "2026-08-13T14:00:00-04:00"
   },
   {
     "id": "2026-08-13-the-verge-",
