@@ -1,27 +1,27 @@
 [
   {
-    "id": "2026-08-16-blogcsdnnet---2025-06v-jepa-2-stage-2xy-b27",
+    "id": "2026-08-16-blogcsdnnet---2025-06v-jepa-2-stage-2xy-b26",
     "date": "2026-08-16",
-    "title": "视觉特征-自监督-掩码特征预测【2025-06】：V-JEPA-2 Stage 2【已知过去视觉世界、机器人状态以及动作，预测下一时刻世界潜空间表征】【模型结构：x/y-编码器，预测器B】2.7万",
+    "title": "视觉特征-自监督-掩码特征预测【2025-06】：V-JEPA-2 Stage 2【已知过去视觉世界、机器人状态以及动作，预测下一时刻世界潜空间表征】【模型结构：x/y-编码器，预测器B】2.6万",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "视觉特征-自监督-掩码特征预测【2025-06】：V-JEPA-2 Stage 2【已知过去视觉世界、机器人状态以及动作，预测下一时刻世界潜空间表征】【模型结构：x/y-编码器，预测器B】2.7万",
+    "summary": "视觉特征-自监督-掩码特征预测【2025-06】：V-JEPA-2 Stage 2【已知过去视觉世界、机器人状态以及动作，预测下一时刻世界潜空间表征】【模型结构：x/y-编码器，预测器B】2.6万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/u013250861/article/details/163776209",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-16-blogcsdnnet--latitude-ai--parasoft-l2-l3--26",
+    "id": "2026-08-16-blogcsdnnet--latitude-ai--parasoft-l2-l3--25",
     "date": "2026-08-16",
-    "title": "案例分享｜ Latitude AI × Parasoft：搭建 L2-L3 自动驾驶量产验证与功能安全完整链路 2.6万",
+    "title": "案例分享｜ Latitude AI × Parasoft：搭建 L2-L3 自动驾驶量产验证与功能安全完整链路 2.5万",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "案例分享｜ Latitude AI × Parasoft：搭建 L2-L3 自动驾驶量产验证与功能安全完整链路 2.6万",
+    "summary": "案例分享｜ Latitude AI × Parasoft：搭建 L2-L3 自动驾驶量产验证与功能安全完整链路 2.5万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/anscos/article/details/163726311",
     "tags": [],
@@ -38,6 +38,34 @@
     "summary": "服务器、AI和机器人：中国RISC-V的下一站",
     "source": "36kr.com",
     "source_url": "https://www.36kr.com/p/3939250587942023",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-16-qbitaicom-workswarmai",
+    "date": "2026-08-16",
+    "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/473972.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-16-m21jingjicom-999940ai-",
+    "date": "2026-08-16",
+    "title": "9999元起售、预约量达40万，荣耀机器人手机将首销，李健押注AI终端爆发 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "9999元起售、预约量达40万，荣耀机器人手机将首销，李健押注AI终端爆发 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260816/herald/91516198e656eaa3423d729ccb1afc4a.html",
     "tags": [],
     "impact": ""
   },
