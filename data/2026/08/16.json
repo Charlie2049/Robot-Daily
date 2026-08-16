@@ -1,19 +1,5 @@
 [
   {
-    "id": "2026-08-16-blogcsdnnet---2025-06v-jepa-2-stage-2xy-b26",
-    "date": "2026-08-16",
-    "title": "视觉特征-自监督-掩码特征预测【2025-06】：V-JEPA-2 Stage 2【已知过去视觉世界、机器人状态以及动作，预测下一时刻世界潜空间表征】【模型结构：x/y-编码器，预测器B】2.6万",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "视觉特征-自监督-掩码特征预测【2025-06】：V-JEPA-2 Stage 2【已知过去视觉世界、机器人状态以及动作，预测下一时刻世界潜空间表征】【模型结构：x/y-编码器，预测器B】2.6万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/u013250861/article/details/163776209",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-08-16-blogcsdnnet--latitude-ai--parasoft-l2-l3--25",
     "date": "2026-08-16",
     "title": "案例分享｜ Latitude AI × Parasoft：搭建 L2-L3 自动驾驶量产验证与功能安全完整链路 2.5万",
@@ -26,6 +12,20 @@
     "source_url": "https://blog.csdn.net/anscos/article/details/163726311",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-08-16-the-robot-report-",
+    "date": "2026-08-16",
+    "title": "机器人技术如何彻底改变中风康复",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Eyal Samuel Shachar, the CEO of Bioxtreme, says the growing synergy of robotics, AI, and human-centered care will improve patient outcomes. The post How robotics is revolutionizing stroke rehabilitation appeared first on The Robot Report .（原题：How robotics is revolutionizing stroke rehabilitation）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/",
+    "tags": [],
+    "impact": "Sun, 16 Aug 2026 12:30:18 +0000"
   },
   {
     "id": "2026-08-16-36krcom-airisc-v",
@@ -56,16 +56,16 @@
     "impact": ""
   },
   {
-    "id": "2026-08-16-m21jingjicom-999940ai-",
+    "id": "2026-08-16-ai-botcn-workswarm--openjiuwen-",
     "date": "2026-08-16",
-    "title": "9999元起售、预约量达40万，荣耀机器人手机将首销，李健押注AI终端爆发 公司",
+    "title": "WorkSwarm – openJiuwen 推出的蜂群办公智能体",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "9999元起售、预约量达40万，荣耀机器人手机将首销，李健押注AI终端爆发 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260816/herald/91516198e656eaa3423d729ccb1afc4a.html",
+    "summary": "WorkSwarm – openJiuwen 推出的蜂群办公智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/workswarm/",
     "tags": [],
     "impact": ""
   },
@@ -87,7 +87,7 @@
   {
     "id": "2026-08-14-the-robot-report-",
     "date": "2026-08-14",
-    "title": "华尔街的机器人：机器人公司进入公开市场的非传统路径",
+    "title": "华尔街的机器人：机器人公司进入公开市场的非传统途径",
     "category": [
       "robotics"
     ],
