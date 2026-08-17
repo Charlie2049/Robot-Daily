@@ -14,31 +14,45 @@
     "impact": "Mon, 17 Aug 2026 06:58:52 GMT"
   },
   {
-    "id": "2026-08-17-36krcom---d70",
+    "id": "2026-08-17-mit-technology-review-",
     "date": "2026-08-17",
-    "title": "硬氪首发 | 机器人力传感器企业完成数亿元D轮融资，广汽领投、红杉押注，市占率超70%",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "硬氪首发 | 机器人力传感器企业完成数亿元D轮融资，广汽领投、红杉押注，市占率超70%",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3943183864560776",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-17-36krcom-",
-    "date": "2026-08-17",
-    "title": "手术机器人：狂欢与退潮之间，洗牌已至",
+    "title": "当孩子的机器人最好的朋友去世时会发生什么？",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "手术机器人：狂欢与退潮之间，洗牌已至",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3943091588496775",
+    "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…（原题：What happens when a kid’s robot best friend dies?）",
+    "source": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "tags": [],
+    "impact": "Mon, 17 Aug 2026 09:00:00 +0000"
+  },
+  {
+    "id": "2026-08-17----",
+    "date": "2026-08-17",
+    "title": "宇树发布超人机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树发布超人机器人",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+    "tags": [],
+    "impact": "13万"
+  },
+  {
+    "id": "2026-08-17-qbitaicom-11",
+    "date": "2026-08-17",
+    "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/474518.html",
     "tags": [],
     "impact": ""
   },
@@ -57,16 +71,73 @@
     "impact": ""
   },
   {
-    "id": "2026-08-15-qbitaicom-",
-    "date": "2026-08-15",
-    "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+    "id": "2026-08-17-mit-technology-review-",
+    "date": "2026-08-17",
+    "title": "下载：死去的机器人朋友和“审查工业联合体”",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/08/473407.html",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she…（原题：The Download: dead robot friends and the “censorship-industrial complex”）",
+    "source": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+    "tags": [],
+    "impact": "Mon, 17 Aug 2026 12:10:00 +0000"
+  },
+  {
+    "id": "2026-08-17-the-verge-whisker-",
+    "date": "2026-08-17",
+    "title": "Whisker 的人工智能垃圾机器人认为我的猫交换了身体",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two […]（原题：Whisker’s AI-powered litter robot thinks my cats swapped bodies）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "tags": [],
+    "impact": "2026-08-17T07:00:00-04:00"
+  },
+  {
+    "id": "2026-08-17-bloomberg-technology-grubhub-serve-robotics--doordash-",
+    "date": "2026-08-17",
+    "title": "Grubhub 补充道，Serve Robotics 在两个城市扩大 DoorDash 交易",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Serve Robotics Inc. announced a new partnership with Grubhub and an expansion of its collaboration with DoorDash Inc. to two more US cities, its latest moves following a fallout with former investor Uber Technologies Inc.（原题：Serve Robotics Expands DoorDash Deal in Two Cities, Adds Grubhub Post-Uber Riff）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff",
+    "tags": [],
+    "impact": "Mon, 17 Aug 2026 12:00:01 GMT"
+  },
+  {
+    "id": "2026-08-17-the-robot-report-gravis-robotics--2-",
+    "date": "2026-08-17",
+    "title": "Gravis Robotics 融资 2 亿美元用于自主建造",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "Gravis Robotics has designed autonomy AI and hardware for a wide range of excavators and construction equipment and plans to scale globally. The post Gravis Robotics raises $200M for autonomous construction appeared first on The Robot Report .（原题：Gravis Robotics raises $200M for autonomous construction）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/",
+    "tags": [],
+    "impact": "Mon, 17 Aug 2026 13:00:16 +0000"
+  },
+  {
+    "id": "2026-08-17-aibasecom-aideepseek-apiff",
+    "date": "2026-08-17",
+    "title": "AI日报：DeepSeek API峰谷定价上线；美团全员养虾曾日烧千万；贾跃亭宣布FF机器人业务拟独立上市",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AI日报：DeepSeek API峰谷定价上线；美团全员养虾曾日烧千万；贾跃亭宣布FF机器人业务拟独立上市",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/30400",
     "tags": [],
     "impact": ""
   },
