@@ -1,15 +1,58 @@
 [
   {
-    "id": "2026-08-17-blogcsdnnet--37",
+    "id": "2026-08-17-bloomberg-technology-hsg--robotera--ipo",
     "date": "2026-08-17",
-    "title": "基于小语言模型与边缘计算增强虚拟智能体：思考与记忆机制探索评测 3.7万",
+    "title": "随着机器人技术的蓬勃发展，HSG 支持的 Robotera 据称将考虑在香港 IPO",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "基于小语言模型与边缘计算增强虚拟智能体：思考与记忆机制探索评测 3.7万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/weixin_44626085/article/details/163793492",
+    "summary": "Robotera, a Chinese robotics startup backed by HSG and CDH Investments, is planning an initial public offering in Hong Kong, people familiar with the matter said, as a growing number of companies in the industry look to go public.（原题：HSG-Backed Robotera Is Said to Mull HK IPO as Robot Tech Booms）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/hsg-backed-robotera-is-said-to-mull-hk-ipo-as-robot-tech-booms",
+    "tags": [],
+    "impact": "Mon, 17 Aug 2026 06:58:52 GMT"
+  },
+  {
+    "id": "2026-08-17-36krcom---d70",
+    "date": "2026-08-17",
+    "title": "硬氪首发 | 机器人力传感器企业完成数亿元D轮融资，广汽领投、红杉押注，市占率超70%",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "硬氪首发 | 机器人力传感器企业完成数亿元D轮融资，广汽领投、红杉押注，市占率超70%",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3943183864560776",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-17-36krcom-",
+    "date": "2026-08-17",
+    "title": "手术机器人：狂欢与退潮之间，洗牌已至",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "手术机器人：狂欢与退潮之间，洗牌已至",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3943091588496775",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-17-geekparknet-wow",
+    "date": "2026-08-17",
+    "title": "世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/368887",
     "tags": [],
     "impact": ""
   },
