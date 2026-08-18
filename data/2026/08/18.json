@@ -1,5 +1,64 @@
 [
   {
+    "id": "2026-08-18-readhubcn---demo",
+    "date": "2026-08-18",
+    "title": "机器人开上卡丁车 共生知行发布人形机器人赛车 Demo",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人开上卡丁车 共生知行发布人形机器人赛车 Demo",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8vfRhFfnR5v",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-18-m21jingjicom-8cybercabrobotaxi-",
+    "date": "2026-08-18",
+    "title": "最快8月见？特斯拉Cybercab被曝将加入Robotaxi车队，官方：暂无消息 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "最快8月见？特斯拉Cybercab被曝将加入Robotaxi车队，官方：暂无消息 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260818/herald/6fd562671dbfc716f6be2ad1a102b3ec.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-18-m21jingjicom-",
+    "date": "2026-08-18",
+    "title": "嘉腾机器人完成数千万战略融资，卡位具身智能“物理基座”粤港澳",
+    "category": [
+      "humanoid",
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "嘉腾机器人完成数千万战略融资，卡位具身智能“物理基座”粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260818/herald/09ad8c401fbb711d0cd6717d4988613c.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-18-ai-botcn-if-studio---iconfont--ai-",
+    "date": "2026-08-18",
+    "title": "if Studio – 阿里 iconfont 推出的企业级 AI 智能体工作台",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "if Studio – 阿里 iconfont 推出的企业级 AI 智能体工作台",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/if-studio/",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-08-18-36krcom-36--",
     "date": "2026-08-18",
     "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
@@ -11,20 +70,6 @@
     "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
     "source": "36kr.com",
     "source_url": "https://36kr.com/p/3926003098843272?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-18-m21jingjicom-2026--",
-    "date": "2026-08-18",
-    "title": "2026世界机器人大会备受关注 一批绩优概念股获主力资金加仓 证券",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "2026世界机器人大会备受关注 一批绩优概念股获主力资金加仓 证券",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260818/herald/e0d5e4d1d99ab33b8fafb7f275020af9.html",
     "tags": [],
     "impact": ""
   },
@@ -126,33 +171,5 @@
     "source_url": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/",
     "tags": [],
     "impact": "Sun, 16 Aug 2026 12:30:18 +0000"
-  },
-  {
-    "id": "2026-08-16-qbitaicom-workswarmai",
-    "date": "2026-08-16",
-    "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/08/473972.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-16-ai-botcn-workswarm--openjiuwen-",
-    "date": "2026-08-16",
-    "title": "WorkSwarm – openJiuwen 推出的蜂群办公智能体",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "WorkSwarm – openJiuwen 推出的蜂群办公智能体",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/workswarm/",
-    "tags": [],
-    "impact": ""
   }
 ]
