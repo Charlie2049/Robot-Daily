@@ -1,46 +1,85 @@
 [
   {
-    "id": "2026-08-18-readhubcn---demo",
+    "id": "2026-08-18-gelonghuicom-",
     "date": "2026-08-18",
-    "title": "机器人开上卡丁车 共生知行发布人形机器人赛车 Demo",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "机器人开上卡丁车 共生知行发布人形机器人赛车 Demo",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8vfRhFfnR5v",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-18-m21jingjicom-8cybercabrobotaxi-",
-    "date": "2026-08-18",
-    "title": "最快8月见？特斯拉Cybercab被曝将加入Robotaxi车队，官方：暂无消息 公司",
+    "title": "盈利逆势增长，从座椅头枕到千亿总成，再到机器人，解读继峰股份的“三级跳”",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "最快8月见？特斯拉Cybercab被曝将加入Robotaxi车队，官方：暂无消息 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260818/herald/6fd562671dbfc716f6be2ad1a102b3ec.html",
+    "summary": "盈利逆势增长，从座椅头枕到千亿总成，再到机器人，解读继峰股份的“三级跳”",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/6108460",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-18-m21jingjicom-",
+    "id": "2026-08-18-bloomberg-technology-",
     "date": "2026-08-18",
-    "title": "嘉腾机器人完成数千万战略融资，卡位具身智能“物理基座”粤港澳",
+    "title": "整体人工智能的消亡预示着机器人技术面临的障碍",
     "category": [
-      "humanoid",
-      "robotics",
-      "funding"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "嘉腾机器人完成数千万战略融资，卡位具身智能“物理基座”粤港澳",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260818/herald/09ad8c401fbb711d0cd6717d4988613c.html",
+    "summary": "It may cost too much to develop robots for simple tasks（原题：Integral AI’s Demise Signals Hurdles Ahead for Robotics）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-18/integral-ai-s-demise-signals-hurdles-ahead-for-robotics",
+    "tags": [],
+    "impact": "Tue, 18 Aug 2026 11:02:01 GMT"
+  },
+  {
+    "id": "2026-08-18-bloomberg-technology-",
+    "date": "2026-08-18",
+    "title": "尽管美国限制，机器狗让中国亿万富翁变得更加富有",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Wang Xingxing, a millennial billionaire at the center of China’s AI push, is set to see his fortune soar even as Washington blocks his company from launching new robot models in the US.（原题：Robot Dogs Make Chinese Billionaire Even Richer Despite US Curbs）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs",
+    "tags": [],
+    "impact": "Tue, 18 Aug 2026 10:00:00 GMT"
+  },
+  {
+    "id": "2026-08-18-bloomberg-technology-airobotaxi69",
+    "date": "2026-08-18",
+    "title": "小马AI的Robotaxi收入创历史新高，销售额猛增69%",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Pony AI Inc.’s robotaxi sales reached a quarterly high, now accounting for a third of total revenue, with overseas momentum continuing to accelerate.（原题：Pony AI’s Robotaxi Revenue Reaches Record as Sales Jump 69%）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
+    "tags": [],
+    "impact": "Tue, 18 Aug 2026 09:47:26 GMT"
+  },
+  {
+    "id": "2026-08-18-36krcom-aiot",
+    "date": "2026-08-18",
+    "title": "具身智能重走\"电表老路\"？AIoT的涅槃，在于等待与希望",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能重走\"电表老路\"？AIoT的涅槃，在于等待与希望",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3944808034450568",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-18-guokrcom-tokennasa-starlinggps",
+    "date": "2026-08-18",
+    "title": "中国移动将推出全国统一Token套餐；NASA Starling任务实现无GPS自主导航；宇树科技发布“超人”机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "中国移动将推出全国统一Token套餐；NASA Starling任务实现无GPS自主导航；宇树科技发布“超人”机器人",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/469951/",
     "tags": [],
     "impact": ""
   },
@@ -55,21 +94,6 @@
     "summary": "if Studio – 阿里 iconfont 推出的企业级 AI 智能体工作台",
     "source": "ai-bot.cn",
     "source_url": "https://ai-bot.cn/if-studio/",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-18-36krcom-36--",
-    "date": "2026-08-18",
-    "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
-    "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3926003098843272?f=rss",
     "tags": [],
     "impact": ""
   },
@@ -143,20 +167,6 @@
     "source_url": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/",
     "tags": [],
     "impact": "Mon, 17 Aug 2026 19:32:31 +0000"
-  },
-  {
-    "id": "2026-08-17-bloomberg-technology-bedrock-",
-    "date": "2026-08-17",
-    "title": "Bedrock 将自动驾驶引入建筑业",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "Bedrock Robotics is bringing autonomous driving technology to construction sites, retrofitting excavators and other heavy machinery with cameras, LiDAR, Nvidia-powered compute and its own software. CEO Boris Sofman joins Bloomberg to discuss the company’s first paid commercial deployments, how autonomous equipment could address a growing shortage of skilled operators, and why demand for data centers and other infrastructure is creating an opportunity to use AI to help America build faster. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)（原题：Bedrock Brings Autonomous Driving to Construction）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-08-17/bedrock-brings-autonomous-driving-to-construction-video",
-    "tags": [],
-    "impact": "Mon, 17 Aug 2026 18:34:30 GMT"
   },
   {
     "id": "2026-08-16-the-robot-report-",
