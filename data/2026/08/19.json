@@ -1,5 +1,48 @@
 [
   {
+    "id": "2026-08-19-geekparknet--spacex---",
+    "date": "2026-08-19",
+    "title": "苹果「摄像头耳机」曝光；小米机器人将亮相机器人大会；特斯拉与 SpaceX 合并预期升温 | 极客早知道",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "苹果「摄像头耳机」曝光；小米机器人将亮相机器人大会；特斯拉与 SpaceX 合并预期升温 | 极客早知道",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/368995",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-19----",
+    "date": "2026-08-19",
+    "title": "宇树股价跳水带崩机器人板块",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树股价跳水带崩机器人板块",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B0%B4%E5%B8%A6%E5%B4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%BF%E5%9D%97",
+    "tags": [],
+    "impact": "35万"
+  },
+  {
+    "id": "2026-08-19-financesinacomcn--a-3807",
+    "date": "2026-08-19",
+    "title": "宇树科技今日登陆科创板 A股“人形机器人第一股”来了 3,807",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树科技今日登陆科创板 A股“人形机器人第一股”来了 3,807",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininuqvh2985347.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-08-19-gelonghuicom-optimus",
     "date": "2026-08-19",
     "title": "宇树明天敲钟，Optimus量产提速，机器人行情的“发令枪”已经响了",
@@ -14,28 +57,72 @@
     "impact": ""
   },
   {
-    "id": "2026-08-18-bloomberg-technology--fort-robotics--5--spac-",
-    "date": "2026-08-18",
-    "title": "古巴支持的 Fort Robotics 首席执行官完成 5 亿美元的 SPAC 交易",
+    "id": "2026-08-19-36krcom-wrc10",
+    "date": "2026-08-19",
+    "title": "WRC前夜，晚上10点，机器人和人都还没下班",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Fort Robotics, a Philadelphia-based robotics startup backed by Mark Cuban, is planning to go public through a SPAC deal valued at $500 million, with an expected Nasdaq listing under the ticker FROB. Samuel Reeves, CEO of Fort Robotics, explained that the decision to pursue a SPAC rather than a traditional IPO was driven by the need for speed and efficiency to scale the company's technology, operations, go-to-market strategy, and international expansion. He speaks with Scarlet Fu & Isabelle Lee on \"The Close.\" (Source: Bloomberg)（原题：CEO of Cuban-Backed Fort Robotics on $500M SPAC Deal）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-08-18/ceo-of-cuban-backed-fort-robotics-on-500m-spac-deal-video",
+    "summary": "WRC前夜，晚上10点，机器人和人都还没下班",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3945784573220483",
     "tags": [],
-    "impact": "Tue, 18 Aug 2026 21:54:27 GMT"
+    "impact": ""
   },
   {
-    "id": "2026-08-18-bloomberg-technology-unitree-robotics--904-",
-    "date": "2026-08-18",
-    "title": "Unitree Robotics 将于上海 9.04 亿美元首次公开募股后首次亮相",
+    "id": "2026-08-19-bloomberg-technology-unitree-ipo",
+    "date": "2026-08-19",
+    "title": "Unitree IPO：为何投资者大举押注中国人形机器人",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Robots built to move, work and act like humans. It’s a global industry Morgan Stanley estimates could be worth $5 trillion by 2050. It’s also one of the frontiers in the China-US race for technological supremacy.（原题：Unitree IPO: Why Investors Are Betting Big on China’s Humanoid Robots）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/unitree-ipo-why-investors-are-betting-big-on-china-s-humanoid-robots",
+    "tags": [],
+    "impact": "Wed, 19 Aug 2026 05:03:31 GMT"
+  },
+  {
+    "id": "2026-08-19-m21jingjicom-a",
+    "date": "2026-08-19",
+    "title": "A股“人形机器人第一股”宇树科技上市，离大规模商业化落地还有多远？证券",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A股“人形机器人第一股”宇树科技上市，离大规模商业化落地还有多远？证券",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260819/herald/c6e86ecdcc9bf90816700d4d47ca3ad6.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-19-36krcom-45ipo",
+    "date": "2026-08-19",
+    "title": "45家机器人企业IPO进程全图景",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Unitree Robotics is set to begin trading in Shanghai Wednesday after raising 6.1 billion yuan ($904 million) in an initial public offering that will make it the first publicly traded humanoid robot maker in mainland China.（原题：Unitree Robotics Set to Debut After $904 Million Shanghai IPO）",
+    "summary": "45家机器人企业IPO进程全图景",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3945918962898569",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-18-bloomberg-technology-unitree-robotics--904--629",
+    "date": "2026-08-18",
+    "title": "Unitree Robotics 在上海首次公开募股 9.04 亿美元后股价飙升 629%",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Unitree Robotics shares opened 629% higher in their Shanghai trading debut after raising 6.1 billion yuan ($904 million) in an initial public offering that will make it the first publicly traded humanoid robot maker in mainland China.（原题：Unitree Robotics Surges 629% After $904 Million Shanghai IPO）",
     "source": "Bloomberg Technology",
     "source_url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
     "tags": [],
@@ -54,20 +141,6 @@
     "source_url": "https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/",
     "tags": [],
     "impact": "Tue, 18 Aug 2026 15:24:13 +0000"
-  },
-  {
-    "id": "2026-08-17-geekparknet-wow",
-    "date": "2026-08-17",
-    "title": "世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注",
-    "source": "geekpark.net",
-    "source_url": "http://www.geekpark.net/news/368887",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-08-17-technologyreviewcom-what-happens-when-a-kids-robot-best-frie",
