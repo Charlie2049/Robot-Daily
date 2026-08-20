@@ -1,44 +1,114 @@
 [
   {
-    "id": "2026-08-20-m21jingjicom-",
+    "id": "2026-08-20-financesinacomcn--5319",
     "date": "2026-08-20",
-    "title": "宇树科技上市，人形机器人或迎估值参照",
+    "title": "西方还在纠结方向，中国机器人又向前一步 5,319",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "西方还在纠结方向，中国机器人又向前一步 5,319",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/roll/2026-08-20/doc-ininxekc8969054.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-20-m21jingjicom--",
+    "date": "2026-08-20",
+    "title": "机器人何时真正进家庭？王兴兴：快的话两到三年，慢的话五到十年 宏观",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人何时真正进家庭？王兴兴：快的话两到三年，慢的话五到十年 宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260820/herald/0599df71742a0759f40338b5f394f054.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-20-m21jingjicom-wrc-",
+    "date": "2026-08-20",
+    "title": "广东机器人“剑客江湖”亮相WRC，人形机器人现场做家务 粤港澳",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树科技上市，人形机器人或迎估值参照",
+    "summary": "广东机器人“剑客江湖”亮相WRC，人形机器人现场做家务 粤港澳",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260820/b507775e7bc546c0e644554da96b94da.html",
+    "source_url": "https://m.21jingji.com/article/20260820/herald/9bac68723a6c3d0828bf40aac96581f6.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-20-financesinacomcn-verne964",
+    "id": "2026-08-20-m21jingjicom--",
     "date": "2026-08-20",
-    "title": "优步携手Verne与小马智行，在欧洲萨格勒布推出欧洲自动驾驶出行服务。964",
+    "title": "广东工信厅总经济师：大湾区机器人优势是全方位的 公司",
     "category": [
-      "autonomous-driving"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "优步携手Verne与小马智行，在欧洲萨格勒布推出欧洲自动驾驶出行服务。964",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-08-20/doc-ininwtuc6905497.shtml",
+    "summary": "广东工信厅总经济师：大湾区机器人优势是全方位的 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260820/herald/56b1aa24f145ee5a31c44113db37d7d2.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-20-financesinacomcn-waymoojai758",
+    "id": "2026-08-20-bloomberg-technology-xynova",
     "date": "2026-08-20",
-    "title": "Waymo：Ojai自动驾驶出租车已正式在旧金山、凤凰城、洛杉矶上路，向所有乘客开放。758",
+    "title": "中国Xynova致力于开发仿人机器人手",
     "category": [
-      "autonomous-driving"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "Waymo：Ojai自动驾驶出租车已正式在旧金山、凤凰城、洛杉矶上路，向所有乘客开放。758",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-08-20/doc-ininwtty8183139.shtml",
+    "summary": "Alex Xia, Founder and CEO at Hangzhou-based robot hand maker Xynova, discusses innovation and industry bottlenecks. He also talks about and fundraising plans exclusively on \"Bloomberg: The China Show.\" (Source: Bloomberg)（原题：China's Xynova on Developing Human-like Robot Hands）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-08-20/china-s-xynova-on-developing-human-like-robot-hands-video",
+    "tags": [],
+    "impact": "Thu, 20 Aug 2026 04:20:22 GMT"
+  },
+  {
+    "id": "2026-08-20-bloomberg-technology-unitree-",
+    "date": "2026-08-20",
+    "title": "Unitree 认为机器人将在十年内进入“大众市场”",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Humanoid robots will reach “mass market” popularity within a decade, after manufacturers solve problems that hold back their current usefulness, the founder of China’s Unitree Robotics said.（原题：Unitree Sees Robots Reaching ‘Mass Market’ Within Decade）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/unitree-founder-sees-robots-reaching-mass-market-within-decade",
+    "tags": [],
+    "impact": "Thu, 20 Aug 2026 02:49:15 GMT"
+  },
+  {
+    "id": "2026-08-20-bloomberg-technology-leadshine",
+    "date": "2026-08-20",
+    "title": "LeadShine郑先生谈中国机器人供应链",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Nangle Zheng, Strategic Investment Director at LeadShine Technology, says China has shortened the development cycle for humanoid robots from years to just months. He speaks to David Ingles and Yvonne Man on \"Bloomberg: The China Show.\" (Source: Bloomberg)（原题：LeadShine's Zheng on China's Robotics Supply Chain）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-08-20/leadshine-s-zheng-on-china-s-robotics-supply-chain-video",
+    "tags": [],
+    "impact": "Thu, 20 Aug 2026 04:05:05 GMT"
+  },
+  {
+    "id": "2026-08-19-mithomecom--bug-62",
+    "date": "2026-08-19",
+    "title": "王力宏：演出前一晚机器人出现 Bug，宇树团队通宵写代码解决 62评",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "王力宏：演出前一晚机器人出现 Bug，宇树团队通宵写代码解决 62评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/991842.htm",
     "tags": [],
     "impact": ""
   },
