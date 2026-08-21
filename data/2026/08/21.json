@@ -1,44 +1,58 @@
 [
   {
-    "id": "2026-08-21-m21jingjicom--",
+    "id": "2026-08-21-36krcom--",
     "date": "2026-08-21",
-    "title": "对话普渡机器人吴翔：机器人竞争下半场，胜负在场景 宏观",
+    "title": "跳槽去机器人吗？赚一波快钱 ｜深氪",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "对话普渡机器人吴翔：机器人竞争下半场，胜负在场景 宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260821/herald/9870cb2a7d08a077ed184d3707174f02.html",
+    "summary": "跳槽去机器人吗？赚一波快钱 ｜深氪",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3947887902194823",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-21-qbitaicom-gpt-33",
+    "date": "2026-08-21",
+    "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/476596.html",
     "tags": [],
     "impact": ""
   },
   {
     "id": "2026-08-21-m21jingjicom--",
     "date": "2026-08-21",
-    "title": "对话小米机器人团队：“铁大”将探索更多工位，家用短期难兑现 公司",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "对话小米机器人团队：“铁大”将探索更多工位，家用短期难兑现 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260821/herald/e963d39a83570532c7123b46aa3a8569.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-21-m21jingjicom--",
-    "date": "2026-08-21",
-    "title": "对话优必选副总裁焦继超：人形机器人公司上市后更看经营逻辑 公司",
+    "title": "机器人上班了，工厂、仓库、零售落地具身智能应用 公司",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "对话优必选副总裁焦继超：人形机器人公司上市后更看经营逻辑 公司",
+    "summary": "机器人上班了，工厂、仓库、零售落地具身智能应用 公司",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260821/herald/7042be8e782ab7f270911da6988dcc1e.html",
+    "source_url": "https://m.21jingji.com/article/20260821/herald/e8c60c54de05e6697344d65043c4055a.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-21-qbitaicom-",
+    "date": "2026-08-21",
+    "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/476778.html",
     "tags": [],
     "impact": ""
   },
@@ -57,6 +71,20 @@
     "impact": ""
   },
   {
+    "id": "2026-08-21-m21jingjicom-chatgpt",
+    "date": "2026-08-21",
+    "title": "多位创始人齐发声：具身智能的“ChatGPT时刻”何时到来？宏观",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "多位创始人齐发声：具身智能的“ChatGPT时刻”何时到来？宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260821/herald/05e1985fc27526ee95fe934f79d9fc3b.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-08-21-bloomberg-technology-",
     "date": "2026-08-21",
     "title": "人形机器人让中国在科技竞赛中领先",
@@ -65,11 +93,26 @@
       "robotics"
     ],
     "region": "Global",
-    "summary": "China’s humanoid robot makers now control 97% of global shipments, giving Beijing an early lead over U.S. rivals. At the World Robot Conference, robots sort boxes, handle laundry, and bag clothes, but the real test is whether they can become everyday tools. Bloomberg’s Allen Wan has more. (Source: Bloomberg)（原题：Humanoid Robots Put China Ahead in Tech Race）",
+    "summary": "China’s humanoid robot makers now control 97% of global shipments, giving Beijing an early lead over US rivals. But can they become everyday tools?\n\nAt the World Robot Conference in Beijing, robots sort boxes, handle laundry and bag clothes, as Allen Wan finds out. (Source: Bloomberg)（原题：Humanoid Robots Put China Ahead in Tech Race）",
     "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-08-21/humanoid-robots-put-china-ahead-in-tech-race-video",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-08-21/humanoid-robots-put-china-ahead-in-tech-race-video-mt2pfbam",
     "tags": [],
-    "impact": "Fri, 21 Aug 2026 07:16:36 GMT"
+    "impact": "Fri, 21 Aug 2026 08:45:34 GMT"
+  },
+  {
+    "id": "2026-08-21-caifuhaoeastmoneycom-54",
+    "date": "2026-08-21",
+    "title": "人形机器人行业的黄金时代！只会迟到，不会不到！54",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人行业的黄金时代！只会迟到，不会不到！54",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20260821154029972776030",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-08-21-qbitaicom-wrc15",
@@ -84,34 +127,6 @@
     "source_url": "https://www.qbitai.com/2026/08/476413.html",
     "tags": [],
     "impact": ""
-  },
-  {
-    "id": "2026-08-21-m21jingjicom-21-",
-    "date": "2026-08-21",
-    "title": "21评论｜机器人，“广东造”的又一次弯道超越 评论",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "21评论｜机器人，“广东造”的又一次弯道超越 评论",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260821/herald/9e73dcf1477a3485f06c985568c1e36e.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-20-bloomberg-technology-agility-robotics",
-    "date": "2026-08-20",
-    "title": "Agility Robotics首席执行官谈上市计划，中国竞争对手",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Peggy Johnson, CEO of Agility Robotics, discussed the company's upcoming public debut, positioning it as the only pure-play US public company focused on humanoid robots with proven commercial applications. Agility Robotics is valued at a $2.5 billion pre-money valuation and expects to go public in the fall. She speaks with Romaine Bostick & Sally Bakewell on \"The Close.\" (Source: Bloomberg)（原题：Agility Robotics CEO on Plans To Go Public, China Rivals）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-08-20/agility-robotics-ceo-on-plans-to-go-public-china-rivals-video",
-    "tags": [],
-    "impact": "Thu, 20 Aug 2026 20:56:42 GMT"
   },
   {
     "id": "2026-08-20-the-robot-report-atdev-",
