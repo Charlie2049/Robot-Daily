@@ -1,15 +1,72 @@
 [
   {
-    "id": "2026-08-22-m21jingjicom-wrc-",
+    "id": "2026-08-22-the-robot-report-",
     "date": "2026-08-22",
-    "title": "直击WRC｜海外机器人厂商主动来华，寻找电池配套方案 公司",
+    "title": "这项技术可以将机器人割草机带到美国二分之一的草坪上",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "直击WRC｜海外机器人厂商主动来华，寻找电池配套方案 公司",
+    "summary": "Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder. The post The technology that could bring robot mowers to one in two American lawns appeared first on The Robot Report .（原题：The technology that could bring robot mowers to one in two American lawns）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/",
+    "tags": [],
+    "impact": "Sat, 22 Aug 2026 12:30:08 +0000"
+  },
+  {
+    "id": "2026-08-22----",
+    "date": "2026-08-22",
+    "title": "这届机器人才艺拉满了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "这届机器人才艺拉满了",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8D%E8%89%BA%E6%8B%89%E6%BB%A1%E4%BA%86",
+    "tags": [],
+    "impact": "17万"
+  },
+  {
+    "id": "2026-08-22-m21jingjicom-",
+    "date": "2026-08-22",
+    "title": "记者手记：今年的机器人，个个都有“打工魂”公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "记者手记：今年的机器人，个个都有“打工魂”公司",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260822/herald/6ec83063d49f77f16e5e82afb54c74a4.html",
+    "source_url": "https://m.21jingji.com/article/20260822/herald/d4d280344bb70911ce060d3bcbe0b694.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-22-m21jingjicom--",
+    "date": "2026-08-22",
+    "title": "能焊接、会分拣、懂家务：我国机器人产业从技术演示迈向实景商用 学习经济",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "能焊接、会分拣、懂家务：我国机器人产业从技术演示迈向实景商用 学习经济",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260822/herald/1ae34908a025a60847fa599f0a3b1d64.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-22-m21jingjicom--",
+    "date": "2026-08-22",
+    "title": "第二届世界人形机器人运动会开幕式 直播",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "第二届世界人形机器人运动会开幕式 直播",
+    "source": "m.21jingji.com",
+    "source_url": "http://m.21jingji.com/live/show/5555.html",
     "tags": [],
     "impact": ""
   },
@@ -24,6 +81,91 @@
     "summary": "机器人GPT-3时刻震动硅谷，0行代码，看一遍秒会，黄仁勋李飞飞参投",
     "source": "36kr.com",
     "source_url": "https://www.36kr.com/p/3949212725542021",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-22-qbitaicom-",
+    "date": "2026-08-22",
+    "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/476965.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-22-qbitaicom-",
+    "date": "2026-08-22",
+    "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/476930.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-22-m21jingjicom-",
+    "date": "2026-08-22",
+    "title": "世界机器人大会释放了什么信号？评论",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "世界机器人大会释放了什么信号？评论",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260822/herald/18beaac507a45c6eabae67174ed6373a.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-22----",
+    "date": "2026-08-22",
+    "title": "世界人形机器人运动会开幕",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "世界人形机器人运动会开幕",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%BC%80%E5%B9%95",
+    "tags": [],
+    "impact": "28万"
+  },
+  {
+    "id": "2026-08-22-qbitaicom-demo11wrc",
+    "date": "2026-08-22",
+    "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/477016.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-22-m21jingjicom-932",
+    "date": "2026-08-22",
+    "title": "9秒32！深圳荣耀机器人打破人类百米纪录！视频",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "9秒32！深圳荣耀机器人打破人类百米纪录！视频",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260822/herald/caac4df42764363af48e785a3807d323.html",
     "tags": [],
     "impact": ""
   },
