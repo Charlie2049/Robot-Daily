@@ -1,44 +1,87 @@
 [
   {
-    "id": "2026-08-23-m21jingjicom-1500-",
-    "date": "2026-08-23",
-    "title": "远超首届、超越人类！人形机器人运动会1500米冠亚季军出炉 宏观",
+    "id": "2026-08-24-m21jingjicom--",
+    "date": "2026-08-24",
+    "title": "被反超！宇树科技跌至全球人形机器人市值榜第二 公司",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "远超首届、超越人类！人形机器人运动会1500米冠亚季军出炉 宏观",
+    "summary": "被反超！宇树科技跌至全球人形机器人市值榜第二 公司",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260823/herald/ba3fa9276b398f52ceced464c0c627cf.html",
+    "source_url": "https://m.21jingji.com/article/20260824/herald/7054b091a5b9f911c65b69af2e78b8df.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-23-geekparknet-",
-    "date": "2026-08-23",
-    "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
+    "id": "2026-08-24-36krcom-10ceo10",
+    "date": "2026-08-24",
+    "title": "硬氪专访丨公司退市、裁员10万人，前掌门教育CEO创业家庭机器人，获10亿融资",
     "category": [
-      "robotics"
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
-    "source": "geekpark.net",
-    "source_url": "http://www.geekpark.net/news/369221",
+    "summary": "硬氪专访丨公司退市、裁员10万人，前掌门教育CEO创业家庭机器人，获10亿融资",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3952867368648073",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-23-financesinacomcn-9-783",
-    "date": "2026-08-23",
-    "title": "上纬新材消费级机器人正式开启预订，预计首批发货最早9月 783",
+    "id": "2026-08-24-36krcom-",
+    "date": "2026-08-24",
+    "title": "演示台之下，工业具身智能到底走到了哪里？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "演示台之下，工业具身智能到底走到了哪里？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3952771277553030",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-24----",
+    "date": "2026-08-24",
+    "title": "机器人运动会惊现神同步灵巧手",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "上纬新材消费级机器人正式开启预订，预计首批发货最早9月 783",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-08-23/doc-iniphhax0721545.shtml",
+    "summary": "机器人运动会惊现神同步灵巧手",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E6%83%8A%E7%8E%B0%E7%A5%9E%E5%90%8C%E6%AD%A5%E7%81%B5%E5%B7%A7%E6%89%8B",
+    "tags": [],
+    "impact": "28万"
+  },
+  {
+    "id": "2026-08-24-ifanrcom-iphone-",
+    "date": "2026-08-24",
+    "title": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展 公司",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1676314",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-24-mithomecom--91",
+    "date": "2026-08-24",
+    "title": "天工团队回应机器人捂脸跑夺冠：没有找小姑娘让它学，是它自己想出来的 91评",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "天工团队回应机器人捂脸跑夺冠：没有找小姑娘让它学，是它自己想出来的 91评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/993344.htm",
     "tags": [],
     "impact": ""
   },
@@ -57,16 +100,16 @@
     "impact": ""
   },
   {
-    "id": "2026-08-22-qbitaicom-demo11wrc",
-    "date": "2026-08-22",
-    "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+    "id": "2026-08-23-ai-botcn-teleagent---ai-",
+    "date": "2026-08-23",
+    "title": "TeleAgent – 中国电信天翼 AI 推出的桌面级通用智能体助手",
     "category": [
-      "humanoid"
+      "general"
     ],
     "region": "Global",
-    "summary": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/08/477253.html",
+    "summary": "TeleAgent – 中国电信天翼 AI 推出的桌面级通用智能体助手",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/teleagent/",
     "tags": [],
     "impact": ""
   },
