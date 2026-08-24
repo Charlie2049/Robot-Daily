@@ -1,20 +1,5 @@
 [
   {
-    "id": "2026-08-24-m21jingjicom--",
-    "date": "2026-08-24",
-    "title": "被反超！宇树科技跌至全球人形机器人市值榜第二 公司",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "被反超！宇树科技跌至全球人形机器人市值榜第二 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260824/herald/7054b091a5b9f911c65b69af2e78b8df.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-08-24-36krcom-10ceo10",
     "date": "2026-08-24",
     "title": "硬氪专访丨公司退市、裁员10万人，前掌门教育CEO创业家庭机器人，获10亿融资",
@@ -28,34 +13,6 @@
     "source_url": "https://www.36kr.com/p/3952867368648073",
     "tags": [],
     "impact": ""
-  },
-  {
-    "id": "2026-08-24-36krcom-",
-    "date": "2026-08-24",
-    "title": "演示台之下，工业具身智能到底走到了哪里？",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "演示台之下，工业具身智能到底走到了哪里？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3952771277553030",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-24----",
-    "date": "2026-08-24",
-    "title": "机器人运动会惊现神同步灵巧手",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "机器人运动会惊现神同步灵巧手",
-    "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E6%83%8A%E7%8E%B0%E7%A5%9E%E5%90%8C%E6%AD%A5%E7%81%B5%E5%B7%A7%E6%89%8B",
-    "tags": [],
-    "impact": "28万"
   },
   {
     "id": "2026-08-24-ifanrcom-iphone-",
@@ -72,16 +29,74 @@
     "impact": ""
   },
   {
-    "id": "2026-08-24-mithomecom--91",
+    "id": "2026-08-24-m21jingjicom--",
     "date": "2026-08-24",
-    "title": "天工团队回应机器人捂脸跑夺冠：没有找小姑娘让它学，是它自己想出来的 91评",
+    "title": "对话辉羲智能创始人徐宁仪：机器人行业开始补“工程化”这一课 公司",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "天工团队回应机器人捂脸跑夺冠：没有找小姑娘让它学，是它自己想出来的 91评",
+    "summary": "对话辉羲智能创始人徐宁仪：机器人行业开始补“工程化”这一课 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260824/herald/4c79397a8556420a7fddebe87b9718a9.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-24-mithomecom--114",
+    "date": "2026-08-24",
+    "title": "天工团队回应机器人捂脸跑夺冠：没有找小姑娘让它学，是它自己想出来的 114评",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "天工团队回应机器人捂脸跑夺冠：没有找小姑娘让它学，是它自己想出来的 114评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/993344.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-24-bloomberg-technology-xpeng-robot-unit-to-raise-900-million-f",
+    "date": "2026-08-24",
+    "title": "Xpeng Robot Unit to Raise $900 Million From Likes of Alibaba",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Xpeng Inc.’s robot unit plans to raise $900 million from investors including Alibaba Group Holding Ltd. and Tencent Holdings Ltd., bolstering the automaker’s push into humanoid robots.",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-08-24/xpeng-robot-unit-to-raise-900-million-from-likes-of-alibaba",
+    "tags": [],
+    "impact": "Mon, 24 Aug 2026 10:09:02 GMT"
+  },
+  {
+    "id": "2026-08-24-the-verge-humanoid-robots-smash-usain-bolt8217s-100-meter-re",
+    "date": "2026-08-24",
+    "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation ​Center, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 […]",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+    "tags": [],
+    "impact": "2026-08-24T05:10:40-04:00"
+  },
+  {
+    "id": "2026-08-24-aibasecom-aiwan30o3ai",
+    "date": "2026-08-24",
+    "title": "AI日报：万相Wan3.0模型上线；小米发布玄戒O3等AI芯片；第二届世界人形机器人运动会开幕",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AI日报：万相Wan3.0模型上线；小米发布玄戒O3等AI芯片；第二届世界人形机器人运动会开幕",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/30578",
     "tags": [],
     "impact": ""
   },
