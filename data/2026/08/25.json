@@ -1,75 +1,145 @@
 [
   {
-    "id": "2026-08-25----",
+    "id": "2026-08-25-cnbc-technology-",
     "date": "2026-08-25",
-    "title": "自动驾驶状态违法由车企担责",
+    "title": "黑莓首席执行官表示机器人技术是其增长最快的业务之一",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.（原题：BlackBerry CEO says robotics is one of its fastest-growing businesses）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+    "tags": [],
+    "impact": "Tue, 25 Aug 2026 09:26:05 GMT"
+  },
+  {
+    "id": "2026-08-25-gelonghuicom-",
+    "date": "2026-08-25",
+    "title": "道交法修订草案新增自动驾驶汽车专章规定",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "自动驾驶状态违法由车企担责",
-    "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%8A%B6%E6%80%81%E8%BF%9D%E6%B3%95%E7%94%B1%E8%BD%A6%E4%BC%81%E6%8B%85%E8%B4%A3",
-    "tags": [],
-    "impact": "30万"
-  },
-  {
-    "id": "2026-08-25-m21jingjicom-",
-    "date": "2026-08-25",
-    "title": "对话天工团队专家：为何今年人形机器人屡破人类纪录？宏观",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "对话天工团队专家：为何今年人形机器人屡破人类纪录？宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260825/herald/3ab46b92f23e864d823f0c6a545f0140.html",
+    "summary": "道交法修订草案新增自动驾驶汽车专章规定",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/6269919",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-25-jisilucn-1214",
+    "id": "2026-08-25-guokrcom-",
     "date": "2026-08-25",
-    "title": "人形机器人1万年行不行？214",
+    "title": "机器人“捂脸跑”夺冠，人类要是也这么跑……",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人“捂脸跑”夺冠，人类要是也这么跑……",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/470026/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-25-mit-technology-review-",
+    "date": "2026-08-25",
+    "title": "我在上海的机器人“嘉年华”度过了一天。这是我所看到的。",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the…（原题：I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.）",
+    "source": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "tags": [],
+    "impact": "Tue, 25 Aug 2026 09:00:00 +0000"
+  },
+  {
+    "id": "2026-08-25-qbitaicom-310500",
+    "date": "2026-08-25",
+    "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/479132.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-25-bloomberg-technology-chatgpt",
+    "date": "2026-08-25",
+    "title": "人形机器人行业等待ChatGPT时刻",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "人形机器人1万年行不行？214",
+    "summary": "Two events in China showed progress, but robotics industry still has far to go（原题：Humanoid Robot Industry Awaiting ChatGPT Moment）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-25/humanoid-robot-industry-awaiting-chatgpt-moment",
+    "tags": [],
+    "impact": "Tue, 25 Aug 2026 11:02:01 GMT"
+  },
+  {
+    "id": "2026-08-25-jisilucn-11557",
+    "date": "2026-08-25",
+    "title": "人形机器人1万年行不行？1557",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人1万年行不行？1557",
     "source": "jisilu.cn",
     "source_url": "https://www.jisilu.cn/question/524709",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-25-qbitaicom-resnet",
+    "id": "2026-08-25-ieee-spectrum-robotics-",
     "date": "2026-08-25",
-    "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
+    "title": "人工智能伴侣机器人正在关闭现代家庭中的人与人之间的联系",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/08/478675.html",
+    "summary": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality. Once the novelty wore off, many ended up sitting unused on shelves. As some of those companies went out of business and turned off their servers, many owners likened it to losing a pet. What Ollobot describes as “gentle intelligence” is a useful way to think about where the serious work in this category is going. Not toward more powerful assistants, but toward more present ones. The problem companion robots were trying to solve Loneliness is not a niche issue. According to one study , nearly one out of three elderly adults resides alone, meaning they do not have daily companions. Research also shows that children whose parents have migrated for work, leaving them in the care of relatives, were 2.5 times more likely to experience loneliness than children whose parents remain with them. Among working adults living alone in urban environments, similar patterns of social isolation emerge, even if they are less visible. Over the years, technology has time and again attempted to solve this problem via video calls, smart speakers, and messaging apps without much success. Those tools are geared towards communication between people that already have relationships. They do not create presence. They schedule it. That is the gap that a new generation of AI companion robots is being engineered to fill. Today’s AI robots are different Today’s companion robots are not just cute and cuddly. They are designed with psychological research, clinical insight and long-term interaction models to be truly useful in real homes. Three fundamental shifts define the current generation: From reactive to proactive response. Older robots relied on you speaking to them, but modern robots monitor a room with cameras, microphones, and surroundings sensors to initiate interactions without your input, and they can pick up on your emotions. From function-oriented to emotion-oriented design. The original pitch for companion robots was about what they could do. The question driving the serious work now is how they make you feel, which is a harder engineering problem and a more honest framing of what the product is actually for. From standalone hardware to connected ecosystems. Leading brands are creating platforms rather than devices with software included as a built-in layer and remote access from the beginning. The global AI companion market size was valued at US $36.8 billion in 2025 and is projected to grow from $48 billion in 2026 to $318 billion by 2033, at a compound annual growth rate of 31 percent from 2026 to 2033. Three household scenarios and interaction models Ollobot’s advanced AI family companion robot OlloNi SS1 addresses a number of gaps in what existing technology offers. Elderly individuals living alone. The combination of proactive interaction, fall detection, and persistent presence addresses both safety and companionship without the social overhead of asking family members to check in more frequently. Children in households where parents work far from home. The SS1 functions as a consistent companion that already knows a child, their preferences, their moods, and their routines. The remote connection features allow parents to stay present without requiring a scheduled call, and the life recording system gives them a passive window into their child’s days that feels less clinical than a monitoring camera. Single professionals living alone in cities. The SS1 adapts to daily routines, builds up a preference model over time, and provides ambient social presence without demands. OlloNi SS1 adapts to daily routines over time. Ollobot What OlloNi SS1 is doing differently? Ollobot’s goal in building intelligent companion robots is to address the gaps in technology and capability, using innovation not to automate tasks but to fill emotional voids. Much of the robotics industry has historically pursued human imitation — machines that speak, look, or behave like people. The SS1 is instead designed around familiarity and long-term coexistence rather than realism. The system integrates multiple subsystems operating in parallel, including visual perception, audio processing, mobility control, and interaction management. It is equipped with a multi-chip AI 4K vision module capable of facial recognition and motion tracking. One small but revealing detail is the inclusion of a physical privacy cover for the camera — a mechanical solution to concerns that software settings alone may not fully resolve. OlloNi SS1 can actively integrate into family activities, and it can autonomously move closer to capture memorable moments or reposition itself to remain engaged in ongoing interactions. Ollobot The robot supports advanced mobility across multiple indoor surfaces, including wooden floors, ceramic tiles, and low-pile carpets, with slope climbing capability up to 3.5 degrees. Rather than remaining in a fixed location, it can move naturally throughout the home to stay close to household members as daily activities unfold. For example, the OlloNi SS1 may greet family members when they arrive home, follow an older adult from the living room to the kitchen while continuing a conversation, remind a child to take a study break after a prolonged period of inactivity, or notice that someone appears unusually quiet and gently check in. During family activities, it can autonomously move closer to capture memorable moments or reposition itself to remain engaged in ongoing interactions. The robot continues to evolve over time, with over-the-air updates that deliver new features, performance improvements, and AI enhancements It also incorporates fall detection with optimized accuracy for safety monitoring scenarios. A 6-microphone array enables omnidirectional voice pickup with an effective voice capture range of up to 5 meters, supporting reliable wake-word detection and far-field interaction. To support continuous companionship, much of the robot’s AI processing takes place directly on the device through its “heart module” architecture, with 16 GB of memory and 64 GB of local storage. This enables the system to retain household memories, recognize familiar faces, and respond with lower latency, making interactions feel more natural even during everyday routines. Because companion robots are expected to remain available throughout the day rather than only during brief interactions, the SS1 is designed for extended operation, offering up to 12 hours of standby time and around 5 hours of active interaction on a single charge. This allows it to accompany users through meals, conversations, playtime, and other daily activities without frequent interruptions. To support engaging interactions, much of the robot’s AI processing takes place directly on the device through its “heart module” architecture. Ollobot Like the relationships it is designed to build, the robot continues to evolve over time. Running on Android OS with over-the-air (OTA) updates, the system continuously receives new features, performance improvements, and AI enhancements, allowing its capabilities to grow alongside the household it serves. The robot’s behavioral model also improves over time. Rather than reacting to isolated commands, it attempts to establish a baseline understanding of household routines and individuals. Changes in behavior — prolonged quietness, unusual inactivity, or emotional cues — become triggers for interaction. Presence instead of utility Several features in the OlloNi SS1 illustrate this emphasis on presence and continuity in its interactions. The system can identify different household members, including pets, and adapt responses accordingly. Remote communication features allow family members to connect through the device without treating every interaction like a scheduled call. Environmental sensors support contextual reminders tied to weather or room conditions. Its “2+1” multi-display configuration is also designed around emotional communication. Two circular side displays function as expressive “emotional eyes,” while a separate primary display handles information and structured interaction. The separation allows emotional signaling and functional communication to operate independently, creating more intuitive nonverbal interaction even when no dialogue is taking place. The robot’s behavioral model improves over time. Rather than reacting to isolated commands, it attempts to establish a baseline understanding of household routines and individuals. Ollobot The SS1 also includes an automated life-recording system built on facial recognition and behavioral-event detection that can capture moments such as laughter, physical closeness, or group interaction automatically. An integrated AI vlog engine can then organize those moments into edited short-form videos with automated sequencing and soundtrack generation. The design intent is to preserve spontaneous domestic moments without requiring active documentation behavior from users. An integrated AI vlog engine can organize recorded moments into edited short-form videos with automated sequencing and soundtrack generation Visual data is processed primarily on the device through the SS1’s on-device AI architecture, with household memories stored locally and managed within Ollobot’s proprietary ecosystem instead of being shared with third-party smart home platforms. Access to recordings and live feeds is restricted to authorized users through the companion app, while encrypted communication helps protect data during remote access. Users also retain direct control over recording preferences, and the physical camera privacy cover provides an additional hardware-level safeguard whenever visual monitoring is not desired. Learn more at ollobot.com . Remote communication is similarly structured around persistence rather than transaction. Traditional video calls are episodic and screen-bound; the SS1 instead acts as a continuously present interface embedded inside the household environment. Through autonomous mobility, environmental awareness, and persistent household memory, remote family members interact with an ongoing domestic context. The larger shift to “gentle intelligence” Ultimately, gentle intelligence is not about making robots behave more like humans — it is about helping them fit more naturally into human lives. Each OlloNi SS1 unit develops a unique behavioral profile based on its household. Two units running in different homes for a year will have become meaningfully different from each other, shaped by the specific people, habits, and rhythms of where they live. That kind of long-term personalization is what early companion robots never had. It is also what makes the difference between a product that ends up on a shelf and one that actually earns its place in a home. Learn more at ollobot.com .（原题：AI Companion Robots Are Closing the Human Connection in Modern Homes）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
     "tags": [],
-    "impact": ""
+    "impact": "Tue, 25 Aug 2026 10:00:03 +0000"
   },
   {
-    "id": "2026-08-25-bloomberg-technology-could-robots-be-k-pops-next-stars",
+    "id": "2026-08-25-mit-technology-review-",
     "date": "2026-08-25",
-    "title": "Could Robots Be K-pop's Next Stars?",
+    "title": "下载：更智能的人工智能走进学校，上海的机器人“嘉年华”",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "AI is transforming South Korea's entertainment industry, with one startup betting on physical AI in the race to create the superstars of the future. \nGalaxy Corporation sees robot idols as the next generation of K-pop celebrities. \nBloomberg's Sohee Kim reports from Seoul. (Source: Bloomberg)",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-08-25/could-robots-be-k-pop-s-next-stars-video",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their phones that could magically answer almost any homework question or…（原题：The Download: smarter AI in schools, and a robot “carnival” in Shanghai）",
+    "source": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
     "tags": [],
-    "impact": "Tue, 25 Aug 2026 03:44:12 GMT"
+    "impact": "Tue, 25 Aug 2026 12:10:00 +0000"
+  },
+  {
+    "id": "2026-08-25-aibasecom-aiaichatgptgemini",
+    "date": "2026-08-25",
+    "title": "AI日报：字节发布AI办公智能体豆包工作；ChatGPT上线自定义贴纸功能；谷歌测试Gemini新界面",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：字节发布AI办公智能体豆包工作；ChatGPT上线自定义贴纸功能；谷歌测试Gemini新界面",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/30606",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-08-25-36krcom-8194",
@@ -87,60 +157,48 @@
     "impact": ""
   },
   {
-    "id": "2026-08-24-the-robot-report-xpeng-motors-humanoid-robot-unit-dogotix-ra",
-    "date": "2026-08-24",
-    "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
+    "id": "2026-08-25-m21jingjicom-2026-",
+    "date": "2026-08-25",
+    "title": "2026，人形机器人的“新纪录”之年 宏观",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Dogotix, the humanoid unit of XPeng Motors, has attained a valuation of $6.3 billion as it plans to produce robots at scale. The post XPeng Motors humanoid robot unit Dogotix raises $900M appeared first on The Robot Report .",
-    "source": "The Robot Report",
-    "source_url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
+    "summary": "2026，人形机器人的“新纪录”之年 宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260825/herald/f0bc07ddbc7835c97b4b9b52be30b701.html",
     "tags": [],
-    "impact": "Mon, 24 Aug 2026 20:07:09 +0000"
+    "impact": ""
   },
   {
-    "id": "2026-08-24-techcrunch-robotics-valor-point72-back-general-intuition-at-",
+    "id": "2026-08-24-techcrunch-robotics-valorpoint72--60--general-intuition",
     "date": "2026-08-24",
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "title": "随着人工智能初创公司进军机器人领域，Valor、Point72 以 60 亿美元估值支持 General Intuition",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.（原题：Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics）",
     "source": "TechCrunch Robotics",
     "source_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
     "tags": [],
     "impact": "Mon, 24 Aug 2026 15:24:18 +0000"
   },
   {
-    "id": "2026-08-24-the-verge-robotaxis-are-real-now--so-is-the-pushback",
+    "id": "2026-08-24-the-robot-report-dogotix9",
     "date": "2026-08-24",
-    "title": "Robotaxis are real now — so is the pushback",
+    "title": "小鹏汽车人形机器人部门Dogotix融资9亿美元",
     "category": [
-      "robotics"
+      "humanoid",
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later, commercial driverless service remains illegal in […]",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+    "summary": "Dogotix, the humanoid unit of XPeng Motors, has attained a valuation of $6.3 billion as it plans to produce robots at scale. The post XPeng Motors humanoid robot unit Dogotix raises $900M appeared first on The Robot Report .（原题：XPeng Motors humanoid robot unit Dogotix raises $900M）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
     "tags": [],
-    "impact": "2026-08-24T12:42:37-04:00"
-  },
-  {
-    "id": "2026-08-23-geekparknet-",
-    "date": "2026-08-23",
-    "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
-    "source": "geekpark.net",
-    "source_url": "http://www.geekpark.net/news/369221",
-    "tags": [],
-    "impact": ""
+    "impact": "Mon, 24 Aug 2026 20:07:09 +0000"
   }
 ]
