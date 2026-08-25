@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2026-08-26-financesinacomcn-cms16-571",
+    "date": "2026-08-26",
+    "title": "美国医疗保险和医疗补助服务中心(CMS)：特朗普政府宣布拨款1.6亿美元，为阿拉斯加引进尖端技术、无人机处方配送、手术机器人等先进医疗手 571",
+    "category": [
+      "defense",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "美国医疗保险和医疗补助服务中心(CMS)：特朗普政府宣布拨款1.6亿美元，为阿拉斯加引进尖端技术、无人机处方配送、手术机器人等先进医疗手 571",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/7x24/2026-08-26/doc-inipqhkk2308412.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-25-mithomecom--268",
+    "date": "2026-08-25",
+    "title": "明确自动驾驶违法由车企担责，道路交通安全法修订草案提请审议 268评",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "明确自动驾驶违法由车企担责，道路交通安全法修订草案提请审议 268评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/993853.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-25-the-robot-report-jetson-orin-nano-2-doubles-inference-perfor",
+    "date": "2026-08-25",
+    "title": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time. The post Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/",
+    "tags": [],
+    "impact": "Tue, 25 Aug 2026 15:00:22 +0000"
+  },
+  {
+    "id": "2026-08-25-the-robot-report-humans-in-the-loop-are-still-needed-for-rob",
+    "date": "2026-08-25",
+    "title": "Humans in the loop are still needed for robotaxi fleet safety, says Guident",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "As fleets of autonomous vehicles scale, AI and human oversight remain critical for safety, explains Guident's CEO. The post Humans in the loop are still needed for robotaxi fleet safety, says Guident appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/humans-loop-are-still-needed-robotaxi-fleet-safety-says-guident/",
+    "tags": [],
+    "impact": "Tue, 25 Aug 2026 15:11:13 +0000"
+  },
+  {
+    "id": "2026-08-24-aibasecom-aiwan30o3ai",
+    "date": "2026-08-24",
+    "title": "AI日报：万相Wan3.0模型上线；小米发布玄戒O3等AI芯片；第二届世界人形机器人运动会开幕",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AI日报：万相Wan3.0模型上线；小米发布玄戒O3等AI芯片；第二届世界人形机器人运动会开幕",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/30578",
+    "tags": [],
+    "impact": ""
+  }
+]
