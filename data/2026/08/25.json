@@ -1,58 +1,88 @@
 [
   {
-    "id": "2026-08-25-m21jingjicom-",
+    "id": "2026-08-25----",
     "date": "2026-08-25",
-    "title": "智慧生活加速到来！机器人硬核科技，将带来哪些惊喜？宏观",
+    "title": "自动驾驶状态违法由车企担责",
     "category": [
-      "robotics"
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "智慧生活加速到来！机器人硬核科技，将带来哪些惊喜？宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260825/herald/b8bc2ec252d1381b411bedd8675485e2.html",
+    "summary": "自动驾驶状态违法由车企担责",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%8A%B6%E6%80%81%E8%BF%9D%E6%B3%95%E7%94%B1%E8%BD%A6%E4%BC%81%E6%8B%85%E8%B4%A3",
     "tags": [],
-    "impact": ""
+    "impact": "30万"
   },
   {
-    "id": "2026-08-25-m21jingjicom--3d-",
+    "id": "2026-08-25-m21jingjicom-",
     "date": "2026-08-25",
-    "title": "从大国重器到人形机器人 3D打印设备“打”出新未来 学习经济",
+    "title": "对话天工团队专家：为何今年人形机器人屡破人类纪录？宏观",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "从大国重器到人形机器人 3D打印设备“打”出新未来 学习经济",
+    "summary": "对话天工团队专家：为何今年人形机器人屡破人类纪录？宏观",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260825/herald/c0de38703633b2c09eeed509c1621384.html",
+    "source_url": "https://m.21jingji.com/article/20260825/herald/3ab46b92f23e864d823f0c6a545f0140.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-25----",
+    "id": "2026-08-25-jisilucn-1214",
     "date": "2026-08-25",
-    "title": "世界机器人大会",
+    "title": "人形机器人1万年行不行？214",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "世界机器人大会",
-    "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A",
+    "summary": "人形机器人1万年行不行？214",
+    "source": "jisilu.cn",
+    "source_url": "https://www.jisilu.cn/question/524709",
     "tags": [],
-    "impact": "4万"
+    "impact": ""
   },
   {
-    "id": "2026-08-25-m21jingjicom-21-",
+    "id": "2026-08-25-qbitaicom-resnet",
     "date": "2026-08-25",
-    "title": "21评论丨期待机器人从赛场“跑进”市场 评论",
+    "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "21评论丨期待机器人从赛场“跑进”市场 评论",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260825/970d61d77b205172b8d8c3e391d94ef9.html",
+    "summary": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/08/478675.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-08-25-bloomberg-technology-could-robots-be-k-pops-next-stars",
+    "date": "2026-08-25",
+    "title": "Could Robots Be K-pop's Next Stars?",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AI is transforming South Korea's entertainment industry, with one startup betting on physical AI in the race to create the superstars of the future. \nGalaxy Corporation sees robot idols as the next generation of K-pop celebrities. \nBloomberg's Sohee Kim reports from Seoul. (Source: Bloomberg)",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-08-25/could-robots-be-k-pop-s-next-stars-video",
+    "tags": [],
+    "impact": "Tue, 25 Aug 2026 03:44:12 GMT"
+  },
+  {
+    "id": "2026-08-25-36krcom-8194",
+    "date": "2026-08-25",
+    "title": "8点1氪丨“敌敌畏消杀餐厅”事件已成立联合调查组；小鹏机器人首轮融资超9亿美元；东方甄选薪酬少发4个亿",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "8点1氪丨“敌敌畏消杀餐厅”事件已成立联合调查组；小鹏机器人首轮融资超9亿美元；东方甄选薪酬少发4个亿",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3954181545753728",
     "tags": [],
     "impact": ""
   },
@@ -98,5 +128,19 @@
     "source_url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
     "tags": [],
     "impact": "2026-08-24T12:42:37-04:00"
+  },
+  {
+    "id": "2026-08-23-geekparknet-",
+    "date": "2026-08-23",
+    "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/369221",
+    "tags": [],
+    "impact": ""
   }
 ]
