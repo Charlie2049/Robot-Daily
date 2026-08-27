@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-08-28-m21jingjicom-l3",
+    "date": "2026-08-28",
+    "title": "自动驾驶入法，中国汽车进入“L3时刻”评论",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "自动驾驶入法，中国汽车进入“L3时刻”评论",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260828/c7d2ebd30d7c2a312a7cba7d136243c9.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-08-28-36krcom-",
     "date": "2026-08-28",
     "title": "甩掉遥控器，超越博尔特，“硅基”迈入全自主时代：没有“人”的“机器人”该如何奔跑",
@@ -28,56 +42,84 @@
     "impact": ""
   },
   {
-    "id": "2026-08-27-the-verge-hugging-face-",
+    "id": "2026-08-27-the-robot-report-teradyne-robotics-ramps-up-fight-against-co",
     "date": "2026-08-27",
-    "title": "Hugging Face 的新机器人是一只可爱的溜冰鸭",
+    "title": "Teradyne Robotics ramps up fight against cobot copycats",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little robot \"before Christmas 2026.\" Video demos of the […]（原题：Hugging Face’s new robot is an adorable rollerskating duck）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+    "summary": "Teradyne Robotics sued cobot maker JAKA over alleged patent infringement, marking its second battle with a Chinese cobot company in 2026. The post Teradyne Robotics ramps up fight against cobot copycats appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/teradyne-robotics-sues-another-chinese-cobot-maker/",
     "tags": [],
-    "impact": "2026-08-27T09:44:00-04:00"
+    "impact": "Thu, 27 Aug 2026 20:31:27 +0000"
   },
   {
-    "id": "2026-08-27-bloomberg-technology-hugging-face--400-",
+    "id": "2026-08-27-the-robot-report-nsf-to-invest-90m-into-three-new-technology",
     "date": "2026-08-27",
-    "title": "Hugging Face 推出售价 400 美元的会唱歌、会滑冰的鸭子机器人",
+    "title": "NSF to invest $90M into three new technology centers, including one focused on robotics",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Artificial intelligence platform Hugging Face Inc. unveiled a singing $400 bipedal robot that can be taught tricks, the latest in the company’s ongoing effort to make AI and robotics more approachable to the general public.The cute robot — aptly named Microduck — takes clear inspiration from its namesake bird, except that it has only one eye. It will go on sale later this year, Hugging Face said Thursday, making it the second robot from the company.（原题：Hugging Face Unveils $400 Singing, Skating Duck-Like Robot）",
+    "summary": "One of the new NSF funded centers will be the Center for Human and Robot Co-Adaptation, led by The University of Texas at Austin. The post NSF to invest $90M into three new technology centers, including one focused on robotics appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/nsf-invests-90m-three-new-technology-centers-including-one-focused-robotics/",
+    "tags": [],
+    "impact": "Thu, 27 Aug 2026 18:12:54 +0000"
+  },
+  {
+    "id": "2026-08-27-bloomberg-technology-hugging-face-co-founder-on-open-source-",
+    "date": "2026-08-27",
+    "title": "Hugging Face Co-Founder on Open-Source Robot, Reports of Nvidia Deal",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Hugging Face unveiled MicroDuck, the company’s new open-source robot that can walk, talk, and roller-skate. Hugging Face co-founder and Chief Science Officer Thomas Wolf discusses surging demand for robotics and open-source AI, and says the company is currently selling roughly one MicroDuck every four seconds. He also declined to comment on reports that Nvidia is nearing a roughly $13 billion deal to acquire the AI startup, while saying Hugging Face regularly receives acquisition and investment interest. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
     "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-08-27/hugging-face-unveils-400-singing-skating-duck-like-robot",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-08-27/hugging-face-pushes-deeper-into-robotics-with-microduck-video",
     "tags": [],
-    "impact": "Thu, 27 Aug 2026 10:00:10 GMT"
+    "impact": "Thu, 27 Aug 2026 18:44:57 GMT"
   },
   {
-    "id": "2026-08-27-the-robot-report-carbon-robotics--imerit-",
+    "id": "2026-08-27-the-robot-report-carbon-robotics-partners-with-imerit-to-pow",
     "date": "2026-08-27",
-    "title": "Carbon Robotics 与 iMerit 合作，为即时现场人工智能定制提供支持",
+    "title": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Carbon Robotics introduced a plant foundation AI model and tractor kit, enabling farmers to customize laser weeding. The post Carbon Robotics partners with iMerit to power instant in-field AI customization appeared first on The Robot Report .（原题：Carbon Robotics partners with iMerit to power instant in-field AI customization）",
+    "summary": "Carbon Robotics introduced a plant foundation AI model and tractor kit, enabling farmers to customize laser weeding. The post Carbon Robotics partners with iMerit to power instant in-field AI customization appeared first on The Robot Report .",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization/",
     "tags": [],
     "impact": "Thu, 27 Aug 2026 13:27:58 +0000"
   },
   {
-    "id": "2026-08-26-the-robot-report-bedrock-robotics-",
-    "date": "2026-08-26",
-    "title": "Bedrock Robotics 首次部署免操作员挖掘机",
+    "id": "2026-08-27-bloomberg-technology-anthropic-tests-new-way-for-claude-to-w",
+    "date": "2026-08-27",
+    "title": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Bedrock Robotics deploys autonomous excavators to active job sites, tackling construction labor shortages with AI-powered heavy machinery. The post Bedrock Robotics’ first operator-free excavator deployments take off appeared first on The Robot Report .（原题：Bedrock Robotics’ first operator-free excavator deployments take off）",
+    "summary": "Anthropic PBC announced a new software standard that will allow artificial intelligence assistants like Claude to work better with robots and science and manufacturing hardware.",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools",
+    "tags": [],
+    "impact": "Thu, 27 Aug 2026 19:31:02 GMT"
+  },
+  {
+    "id": "2026-08-26-the-robot-report-bedrock-robotics-first-operator-free-excava",
+    "date": "2026-08-26",
+    "title": "Bedrock Robotics’ first operator-free excavator deployments take off",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Bedrock Robotics deploys autonomous excavators to active job sites, tackling construction labor shortages with AI-powered heavy machinery. The post Bedrock Robotics’ first operator-free excavator deployments take off appeared first on The Robot Report .",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/bedrock-robotics-first-operator-free-excavator-deployments-take-off/",
     "tags": [],
