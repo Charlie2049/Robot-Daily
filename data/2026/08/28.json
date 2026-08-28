@@ -1,43 +1,29 @@
 [
   {
-    "id": "2026-08-28-m21jingjicom-l3",
-    "date": "2026-08-28",
-    "title": "自动驾驶入法，中国汽车进入“L3时刻”评论",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "自动驾驶入法，中国汽车进入“L3时刻”评论",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260828/c7d2ebd30d7c2a312a7cba7d136243c9.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-08-28-36krcom-",
     "date": "2026-08-28",
-    "title": "甩掉遥控器，超越博尔特，“硅基”迈入全自主时代：没有“人”的“机器人”该如何奔跑",
+    "title": "机器人赛场开始淘汰“偏科生”",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "甩掉遥控器，超越博尔特，“硅基”迈入全自主时代：没有“人”的“机器人”该如何奔跑",
+    "summary": "机器人赛场开始淘汰“偏科生”",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3957715774815621",
+    "source_url": "https://www.36kr.com/p/3958662475873669",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-27-m21jingjicom--",
-    "date": "2026-08-27",
-    "title": "央行陆磊：智能体支付不能模糊责任边界 金融",
+    "id": "2026-08-28-m21jingjicom--",
+    "date": "2026-08-28",
+    "title": "卧安机器人由盈转亏 公司",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "央行陆磊：智能体支付不能模糊责任边界 金融",
+    "summary": "卧安机器人由盈转亏 公司",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260827/herald/031d482e77631f5a2e9a7ffc866ede86.html",
+    "source_url": "https://m.21jingji.com/article/20260828/herald/74d68f6babbf0c4179f51d8057cf690a.html",
     "tags": [],
     "impact": ""
   },
@@ -70,20 +56,6 @@
     "impact": "Thu, 27 Aug 2026 18:12:54 +0000"
   },
   {
-    "id": "2026-08-27-bloomberg-technology-hugging-face-co-founder-on-open-source-",
-    "date": "2026-08-27",
-    "title": "Hugging Face Co-Founder on Open-Source Robot, Reports of Nvidia Deal",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Hugging Face unveiled MicroDuck, the company’s new open-source robot that can walk, talk, and roller-skate. Hugging Face co-founder and Chief Science Officer Thomas Wolf discusses surging demand for robotics and open-source AI, and says the company is currently selling roughly one MicroDuck every four seconds. He also declined to comment on reports that Nvidia is nearing a roughly $13 billion deal to acquire the AI startup, while saying Hugging Face regularly receives acquisition and investment interest. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-08-27/hugging-face-pushes-deeper-into-robotics-with-microduck-video",
-    "tags": [],
-    "impact": "Thu, 27 Aug 2026 18:44:57 GMT"
-  },
-  {
     "id": "2026-08-27-the-robot-report-carbon-robotics-partners-with-imerit-to-pow",
     "date": "2026-08-27",
     "title": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
@@ -96,20 +68,6 @@
     "source_url": "https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization/",
     "tags": [],
     "impact": "Thu, 27 Aug 2026 13:27:58 +0000"
-  },
-  {
-    "id": "2026-08-27-bloomberg-technology-anthropic-tests-new-way-for-claude-to-w",
-    "date": "2026-08-27",
-    "title": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Anthropic PBC announced a new software standard that will allow artificial intelligence assistants like Claude to work better with robots and science and manufacturing hardware.",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools",
-    "tags": [],
-    "impact": "Thu, 27 Aug 2026 19:31:02 GMT"
   },
   {
     "id": "2026-08-26-the-robot-report-bedrock-robotics-first-operator-free-excava",
