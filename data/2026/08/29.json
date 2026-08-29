@@ -1,42 +1,28 @@
 [
   {
-    "id": "2026-08-29-36krcom-science-robotics",
+    "id": "2026-08-29-36krcom-36",
     "date": "2026-08-29",
-    "title": "Science Robotics：机器人会空翻并不稀奇，伯克利、斯坦福团队搞定了“什么时候该空翻”",
+    "title": "拿下中石油体系超百台订单，这家公司为特危化场景提供“巡操一体”机器人丨36氪首发",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Science Robotics：机器人会空翻并不稀奇，伯克利、斯坦福团队搞定了“什么时候该空翻”",
+    "summary": "拿下中石油体系超百台订单，这家公司为特危化场景提供“巡操一体”机器人丨36氪首发",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3958981175098499",
+    "source_url": "https://www.36kr.com/p/3959929849642113",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-29-m21jingjicom-21-",
-    "date": "2026-08-29",
-    "title": "21社论丨机器人扩产要避免“一哄而上”，需理性发展 评论",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "21社论丨机器人扩产要避免“一哄而上”，需理性发展 评论",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260829/d8799593769b4ba13a3647e0bda221b8.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-08-28-caifuhaoeastmoneycom----212",
+    "id": "2026-08-28-caifuhaoeastmoneycom----227",
     "date": "2026-08-28",
-    "title": "人形机器人万亿赛道！ \"卖铲子\" 环节成最大赢家，未来将脱颖而出 212",
+    "title": "人形机器人万亿赛道！ \"卖铲子\" 环节成最大赢家，未来将脱颖而出 227",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "人形机器人万亿赛道！ \"卖铲子\" 环节成最大赢家，未来将脱颖而出 212",
+    "summary": "人形机器人万亿赛道！ \"卖铲子\" 环节成最大赢家，未来将脱颖而出 227",
     "source": "caifuhao.eastmoney.com",
     "source_url": "http://caifuhao.eastmoney.com/news/20260828162046594925370",
     "tags": [],
@@ -69,6 +55,20 @@
     "source_url": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
     "tags": [],
     "impact": "Fri, 28 Aug 2026 13:29:51 +0000"
+  },
+  {
+    "id": "2026-08-28-the-robot-report-from-teach-and-repeat-to-selfpath-ai-the-ne",
+    "date": "2026-08-28",
+    "title": "From teach and repeat to SelfPath AI: The next robotics leap",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI. The post From teach and repeat to SelfPath AI: The next robotics leap appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
+    "tags": [],
+    "impact": "Fri, 28 Aug 2026 23:25:06 +0000"
   },
   {
     "id": "2026-08-28-cnbc-technology-blackberry-lost-the-phone-war-now-its-bettin",
