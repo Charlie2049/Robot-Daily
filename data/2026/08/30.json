@@ -1,31 +1,31 @@
 [
   {
-    "id": "2026-08-30-gelonghuicom-ai",
+    "id": "2026-08-30-ai-botcn-rome--",
     "date": "2026-08-30",
-    "title": "AI智能体频频“越狱”：网络安全迎来范式重构时刻！",
+    "title": "Rome – 开源的智能体操作系统，自然语言生成完整应用",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "AI智能体频频“越狱”：网络安全迎来范式重构时刻！",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/6410745",
+    "summary": "Rome – 开源的智能体操作系统，自然语言生成完整应用",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/rome/",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-08-29-m21jingjicom--",
-    "date": "2026-08-29",
-    "title": "荣耀机器人打破人类纪录，马斯克点赞的不只是速度 公司",
+    "id": "2026-08-30-the-verge-chinas-robots-race-ahead",
+    "date": "2026-08-30",
+    "title": "China’s robots race ahead",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "荣耀机器人打破人类纪录，马斯克点赞的不只是速度 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260829/herald/879324b97a2f40d2875d819791d88e75.html",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started I've admitted my fondness for […]",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
     "tags": [],
-    "impact": ""
+    "impact": "2026-08-30T08:00:00-04:00"
   },
   {
     "id": "2026-08-29-the-robot-report-the-differences-between-decentralized-and-c",
@@ -40,5 +40,19 @@
     "source_url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
     "tags": [],
     "impact": "Sat, 29 Aug 2026 12:25:31 +0000"
+  },
+  {
+    "id": "2026-08-28-geekparknet--wall-ss-",
+    "date": "2026-08-28",
+    "title": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/369508",
+    "tags": [],
+    "impact": ""
   }
 ]
