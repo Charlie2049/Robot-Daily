@@ -1,217 +1,105 @@
 [
   {
-    "id": "2026-09-02-tophubcai-",
+    "id": "2026-09-02-m21jingjicom-ai",
     "date": "2026-09-02",
-    "title": "机器人的下一站，或许是乐高化",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "机器人的下一站，或许是乐高化",
-    "source": "Tophub/c/ai",
-    "source_url": "https://www.36kr.com/p/3964419154337030",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-02-tophubcai--ai-",
-    "date": "2026-09-02",
-    "title": "北上广深语音机器人会话链路架构，从语音识别到 AI 应答全流程",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "北上广深语音机器人会话链路架构，从语音识别到 AI 应答全流程",
-    "source": "Tophub/c/ai",
-    "source_url": "https://blog.csdn.net/uincall/article/details/164206527",
-    "tags": [],
-    "impact": "2.6万"
-  },
-  {
-    "id": "2026-09-02-tophubcai--aiaspice40-mle",
-    "date": "2026-09-02",
-    "title": "亚远景-AI智能体赋能下，ASPICE4.0 MLE机器学习工程高效落地实践",
+    "title": "广东AI智能体进厂：既看得了“天书”，又能破解“图纸迷宫”粤港澳",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "亚远景-AI智能体赋能下，ASPICE4.0 MLE机器学习工程高效落地实践",
-    "source": "Tophub/c/ai",
-    "source_url": "https://blog.csdn.net/yayuanjingkeji/article/details/164216497",
+    "summary": "广东AI智能体进厂：既看得了“天书”，又能破解“图纸迷宫”粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260902/herald/f4ed64d6bb8b7597bf942bf6092444ae.html",
     "tags": [],
-    "impact": "2.7万"
+    "impact": ""
   },
   {
-    "id": "2026-09-02-tophubcai-aiharness-engineering-",
+    "id": "2026-09-02-m21jingjicom-22-",
     "date": "2026-09-02",
-    "title": "【AI智能体】Harness Engineering 驾驭工程从使用到项目实战详解",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "【AI智能体】Harness Engineering 驾驭工程从使用到项目实战详解",
-    "source": "Tophub/c/ai",
-    "source_url": "https://blog.csdn.net/zhangcongyi420/article/details/164031319",
-    "tags": [],
-    "impact": "3.8万"
-  },
-  {
-    "id": "2026-09-02-tophubcai-meta",
-    "date": "2026-09-02",
-    "title": "Meta让机器人进机房“打工”",
+    "title": "做机器人眼脑手，雄安团队拿下22亿港元 公司",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Meta让机器人进机房“打工”",
-    "source": "Tophub/c/ai",
-    "source_url": "https://www.36kr.com/p/3964684125101320",
+    "summary": "做机器人眼脑手，雄安团队拿下22亿港元 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260902/herald/10a3839c8f2b64b2f596234258234bca.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-02-tophubcai-700openai",
-    "date": "2026-09-02",
-    "title": "700个智能体组队“自主攻击”，真正失控的是模型还是OpenAI？",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "700个智能体组队“自主攻击”，真正失控的是模型还是OpenAI？",
-    "source": "Tophub/c/ai",
-    "source_url": "https://www.36kr.com/p/3964687767248385",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-02-tophubcai-4399",
-    "date": "2026-09-02",
-    "title": "4秒卖一台，这只399美元的鸭子，凭什么成了最火的机器人？",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "4秒卖一台，这只399美元的鸭子，凭什么成了最火的机器人？",
-    "source": "Tophub/c/ai",
-    "source_url": "https://www.36kr.com/p/3964640181951751",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-02-tophubctech-36--",
-    "date": "2026-09-02",
-    "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
-    "source": "Tophub/c/tech",
-    "source_url": "https://36kr.com/p/3926003098843272?f=rss",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-02-tophubcai-10",
-    "date": "2026-09-02",
-    "title": "10亿美元对赌引发具身智能重估，物理世界对纯数字叙事的\"反向定价\"",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "10亿美元对赌引发具身智能重估，物理世界对纯数字叙事的\"反向定价\"",
-    "source": "Tophub/c/ai",
-    "source_url": "https://www.36kr.com/p/3964626438856192",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-01-cnbc-technology-waymo-and-zoox-expand-into-more-us-markets-a",
+    "id": "2026-09-01-wallstreetcncom-ai20-3010",
     "date": "2026-09-01",
-    "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
+    "title": "马斯克：AI或令全球经济增长20%-30%，未来十年人形机器人将达10亿台",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "马斯克：AI或令全球经济增长20%-30%，未来十年人形机器人将达10亿台",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3780849",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-01-cnbc-technology-waymo--zoox-",
+    "date": "2026-09-01",
+    "title": "随着机器人出租车竞赛的升温，Waymo 和 Zoox 进军更多美国市场",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Waymo is bringing driverless rides to three more cities, and Amazon plans to start testing in two additional U.S. markets.",
+    "summary": "Waymo is bringing driverless rides to three more cities, and Amazon plans to start testing in two additional U.S. markets.（原题：Waymo and Zoox expand into more U.S. markets as robotaxi race heats up）",
     "source": "CNBC Technology",
     "source_url": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
     "tags": [],
     "impact": "Tue, 01 Sep 2026 14:00:01 GMT"
   },
   {
-    "id": "2026-09-01-bloomberg-technology-waymo-expands-paid-robotaxi-rides-to-de",
+    "id": "2026-09-01-the-robot-report-",
     "date": "2026-09-01",
-    "title": "Waymo Expands Paid Robotaxi Rides to Denver, San Diego and Tampa",
+    "title": "机器人安全保障中缺失的一层",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Waymo will begin offering paid robotaxi rides to the public in Denver, San Diego, and Tampa, Florida, bringing the number of US cities where its driverless ride-hail service is available to 14.",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-09-01/waymo-expands-paid-robotaxi-rides-to-denver-san-diego-and-tampa",
-    "tags": [],
-    "impact": "Tue, 01 Sep 2026 14:00:00 GMT"
-  },
-  {
-    "id": "2026-09-01-the-robot-report-the-missing-layer-in-robot-safety-assurance",
-    "date": "2026-09-01",
-    "title": "The Missing Layer in Robot Safety Assurance",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Why robot safety assurance must account for attacks that can change how a machine sees, decides, and acts. The post The Missing Layer in Robot Safety Assurance appeared first on The Robot Report .",
+    "summary": "Why robot safety assurance must account for attacks that can change how a machine sees, decides, and acts. The post The Missing Layer in Robot Safety Assurance appeared first on The Robot Report .（原题：The Missing Layer in Robot Safety Assurance）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/the-missing-layer-in-robot-safety-assurance/",
     "tags": [],
     "impact": "Tue, 01 Sep 2026 13:56:53 +0000"
   },
   {
-    "id": "2026-09-01-the-robot-report-howtorobot-and-robotics-australia-group-par",
+    "id": "2026-09-01-the-robot-report-howtorobot-",
     "date": "2026-09-01",
-    "title": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
+    "title": "HowToRobot 与澳大利亚机器人集团合作建立平台，鼓励机器人的采用",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "The initiative is intended to help businesses in Australia identify automation opportunities, test them, and connect with local suppliers. The post HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption appeared first on The Robot Report .",
+    "summary": "The initiative is intended to help businesses in Australia identify automation opportunities, test them, and connect with local suppliers. The post HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption appeared first on The Robot Report .（原题：HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
     "tags": [],
     "impact": "Tue, 01 Sep 2026 13:45:36 +0000"
   },
   {
-    "id": "2026-09-01-the-verge-gopro-has-been-acquired-and-is-getting-into-8216de",
+    "id": "2026-09-01-the-robot-report-2026--8-",
     "date": "2026-09-01",
-    "title": "GoPro has been acquired and is getting into &#8216;defense, government, robotics and aerospace&#8217;",
+    "title": "2026 年 8 月十大机器人故事",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "GoPro suddenly looks like a very different company than it did just last week. First, YouTuber Mark \"Markiplier\" Fischbach became the company's single largest shareholder, without disclosing that in a sponsored review that came out a week later. Now, almost the entire company has been bought by Starman Holding for $285 million in cash, which […]",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+    "summary": "August 2026's top 10 stories included large funding rounds, updates in the humanoid robot industry, and the latest physical AI models. The post Top 10 robotics stories of August 2026 appeared first on The Robot Report .（原题：Top 10 robotics stories of August 2026）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
     "tags": [],
-    "impact": "2026-09-01T12:46:08-04:00"
+    "impact": "Tue, 01 Sep 2026 18:56:28 +0000"
   },
   {
-    "id": "2026-09-01-tophubcfinance-99",
-    "date": "2026-09-01",
-    "title": "99%的数据缺口里，谁在给具身智能“卖铲子”",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "99%的数据缺口里，谁在给具身智能“卖铲子”",
-    "source": "Tophub/c/finance",
-    "source_url": "https://m.21jingji.com/article/20260901/herald/3d1cebcc709d9b785c6200e5d3563ecf.html",
-    "tags": [],
-    "impact": "公司"
-  },
-  {
-    "id": "2026-08-31-tophubcai-aix25hy4preview-agenthugging-face-microduck",
+    "id": "2026-08-31-aibasecom-aix25hy4preview-agenthugging-face-microduck",
     "date": "2026-08-31",
     "title": "AI日报：科大讯飞将发星火X2.5；混元Hy4preview Agent能力大升级；Hugging Face 推微型开源双足机器人Microduck",
     "category": [
@@ -219,7 +107,7 @@
     ],
     "region": "Global",
     "summary": "AI日报：科大讯飞将发星火X2.5；混元Hy4preview Agent能力大升级；Hugging Face 推微型开源双足机器人Microduck",
-    "source": "Tophub/c/ai",
+    "source": "aibase.com",
     "source_url": "https://www.aibase.com/zh/daily/30729",
     "tags": [],
     "impact": ""
