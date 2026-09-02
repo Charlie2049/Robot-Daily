@@ -1,42 +1,69 @@
 [
   {
-    "id": "2026-09-02-m21jingjicom-ai",
+    "id": "2026-09-02-financesinacomcn-25cmai-4878",
     "date": "2026-09-02",
-    "title": "广东AI智能体进厂：既看得了“天书”，又能破解“图纸迷宫”粤港澳",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "广东AI智能体进厂：既看得了“天书”，又能破解“图纸迷宫”粤港澳",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260902/herald/f4ed64d6bb8b7597bf942bf6092444ae.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-02-m21jingjicom-22-",
-    "date": "2026-09-02",
-    "title": "做机器人眼脑手，雄安团队拿下22亿港元 公司",
+    "title": "身高仅25cm，这款AI机器人火了 4,878",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "做机器人眼脑手，雄安团队拿下22亿港元 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260902/herald/10a3839c8f2b64b2f596234258234bca.html",
+    "summary": "身高仅25cm，这款AI机器人火了 4,878",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/roll/2026-09-02/doc-iniqkvca4583700.shtml",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-01-wallstreetcncom-ai20-3010",
+    "id": "2026-09-02-cbndatacom-nonoise",
+    "date": "2026-09-02",
+    "title": "谁在赚机器人的“学费”？降噪NoNoise",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "谁在赚机器人的“学费”？降噪NoNoise",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295731",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-02-the-verge-",
+    "date": "2026-09-02",
+    "title": "机器人管家的梦想没有腿",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The idea of humanoid robots running our homes has been the stuff of science fiction for years. But unlike hoverboards and self-tying sneakers, a robot housekeeper has never felt close to rolling into our homes. Until now. This has been the year of the humanoid robot. At CES, there were dozens of human-shaped bots on […]（原题：The robot butler dream doesn’t have legs）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
+    "tags": [],
+    "impact": "2026-09-02T07:00:00-04:00"
+  },
+  {
+    "id": "2026-09-02-geekparknet-",
+    "date": "2026-09-02",
+    "title": "从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/369719",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-01-wallstreetcncom-ai10-69",
     "date": "2026-09-01",
-    "title": "马斯克：AI或令全球经济增长20%-30%，未来十年人形机器人将达10亿台",
+    "title": "马斯克：明年底AI能“完成所有数字领域工作”，10年内机器人超越人类生产力总和 6.9万",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "马斯克：AI或令全球经济增长20%-30%，未来十年人形机器人将达10亿台",
+    "summary": "马斯克：明年底AI能“完成所有数字领域工作”，10年内机器人超越人类生产力总和 6.9万",
     "source": "wallstreetcn.com",
     "source_url": "https://wallstreetcn.com/articles/3780849",
     "tags": [],
