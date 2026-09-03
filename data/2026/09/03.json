@@ -1,44 +1,86 @@
 [
   {
-    "id": "2026-09-02-bloomberg-technology-uberwayve--robotaxi--waymo-",
-    "date": "2026-09-02",
-    "title": "Uber、Wayve 在伦敦推出 Robotaxi 服务与 Waymo 竞争",
+    "id": "2026-09-03-m21jingjicom-workbuddy-",
+    "date": "2026-09-03",
+    "title": "腾讯推WorkBuddy金融版，数十家厂商“鏖战”金融智能体 金融",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "腾讯推WorkBuddy金融版，数十家厂商“鏖战”金融智能体 金融",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260903/herald/2bb9819ce75758199a637f891b87e238.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-03-gelonghuicom-605702718hk",
+    "date": "2026-09-03",
+    "title": "智能体收入增长605.7%，明略科技(02718.HK)增长引擎切换",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "智能体收入增长605.7%，明略科技(02718.HK)增长引擎切换",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/6475520",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-03-qbitaicom-demo0",
+    "date": "2026-09-03",
+    "title": "今年最难的机器人Demo，“机器人含量”为0",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "The centuries-old roads in the UK capital present challenges that Los Angeles and San Francisco don’t.（原题：Uber, Wayve Launch Robotaxi Service in London to Compete With Waymo）",
+    "summary": "今年最难的机器人Demo，“机器人含量”为0",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/09/483351.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-03-the-robot-report-plusai-to-take-autonomous-trucking-public-v",
+    "date": "2026-09-03",
+    "title": "PlusAI to take autonomous trucking public via a SPAC deal",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "The SPAC transaction puts PlusAI, whose self-driving trucking software is already generating revenue, at about $800 million. The post PlusAI to take autonomous trucking public via a SPAC deal appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal/",
+    "tags": [],
+    "impact": "Thu, 03 Sep 2026 10:00:14 +0000"
+  },
+  {
+    "id": "2026-09-02-bloomberg-technology-uber-wayve-launch-robotaxi-service-in-l",
+    "date": "2026-09-02",
+    "title": "Uber, Wayve Launch Robotaxi Service in London to Compete With Waymo",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The centuries-old roads in the UK capital present challenges that Los Angeles and San Francisco don’t.",
     "source": "Bloomberg Technology",
     "source_url": "https://www.bloomberg.com/news/articles/2026-09-02/uber-wayve-launch-robotaxi-service-in-london-to-compete-with-waymo",
     "tags": [],
     "impact": "Wed, 02 Sep 2026 23:00:03 GMT"
   },
   {
-    "id": "2026-09-02-the-verge-uber--waymo-",
-    "date": "2026-09-02",
-    "title": "Uber 击败 Waymo 成为伦敦首个推出机器人出租车的公司",
+    "id": "2026-09-01-wallstreetcncom-cybercabrobotaxi",
+    "date": "2026-09-01",
+    "title": "特斯拉Cybercab今晚正式发布！大摩：此次活动意义远超以往，Robotaxi车队扩张为最大看点",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. […]（原题：Uber beats Waymo as first to launch robotaxis in London）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+    "summary": "特斯拉Cybercab今晚正式发布！大摩：此次活动意义远超以往，Robotaxi车队扩张为最大看点",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3781009",
     "tags": [],
-    "impact": "2026-09-02T19:00:00-04:00"
-  },
-  {
-    "id": "2026-09-02-cnbc-technology-hugging-face-",
-    "date": "2026-09-02",
-    "title": "Hugging Face 的新型鸭子机器人正在快速销售。中国芯片为其提供动力",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.（原题：Hugging Face's new duck robot is selling fast. A Chinese chip powers it）",
-    "source": "CNBC Technology",
-    "source_url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-    "tags": [],
-    "impact": "Wed, 02 Sep 2026 00:11:14 GMT"
+    "impact": ""
   }
 ]
