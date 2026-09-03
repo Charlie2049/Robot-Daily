@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-09-02-bloomberg-technology-uberwayve--robotaxi--waymo-",
+    "date": "2026-09-02",
+    "title": "Uber、Wayve 在伦敦推出 Robotaxi 服务与 Waymo 竞争",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The centuries-old roads in the UK capital present challenges that Los Angeles and San Francisco don’t.（原题：Uber, Wayve Launch Robotaxi Service in London to Compete With Waymo）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-09-02/uber-wayve-launch-robotaxi-service-in-london-to-compete-with-waymo",
+    "tags": [],
+    "impact": "Wed, 02 Sep 2026 23:00:03 GMT"
+  },
+  {
+    "id": "2026-09-02-the-verge-uber--waymo-",
+    "date": "2026-09-02",
+    "title": "Uber 击败 Waymo 成为伦敦首个推出机器人出租车的公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. […]（原题：Uber beats Waymo as first to launch robotaxis in London）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+    "tags": [],
+    "impact": "2026-09-02T19:00:00-04:00"
+  },
+  {
     "id": "2026-09-02-cnbc-technology-hugging-face-",
     "date": "2026-09-02",
     "title": "Hugging Face 的新型鸭子机器人正在快速销售。中国芯片为其提供动力",
@@ -12,19 +40,5 @@
     "source_url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
     "tags": [],
     "impact": "Wed, 02 Sep 2026 00:11:14 GMT"
-  },
-  {
-    "id": "2026-09-01-ifanrcom--l3--",
-    "date": "2026-09-01",
-    "title": "自动驾驶强制国标来了：享界智界提前押题，今明两年 L3 密集上车 董车会",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "自动驾驶强制国标来了：享界智界提前押题，今明两年 L3 密集上车 董车会",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1677995",
-    "tags": [],
-    "impact": ""
   }
 ]
