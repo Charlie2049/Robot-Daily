@@ -1,17 +1,17 @@
 [
   {
-    "id": "2026-09-03-cnbc-technology-waymo--zoox-",
-    "date": "2026-09-03",
-    "title": "随着机器人出租车竞赛的升温，Waymo 和 Zoox 进军更多美国市场",
+    "id": "2026-09-04-juejincn--codex--450",
+    "date": "2026-09-04",
+    "title": "别再拿大炮打蚊子了，我给 Codex 加了一个自动驾驶 450",
     "category": [
-      "robotics"
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "Waymo is bringing driverless rides to three more cities, and Amazon plans to start testing in two additional U.S. markets.（原题：Waymo and Zoox expand into more U.S. markets as robotaxi race heats up）",
-    "source": "CNBC Technology",
-    "source_url": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
+    "summary": "别再拿大炮打蚊子了，我给 Codex 加了一个自动驾驶 450",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7679774779231174665",
     "tags": [],
-    "impact": "Thu, 03 Sep 2026 05:14:10 GMT"
+    "impact": ""
   },
   {
     "id": "2026-09-03-geekparknet--wrc-5-",
@@ -42,6 +42,20 @@
     "impact": ""
   },
   {
+    "id": "2026-09-03-the-robot-report--medtronic--cornerstone-robotics--7-",
+    "date": "2026-09-03",
+    "title": "美敦力 (Medtronic) 向手术合作伙伴 Cornerstone Robotics 投资 7 亿美元",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Medtronic and Cornerstone Robotics are building a multi-port portfolio anchored by the Hugo surgical system and expanded by Sentire. The post Medtronic invests $700M in surgical partner Cornerstone Robotics appeared first on The Robot Report .（原题：Medtronic invests $700M in surgical partner Cornerstone Robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/",
+    "tags": [],
+    "impact": "Thu, 03 Sep 2026 18:53:54 +0000"
+  },
+  {
     "id": "2026-09-03-ieee-spectrum-robotics-",
     "date": "2026-09-03",
     "title": "探索月球陨石坑的最佳方式是巨型机器人球",
@@ -70,46 +84,18 @@
     "impact": "Thu, 03 Sep 2026 12:18:21 +0000"
   },
   {
-    "id": "2026-09-03-bloomberg-technology-wayve--uber-",
+    "id": "2026-09-03-the-robot-report-jaka-",
     "date": "2026-09-03",
-    "title": "Wayve 和 Uber 将机器人出租车带到伦敦",
+    "title": "JAKA 因专利纠纷对泰瑞达机器人公司发起反击",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Self-driving startup Wayve is launching robotaxi rides with Uber in London, initially with safety drivers behind the wheel. CEO Alex Kendall discusses the path to fully driverless service, plans to expand with Uber to more global cities, and how Wayve’s end-to-end AI technology is designed to drive without relying on high-definition maps. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)（原题：Wayve, Uber Bring Robotaxi Rides to London）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-09-03/wayve-uber-bring-robotaxi-rides-to-london-video",
+    "summary": "JAKA is now taking legal action against Teradyne Robotics to end public dissemination of statements it considers \"false, misleading and damaging.\" The post JAKA hits Teradyne Robotics back over patent dispute appeared first on The Robot Report .（原题：JAKA hits Teradyne Robotics back over patent dispute）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
     "tags": [],
-    "impact": "Thu, 03 Sep 2026 17:21:02 GMT"
-  },
-  {
-    "id": "2026-09-03-bloomberg-technology-uber--wayve-",
-    "date": "2026-09-03",
-    "title": "Uber 和 Wayve 在伦敦推出有人监管的机器人出租车",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Uber now lets you book a robotaxi in London — but you'll still be joined by a human in the front seat.\n\nOlivia Solon explains why. (Source: Bloomberg)（原题：Uber, Wayve Unleash Supervised Robotaxis in London）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-09-03/uber-wayve-unleash-supervised-robotaxis-in-london-video",
-    "tags": [],
-    "impact": "Thu, 03 Sep 2026 14:54:14 GMT"
-  },
-  {
-    "id": "2026-09-03-bloomberg-technology-nscale--35-",
-    "date": "2026-09-03",
-    "title": "Nscale 支持机器人公司以及 35 亿美元的云交易",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Nscale struck a deal to supply at least $3.5 billion worth of AI cloud computing capacity to the robotics startup Figure, while also investing an undisclosed sum in the company.（原题：Nscale Backs Robot Firm Figure Alongside $3.5 Billion Cloud Deal）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-09-03/nscale-backs-robot-firm-figure-alongside-3-5-billion-cloud-deal",
-    "tags": [],
-    "impact": "Thu, 03 Sep 2026 14:36:24 GMT"
+    "impact": "Thu, 03 Sep 2026 17:44:20 +0000"
   },
   {
     "id": "2026-09-02-cbndatacom-nonoise",
