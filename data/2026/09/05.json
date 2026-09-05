@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-09-05-financesinacomcn-omnibookpc560",
+    "date": "2026-09-05",
+    "title": "惠普发布全新OmniBook系列PC，助力打造新一代人工智能体验。560",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "惠普发布全新OmniBook系列PC，助力打造新一代人工智能体验。560",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/7x24/2026-09-05/doc-iniqszsh0684899.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-09-04-the-robot-report--2026-",
     "date": "2026-09-04",
     "title": "召集机器人初创公司：立即申请加入 2026 年机器人初创公司雷达",
@@ -12,20 +26,6 @@
     "source_url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
     "tags": [],
     "impact": "Fri, 04 Sep 2026 16:33:59 +0000"
-  },
-  {
-    "id": "2026-09-04-the-verge-irobot--roomba-duo",
-    "date": "2026-09-04",
-    "title": "iRobot 推出 Roomba Duo",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "The original robot vacuum company showed off a concept robot at the IFA tech show in Berlin today. The Roomba Duo combines a heavy-duty floor-washing machine with a smaller, slimmer Roomba. The two floor cleaners can move around your home together, with the main unit mopping and sweeping larger floor areas and the smaller unit […]（原题：iRobot unveils the Roomba Duo）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum",
-    "tags": [],
-    "impact": "2026-09-04T08:53:49-04:00"
   },
   {
     "id": "2026-09-04-the-robot-report-robotcom-",
