@@ -1,13 +1,27 @@
 [
   {
-    "id": "2026-09-06-juejincn--codex--547",
+    "id": "2026-09-06-m21jingjicom-openai",
     "date": "2026-09-06",
-    "title": "别再拿大炮打蚊子了，我给 Codex 加了一个自动驾驶 547",
+    "title": "研究显示，OpenAI智能体“劫持”了一个网站……全球",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "研究显示，OpenAI智能体“劫持”了一个网站……全球",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260906/herald/1f123c3807e9c86f18a848eee108f7ca.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-06-juejincn--codex--553",
+    "date": "2026-09-06",
+    "title": "别再拿大炮打蚊子了，我给 Codex 加了一个自动驾驶 553",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "别再拿大炮打蚊子了，我给 Codex 加了一个自动驾驶 547",
+    "summary": "别再拿大炮打蚊子了，我给 Codex 加了一个自动驾驶 553",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7679774779231174665",
     "tags": [],
