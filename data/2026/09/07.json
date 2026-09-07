@@ -1,27 +1,41 @@
 [
   {
-    "id": "2026-09-06-the-robot-report-pressure-sensors-can-help-improve-robotic-g",
+    "id": "2026-09-07-juejincn--codex--578",
+    "date": "2026-09-07",
+    "title": "别再拿大炮打蚊子了，我给 Codex 加了一个自动驾驶 578",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "别再拿大炮打蚊子了，我给 Codex 加了一个自动驾驶 578",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7679774779231174665",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-06-the-robot-report-",
     "date": "2026-09-06",
-    "title": "Pressure sensors can help improve robotic gripping accuracy",
+    "title": "压力传感器有助于提高机器人抓取精度",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking. The post Pressure sensors can help improve robotic gripping accuracy appeared first on The Robot Report .",
+    "summary": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking. The post Pressure sensors can help improve robotic gripping accuracy appeared first on The Robot Report .（原题：Pressure sensors can help improve robotic gripping accuracy）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
     "tags": [],
     "impact": "Sun, 06 Sep 2026 12:30:17 +0000"
   },
   {
-    "id": "2026-09-06-the-robot-report-eric-sivertson-discusses-fpgas-and-robot-se",
+    "id": "2026-09-06-the-robot-report-eric-sivertson--fpga-",
     "date": "2026-09-06",
-    "title": "Eric Sivertson discusses FPGAs and robot security",
+    "title": "Eric Sivertson 讨论 FPGA 和机器人安全",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security. The post Eric Sivertson discusses FPGAs and robot security appeared first on The Robot Report .",
+    "summary": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security. The post Eric Sivertson discusses FPGAs and robot security appeared first on The Robot Report .（原题：Eric Sivertson discusses FPGAs and robot security）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/eric-sivertson-discusses-fpgas-robot-security/",
     "tags": [],
