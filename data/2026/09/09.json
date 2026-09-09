@@ -1,33 +1,102 @@
 [
   {
-    "id": "2026-09-09-36krcom-a",
+    "id": "2026-09-09-caifuhaoeastmoneycom--1957",
     "date": "2026-09-09",
-    "title": "硬氪首发丨无问智科完成数亿元A轮融资，具身智能业务订单已达数亿元",
+    "title": "机器人老钱家族王座的裂缝 1957",
     "category": [
-      "humanoid",
-      "funding"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "硬氪首发丨无问智科完成数亿元A轮融资，具身智能业务订单已达数亿元",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3974793522344197",
+    "summary": "机器人老钱家族王座的裂缝 1957",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20260909080603847527770",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-09-36krcom-a",
+    "id": "2026-09-09-36krcom-",
     "date": "2026-09-09",
-    "title": "A股人形机器人中报：估值打到哪一年了？",
+    "title": "揭开多智能体决策的隐形不公，结果指标相同也未必可靠",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "揭开多智能体决策的隐形不公，结果指标相同也未必可靠",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3975776045805829",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-09-qbitaicom-",
+    "date": "2026-09-09",
+    "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "A股人形机器人中报：估值打到哪一年了？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3975408367857926",
+    "summary": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/09/486280.html",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-09-09-36krcom-robotok",
+    "date": "2026-09-09",
+    "title": "从海量互联网视频中检索人类操作示范，英伟达联合莱斯大学发布RoboTok，提升下游机器人任务成功率",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "从海量互联网视频中检索人类操作示范，英伟达联合莱斯大学发布RoboTok，提升下游机器人任务成功率",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3975952665719302",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-09-m21jingjicom-metacai-",
+    "date": "2026-09-09",
+    "title": "Meta推出首款个人智能体，C端真实任务执行成AI竞争新看点 公司",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Meta推出首款个人智能体，C端真实任务执行成AI竞争新看点 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260909/herald/f53ae6bfa57240e33bca6d17d4a2d700.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-09-bloomberg-technology-lyft--waymo-robotaxi-",
+    "date": "2026-09-09",
+    "title": "Lyft 开始在纳什维尔通过其应用程序提供 Waymo Robotaxi 乘车服务",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Lyft Inc. is starting to offer Waymo robotaxi rides in Nashville, marking the second US city where it’s providing driverless trips as it plays catch-up with rival Uber Technologies Inc.（原题：Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-09-09/lyft-begins-offering-waymo-robotaxi-rides-on-its-app-in-nashville",
+    "tags": [],
+    "impact": "Wed, 09 Sep 2026 10:00:05 GMT"
+  },
+  {
+    "id": "2026-09-08-the-robot-report--dynamic-creatures",
+    "date": "2026-09-08",
+    "title": "波士顿动力退伍军人推出 Dynamic Creatures，利用机器人技术让角色栩栩如生",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments. The post Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics appeared first on The Robot Report .（原题：Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+    "tags": [],
+    "impact": "Tue, 08 Sep 2026 20:39:51 +0000"
   },
   {
     "id": "2026-09-08-guokrcom-openaiai",
@@ -44,73 +113,31 @@
     "impact": ""
   },
   {
-    "id": "2026-09-08-bloomberg-technology-how-indian-workers-are-helping-train-th",
-    "date": "2026-09-08",
-    "title": "How Indian Workers Are Helping Train the Robots That Will Replace Them",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "On today’s Big Take Asia podcast: How Indian workers are using iPhones to train humanoid robots and what the race for real-world data means for the future of work.",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/how-indian-workers-are-helping-train-the-robots-that-will-replace-them",
-    "tags": [],
-    "impact": "Tue, 08 Sep 2026 21:36:00 GMT"
-  },
-  {
-    "id": "2026-09-08-the-robot-report-boston-dynamics-veterans-launch-dynamic-cre",
-    "date": "2026-09-08",
-    "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments. The post Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics appeared first on The Robot Report .",
-    "source": "The Robot Report",
-    "source_url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
-    "tags": [],
-    "impact": "Tue, 08 Sep 2026 20:39:51 +0000"
-  },
-  {
-    "id": "2026-09-07-ieee-spectrum-robotics-this-robot-will-draw-your-blood-now",
+    "id": "2026-09-07-ieee-spectrum-robotics-",
     "date": "2026-09-07",
-    "title": "This Robot Will Draw Your Blood Now",
+    "title": "这个机器人现在会抽你的血",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe glides across your arm, mapping how deep the vessel runs and which way it bends. Doppler captures the direction of blood flow to rule out the artery. The cuff tightens around your upper arm. The needle comes down and pierces the skin. Your blood flows into the collection tubes, each one tipped end over end nine times—no more, no less. The needle withdraws. You get a bandage. No human ever touched you. This is what it’s like to have blood taken by Aletta , the first autonomous blood-draw device authorized for use in the United States. Developed by the Dutch medical robotics firm Vitestro , the system combines imaging technologies with advanced robotics and AI to do by algorithm what a human phlebotomist—a trained health care professional who finds veins and draws blood by hand—does by feel. The U.S. Food and Drug Administration gave Aletta the go-ahead on 19 August for use on adults in nonhospitalized settings. The decision follows the lead of European regulators, who authorized the device two years earlier . “You have to tip your cap to them,” says Max Balter , a surgical-robotics specialist at Medtronic who worked on autonomous blood-draw systems during grad school in the mid-2010s. “The engineering that they have is incredible…and with their FDA clearance, it moves the whole industry forward.” Aletta Boosts Lab Capacity Amid Shortages In a clinical trial involving more than 1,600 people in the Netherlands, Aletta successfully drew blood on the first attempt in 94.5 percent of cases , even among those with hard-to-access veins, people with obesity, and the elderly. When Aletta failed to identify a suitable vein, the patient was referred for conventional phlebotomy. “It’s exceptional performance,” says Joe El-Khoury , a clinical chemist at Yale who was not involved in the Dutch trial. “It’s definitely as good if not better” than a typical professional phlebotomist. Complications were minimal, with multiple built-in safeguards to detect problems, such as sensors that track arm movement and needle position, and to halt the process should something go awry. And for those whose veins proved too challenging, a phlebotomist remains on hand to take over when needed. Notably, because a single phlebotomist can supervise up to three Aletta machines, the system should go a long way toward “helping clinical labs address the critical operational challenges related to the staffing shortages of phlebotomists,” says Luuk Giesen , chief medical officer of Vitestro. That’s no small challenge in a profession with a median annual turnover rate of nearly 25 percent and a vacancy rate of close to 10 percent , according to surveys of medical laboratories that draw mostly from U.S. institutions. The resulting staffing shortages can limit labs’ capacity to meet demand for routine diagnostic testing of blood counts, cholesterol, metabolic markers, and more. Aletta could address that bottleneck. Addressing Skin Tone Bias in Blood Draw AI The promise of greater capacity, however, comes with a caveat: Aletta still fails in roughly one case out of 20. Who are those people? Some may simply have elusive or unusually deep veins. But a more significant obstacle could be skin pigmentation. In particular, the melanin in darker skin can interfere with the near-infrared light Aletta uses to first map the veins near the skin’s surface and identify promising puncture sites. The technique relies on hemoglobin absorbing the light differently from surrounding tissue, and darker skin tones can absorb more of that light before it reaches the camera, thereby reducing the contrast. Some experts have raised concerns that Aletta’s infrared sensors will perform poorly for people with darker skin tones, but Vitestro says that its machine also includes an ultrasound sensor, in part to mitigate that risk. Vitestro Giesen recognizes that the issue could affect first-pass imaging, but notes that the main determinant of vein selection and needle placement is the ultrasound system, which relies on sound rather than light and should not be affected by skin pigmentation in the same way. “Ultrasound is skin-tone agnostic,” he says, adding that Vitestro has unpublished data showing no effect of skin tone on the system’s performance. The company thus claims on its website that the “technology works well for all skin tones,” an assertion echoed in the FDA press release announcing the authorization of Vitestro’s device. But given the history of racial disparities in medical devices—particularly optical technologies such as pulse oximeters, which can be less accurate in people with darker skin and went largely unrecognized as a problem for decades—such claims warrant evidence, says El-Khoury, who has written about the issue . Brooke Katzman , a clinical chemist at the Mayo Clinic who is collaborating with Vitestro, also wants more evidence that samples collected by the robot are as suitable for testing as those drawn by hand. The Dutch trial reported little damage to red blood cells, but other measures of sample quality, including clotted tubes, insufficient blood, and proper tube filling, still need to be assessed, as do the results of routine laboratory tests themselves. Katzman plans to launch a U.S.-based trial next year to collect just that sort of data. “We’re going to do our due diligence,” she says. “Like any instrument we would bring into the lab, we’re going to put it through its paces before using it clinically.” The Future of Automated Blood Testing Aletta takes its name from the 19th-century physician Aletta Jacobs , the first female doctor in the Netherlands and founder of what is widely considered the world’s first birth-control clinic. That nod to history is fitting for a technology that builds on decades of research in robotic phlebotomy by groups in Europe , the United States , and China , and MagicNurse . Yet few pushed the concept as far as biomedical engineer Martin Yarmush of Rutgers University in New Jersey, in whose lab Medtronic’s Balter completed his Ph.D. In one version of their platform, the Rutgers team even coupled their robot to a benchtop blood analyzer , allowing it to draw samples and then measure levels of infection-fighting immune cells and oxygen-carrying red blood cells—all within minutes. That all-in system never made it out of laboratory testing. And VascuLogic, the company spun out to commercialize the platform, is long defunct—though others, including ROPHAI , BHealthCare , and MagicNurse , continue to work in the space. But the Rutgers proof-of-concept demonstration points toward the tantalizing possibility of fully automated blood testing at the point of care, with robots handling everything from the needle stick to the analysis. It is, in some ways, the promise that Theranos made—but built on conventional, validated laboratory technology rather than the dubious science and deception that brought that particular company down. “I have no doubt that is the future,” says Gregory Retzinger , a clinical pathologist at the Northwestern University Feinberg School of Medicine, in Chicago, who collaborates with Vitestro and has tried the Aletta device himself. (“It was painless, it was fast,” he says.) For now, Giesen says Vitestro is keeping its ambitions—and its machine—focused on the blood-collection process itself, though he believes Aletta could ultimately do far more. The company plans to launch Aletta in Europe next year, with the U.S. market to follow.",
+    "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe glides across your arm, mapping how deep the vessel runs and which way it bends. Doppler captures the direction of blood flow to rule out the artery. The cuff tightens around your upper arm. The needle comes down and pierces the skin. Your blood flows into the collection tubes, each one tipped end over end nine times—no more, no less. The needle withdraws. You get a bandage. No human ever touched you. This is what it’s like to have blood taken by Aletta , the first autonomous blood-draw device authorized for use in the United States. Developed by the Dutch medical robotics firm Vitestro , the system combines imaging technologies with advanced robotics and AI to do by algorithm what a human phlebotomist—a trained health care professional who finds veins and draws blood by hand—does by feel. The U.S. Food and Drug Administration gave Aletta the go-ahead on 19 August for use on adults in nonhospitalized settings. The decision follows the lead of European regulators, who authorized the device two years earlier . “You have to tip your cap to them,” says Max Balter , a surgical-robotics specialist at Medtronic who worked on autonomous blood-draw systems during grad school in the mid-2010s. “The engineering that they have is incredible…and with their FDA clearance, it moves the whole industry forward.” Aletta Boosts Lab Capacity Amid Shortages In a clinical trial involving more than 1,600 people in the Netherlands, Aletta successfully drew blood on the first attempt in 94.5 percent of cases , even among those with hard-to-access veins, people with obesity, and the elderly. When Aletta failed to identify a suitable vein, the patient was referred for conventional phlebotomy. “It’s exceptional performance,” says Joe El-Khoury , a clinical chemist at Yale who was not involved in the Dutch trial. “It’s definitely as good if not better” than a typical professional phlebotomist. Complications were minimal, with multiple built-in safeguards to detect problems, such as sensors that track arm movement and needle position, and to halt the process should something go awry. And for those whose veins proved too challenging, a phlebotomist remains on hand to take over when needed. Notably, because a single phlebotomist can supervise up to three Aletta machines, the system should go a long way toward “helping clinical labs address the critical operational challenges related to the staffing shortages of phlebotomists,” says Luuk Giesen , chief medical officer of Vitestro. That’s no small challenge in a profession with a median annual turnover rate of nearly 25 percent and a vacancy rate of close to 10 percent , according to surveys of medical laboratories that draw mostly from U.S. institutions. The resulting staffing shortages can limit labs’ capacity to meet demand for routine diagnostic testing of blood counts, cholesterol, metabolic markers, and more. Aletta could address that bottleneck. Addressing Skin Tone Bias in Blood Draw AI The promise of greater capacity, however, comes with a caveat: Aletta still fails in roughly one case out of 20. Who are those people? Some may simply have elusive or unusually deep veins. But a more significant obstacle could be skin pigmentation. In particular, the melanin in darker skin can interfere with the near-infrared light Aletta uses to first map the veins near the skin’s surface and identify promising puncture sites. The technique relies on hemoglobin absorbing the light differently from surrounding tissue, and darker skin tones can absorb more of that light before it reaches the camera, thereby reducing the contrast. Some experts have raised concerns that Aletta’s infrared sensors will perform poorly for people with darker skin tones, but Vitestro says that its machine also includes an ultrasound sensor, in part to mitigate that risk. Vitestro Giesen recognizes that the issue could affect first-pass imaging, but notes that the main determinant of vein selection and needle placement is the ultrasound system, which relies on sound rather than light and should not be affected by skin pigmentation in the same way. “Ultrasound is skin-tone agnostic,” he says, adding that Vitestro has unpublished data showing no effect of skin tone on the system’s performance. The company thus claims on its website that the “technology works well for all skin tones,” an assertion echoed in the FDA press release announcing the authorization of Vitestro’s device. But given the history of racial disparities in medical devices—particularly optical technologies such as pulse oximeters, which can be less accurate in people with darker skin and went largely unrecognized as a problem for decades—such claims warrant evidence, says El-Khoury, who has written about the issue . Brooke Katzman , a clinical chemist at the Mayo Clinic who is collaborating with Vitestro, also wants more evidence that samples collected by the robot are as suitable for testing as those drawn by hand. The Dutch trial reported little damage to red blood cells, but other measures of sample quality, including clotted tubes, insufficient blood, and proper tube filling, still need to be assessed, as do the results of routine laboratory tests themselves. Katzman plans to launch a U.S.-based trial next year to collect just that sort of data. “We’re going to do our due diligence,” she says. “Like any instrument we would bring into the lab, we’re going to put it through its paces before using it clinically.” The Future of Automated Blood Testing Aletta takes its name from the 19th-century physician Aletta Jacobs , the first female doctor in the Netherlands and founder of what is widely considered the world’s first birth-control clinic. That nod to history is fitting for a technology that builds on decades of research in robotic phlebotomy by groups in Europe , the United States , and China , and MagicNurse . Yet few pushed the concept as far as biomedical engineer Martin Yarmush of Rutgers University in New Jersey, in whose lab Medtronic’s Balter completed his Ph.D. In one version of their platform, the Rutgers team even coupled their robot to a benchtop blood analyzer , allowing it to draw samples and then measure levels of infection-fighting immune cells and oxygen-carrying red blood cells—all within minutes. That all-in system never made it out of laboratory testing. And VascuLogic, the company spun out to commercialize the platform, is long defunct—though others, including ROPHAI , BHealthCare , and MagicNurse , continue to work in the space. But the Rutgers proof-of-concept demonstration points toward the tantalizing possibility of fully automated blood testing at the point of care, with robots handling everything from the needle stick to the analysis. It is, in some ways, the promise that Theranos made—but built on conventional, validated laboratory technology rather than the dubious science and deception that brought that particular company down. “I have no doubt that is the future,” says Gregory Retzinger , a clinical pathologist at the Northwestern University Feinberg School of Medicine, in Chicago, who collaborates with Vitestro and has tried the Aletta device himself. (“It was painless, it was fast,” he says.) For now, Giesen says Vitestro is keeping its ambitions—and its machine—focused on the blood-collection process itself, though he believes Aletta could ultimately do far more. The company plans to launch Aletta in Europe next year, with the U.S. market to follow.（原题：This Robot Will Draw Your Blood Now）",
     "source": "IEEE Spectrum Robotics",
     "source_url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
     "tags": [],
     "impact": "Mon, 07 Sep 2026 13:00:01 +0000"
   },
   {
-    "id": "2026-09-07-the-robot-report-massrobotics-shares-member-survey-results-a",
+    "id": "2026-09-07-the-robot-report-massrobotics--fcc-",
     "date": "2026-09-07",
-    "title": "MassRobotics shares member survey results around FCC restrictions",
+    "title": "MassRobotics 分享有关 FCC 限制的会员调查结果",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "MassRobotics has found that companies were split on the FCC ban on new foreign-produced mobile robots. The post MassRobotics shares member survey results around FCC restrictions appeared first on The Robot Report .",
+    "summary": "MassRobotics has found that companies were split on the FCC ban on new foreign-produced mobile robots. The post MassRobotics shares member survey results around FCC restrictions appeared first on The Robot Report .（原题：MassRobotics shares member survey results around FCC restrictions）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/",
     "tags": [],
     "impact": "Mon, 07 Sep 2026 12:30:16 +0000"
-  },
-  {
-    "id": "2026-09-07-qbitaicom-350",
-    "date": "2026-09-07",
-    "title": "3秒变身！会合体的机器人，卖到全球50国",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "3秒变身！会合体的机器人，卖到全球50国",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/09/485525.html",
-    "tags": [],
-    "impact": ""
   }
 ]
