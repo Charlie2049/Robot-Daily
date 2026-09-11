@@ -1,115 +1,131 @@
 [
   {
-    "id": "2026-09-11-m21jingjicom--",
+    "id": "2026-09-11-36krcom-",
     "date": "2026-09-11",
-    "title": "深圳百亿独角兽，组织机器人残酷格斗 公司",
+    "title": "死磕人形机器人，本质是一场“省世界”的生意",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "深圳百亿独角兽，组织机器人残酷格斗 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260911/herald/0584399ba7b6acd751dd425570105ea1.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-11-36krcom-ipo",
-    "date": "2026-09-11",
-    "title": "梅卡曼德创始人点名银河通用，机器人IPO进入算账阶段",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "梅卡曼德创始人点名银河通用，机器人IPO进入算账阶段",
+    "summary": "死磕人形机器人，本质是一场“省世界”的生意",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3977452523837318",
+    "source_url": "https://www.36kr.com/p/3978345952705282",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-11-m21jingjicom--",
+    "id": "2026-09-11-financesinacomcn-2030-4149",
     "date": "2026-09-11",
-    "title": "服贸会上新！机器人“前端+后台”全链路进化 宏观",
+    "title": "工信部：到2030年，具备自动驾驶功能的汽车实现规模应用，高速公路、城市快速路、部分城市道路等场景实现高度自动驾驶 4,149",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "工信部：到2030年，具备自动驾驶功能的汽车实现规模应用，高速公路、城市快速路、部分城市道路等场景实现高度自动驾驶 4,149",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/wm/2026-09-11/doc-inirmfei2204303.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-11-caifuhaoeastmoneycom-500-539",
+    "date": "2026-09-11",
+    "title": "宇树跌破500元，一级市场融资连续下跌，机器人步入冷静期 539",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "宇树跌破500元，一级市场融资连续下跌，机器人步入冷静期 539",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20260911080344447422030",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-11-36krcom-500",
+    "date": "2026-09-11",
+    "title": "宇树跌破500元，一级市场融资连续下跌，机器人步入冷静期",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "宇树跌破500元，一级市场融资连续下跌，机器人步入冷静期",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3978267623013385",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-11-blogcsdnnet-action-map-policy-28",
+    "date": "2026-09-11",
+    "title": "Action Map Policy：从高维动作回归到像素分类，一种新的机器人操作学习范式 2.8万",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "服贸会上新！机器人“前端+后台”全链路进化 宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260911/herald/de06f9bc7fe40beb268230c2bc21f86c.html",
+    "summary": "Action Map Policy：从高维动作回归到像素分类，一种新的机器人操作学习范式 2.8万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/2601_96285279/article/details/164868837",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-11-36krcom-openai",
-    "date": "2026-09-11",
-    "title": "OpenAI“主动报告”欧盟的维基事件：智能体与监管落差",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "OpenAI“主动报告”欧盟的维基事件：智能体与监管落差",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3978206651317249",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-10-the-robot-report-teradyne-robotics-sues-jaka-over-3-universa",
+    "id": "2026-09-10-the-robot-report--3--jaka",
     "date": "2026-09-10",
-    "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
+    "title": "泰瑞达机器人公司就优傲机器人的 3 项专利起诉 JAKA",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints. The post Teradyne Robotics sues JAKA over 3 Universal Robots patents appeared first on The Robot Report .",
+    "summary": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints. The post Teradyne Robotics sues JAKA over 3 Universal Robots patents appeared first on The Robot Report .（原题：Teradyne Robotics sues JAKA over 3 Universal Robots patents）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
     "tags": [],
     "impact": "Thu, 10 Sep 2026 22:14:26 +0000"
   },
   {
-    "id": "2026-09-10-the-robot-report-swarmer-to-acquire-ukrainian-ugv-maker-rate",
+    "id": "2026-09-10-ieee-spectrum-robotics-",
     "date": "2026-09-10",
-    "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
+    "title": "机器人正在学习感觉",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine. The post Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M appeared first on The Robot Report .",
-    "source": "The Robot Report",
-    "source_url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
-    "tags": [],
-    "impact": "Thu, 10 Sep 2026 20:10:22 +0000"
-  },
-  {
-    "id": "2026-09-10-ieee-spectrum-robotics-robots-are-learning-to-feel",
-    "date": "2026-09-10",
-    "title": "Robots Are Learning to Feel",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Dexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has held back progress. This is now starting to change as academic labs and startups race to build new tactile datasets and techniques to put them to use. Over the last few years, vision-language-action (VLA) models have significantly improved the ability of robots to carry out complex tasks involving objects and environments they’ve never encountered before. Pretrained on huge amounts of images, video, and text, and then fine-tuned on a smaller number of teleoperated robot demonstrations, these VLAs can guide robots through a growing range of everyday jobs— like folding laundry, tidying living rooms, and even operating kitchen gadgets —using just a video feed and natural language instructions. But robots still struggle with tasks that require fine-grained hand control, such as handling deformable materials or manipulating small objects—plugging in a USB cable or turning a key in a lock, for example. That’s partly because VLAs ignore one of the primary sources of information humans rely on in these situations: tactile feedback. Manipulating Like Humans “Most dexterous manipulation can be done by humans with their eyes closed,” says Trevor Darrell , professor of computer science at the University of California, Berkeley. “Understanding force, slip, and precise grasping is not something that can be done well with traditional vision sensors.” However, making effective use of tactile sensors is difficult. Tactile sensor data has very different characteristics to the image data VLAs are normally trained on, and tactile datasets lag far behind the internet-scale of many vision and language datasets. To get around this, Darrell’s team devised a way to first pretrain a model on existing datasets before giving it a sense of touch by training a specialist submodel on 100 hours of specially collected, high-quality tactile data including demonstrations of common actions like wiping, grasping, twisting, or pouring using more than 200 different household objects. Explore an interactive visualizer of a small portion of the T-Rex dataset. T-Rex Putting the tactile data to use was not straightforward. The goal was for a robot to be able to use the tactile signal to correct its grip in real time as it manipulated objects. But this requires reaction times faster than most vision-language models operate at. This mismatch is a significant challenge, says Darrell, so the team used separate submodels, known as “experts,” to handle high-level actions and low-level tactile control in a way that’s quick enough for the tactile feedback to be useful. The action expert produces motion plans, while the tactile expert, which operates four times faster, uses tactile feedback to adjust the motion plan in real time based on what the robot is feeling as it goes. The model was then fine-tuned on about 100 teleoperated demonstrations of relatively complex manipulation tasks, such as screwing in a light bulb, applying toothpaste to a toothbrush, or transferring an egg between trays, where it averaged a success rate of 65 percent across 12 tasks—nearly double the best VLA model. Data Diversity One limitation, admits Darrell, is that his data comes from a single instance of robotic hardware. Robot hands range from fully articulated five-finger designs to simple pincer grippers, and tactile sensors can rely on fundamentally different physics, from measuring changes in resistance to recording images of a soft gel pad deforming. That makes most tactile AI research sensor-specific, says Chengbo Yuan , a master’s student at Tsinghua University in Beijing, and makes it hard to share data and transfer learnings between groups. Yuan recently set out to tackle this problem by aggregating more than 3,000 hours of tactile robotic data from publicly available datasets, covering 21 sensor types and a variety of robot embodiments. Yuan says they were inspired by efforts like the Open X-Embodiment collaboration , which pooled data from many robots and led to models that generalize to hardware not used in training. Yuan’s team then designed a hardware-agnostic model that can train on this diverse data by converting each sensor’s output into a shared format and mapping it onto labeled positions on a template of a human hand. This model was much more successful than a baseline model, even on hardware it had never encountered before. Yuan puts that down to it acquiring “some kind of common sense of tactile knowledge,” by training on such diverse setups. Chasing Scale Despite the promising results, Yuan thinks more tactile data is needed, and his group is now leading an 80-institution collaboration to collate a larger set of teleoperated demonstrations using a standardized approach to tactile data collection and processing. In the meantime, Fudan University in Shanghai and its spin-out NeoteAI have already produced a tactile dataset an order of magnitude larger than previous efforts. Using a proprietary sensor attached to a variety of robotic arms and a handheld gripper operated by humans, they have collected more than 30,000 hours of demonstrations with synchronized visual and tactile data. The researchers used this data to train a model that doesn’t just react to touch, but also proactively predicts what the robot should be feeling to help guide and assess actions, significantly improving performance. Shunlin Lu , a postdoc researcher at Fudan University and CTO of NeoteAI, says the results are clear evidence that access to large-scale and diverse tactile data leads to significant performance gains. Robot manipulation policies with a tactile component offer improved performance on a variety of real-world tasks. NeoteAI Another approach to scaling tactile data could be to piggyback on the vast quantities of visual robotics data already collected. Researchers at the University of Southern California, in Los Angeles, recently released a model that learned to infer tactile information from visual data, by training it on more than 2,700 demonstrations of everyday manipulation using a handheld gripper that records both tactile data and images from a camera on the device. The model learned associations between images of the gripper coming into contact with objects and the amount of pressure felt by the tactile sensors at that moment, giving even robots without tactile sensors a rudimentary sense of touch that the researchers showed to be particularly useful for contact-rich manipulation tasks. But their broader ambition is to use the generator to add tactile data to existing vision datasets. How much tactile data will be required for breakthroughs in dexterous tasks remains unclear. So far, tactile training’s main contribution has been to make robots more efficient learners at tasks already within reach like picking and placing objects, says Yuan, and he suspects new algorithms may be required to tackle problems truly impossible without touch. Long Cheng of the Chinese Academy of Sciences also thinks raw data is no panacea. “Data is good,” he says. “But how to use them correctly is another issue.” The problem, he notes, is that vision provides a continuous, high-bandwidth stream of pixels, while tactile signals are sparse and intermittent, so models learn to ignore them. His solution, being presented at IROS 2026 later this month, is a model that predicts what a robot will feel from vision alone and then compares it against real tactile input. A large gap between the two means the sensor is detecting something the robot would otherwise miss, so these surprising signals are amplified while predictable ones are dampened. Across five contact-rich tasks the approach averaged 62.8% success against 28.2% for the same model without touch. Lu is more confident that data scaling could have similar benefits to those seen in areas like language and vision. He guesses closer to 100,000 hours, collected in varied, real-world settings rather than in the lab, could unlock new capabilities. Either way, the field now has some early signs that larger tactile datasets and smarter ways to use them can give robots a significant boost on some of the most challenging tasks. “I think tactile intelligence is actually the next step for physical AI,” says Lu.",
+    "summary": "Dexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has held back progress. This is now starting to change as academic labs and startups race to build new tactile datasets and techniques to put them to use. Over the last few years, vision-language-action (VLA) models have significantly improved the ability of robots to carry out complex tasks involving objects and environments they’ve never encountered before. Pretrained on huge amounts of images, video, and text, and then fine-tuned on a smaller number of teleoperated robot demonstrations, these VLAs can guide robots through a growing range of everyday jobs— like folding laundry, tidying living rooms, and even operating kitchen gadgets —using just a video feed and natural language instructions. But robots still struggle with tasks that require fine-grained hand control, such as handling deformable materials or manipulating small objects—plugging in a USB cable or turning a key in a lock, for example. That’s partly because VLAs ignore one of the primary sources of information humans rely on in these situations: tactile feedback. Manipulating Like Humans “Most dexterous manipulation can be done by humans with their eyes closed,” says Trevor Darrell , professor of computer science at the University of California, Berkeley. “Understanding force, slip, and precise grasping is not something that can be done well with traditional vision sensors.” However, making effective use of tactile sensors is difficult. Tactile sensor data has very different characteristics to the image data VLAs are normally trained on, and tactile datasets lag far behind the internet-scale of many vision and language datasets. To get around this, Darrell’s team devised a way to first pretrain a model on existing datasets before giving it a sense of touch by training a specialist submodel on 100 hours of specially collected, high-quality tactile data including demonstrations of common actions like wiping, grasping, twisting, or pouring using more than 200 different household objects. Explore an interactive visualizer of a small portion of the T-Rex dataset. T-Rex Putting the tactile data to use was not straightforward. The goal was for a robot to be able to use the tactile signal to correct its grip in real time as it manipulated objects. But this requires reaction times faster than most vision-language models operate at. This mismatch is a significant challenge, says Darrell, so the team used separate submodels, known as “experts,” to handle high-level actions and low-level tactile control in a way that’s quick enough for the tactile feedback to be useful. The action expert produces motion plans, while the tactile expert, which operates four times faster, uses tactile feedback to adjust the motion plan in real time based on what the robot is feeling as it goes. The model was then fine-tuned on about 100 teleoperated demonstrations of relatively complex manipulation tasks, such as screwing in a light bulb, applying toothpaste to a toothbrush, or transferring an egg between trays, where it averaged a success rate of 65 percent across 12 tasks—nearly double the best VLA model. Data Diversity One limitation, admits Darrell, is that his data comes from a single instance of robotic hardware. Robot hands range from fully articulated five-finger designs to simple pincer grippers, and tactile sensors can rely on fundamentally different physics, from measuring changes in resistance to recording images of a soft gel pad deforming. That makes most tactile AI research sensor-specific, says Chengbo Yuan , a master’s student at Tsinghua University in Beijing, and makes it hard to share data and transfer learnings between groups. Yuan recently set out to tackle this problem by aggregating more than 3,000 hours of tactile robotic data from publicly available datasets, covering 21 sensor types and a variety of robot embodiments. Yuan says they were inspired by efforts like the Open X-Embodiment collaboration , which pooled data from many robots and led to models that generalize to hardware not used in training. Yuan’s team then designed a hardware-agnostic model that can train on this diverse data by converting each sensor’s output into a shared format and mapping it onto labeled positions on a template of a human hand. This model was much more successful than a baseline model, even on hardware it had never encountered before. Yuan puts that down to it acquiring “some kind of common sense of tactile knowledge,” by training on such diverse setups. Chasing Scale Despite the promising results, Yuan thinks more tactile data is needed, and his group is now leading an 80-institution collaboration to collate a larger set of teleoperated demonstrations using a standardized approach to tactile data collection and processing. In the meantime, Fudan University in Shanghai and its spin-out NeoteAI have already produced a tactile dataset an order of magnitude larger than previous efforts. Using a proprietary sensor attached to a variety of robotic arms and a handheld gripper operated by humans, they have collected more than 30,000 hours of demonstrations with synchronized visual and tactile data. The researchers used this data to train a model that doesn’t just react to touch, but also proactively predicts what the robot should be feeling to help guide and assess actions, significantly improving performance. Shunlin Lu , a postdoc researcher at Fudan University and CTO of NeoteAI, says the results are clear evidence that access to large-scale and diverse tactile data leads to significant performance gains. Robot manipulation policies with a tactile component offer improved performance on a variety of real-world tasks. NeoteAI Another approach to scaling tactile data could be to piggyback on the vast quantities of visual robotics data already collected. Researchers at the University of Southern California, in Los Angeles, recently released a model that learned to infer tactile information from visual data, by training it on more than 2,700 demonstrations of everyday manipulation using a handheld gripper that records both tactile data and images from a camera on the device. The model learned associations between images of the gripper coming into contact with objects and the amount of pressure felt by the tactile sensors at that moment, giving even robots without tactile sensors a rudimentary sense of touch that the researchers showed to be particularly useful for contact-rich manipulation tasks. But their broader ambition is to use the generator to add tactile data to existing vision datasets. How much tactile data will be required for breakthroughs in dexterous tasks remains unclear. So far, tactile training’s main contribution has been to make robots more efficient learners at tasks already within reach like picking and placing objects, says Yuan, and he suspects new algorithms may be required to tackle problems truly impossible without touch. Long Cheng of the Chinese Academy of Sciences also thinks raw data is no panacea. “Data is good,” he says. “But how to use them correctly is another issue.” The problem, he notes, is that vision provides a continuous, high-bandwidth stream of pixels, while tactile signals are sparse and intermittent, so models learn to ignore them. His solution, being presented at IROS 2026 later this month, is a model that predicts what a robot will feel from vision alone and then compares it against real tactile input. A large gap between the two means the sensor is detecting something the robot would otherwise miss, so these surprising signals are amplified while predictable ones are dampened. Across five contact-rich tasks the approach averaged 62.8% success against 28.2% for the same model without touch. Lu is more confident that data scaling could have similar benefits to those seen in areas like language and vision. He guesses closer to 100,000 hours, collected in varied, real-world settings rather than in the lab, could unlock new capabilities. Either way, the field now has some early signs that larger tactile datasets and smarter ways to use them can give robots a significant boost on some of the most challenging tasks. “I think tactile intelligence is actually the next step for physical AI,” says Lu.（原题：Robots Are Learning to Feel）",
     "source": "IEEE Spectrum Robotics",
     "source_url": "https://spectrum.ieee.org/tactile-data-robots",
     "tags": [],
     "impact": "Thu, 10 Sep 2026 18:22:35 +0000"
   },
   {
-    "id": "2026-09-10-bloomberg-technology-homes-with-robot-arms-can-beat-humanoid",
+    "id": "2026-09-10-bloomberg-technology-",
     "date": "2026-09-10",
-    "title": "Homes With Robot Arms Can Beat Humanoids at Chores, Startup Says",
+    "title": "初创公司称，拥有机器人手臂的家庭在做家务方面击败了类人机器人",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Tokyo-based startup MW Inc. is offering homes with built-in robotic housekeeping arms, a counter to a global embrace of humanoids.",
+    "summary": "Tokyo-based startup MW Inc. is offering homes with built-in robotic housekeeping arms, a counter to a global embrace of humanoids.（原题：Homes With Robot Arms Beat Humanoids at Chores, Startup Says）",
     "source": "Bloomberg Technology",
     "source_url": "https://www.bloomberg.com/news/articles/2026-09-10/japanese-startup-bets-iron-man-inspired-homes-can-beat-humanoids",
     "tags": [],
     "impact": "Thu, 10 Sep 2026 21:00:00 GMT"
+  },
+  {
+    "id": "2026-09-10-the-robot-report-swarmer--224--ugv--ratel-robotics",
+    "date": "2026-09-10",
+    "title": "Swarmer 将以高达 2.24 亿美元收购乌克兰 UGV 制造商 Ratel Robotics",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine. The post Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M appeared first on The Robot Report .（原题：Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
+    "tags": [],
+    "impact": "Thu, 10 Sep 2026 20:10:22 +0000"
   }
 ]
