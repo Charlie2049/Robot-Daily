@@ -1,0 +1,89 @@
+[
+  {
+    "id": "2026-09-12-36krcom-",
+    "date": "2026-09-12",
+    "title": "机器人进厂打工，又被广东先赚到钱了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人进厂打工，又被广东先赚到钱了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3978874698831753",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-12-36krcom-openai12005",
+    "date": "2026-09-12",
+    "title": "参议院调查OpenAI：1200个智能体私建\"留言板\"，5月就露馅，为何没人踩刹车",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "参议院调查OpenAI：1200个智能体私建\"留言板\"，5月就露馅，为何没人踩刹车",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3978812931643014",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-12-36krcom-figure",
+    "date": "2026-09-12",
+    "title": "全球最大，谷歌Figure排队买，这个团队，撑起硅谷最火机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "全球最大，谷歌Figure排队买，这个团队，撑起硅谷最火机器人",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3978805053078278",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-12-36krcom-",
+    "date": "2026-09-12",
+    "title": "人形机器人并表，“工业机器人第一股”埃斯顿能否困境反转？",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人并表，“工业机器人第一股”埃斯顿能否困境反转？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3978867793853441",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-11-ieee-spectrum-robotics-",
+    "date": "2026-09-11",
+    "title": "周五视频：人形机器人挑战猴栏",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IROS 2026 : 27 September–1 October 2026, PITTSBURGH CoRL 2026 : 9–12 November 2026, AUSTIN Enjoy today’s videos! Traversing sparse 3D structures requires humanoid robots to perceive thin, overhanging geometry while executing agile, accurate whole-body motions. We study this problem through monkey-bar traversal, where the robot must jump to the structure, traverse it through sparse bar interactions, and land safely. The list of obstacles that you can traverse to escape a robot is getting shorter. [ ETH Zurich Robotic Systems Lab ] YES GIVE ROBOTS TWO HEADS I LOVE IT! [ General Robotics Lab ] 9/11 was the first documented use of robots for urban search and rescue and helped create the field of disaster robotics. Personnel began assembling on the afternoon of September 11 and worked the pile from late on  September 11 through October 2, when the last available robot failed. The robots found no survivors, but they located remains and helped search for routes through the rubble toward basements and stairwells where trapped firefighters might have gone. [ CRASAR ] Unitree majorly fully open-sources the UnifoLM-WLA-1.0 embodied foundation model, achieving new SOTA results across multiple benchmarks among open-source models worldwide. A single model coordinates desktop and whole-body mobile manipulation, supporting cross-task and cross-end-effector generalization, driven by one model, whole-body coordination. [ Unitree ] Compliance is very important in physical interaction. In this work, we show how a multilined aerial robot uses its centroid and joint motion to achieve hybrid impedance–admittance control in contact-rich aerial manipulation tasks such as surface sliding. This work will be presented in IEEE IROS 2026. [ DRAGON Lab ] Thanks, Moju! Remind me not to get too close to this. [ RaiLab Kaist ] Welcome to this edition of Things That Really Seem Like They Should Not Fly. [ Texas A&M University Advanced Vertical Flight Lab ] Achieving agile and generalized legged locomotion across terrains requires tight integration of perception and control, especially under occlusions and sparse footholds. Existing methods have demonstrated agility on parkour courses but often rely on end-to-end sensorimotor models with limited generalization and interpretability. By contrast, methods targeting generalized locomotion typically exhibit limited agility and struggle with visual occlusions. We introduce a unified reinforcement learning (RL) framework for agile and generalized locomotion that incorporates a novel attention-based map encoder in the control policy. [ ETH Zurich Robotic Systems Lab ] Finally, the killer app for humanoid robots! But we probably shouldn’t call it that. [ Unitree ] I suspect that this demo avoids many of the things that are actually difficult about doing dishes. Not just the water and the slippery soapiness, but also identifying when a dish is dirty as well as when it is actually clean. [ Flexiv ] Sure, I guess I might want a robot to deliver a burrito to me while I’m hiking to the top of a mountain in the rain...? [ DEEP Robotics ] AI has transformed the digital world. It writes our code, generates our images, reasons in our language. But the physical world—the plants that make our power, our fuel, our steel and chemicals—it has barely touched. ANYbotics CEO and Co-Founder Péter Fankhauser on the bet behind the company: why legged robots turned out to be the way into the world’s most demanding industrial plants, what it took to certify one for explosive atmospheres after experts called it impossible, and where autonomous industrial work goes next. [ ANYbotics ]（原题：Video Friday: Humanoid Robot Takes On Monkey Bars）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+    "tags": [],
+    "impact": "Fri, 11 Sep 2026 15:30:04 +0000"
+  },
+  {
+    "id": "2026-09-10-cbndatacom-b",
+    "date": "2026-09-10",
+    "title": "具身智能B面：机器人烧钱，数采公司躺赚？惊蛰研究所",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "具身智能B面：机器人烧钱，数采公司躺赚？惊蛰研究所",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295763",
+    "tags": [],
+    "impact": ""
+  }
+]
