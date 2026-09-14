@@ -2,14 +2,86 @@
   {
     "id": "2026-09-14-36krcom-",
     "date": "2026-09-14",
-    "title": "大众拥有的第一个机器人，可能是只“鸭子”",
+    "title": "调查：人形机器人降价潮来了",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "调查：人形机器人降价潮来了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3982918107741185",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-14-36krcom-6",
+    "date": "2026-09-14",
+    "title": "梅卡曼德“狙击”银河通用，具身智能上市窗口只剩6个月",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "梅卡曼德“狙击”银河通用，具身智能上市窗口只剩6个月",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3983156773223430",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-14-qbitaicom-rsi",
+    "date": "2026-09-14",
+    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "大众拥有的第一个机器人，可能是只“鸭子”",
+    "summary": "探索RSI，生数新世界模型让机器人开始自我进化",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/09/489037.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-14-36krcom-2000",
+    "date": "2026-09-14",
+    "title": "宇树跌破2000亿后，清醒了的机器人公司加紧“进厂打工”",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树跌破2000亿后，清醒了的机器人公司加紧“进厂打工”",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3981158326785929",
+    "source_url": "https://www.36kr.com/p/3979974718445448",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-14-m21jingjicom-",
+    "date": "2026-09-14",
+    "title": "从样板点到规模化：具身智能卡在哪？公司",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "从样板点到规模化：具身智能卡在哪？公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260914/herald/1544d3fae15fe965a17ff8e972993eb4.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-14-36krcom-bot",
+    "date": "2026-09-14",
+    "title": "人形机器人都被上市逼成了“武bot”",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人都被上市逼成了“武bot”",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3983173862145033",
     "tags": [],
     "impact": ""
   },
@@ -26,19 +98,5 @@
     "source_url": "https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture/",
     "tags": [],
     "impact": "Sun, 13 Sep 2026 12:45:12 +0000"
-  },
-  {
-    "id": "2026-09-12-qbitaicom-rsi",
-    "date": "2026-09-12",
-    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "探索RSI，生数新世界模型让机器人开始自我进化",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/09/487752.html",
-    "tags": [],
-    "impact": ""
   }
 ]
