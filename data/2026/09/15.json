@@ -1,58 +1,116 @@
 [
   {
-    "id": "2026-09-15-blogcsdnnet-qq--ai-astrbot--napcat--deepseek--29",
+    "id": "2026-09-15-geekparknet--100-06ai-",
     "date": "2026-09-15",
-    "title": "QQ 机器人怎么接上 AI？用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手 2.9万",
+    "title": "造物 100 #06｜自动驾驶上轮椅了，口袋相机学会飞行，AI 教练上了雪场",
     "category": [
-      "robotics"
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "QQ 机器人怎么接上 AI？用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手 2.9万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/Dovis5884/article/details/165329306",
+    "summary": "造物 100 #06｜自动驾驶上轮椅了，口袋相机学会飞行，AI 教练上了雪场",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/370325",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-14-the-verge-",
-    "date": "2026-09-14",
-    "title": "黄仁勋让特朗普在台上开免提，宣布机器人不会统治世界",
+    "id": "2026-09-15-m21jingjicom--",
+    "date": "2026-09-15",
+    "title": "蚂蚁灵波朱兴：机器人不必像人 公司",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his […]（原题：Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "summary": "蚂蚁灵波朱兴：机器人不必像人 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260915/herald/36f300b1ba580d2f520f2e712746634f.html",
     "tags": [],
-    "impact": "2026-09-14T16:03:37-04:00"
+    "impact": ""
   },
   {
-    "id": "2026-09-14-the-robot-report-",
-    "date": "2026-09-14",
-    "title": "报告涵盖了手术机器人的进步以及在现实世界中部署仓库自动化",
+    "id": "2026-09-15-mithomecom----4--89",
+    "date": "2026-09-15",
+    "title": "比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思 89评",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思 89评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/1002520.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-15-gelonghuicom-",
+    "date": "2026-09-15",
+    "title": "欢创科技过聆讯，聚焦扫地机器人激光雷达领域，主要产品售价呈下降趋势",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Learn from a surgical robotics case study and a discussion of how to best deploy mobile robots in the warehouse in this issue. The post Report covers advances in surgical robots, deploying warehouse automation in the real world appeared first on The Robot Report .（原题：Report covers advances in surgical robots, deploying warehouse automation in the real world）",
+    "summary": "欢创科技过聆讯，聚焦扫地机器人激光雷达领域，主要产品售价呈下降趋势",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/6651393",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-15-jisilucn-368",
+    "date": "2026-09-15",
+    "title": "人工智能、人形机器人时代，人们怎么生活？368",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人工智能、人形机器人时代，人们怎么生活？368",
+    "source": "jisilu.cn",
+    "source_url": "https://www.jisilu.cn/question/525312",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-14-the-robot-report-universal-robots-launches-its-seventh-gener",
+    "date": "2026-09-14",
+    "title": "Universal Robots launches its seventh generation robot platform at IMTS",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Universal Robots has released three new robot arms, a rebuilt core controller, a new AI-ready tool flange, and more. The post Universal Robots launches its seventh generation robot platform at IMTS appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/universal-robots-launches-its-seventh-generation-robot-platform-at-imts/",
+    "tags": [],
+    "impact": "Mon, 14 Sep 2026 13:25:40 +0000"
+  },
+  {
+    "id": "2026-09-14-the-robot-report-report-covers-advances-in-surgical-robots-d",
+    "date": "2026-09-14",
+    "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Learn from a surgical robotics case study and a discussion of how to best deploy mobile robots in the warehouse in this issue. The post Report covers advances in surgical robots, deploying warehouse automation in the real world appeared first on The Robot Report .",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/",
     "tags": [],
     "impact": "Mon, 14 Sep 2026 21:01:59 +0000"
   },
   {
-    "id": "2026-09-14-the-robot-report--imts-",
+    "id": "2026-09-14-the-verge-jensen-huang-puts-trump-on-speakerphone-onstage-to",
     "date": "2026-09-14",
-    "title": "优傲机器人在 IMTS 上推出第七代机器人平台",
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Universal Robots has released three new robot arms, a rebuilt core controller, a new AI-ready tool flange, and more. The post Universal Robots launches its seventh generation robot platform at IMTS appeared first on The Robot Report .（原题：Universal Robots launches its seventh generation robot platform at IMTS）",
-    "source": "The Robot Report",
-    "source_url": "https://www.therobotreport.com/universal-robots-launches-its-seventh-generation-robot-platform-at-imts/",
+    "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his […]",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
     "tags": [],
-    "impact": "Mon, 14 Sep 2026 13:25:40 +0000"
+    "impact": "2026-09-14T16:03:37-04:00"
   }
 ]
