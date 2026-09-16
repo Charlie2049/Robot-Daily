@@ -1,100 +1,113 @@
 [
   {
-    "id": "2026-09-16-36krcom-aiict",
+    "id": "2026-09-16-qbitaicom-",
     "date": "2026-09-16",
-    "title": "算力、机器人、仿真与资本，谁在定义物理AI下一个十年？｜第十届全球ICT峰会回顾",
+    "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "算力、机器人、仿真与资本，谁在定义物理AI下一个十年？｜第十届全球ICT峰会回顾",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3984444810312705",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-16-m21jingjicom-ipo-",
-    "date": "2026-09-16",
-    "title": "又一位深圳机器人新贵，冲击港股IPO 公司",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "又一位深圳机器人新贵，冲击港股IPO 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260916/herald/f889bd5929942b8fb8d3008fb848ddcb.html",
+    "summary": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/09/490416.html",
     "tags": [],
     "impact": ""
   },
   {
     "id": "2026-09-16----ai",
     "date": "2026-09-16",
-    "title": "全球首款AI智能体手机今日开售",
+    "title": "手机进入AI智能体时代",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "全球首款AI智能体手机今日开售",
+    "summary": "手机进入AI智能体时代",
     "source": "微博 ‧ 热搜榜",
-    "source_url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BEAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%89%8B%E6%9C%BA%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5AI%E6%99%BA%E8%83%BD%E4%BD%93%E6%97%B6%E4%BB%A3",
     "tags": [],
-    "impact": "61万"
+    "impact": "15万"
   },
   {
-    "id": "2026-09-16-36krcom-23",
+    "id": "2026-09-16-geekparknet-",
     "date": "2026-09-16",
-    "title": "从科创板冷门到人形机器人新贵，上纬新材市值暴涨23倍之后",
+    "title": "当智能体开始替人花钱，如何证明「它是谁」？",
     "category": [
-      "humanoid",
+      "general"
+    ],
+    "region": "Global",
+    "summary": "当智能体开始替人花钱，如何证明「它是谁」？",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/370440",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-16-ifanrcom--ceo-",
+    "date": "2026-09-16",
+    "title": "对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」专访",
+    "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "从科创板冷门到人形机器人新贵，上纬新材市值暴涨23倍之后",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3984166467540872",
+    "summary": "对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」专访",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1680322",
     "tags": [],
     "impact": ""
   },
   {
     "id": "2026-09-16-36krcom-",
     "date": "2026-09-16",
-    "title": "从四足到人形，具身智能正走向人的生活空间",
+    "title": "具身智能的盛宴要散了吗？",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "从四足到人形，具身智能正走向人的生活空间",
+    "summary": "具身智能的盛宴要散了吗？",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3984525593459460",
+    "source_url": "https://www.36kr.com/p/3985751226963849",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-16-blogcsdnnet-qq--ai-astrbot--napcat--deepseek--35",
+    "id": "2026-09-16-36krcom-openai-",
     "date": "2026-09-16",
-    "title": "QQ 机器人怎么接上 AI？用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手 3.5万",
+    "title": "OpenAI 狂砸百亿剑指具身智能",
     "category": [
-      "robotics"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "QQ 机器人怎么接上 AI？用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手 3.5万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/Dovis5884/article/details/165329306",
+    "summary": "OpenAI 狂砸百亿剑指具身智能",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3985898834754309",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-16-blogcsdnnet-ai-agent--23",
+    "id": "2026-09-16-ai-botcn-iris---allspark-",
     "date": "2026-09-16",
-    "title": "AI Agent 工程化实践：从想法验证到数据分析智能体的完整搭建手册 2.3万",
+    "title": "Iris – 小红书 AllSpark 团队开源的搜索智能体",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "AI Agent 工程化实践：从想法验证到数据分析智能体的完整搭建手册 2.3万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/yonggeit/article/details/165183134",
+    "summary": "Iris – 小红书 AllSpark 团队开源的搜索智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/iris/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-16-36krcom-gpt-6-",
+    "date": "2026-09-16",
+    "title": "GPT-6 来了，我们和多个局内人聊具身智能的护城河与暗礁",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "GPT-6 来了，我们和多个局内人聊具身智能的护城河与暗礁",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3985797636806536",
     "tags": [],
     "impact": ""
   },
