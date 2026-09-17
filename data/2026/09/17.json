@@ -42,18 +42,18 @@
     "impact": ""
   },
   {
-    "id": "2026-09-16-bloomberg-technology-",
+    "id": "2026-09-16-the-robot-report-ologic--robobusiness-",
     "date": "2026-09-16",
-    "title": "在联合国，各国努力应对自主武器的兴起",
+    "title": "OLogic 将在 RoboBusiness 上分享机器人如何从人类演示中学习",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "UN Secretary-General Antonio Guterres said the world is “now dangerously close to crossing a moral red line.”（原题：At UN, Nations Wrestle With the Rise of Autonomous Weapons）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/newsletters/2026-09-16/at-un-nations-wrestle-with-the-rise-of-autonomous-weapons",
+    "summary": "OLogic CEO Ted Larson will explore the foundations of egocentric robot learning and the technical challenges involved in building these systems. The post OLogic to share how robots can learn from human demonstrations at RoboBusiness appeared first on The Robot Report .（原题：OLogic to share how robots can learn from human demonstrations at RoboBusiness）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/ologic-to-share-how-robots-can-learn-from-human-demonstrations-at-robobusiness/",
     "tags": [],
-    "impact": "Wed, 16 Sep 2026 17:04:16 GMT"
+    "impact": "Wed, 16 Sep 2026 20:31:29 +0000"
   },
   {
     "id": "2026-09-16-the-robot-report-digit-agility-robotics--cassie--digit-5-",
@@ -68,19 +68,5 @@
     "source_url": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/",
     "tags": [],
     "impact": "Wed, 16 Sep 2026 17:45:50 +0000"
-  },
-  {
-    "id": "2026-09-16-m21jingjicom-ai10-",
-    "date": "2026-09-16",
-    "title": "AI替你“剁手”：未来三年，超10%电商交易将由智能体发起 公司",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI替你“剁手”：未来三年，超10%电商交易将由智能体发起 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260916/herald/04fc205ae18c58493cec2cd4d9488818.html",
-    "tags": [],
-    "impact": ""
   }
 ]
