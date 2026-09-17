@@ -1,15 +1,85 @@
 [
   {
-    "id": "2026-09-17-36krcom-10155",
+    "id": "2026-09-17-36krcom-gpt-6",
     "date": "2026-09-17",
-    "title": "老将们熬10年，新锐派只用1年——55家机器人独角兽活在不同叙事里",
+    "title": "重磅发现：GPT-6实现具身智能突破，中国如何打具身防卫战？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "重磅发现：GPT-6实现具身智能突破，中国如何打具身防卫战？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3986303263390466",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-17-m21jingjicom--",
+    "date": "2026-09-17",
+    "title": "特斯拉机器人量产加速，启动新一轮中国供应链审厂 公司",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "老将们熬10年，新锐派只用1年——55家机器人独角兽活在不同叙事里",
+    "summary": "特斯拉机器人量产加速，启动新一轮中国供应链审厂 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260917/herald/eaea15a87a5b5b2d1029f50cab06d043.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-17-36krcom-",
+    "date": "2026-09-17",
+    "title": "机器人开始制造机器人了？万台产能背后残酷大考才刚开始",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人开始制造机器人了？万台产能背后残酷大考才刚开始",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3985803623103238",
+    "source_url": "https://www.36kr.com/p/3987283993368454",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-17-36krcom-ipo",
+    "date": "2026-09-17",
+    "title": "具身智能“挤水分”：IPO门槛下的“真实收入”追问",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能“挤水分”：IPO门槛下的“真实收入”追问",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3987175352285952",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-17-ai-botcn-open-rail--",
+    "date": "2026-09-17",
+    "title": "Open-RAIL – 中国移动开源的具身智能通用工程底座",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "Open-RAIL – 中国移动开源的具身智能通用工程底座",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/open-rail/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-17-blogcsdnnet-aiot6-tops-npuocr-22",
+    "date": "2026-09-17",
+    "title": "AIoT变电站巡检机器人——6 TOPS NPU热成像+OCR+实时监控的边缘计算网关 2.2万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AIoT变电站巡检机器人——6 TOPS NPU热成像+OCR+实时监控的边缘计算网关 2.2万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/qq_27395975/article/details/165591923",
     "tags": [],
     "impact": ""
   },
@@ -28,16 +98,16 @@
     "impact": "Wed, 16 Sep 2026 16:51:02 +0000"
   },
   {
-    "id": "2026-09-16-qbitaicom-zdtaichu50-9b",
+    "id": "2026-09-16-geekparknet-figure-",
     "date": "2026-09-16",
-    "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+    "title": "特斯拉、Figure 还在攻克量产，小鹏机器人已经走下产线",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/09/490839.html",
+    "summary": "特斯拉、Figure 还在攻克量产，小鹏机器人已经走下产线",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/370421",
     "tags": [],
     "impact": ""
   },
