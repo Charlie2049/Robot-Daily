@@ -1,29 +1,72 @@
 [
   {
-    "id": "2026-09-18-m21jingjicom--",
+    "id": "2026-09-18-36krcom-",
     "date": "2026-09-18",
-    "title": "清华博士造机器人，进酒店工作 公司",
+    "title": "融资狂欢的另一面：机器人明星公司的两种死法",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "融资狂欢的另一面：机器人明星公司的两种死法",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3988624098327304",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-18-bloomberg-technology-",
+    "date": "2026-09-18",
+    "title": "特斯拉访问报告推动中国机器人供应商崛起",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "清华博士造机器人，进酒店工作 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20260918/herald/d95bfa0106da92a34e7180b83f679919.html",
+    "summary": "Shares of Chinese robotics‑component suppliers climbed after a local report said Tesla Inc. teams had arrived in the country to audit suppliers and place additional orders to boost production of its Optimus humanoid model.（原题：Chinese Robotics Suppliers Rise on Tesla Visit Report）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
+    "tags": [],
+    "impact": "Fri, 18 Sep 2026 03:50:46 GMT"
+  },
+  {
+    "id": "2026-09-18-36krcom-ai",
+    "date": "2026-09-18",
+    "title": "物理AI拐点：国产空间具身智能底座，为什么是紫东太初被看见",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "物理AI拐点：国产空间具身智能底座，为什么是紫东太初被看见",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3988709211159299",
     "tags": [],
     "impact": ""
   },
   {
     "id": "2026-09-18-36krcom-",
     "date": "2026-09-18",
-    "title": "机器人企业还没拿到“大结果”",
+    "title": "机器人，去养猪场摔猪",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人企业还没拿到“大结果”",
+    "summary": "机器人，去养猪场摔猪",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3987311897548420",
+    "source_url": "https://www.36kr.com/p/3987462269565958",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-18-36krcom-",
+    "date": "2026-09-18",
+    "title": "机器人的数据生意：真需求，还是自循环？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人的数据生意：真需求，还是自循环？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3988725504792456",
     "tags": [],
     "impact": ""
   },
@@ -42,30 +85,87 @@
     "impact": ""
   },
   {
-    "id": "2026-09-18-36krcom-ai",
+    "id": "2026-09-18-36krcom-ipo",
     "date": "2026-09-18",
-    "title": "AI时代最容易被忽视的苦力活：给机器人“擦屁股”的人",
+    "title": "传闻四起，人形机器人IPO审核收紧？",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "AI时代最容易被忽视的苦力活：给机器人“擦屁股”的人",
+    "summary": "传闻四起，人形机器人IPO审核收紧？",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3987416739003138",
+    "source_url": "https://www.36kr.com/p/3988588241026049",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-18-36krcom-5999ai",
+    "id": "2026-09-18-36krcom-13751188ipo",
     "date": "2026-09-18",
-    "title": "5999元买AI智能体，二代豆包手机值不值？",
+    "title": "一家1375倍，一家1188倍：韩国资金疯抢机器人IPO",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "5999元买AI智能体，二代豆包手机值不值？",
+    "summary": "一家1375倍，一家1188倍：韩国资金疯抢机器人IPO",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3987330241313539",
+    "source_url": "https://www.36kr.com/p/3988676532541317",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-18-m21jingjicom--",
+    "date": "2026-09-18",
+    "title": "一台机器人两地造，港科大（广州）的粤港科研新解法 粤港澳",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "一台机器人两地造，港科大（广州）的粤港科研新解法 粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260918/herald/78597a3e16f21329a527cb87d331b84b.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-18-bloomberg-technology-waymo--2028-",
+    "date": "2026-09-18",
+    "title": "Waymo 计划于 2028 年在新加坡提供付费机器人出租车服务",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Waymo plans to offer its robotaxi service in Singapore in 2028, the latest in a string of domestic and international expansions by the Alphabet Inc. unit.（原题：Waymo Plans to Offer Paid Robotaxi Rides in Singapore in 2028）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/waymo-plans-to-offer-paid-robotaxi-rides-in-singapore-in-2028",
+    "tags": [],
+    "impact": "Fri, 18 Sep 2026 02:00:24 GMT"
+  },
+  {
+    "id": "2026-09-18-the-verge-waymo-",
+    "date": "2026-09-18",
+    "title": "Waymo 表示新加坡将成为下一个国际机器人出租车城市",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says […]（原题：Waymo says Singapore will be its next international robotaxi city）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+    "tags": [],
+    "impact": "2026-09-17T22:00:00-04:00"
+  },
+  {
+    "id": "2026-09-18-ifanrcom-figure--",
+    "date": "2026-09-18",
+    "title": "Figure 让机器人第一次「空手」进陌生人家：不遥操，也不提前预习，进了家门就干活 产品",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Figure 让机器人第一次「空手」进陌生人家：不遥操，也不提前预习，进了家门就干活 产品",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1680884",
     "tags": [],
     "impact": ""
   },
@@ -96,20 +196,6 @@
     "source_url": "https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/",
     "tags": [],
     "impact": "Thu, 17 Sep 2026 16:18:55 +0000"
-  },
-  {
-    "id": "2026-09-16-geekparknet--cybercab-robotaxi-",
-    "date": "2026-09-16",
-    "title": "我坐进特斯拉 Cybercab，吃下马斯克 Robotaxi 的「新饼」",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "我坐进特斯拉 Cybercab，吃下马斯克 Robotaxi 的「新饼」",
-    "source": "geekpark.net",
-    "source_url": "http://www.geekpark.net/news/370412",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-09-16-geekparknet-",
