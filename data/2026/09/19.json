@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-09-19-36krcom-figure30",
+    "date": "2026-09-19",
+    "title": "Figure租了30套房，让机器人挨家“考核家务”",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Figure租了30套房，让机器人挨家“考核家务”",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3988791872043784",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-09-18-the-robot-report-",
     "date": "2026-09-18",
     "title": "软银同意收购机器人和人工智能研究所",
@@ -14,16 +28,44 @@
     "impact": "Fri, 18 Sep 2026 17:14:32 +0000"
   },
   {
-    "id": "2026-09-18-caifuhaoeastmoneycom--498",
+    "id": "2026-09-18-the-robot-report-",
     "date": "2026-09-18",
-    "title": "具身智能的抓马初秋 498",
+    "title": "机器人热潮背后的镐和铲策略",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The real robotics opportunity isn’t a humanoid in every home—it’s packaging robots for the jobs businesses need done today. The post The picks-and-shovels strategy behind the robotics boom appeared first on The Robot Report .（原题：The picks-and-shovels strategy behind the robotics boom）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
+    "tags": [],
+    "impact": "Fri, 18 Sep 2026 18:57:36 +0000"
+  },
+  {
+    "id": "2026-09-18-caifuhaoeastmoneycom--539",
+    "date": "2026-09-18",
+    "title": "具身智能的抓马初秋 539",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "具身智能的抓马初秋 498",
+    "summary": "具身智能的抓马初秋 539",
     "source": "caifuhao.eastmoney.com",
     "source_url": "http://caifuhao.eastmoney.com/news/20260918080337962213460",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-18-qbitaicom-",
+    "date": "2026-09-18",
+    "title": "具身智能技术路线尚未定型，基础设施却先收敛",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能技术路线尚未定型，基础设施却先收敛",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/09/492238.html",
     "tags": [],
     "impact": ""
   },
@@ -56,14 +98,14 @@
     "impact": "Fri, 18 Sep 2026 13:22:16 +0000"
   },
   {
-    "id": "2026-09-18-the-robot-report-f-prime-capital-to-give-insights-on-the-sta",
+    "id": "2026-09-18-the-robot-report-f-prime-capital--robobusiness-",
     "date": "2026-09-18",
-    "title": "F-Prime Capital to give insights on the state of robotics investments at RoboBusiness",
+    "title": "F-Prime Capital 将深入了解 RoboBusiness 的机器人投资状况",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Sanjay Aggarwal and Betsy Mulé of F-Prime Capital will unveil the firm's State of Robotics Investments report at RoboBusiness. The post F-Prime Capital to give insights on the state of robotics investments at RoboBusiness appeared first on The Robot Report .",
+    "summary": "Sanjay Aggarwal and Betsy Mulé of F-Prime Capital will unveil the firm's State of Robotics Investments report at RoboBusiness. The post F-Prime Capital to give insights on the state of robotics investments at RoboBusiness appeared first on The Robot Report .（原题：F-Prime Capital to give insights on the state of robotics investments at RoboBusiness）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/f-prime-capital-give-insights-state-robotics-investments-robobusiness/",
     "tags": [],
