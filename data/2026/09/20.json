@@ -1,44 +1,114 @@
 [
   {
-    "id": "2026-09-20-36krcom-",
+    "id": "2026-09-20-jisilucn--1774",
     "date": "2026-09-20",
-    "title": "融资狂欢的另一面：机器人明星公司的两种死法",
+    "title": "马斯克说未来十年会有十亿个具身机器人，一个机器人能干五个人的活儿 1774",
     "category": [
-      "robotics",
-      "funding"
+      "humanoid",
+      "robotics"
     ],
     "region": "Global",
-    "summary": "融资狂欢的另一面：机器人明星公司的两种死法",
+    "summary": "马斯克说未来十年会有十亿个具身机器人，一个机器人能干五个人的活儿 1774",
+    "source": "jisilu.cn",
+    "source_url": "https://www.jisilu.cn/question/525420",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-20-blogcsdnnet-opencv-28",
+    "date": "2026-09-20",
+    "title": "自动驾驶中的OpenCV：车道线检测+行人跟踪实战 2.8万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "自动驾驶中的OpenCV：车道线检测+行人跟踪实战 2.8万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/2604_96749383/article/details/163705776",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-20-36krcom-openaiopenai",
+    "date": "2026-09-20",
+    "title": "机器人领域的OpenAI，竟然是OpenAI自己？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人领域的OpenAI，竟然是OpenAI自己？",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3988624098327304",
+    "source_url": "https://www.36kr.com/p/3991250245516034",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-20-geekparknet-",
+    "date": "2026-09-20",
+    "title": "机器人如何自进化，乐享科技走了一条新路",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人如何自进化，乐享科技走了一条新路",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/370665",
     "tags": [],
     "impact": ""
   },
   {
     "id": "2026-09-20-36krcom-",
     "date": "2026-09-20",
-    "title": "机器人的数据生意：真需求，还是自循环？",
+    "title": "具身智能，留不住“一把手”",
     "category": [
-      "robotics"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "机器人的数据生意：真需求，还是自循环？",
+    "summary": "具身智能，留不住“一把手”",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3988725504792456",
+    "source_url": "https://www.36kr.com/p/3991435554585603",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-20-36krcom-13751188ipo",
+    "id": "2026-09-20-36krcom-",
     "date": "2026-09-20",
-    "title": "一家1375倍，一家1188倍：韩国资金疯抢机器人IPO",
+    "title": "具身智能零部件厂商迎来多重机会",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能零部件厂商迎来多重机会",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3991597239768708",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-20-blogcsdnnet-geoaigeoai27",
+    "date": "2026-09-20",
+    "title": "企业知识图谱GEO优化与AI智能体联动深度测评：来客GEO如何把“品牌资产“变成“可运营的AI实体“？2.7万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "企业知识图谱GEO优化与AI智能体联动深度测评：来客GEO如何把“品牌资产“变成“可运营的AI实体“？2.7万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/li778888/article/details/165999962",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-19-caifuhaoeastmoneycom-20-3265",
+    "date": "2026-09-19",
+    "title": "整车亏到骨头里，20多家车企却疯抢机器人，金杯悄悄拿到新船票 3265",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "一家1375倍，一家1188倍：韩国资金疯抢机器人IPO",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3988676532541317",
+    "summary": "整车亏到骨头里，20多家车企却疯抢机器人，金杯悄悄拿到新船票 3265",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20260919223243565615150",
     "tags": [],
     "impact": ""
   },
