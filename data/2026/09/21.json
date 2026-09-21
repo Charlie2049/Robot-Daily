@@ -1,5 +1,118 @@
 [
   {
+    "id": "2026-09-21-36krcom-ai",
+    "date": "2026-09-21",
+    "title": "阿宝、小微和豆包：不同AI智能体的“同意”保险与尺度",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "阿宝、小微和豆包：不同AI智能体的“同意”保险与尺度",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3992990225913476",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-21-36krcom-iphone-duo",
+    "date": "2026-09-21",
+    "title": "花两万，买个机器人还是iPhone Duo？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "花两万，买个机器人还是iPhone Duo？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3993022838864896",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-21-the-robot-report--metaplant--atlas-",
+    "date": "2026-09-21",
+    "title": "波士顿动力公司开设 Metaplant 应用中心来训练 Atlas 人形机器人",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The new Robotics Metaplant Application Center is training humanoids as part of Hyundai's Metaplant America in Georgia. The post Boston Dynamics opens Metaplant Application Center to train Atlas humanoid robots appeared first on The Robot Report .（原题：Boston Dynamics opens Metaplant Application Center to train Atlas humanoid robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/",
+    "tags": [],
+    "impact": "Mon, 21 Sep 2026 12:59:00 +0000"
+  },
+  {
+    "id": "2026-09-21-geekparknet-",
+    "date": "2026-09-21",
+    "title": "对话桥介数物：机器人运动的下一步是让任何机器人半小时内学会跳特定的舞",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "对话桥介数物：机器人运动的下一步是让任何机器人半小时内学会跳特定的舞",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/370717",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-21-36krcom-",
+    "date": "2026-09-21",
+    "title": "不到两万元的启元机器人量产发售，家庭机器人商业路径在哪？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "不到两万元的启元机器人量产发售，家庭机器人商业路径在哪？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3992788881226501",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-21-qbitaicom-gpt-6-astrarpent",
+    "date": "2026-09-21",
+    "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/09/493218.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-21-geekparknet-figure-ai--scaling-law",
+    "date": "2026-09-21",
+    "title": "Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/370607",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-20-mithomecom--eai--92--128",
+    "date": "2026-09-20",
+    "title": "贾跃亭的法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元 128评",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "贾跃亭的法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元 128评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/1005010.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-09-20-the-robot-report-",
     "date": "2026-09-20",
     "title": "当人形机器人发生故障时，你会怎么处理？",
@@ -13,20 +126,6 @@
     "source_url": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
     "tags": [],
     "impact": "Sun, 20 Sep 2026 12:45:45 +0000"
-  },
-  {
-    "id": "2026-09-20-caifuhaoeastmoneycom-19999-240",
-    "date": "2026-09-20",
-    "title": "上纬新材旗下启元机器人正式发售：19999元起 240",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "上纬新材旗下启元机器人正式发售：19999元起 240",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20260920232657911619430",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-09-20-cnbc-technology-",
