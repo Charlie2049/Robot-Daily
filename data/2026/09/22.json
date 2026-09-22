@@ -1,29 +1,85 @@
 [
   {
-    "id": "2026-09-22-36krcom-",
+    "id": "2026-09-22-blogcsdnnet-opencv-23",
     "date": "2026-09-22",
-    "title": "从智元到启元，稚晖君的机器人生意还要过几道关",
+    "title": "自动驾驶中的OpenCV：车道线检测+行人跟踪实战 2.3万",
     "category": [
-      "robotics"
+      "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "从智元到启元，稚晖君的机器人生意还要过几道关",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3993082381351939",
+    "summary": "自动驾驶中的OpenCV：车道线检测+行人跟踪实战 2.3万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/2604_96749383/article/details/163705776",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-22-financesinacomcn-metamuse-ai-621",
+    "id": "2026-09-22-cnbc-technology--aurora-",
     "date": "2026-09-22",
-    "title": "Meta智能体Muse迅速走红 分析师称扎克伯格AI豪赌没有白费 621",
+    "title": "自动卡车运输公司 Aurora 希望加速实现盈利",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "Meta智能体Muse迅速走红 分析师称扎克伯格AI豪赌没有白费 621",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpv5878418.shtml",
+    "summary": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.（原题：Autonomous trucking company Aurora looks to accelerate toward profitability）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
+    "tags": [],
+    "impact": "Tue, 22 Sep 2026 11:30:01 GMT"
+  },
+  {
+    "id": "2026-09-22-blogcsdnnet-geoaigeoai22",
+    "date": "2026-09-22",
+    "title": "企业知识图谱GEO优化与AI智能体联动深度测评：来客GEO如何把“品牌资产“变成“可运营的AI实体“？2.2万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "企业知识图谱GEO优化与AI智能体联动深度测评：来客GEO如何把“品牌资产“变成“可运营的AI实体“？2.2万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/li778888/article/details/165999962",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-22-36krcom-jev",
+    "date": "2026-09-22",
+    "title": "Jev爆火，具身智能迎来大救星？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "Jev爆火，具身智能迎来大救星？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3994311534384773",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-22-m21jingjicom-amdmetacpu-",
+    "date": "2026-09-22",
+    "title": "AMD市值首破万亿美元，Meta智能体引爆CPU行情 公司",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AMD市值首破万亿美元，Meta智能体引爆CPU行情 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260922/herald/1aa8fa918ab5058fb8f7ff4a3638a3b9.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-22-36krcom-2600",
+    "date": "2026-09-22",
+    "title": "2万元的启元机器人，撑得起上纬新材的600亿市值吗？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "2万元的启元机器人，撑得起上纬新材的600亿市值吗？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3993897147054857",
     "tags": [],
     "impact": ""
   },
