@@ -1,29 +1,85 @@
 [
   {
-    "id": "2026-09-23-36krcom-",
+    "id": "2026-09-23-the-robot-report--picknik-robotics--moveit-",
     "date": "2026-09-23",
-    "title": "具身智能的转机和出清，哪个先来？",
+    "title": "高通收购 PickNik Robotics 并保持 MoveIt 开源",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "具身智能的转机和出清，哪个先来？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3994523684837256",
+    "summary": "Qualcomm plans to integrate the Dragonwing and Arduino platforms with the MoveIt open-source manipulation framework. The post Qualcomm to acquire PickNik Robotics and keep MoveIt open-source appeared first on The Robot Report .（原题：Qualcomm to acquire PickNik Robotics and keep MoveIt open-source）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/",
     "tags": [],
-    "impact": ""
+    "impact": "Wed, 23 Sep 2026 11:29:32 +0000"
   },
   {
-    "id": "2026-09-23-36krcom-app-storemeta-muse",
+    "id": "2026-09-23-36krcom--pc-",
     "date": "2026-09-23",
-    "title": "两周登顶App Store榜首，Meta Muse智能体应用爆红",
+    "title": "阿里、谷歌同时重做电脑，智能体 PC 真要来了",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "两周登顶App Store榜首，Meta Muse智能体应用爆红",
+    "summary": "阿里、谷歌同时重做电脑，智能体 PC 真要来了",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3994493499019395",
+    "source_url": "https://www.36kr.com/p/3995639756116097",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-23-36krcom-1200tokens",
+    "date": "2026-09-23",
+    "title": "刷视频也能教会机器人干活，1200亿tokens人类动作预训练，误差按幂律下降",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "刷视频也能教会机器人干活，1200亿tokens人类动作预训练，误差按幂律下降",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3995590722490246",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-23-guokrcom-metaanthropicopenai",
+    "date": "2026-09-23",
+    "title": "亚马逊封禁Meta智能体购物；Anthropic与OpenAI同日发布低价模型；全球变暖在不同区域加速程度不均匀",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "亚马逊封禁Meta智能体购物；Anthropic与OpenAI同日发布低价模型；全球变暖在不同区域加速程度不均匀",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/470304/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-23-36krcom-agi",
+    "date": "2026-09-23",
+    "title": "世界模型，机器人的AGI元年",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "世界模型，机器人的AGI元年",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3995758367232135",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-23-m21jingjicom-musechatgptmeta-",
+    "date": "2026-09-23",
+    "title": "Muse力压ChatGPT，Meta的智能体赌局刚开场 公司",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Muse力压ChatGPT，Meta的智能体赌局刚开场 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20260923/herald/ee68609be640420b0a0b2bb247f00644.html",
     "tags": [],
     "impact": ""
   },
