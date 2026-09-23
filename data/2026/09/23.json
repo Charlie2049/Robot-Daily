@@ -42,18 +42,32 @@
     "impact": "Tue, 22 Sep 2026 14:00:04 +0000"
   },
   {
-    "id": "2026-09-22-bloomberg-technology-",
+    "id": "2026-09-22-the-robot-report-",
     "date": "2026-09-22",
-    "title": "联合国秘书长呼吁制定人工智能协议以防止杀手机器人的崛起",
+    "title": "为什么户外机器人会失败（以及如何构建生存的系统）",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "The secretary general of the United Nations stepped up his calls for regulation of AI to avert a dystopian future of rampant corporate power and killer robots.（原题：UN Chief Calls for AI Pact to Prevent Rise of Killer Robots）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-09-22/un-chief-calls-for-ai-pact-to-prevent-the-rise-of-killer-robots",
+    "summary": "Learn practical strategies for building reliable outdoor robots from WiBotic, Burro, and Nextpower at RoboBusiness in Silicon Valley. The post Why outdoor robots fail (and how to build systems that survive) appeared first on The Robot Report .（原题：Why outdoor robots fail (and how to build systems that survive)）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/why-outdoor-robots-fail-how-to-build-systems-that-survive/",
     "tags": [],
-    "impact": "Tue, 22 Sep 2026 13:34:32 GMT"
+    "impact": "Tue, 22 Sep 2026 18:00:37 +0000"
+  },
+  {
+    "id": "2026-09-22-the-robot-report-nvidia-isaac-ros-50--ai-",
+    "date": "2026-09-22",
+    "title": "NVIDIA 表示，Isaac ROS 5.0 将 AI 代理引入机器人开发",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The release brings new agentic workflows and platform support to NVIDIA Isaac ROS to help developers deploy robotics applications faster. The post Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA appeared first on The Robot Report .（原题：Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/isaac-ros-5-0-brings-ai-agents-robotics-development-says-nvidia/",
+    "tags": [],
+    "impact": "Tue, 22 Sep 2026 17:51:19 +0000"
   },
   {
     "id": "2026-09-21-geekparknet-",
