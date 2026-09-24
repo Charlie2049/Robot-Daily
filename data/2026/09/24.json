@@ -1,30 +1,58 @@
 [
   {
-    "id": "2026-09-24-36krcom-",
+    "id": "2026-09-24-qbitaicom-",
     "date": "2026-09-24",
-    "title": "马斯克描绘人形机器人千亿台远景，中国供应链厂商各显神通",
+    "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/09/496778.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-24-geekparknet-",
+    "date": "2026-09-24",
+    "title": "从数人头到数智能体：一场正在发生的企业生产力换血",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "从数人头到数智能体：一场正在发生的企业生产力换血",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/371011",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-24-bloomberg-technology-",
+    "date": "2026-09-24",
+    "title": "人形机器人为欧洲化学公司带来机遇",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "马斯克描绘人形机器人千亿台远景，中国供应链厂商各显神通",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3995842689275528",
+    "summary": "The humanoid robotics industry relies on one key chemical component used in joints and limbs, creating a battleground for market dominance between European incumbents and Chinese rivals.（原题：Humanoid Robots Spell Opportunity for European Chemical Firms）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-09-24/humanoid-robots-spell-opportunity-for-european-chemical-firms",
     "tags": [],
-    "impact": ""
+    "impact": "Thu, 24 Sep 2026 06:15:00 GMT"
   },
   {
-    "id": "2026-09-24-36krcom-",
+    "id": "2026-09-24-ai-botcn-step-code--",
     "date": "2026-09-24",
-    "title": "交付缩水八成，优必选给具身智能泼了一盆冷水",
+    "title": "Step Code – 阶跃星辰开源的终端编程智能体",
     "category": [
-      "humanoid"
+      "general"
     ],
     "region": "Global",
-    "summary": "交付缩水八成，优必选给具身智能泼了一盆冷水",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3995751852150917",
+    "summary": "Step Code – 阶跃星辰开源的终端编程智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/step-code/",
     "tags": [],
     "impact": ""
   },
