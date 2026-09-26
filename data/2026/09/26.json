@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-09-26-36krcom-openaihugging-facedeepseekkimiqwen",
+    "date": "2026-09-26",
+    "title": "离谱！OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "离谱！OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3999670391640198",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-26-36krcom-80",
+    "date": "2026-09-26",
+    "title": "作为一名打工人，我很羡慕那80%不用进厂的机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "作为一名打工人，我很羡慕那80%不用进厂的机器人",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3999542984265606",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-09-26-36krcom-ai",
     "date": "2026-09-26",
     "title": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
@@ -10,6 +38,20 @@
     "summary": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
     "source": "36kr.com",
     "source_url": "https://www.36kr.com/p/3998754973749376",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-26-36krcom-ai",
+    "date": "2026-09-26",
+    "title": "AI智能体越狱入侵企业！黄仁勋一众硅谷大佬集体反驳灭世预言",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI智能体越狱入侵企业！黄仁勋一众硅谷大佬集体反驳灭世预言",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/3999855009388164",
     "tags": [],
     "impact": ""
   },
@@ -26,6 +68,20 @@
     "source_url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/",
     "tags": [],
     "impact": "Fri, 25 Sep 2026 18:43:22 +0000"
+  },
+  {
+    "id": "2026-09-25-mithomecom--copilot46",
+    "date": "2026-09-25",
+    "title": "聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”46评",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”46评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/1007230.htm",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-09-25-the-verge-",
@@ -81,20 +137,6 @@
     "summary": "从数人头到数智能体：一场正在发生的企业生产力换血",
     "source": "geekpark.net",
     "source_url": "http://www.geekpark.net/news/371011",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-24-ai-botcn-step-code--",
-    "date": "2026-09-24",
-    "title": "Step Code – 阶跃星辰开源的终端编程智能体",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "Step Code – 阶跃星辰开源的终端编程智能体",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/step-code/",
     "tags": [],
     "impact": ""
   }
