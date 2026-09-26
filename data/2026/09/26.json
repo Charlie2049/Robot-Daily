@@ -1,17 +1,31 @@
 [
   {
-    "id": "2026-09-26-36krcom-",
+    "id": "2026-09-26-36krcom-ai",
     "date": "2026-09-26",
-    "title": "具身智能，正在招募“数据骑手”",
+    "title": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
     "category": [
-      "humanoid"
+      "general"
     ],
     "region": "Global",
-    "summary": "具身智能，正在招募“数据骑手”",
+    "summary": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3997129626062978",
+    "source_url": "https://www.36kr.com/p/3998754973749376",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-09-25-the-robot-report-",
+    "date": "2026-09-25",
+    "title": "通用机器人公司押注于模块化智能，而不是一个机器人大脑",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Rather than training one model to do everything, General Robotics composes specialized capabilities—helping robots adapt across tasks and form factors. The post General Robotics is betting on modular intelligence, not one robot brain appeared first on The Robot Report .（原题：General Robotics is betting on modular intelligence, not one robot brain）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/",
+    "tags": [],
+    "impact": "Fri, 25 Sep 2026 18:43:22 +0000"
   },
   {
     "id": "2026-09-25-the-verge-",
