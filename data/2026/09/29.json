@@ -1,0 +1,87 @@
+[
+  {
+    "id": "2026-09-29-juejincn--356",
+    "date": "2026-09-29",
+    "title": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 356",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 356",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7688585710283014184",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-29-juejincn-jev--if--382",
+    "date": "2026-09-29",
+    "title": "Jev：不是聊天机器人， 而是一个智能 if 语句 382",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Jev：不是聊天机器人， 而是一个智能 if 语句 382",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7688159506153095209",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-29-36krcom-36--",
+    "date": "2026-09-29",
+    "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3926003098843272?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-28-geekparknet-",
+    "date": "2026-09-28",
+    "title": "解放人类的高空机器人，如何撬开千亿美元的大市场？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "解放人类的高空机器人，如何撬开千亿美元的大市场？",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/371373",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-28-readhubcn-q1t1-",
+    "date": "2026-09-28",
+    "title": "启元机器人全球首店落地上海，Q1、T1 进入线下销售",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "启元机器人全球首店落地上海，Q1、T1 进入线下销售",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8wn8wTW6WFx",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-28-the-robot-report-gecko-robotics-works-with-nvidia-to-add-ai-",
+    "date": "2026-09-28",
+    "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Gecko Robotics is using the new NVIDIA Open Agent Safety Platform to ensure the secure autonomous control of systems. The post Gecko Robotics works with NVIDIA to add AI agent security and control appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
+    "tags": [],
+    "impact": "Mon, 28 Sep 2026 17:41:32 +0000"
+  }
+]
