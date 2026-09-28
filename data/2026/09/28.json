@@ -56,6 +56,20 @@
     "impact": ""
   },
   {
+    "id": "2026-09-28-36krcom-8openaihf",
+    "date": "2026-09-28",
+    "title": "8万段代码还原OpenAI智能体入侵HF，只能读网页，竟拼出攻击工具链",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "8万段代码还原OpenAI智能体入侵HF，只能读网页，竟拼出攻击工具链",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4001348762210178",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-09-27-the-robot-report-",
     "date": "2026-09-27",
     "title": "阿西莫夫定律不足以保证机器人和人工智能的安全",
