@@ -1,78 +1,136 @@
 [
   {
-    "id": "2026-09-28-36krcom-openaihugging-facedeepseekkimiqwen",
+    "id": "2026-09-28-cbndatacom--",
     "date": "2026-09-28",
-    "title": "离谱！OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "离谱！OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3999670391640198",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-09-28-36krcom-80",
-    "date": "2026-09-28",
-    "title": "作为一名打工人，我很羡慕那80%不用进厂的机器人",
+    "title": "量产前夜，机器人衍生赛道先火了 惊蛰研究所",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "作为一名打工人，我很羡慕那80%不用进厂的机器人",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3999542984265606",
+    "summary": "量产前夜，机器人衍生赛道先火了 惊蛰研究所",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295827",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-28-36krcom-ai",
+    "id": "2026-09-28-financesinacomcn-12-6330",
     "date": "2026-09-28",
-    "title": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
+    "title": "突破百万台在即，机器人细分赛道，高歌猛进！12股获融资客加仓 6,330",
     "category": [
-      "general"
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3998754973749376",
+    "summary": "突破百万台在即，机器人细分赛道，高歌猛进！12股获融资客加仓 6,330",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/stock/roll/2026-09-28/doc-initirzi8820824.shtml",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-28-36krcom-ai",
+    "id": "2026-09-28-36krcom--openai",
     "date": "2026-09-28",
-    "title": "AI智能体越狱入侵企业！黄仁勋一众硅谷大佬集体反驳灭世预言",
+    "title": "接连发生智能体失控事故， OpenAI再次暂停前沿模型训练",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "AI智能体越狱入侵企业！黄仁勋一众硅谷大佬集体反驳灭世预言",
+    "summary": "接连发生智能体失控事故， OpenAI再次暂停前沿模型训练",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/3999855009388164",
+    "source_url": "https://www.36kr.com/p/4002883736326273",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-28-36krcom-8openaihf",
+    "id": "2026-09-28-geekparknet-ceo",
     "date": "2026-09-28",
-    "title": "8万段代码还原OpenAI智能体入侵HF，只能读网页，竟拼出攻击工具链",
+    "title": "微亿智造CEO：具身智能落地工业场景，人形不一定是最优解",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "微亿智造CEO：具身智能落地工业场景，人形不一定是最优解",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/371341",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-28-geekparknet-ai",
+    "date": "2026-09-28",
+    "title": "对话谷歌科学家：智能体是大模型落地重点，AI的未来是大小模型协作",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "8万段代码还原OpenAI智能体入侵HF，只能读网页，竟拼出攻击工具链",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4001348762210178",
+    "summary": "对话谷歌科学家：智能体是大模型落地重点，AI的未来是大小模型协作",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/371325",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-09-28-geekparknet--looi",
+    "date": "2026-09-28",
+    "title": "对话 LOOI：硬件作为内容，像设计生命一样设计机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "对话 LOOI：硬件作为内容，像设计生命一样设计机器人",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/371330",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-28-36krcom-npc",
+    "date": "2026-09-28",
+    "title": "人形机器人涌入主题公园：赛博NPC真能赚钱吗？",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人涌入主题公园：赛博NPC真能赚钱吗？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4002932610275201",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-28-36krcom-cpu1000",
+    "date": "2026-09-28",
+    "title": "一颗CPU跑1000个智能体，英特尔在赌什么？",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "一颗CPU跑1000个智能体，英特尔在赌什么？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4002907203080324",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-28-the-robot-report-raise-robotics--robobusiness-",
+    "date": "2026-09-28",
+    "title": "Raise Robotics 将在 RoboBusiness 上讨论扩展现场机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Raise Robotics said attendees will learn a decision rule for allocating engineering capacity and a vocabulary for two hidden failure modes. The post Raise Robotics to discuss scaling field robots at RoboBusiness appeared first on The Robot Report .（原题：Raise Robotics to discuss scaling field robots at RoboBusiness）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/raise-robotics-discuss-scaling-field-robots-robobusiness/",
+    "tags": [],
+    "impact": "Mon, 28 Sep 2026 13:22:53 +0000"
   },
   {
     "id": "2026-09-27-the-robot-report-",
     "date": "2026-09-27",
-    "title": "阿西莫夫定律不足以保证机器人和人工智能的安全",
+    "title": "阿西莫夫的定律不足以保证机器人和人工智能的安全",
     "category": [
       "robotics"
     ],
@@ -82,20 +140,5 @@
     "source_url": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
     "tags": [],
     "impact": "Sun, 27 Sep 2026 12:26:44 +0000"
-  },
-  {
-    "id": "2026-09-27-bloomberg-technology-",
-    "date": "2026-09-27",
-    "title": "为什么人形机器人可能是老年人护理的未来",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "The US spends roughly $400 billion a year on long-term care, and for every 100 people over 65, only four formal caregivers exist. Humanoid robots like Abi, built by Andromeda to provide emotional companionship for dementia patients, are an early attempt to ease that pressure. Andromeda COO Jennifer Haroon, Brookings researcher Gopi Goda, 1X Chief Designer Dar Sleeper, and Nvidia's Kimberly Powell discuss whether robots can truly help solve the elder care crisis, or whether the technology still has too far to go. (Source: Bloomberg)（原题：Why Humanoid Robots Might Be the Future of Elder Care）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-09-27/why-humanoid-robots-might-be-the-future-of-elder-care-video",
-    "tags": [],
-    "impact": "Sun, 27 Sep 2026 14:04:08 GMT"
   }
 ]
