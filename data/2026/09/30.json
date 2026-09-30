@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-09-30-the-robot-report-asi-",
+    "date": "2026-09-30",
+    "title": "解决建筑劳动力短缺问题：ASI 和软银合作开发自动驾驶车队",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "ASI and SoftBank join forces with $225M to scale brand-agnostic autonomous heavy equipment across major infrastructure projects. The post Tackling construction labor shortages: ASI and SoftBank partner on autonomous fleets appeared first on The Robot Report .（原题：Tackling construction labor shortages: ASI and SoftBank partner on autonomous fleets）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/tackling-construction-labor-shortages-asi-softbank-partner-autonomous-fleets/",
+    "tags": [],
+    "impact": "Wed, 30 Sep 2026 12:30:17 +0000"
+  },
+  {
+    "id": "2026-09-30-wallstreetcncom-robinhoodai24",
+    "date": "2026-09-30",
+    "title": "睡着觉也能炒股？“美股散户大本营”Robinhood开放AI智能体，可24小时自动盯盘交易",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "睡着觉也能炒股？“美股散户大本营”Robinhood开放AI智能体，可24小时自动盯盘交易",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3782833",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-09-30-sspaicom-openai--dot-apple--",
     "date": "2026-09-30",
     "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等 少数派编辑部",
@@ -14,44 +42,72 @@
     "impact": ""
   },
   {
-    "id": "2026-09-30-juejincn--389",
+    "id": "2026-09-30-36krcom-",
     "date": "2026-09-30",
-    "title": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 389",
+    "title": "元宝将杀入个人智能体大战",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 389",
-    "source": "juejin.cn",
-    "source_url": "https://juejin.cn/post/7688585710283014184",
+    "summary": "元宝将杀入个人智能体大战",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4005697602228358",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-30-36krcom-",
+    "id": "2026-09-30-geekparknet-openai--ai--dots-ai-spellspacex---",
     "date": "2026-09-30",
-    "title": "具身智能落地，从犯错开始",
+    "title": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
     "category": [
-      "humanoid"
+      "general"
     ],
     "region": "Global",
-    "summary": "具身智能落地，从犯错开始",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4004497051635840",
+    "summary": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/372005",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-28-cbndatacom--",
-    "date": "2026-09-28",
-    "title": "量产前夜，机器人衍生赛道先火了 惊蛰研究所",
+    "id": "2026-09-30-ai-botcn-dots--openai",
+    "date": "2026-09-30",
+    "title": "Dots – OpenAI推出的常驻型个人智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Dots – OpenAI推出的常驻型个人智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/dots/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-30-aibasecom-aiaiappgemini-skillsopenaidots",
+    "date": "2026-09-30",
+    "title": "AI日报：豆包推独立AI个人助手App小豆;Gemini Skills向免费用户开放;OpenAI发布自主智能体Dots",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：豆包推独立AI个人助手App小豆;Gemini Skills向免费用户开放;OpenAI发布自主智能体Dots",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/31441",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-30-qbitaicom-36",
+    "date": "2026-09-30",
+    "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "量产前夜，机器人衍生赛道先火了 惊蛰研究所",
-    "source": "cbndata.com",
-    "source_url": "https://cbndata.com/information/295827",
+    "summary": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/09/499280.html",
     "tags": [],
     "impact": ""
   },
