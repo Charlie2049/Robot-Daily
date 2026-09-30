@@ -1,30 +1,43 @@
 [
   {
-    "id": "2026-09-30-juejincn--383",
+    "id": "2026-09-30-sspaicom-openai--dot-apple--",
     "date": "2026-09-30",
-    "title": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 383",
+    "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等 少数派编辑部",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 383",
+    "summary": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等 少数派编辑部",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/115197",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-30-juejincn--389",
+    "date": "2026-09-30",
+    "title": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 389",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 389",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7688585710283014184",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-09-29-financesinacomcn--12-2017",
-    "date": "2026-09-29",
-    "title": "工业机器人产业高歌猛进 12股获融资客加仓 2,017",
+    "id": "2026-09-30-36krcom-",
+    "date": "2026-09-30",
+    "title": "具身智能落地，从犯错开始",
     "category": [
-      "robotics",
-      "funding"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "工业机器人产业高歌猛进 12股获融资客加仓 2,017",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/jjxw/2026-09-29/doc-initmkkv3373291.shtml",
+    "summary": "具身智能落地，从犯错开始",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4004497051635840",
     "tags": [],
     "impact": ""
   },
