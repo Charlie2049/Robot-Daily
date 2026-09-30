@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2026-10-01-juejincn--404",
+    "date": "2026-10-01",
+    "title": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 404",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 404",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7688585710283014184",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-30-the-robot-report--arrowfly-",
+    "date": "2026-09-30",
+    "title": "《机器人报告》的母公司 Arrowfly 推出了面向工程师的人工智能平台，并为工程师们举办了探索人工智能的活动",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The initiative for engineers includes a news desk, a conference, research, and an advisory board, grounded in trusted editorial brands. The post The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI appeared first on The Robot Report .（原题：The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai/",
+    "tags": [],
+    "impact": "Wed, 30 Sep 2026 14:03:31 +0000"
+  },
+  {
+    "id": "2026-09-30-qbitaicom-openai",
+    "date": "2026-09-30",
+    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/09/499654.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-29-the-robot-report-",
+    "date": "2026-09-29",
+    "title": "制造业机器人现状",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI. The post State of Robots in Manufacturing appeared first on The Robot Report .（原题：State of Robots in Manufacturing）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/state-of-robots-in-manufacturing/",
+    "tags": [],
+    "impact": "Tue, 29 Sep 2026 13:22:56 +0000"
+  }
+]
