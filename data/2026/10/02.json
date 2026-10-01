@@ -1,0 +1,129 @@
+[
+  {
+    "id": "2026-10-01-the-robot-report--vishay-precision-group-inc-vpg--robobusine",
+    "date": "2026-10-01",
+    "title": "运动精准。 Vishay Precision Group, Inc. (VPG) 将在 RoboBusiness 2026 上展示人形机器人的定制传感功能",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "As humanoid robots move from research labs into factories, warehouses, homes, and other shared spaces, accurate physical feedback becomes crucial. The post Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026 appeared first on The Robot Report .（原题：Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/precision-in-motion-vishay-precision-group-inc-vpg-to-showcase-custom-sensing-capabilities-for-humanoid-robotics-at-robobusiness-2026/",
+    "tags": [],
+    "impact": "Thu, 01 Oct 2026 15:29:55 +0000"
+  },
+  {
+    "id": "2026-10-01-the-robot-report-",
+    "date": "2026-10-01",
+    "title": "您的机器人的安全功能已经发挥作用。如果输入说谎怎么办？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A robot can follow its safety rules and still act on manipulated information. See what this means for robot safety and how teams can strengthen their testing and evidence. The post Your Robot’s Safety Functions Already Work. What If the Input Lies? appeared first on The Robot Report .（原题：Your Robot’s Safety Functions Already Work. What If the Input Lies?）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/your-robots-safety-functions-already-work-what-if-the-input-lies/",
+    "tags": [],
+    "impact": "Thu, 01 Oct 2026 15:02:19 +0000"
+  },
+  {
+    "id": "2026-10-01-ieee-spectrum-robotics-atlas",
+    "date": "2026-10-01",
+    "title": "Atlas机器人的新手可能超越类人设计",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Today, Boston Dynamics is announcing a redesigned hand for its Atlas robot . The previous generation could do some crazy superhuman things with its three fingers, but it was never intended for mass production in the tens or hundreds of thousands. Switching from research hardware to a scalable product makes previously ignorable questions suddenly paramount: how can you make a hand that does everything you need it to do, but is also rugged and reliable and cost effective? It’s questions like these that drove the design of the new Atlas hand, and while it doesn’t look much like a human hand, it might be a hand that makes it out into the real world. - YouTube www.youtube.com Compared to the almost eerily human-like hands designed by a litany of other humanoid robotics companies , Atlas’ new hand does look awfully clunky. We’ve certainly seen some of those robots with much more human-like hands perform dexterous manipulation tasks that are, speaking as someone who has personally witnessed robots haplessly fumble their way through the world for nearly two decades now, nothing short of incredible. And it’s not just what these hands can do—it’s how they look while doing it, as slim, graceful mechanical copies of our own hands. They seem like science fiction, and to some extent, that’s exactly what they are. “Hands are a ruthless design tradeoff,” Alberto Rodriguez , Director of Robot Behavior at Boston Dynamics, tells IEEE Spectrum. “There’s no way around it, you’re always giving up on something. And many of the current designs are giving up on things like reliability and manufacturability.” This is what invariably happens when you try and cram everything necessary to make a robotic hand function into the form factor of a human hand: it’s going to be either very fragile or very expensive, and likely both at the same time. The unfortunate reality is that for now, and likely for the immediate future, all that these sorts of hands are good for are research and demos. With Atlas’ new hand, Boston Dynamics is making the design tradeoffs necessary to achieve a hand that, according to the press release: is capable of a vast array of useful tasks, including using tools; is strong and rugged; can be cleanly simulated; can be mass manufactured and repaired at reliably low cost, and is close enough in form factor to a human hand that human demonstrations can be used to train it. You’ll notice that “looks cosmetically like a human hand” is nowhere on that list, and this new hand doesn’t. Rodriguez explains that getting rid of the pinky was a straightforward decision, agreed on after his team spent a day with their pinkies taped to their ring fingers. But why even add a fourth finger, when the previous generation of Atlas’ hand seemed to do well with only three? It’s not just the extra finger, but a complete redesign that almost doubled the degrees of freedom between the old hand and the new, going from 7 to 13. Boston Dynamics “We also added the ability for the fingers to splay open, because we knew that it was important for one finger to be able to move against another, and we also knew that we needed to be able to hold the handle of a tool with a trigger,” Rodriguez says, which includes many common tools like drills or welding torches. “We’re convinced that from a product perspective, this hand should be able to do everything we need it to do for the foreseeable horizon.” And that ability to finger splay goes beyond what human hands are capable of. According to Rodriguez, “with reinforcement learning we can discover uses for these superhuman extra motions, and exploit them.” Reliability, manufacturability, and cost are all closely related. By reducing the degrees of freedom relative to other more anthropomorphic hand designs down to just 13, Boston Dynamics can use fewer, larger, and more powerful actuators. The actuators are embedded directly into the joints themselves in a direct drive configuration, with a transmission that allows the motors to be back-driven and react to force and contact. Each actuator pack is a single unit that can be easily replaced, and there are no delicate tendons or cables across joints to stretch and break. “What we’re working on right now is figuring out what needs to change in the fine details of our design if we want to make 100,000 of these hands a year,” Rodriguez says. Not every humanoid company will make the tradeoffs that Boston Dynamics has done here, and there’s still plenty of room for creativity when it comes to hand design. But if humanoids with hands are going to scale, some difficult decisions will have to be made, and it’ll take some compromise to deliver on the promises that the humanoid industry has committed to.（原题：Atlas Robot’s New Hand May Outperform Human-Like Designs）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://spectrum.ieee.org/robust-robot-hand",
+    "tags": [],
+    "impact": "Thu, 01 Oct 2026 14:40:12 +0000"
+  },
+  {
+    "id": "2026-09-30-the-robot-report-asi-",
+    "date": "2026-09-30",
+    "title": "解决建筑劳动力短缺问题：ASI 和软银合作开发自动驾驶车队",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "ASI and SoftBank join forces with $225M to scale brand-agnostic autonomous heavy equipment across infrastructure projects. The post Tackling construction labor shortages: ASI and SoftBank partner on autonomous fleets appeared first on The Robot Report .（原题：Tackling construction labor shortages: ASI and SoftBank partner on autonomous fleets）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/tackling-construction-labor-shortages-asi-softbank-partner-autonomous-fleets/",
+    "tags": [],
+    "impact": "Wed, 30 Sep 2026 12:30:17 +0000"
+  },
+  {
+    "id": "2026-09-30-sspaicom-openai--dot-apple--",
+    "date": "2026-09-30",
+    "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等 少数派编辑部",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等 少数派编辑部",
+    "source": "sspai.com",
+    "source_url": "https://sspai.com/post/115197",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-30-geekparknet-openai--ai--dots-ai-spellspacex---",
+    "date": "2026-09-30",
+    "title": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/372005",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-30-ai-botcn-dots--openai",
+    "date": "2026-09-30",
+    "title": "Dots – OpenAI推出的常驻型个人智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Dots – OpenAI推出的常驻型个人智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/dots/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-30-aibasecom-aiaiappgemini-skillsopenaidots",
+    "date": "2026-09-30",
+    "title": "AI日报：豆包推独立AI个人助手App小豆;Gemini Skills向免费用户开放;OpenAI发布自主智能体Dots",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：豆包推独立AI个人助手App小豆;Gemini Skills向免费用户开放;OpenAI发布自主智能体Dots",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/31441",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-09-30-qbitaicom-36",
+    "date": "2026-09-30",
+    "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/09/499280.html",
+    "tags": [],
+    "impact": ""
+  }
+]
