@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-10-02-the-robot-report--eli-lilly--purdue--robobusiness-",
+    "date": "2026-10-02",
+    "title": "礼来公司 (Eli Lilly) 和普渡大学 (Purdue) 将在 RoboBusiness 上分享人机交互的现场经验",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Experts from Eli Lilly and Purdue University will reveal findings about the perception of robots on the manufacturing floor. The post Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness appeared first on The Robot Report .（原题：Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness/",
+    "tags": [],
+    "impact": "Fri, 02 Oct 2026 21:12:14 +0000"
+  },
+  {
+    "id": "2026-10-02-the-robot-report--ld-",
+    "date": "2026-10-02",
+    "title": "欧姆龙新​​一代 LD 移动机​​器人内部",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "In mobile robotics, software, safety, and fleet management are becoming just as important as the robot itself, according to an OMROM project manager. The post Inside Omron’s next-generation LD mobile robots appeared first on The Robot Report .（原题：Inside Omron’s next-generation LD mobile robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
+    "tags": [],
+    "impact": "Fri, 02 Oct 2026 23:01:36 +0000"
+  },
+  {
     "id": "2026-10-02-the-robot-report-2026-",
     "date": "2026-10-02",
     "title": "召集机器人初创公司：2026 年机器人初创公司雷达的提交即将结束",
@@ -12,6 +40,20 @@
     "source_url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
     "tags": [],
     "impact": "Fri, 02 Oct 2026 14:00:59 +0000"
+  },
+  {
+    "id": "2026-10-02-the-robot-report-runway--praxis-1-",
+    "date": "2026-10-02",
+    "title": "Runway 推出 Praxis-1 机器人世界动作模型",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "When Runway does release Praxis-1 publicly, it plans to ship it with open weights rather than as a closed model. The post Runway introduces Praxis-1 world action model for robotics appeared first on The Robot Report .（原题：Runway introduces Praxis-1 world action model for robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
+    "tags": [],
+    "impact": "Fri, 02 Oct 2026 18:32:13 +0000"
   },
   {
     "id": "2026-10-02-technologyreviewcom-redefining-enterprise-intelligence-with-",
