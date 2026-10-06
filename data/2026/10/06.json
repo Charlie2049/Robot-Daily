@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-10-06-blogcsdnnet-opencvffmpeg-19",
+    "date": "2026-10-06",
+    "title": "视觉智能体怎么选技术？目标检测、跟踪、分割、OpenCV和FFmpeg的职责划分 1.9万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "视觉智能体怎么选技术？目标检测、跟踪、分割、OpenCV和FFmpeg的职责划分 1.9万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/weixin_53653412/article/details/166791758",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-10-06-36krcom-",
     "date": "2026-10-06",
     "title": "元宝将杀入个人智能体大战",
@@ -14,18 +28,18 @@
     "impact": ""
   },
   {
-    "id": "2026-10-06-36krcom-",
-    "date": "2026-10-06",
-    "title": "估值泡沫还是真实需求？具身智能数采中心真相调查",
+    "id": "2026-10-05-the-robot-report--bright-machines",
+    "date": "2026-10-05",
+    "title": "泰瑞达投资 Bright Machines，将机器人技术引入人工智能基础设施制造",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "估值泡沫还是真实需求？具身智能数采中心真相调查",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4005634581155970",
+    "summary": "The companies plan to integrate Teradyne robotics and test technologies with the Bright Machines manufacturing platform. The post Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing appeared first on The Robot Report .（原题：Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
     "tags": [],
-    "impact": ""
+    "impact": "Mon, 05 Oct 2026 23:34:35 +0000"
   },
   {
     "id": "2026-10-05-the-robot-report-fcc-",
