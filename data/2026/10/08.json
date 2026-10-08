@@ -1,115 +1,87 @@
 [
   {
-    "id": "2026-10-08--",
+    "id": "2026-10-08-ieee-spectrum-robotics-",
     "date": "2026-10-08",
-    "title": "韩国议员展示中国机器人引争议",
+    "title": "这只没有实体的手就是你所需要的机器人",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "韩国议员展示中国机器人引争议",
-    "source": "更多作品推荐",
-    "source_url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%AE%AE%E5%91%98%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%95%E4%BA%89%E8%AE%AE",
+    "summary": "A hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic hand into a completely self-contained robot that walks on its fingertips while using those same fingers to manipulate its environment. Besides making the perfect Halloween accessory for anyone planning to dress up as a member of The Addams Family – who were famously accompanied by a disembodied walking hand called Thing – the researchers say the approach could make it possible to operate controls and handle objects in places a traditional robot arm can’t reach. Soft Robotics Lab, ETH Zurich/YouTube Amirhossein Kazemipour , a Ph.D. candidate in the Soft Robotics Lab at ETH Zurich in Switzerland who led the project, believes this hand could prove useful in contexts like fiddly maintenance tasks in industrial settings, or in search and rescue, where a robot could detach its hand to explore confined spaces too tight for the rest of its body. More broadly, he says, the work is a step toward a new approach to robotics in which body parts are not confined to a single role. “I wanted to see how much a robotic hand could do without the rest of the robot,” Kazemipour told IEEE Spectrum . “Instead of having this traditional view of robotic parts, what if we could use those parts to do other tasks that they are not designed to do.” This is not the first attempt to get a robot hand to walk , but previous work has typically relied on specially designed hands. The ETH team instead decided to use off-the-shelf hardware from Wuji Technology , augmented with an 80-gram backpack containing a battery, an inertial measurement unit (IMU), and a Raspberry Pi Zero. Kazemipour says they decided to go with a commercial robot hand because they didn’t want to compromise on the hand’s manipulation capabilities. This introduced significant challenges, he adds, because a hand’s shape is optimized for grasping rather than crawling. How to Walk With Fingers To teach the hand to walk, the researchers trained a model in simulation using reinforcement learning – an approach in which models learn skills through many rounds of trial and error, receiving rewards for getting closer to the desired behavior along with penalties when they diverge from it. But Kazemipour says the unusual geometry of a hand meant they couldn’t just reuse approaches used to train other kinds of legged robots. Standard quadrupeds or bipeds tend to be symmetrical on their left and right sides, which simplifies walking and balance, he says. Hands, in contrast, are not at all symmetrical, with fingers of different lengths and an opposable thumb. In addition to rewards for moving at the right speed and in the right direction and penalties for things like wobbling or jerky movement, the team introduced a novel way to keep the hand in a crawling stance during the simulated training. To account for unequal digit length, they gave each finger its own target position relative to the palm, based on where it naturally sits when in the crawling posture. They then penalized the fingers for straying too far from that reference point, creating what they describe as “virtual springs” that pull the fingers back to the crawling stance. Crucially, the penalties for fingers moving forward and backward are significantly less than those for moving side-to-side, so taking steps in that way costs the hand very little compared with the rewards it receives for moving. The team also trained separate models for skills like righting the hand when it falls over, pressing keys on a keyboard, and pushing objects to a target. All four models fit on the onboard computer, says Kazemipour, and the controller can switch between them as necessary. In real-world tests, the hand crawled across 14 different surfaces including smooth floors, metal grates, grass, and gravel. Other experiments confirmed that it could make both right and left turns, and hit an average speed of 9 centimeters per second. The hand was able to right itself in 21 of 25 trials. When given a video feed from an overhead camera, it even managed to autonomously push a 41-gram cube to targets up to 40 cm away 15 times in a row. “What interests me most about this work is that the same fingers can move the hand, support its weight, and interact with its surroundings,” says Masahiko Inami , a professor at The University of Tokyo whose group has developed hand-shaped walking robots . He agrees that a mobile hand could be useful for reaching confined spaces and operating controls that an entire arm could not easily access, though he says practical deployment would require on-board perception and more robust navigation. Hideki Shimobayashi , a Ph.D. student in Inami’s lab, also points out that walking puts very different loads on a hand compared to grasping, so durability may be a challenge. However, Matei Ciocarlie , an associate professor of mechanical engineering at Columbia University, says it’s a “cool result” that suggests robot hands don’t have to be restricted to the same capabilities as their human counterparts. “One can imagine an entirely new class of mobile manipulators that are simultaneously dexterous, able to traverse complex terrain, and able to manipulate payloads comparable in size to themselves,” he says. Kazemipour sees his work as part of a longer-term vision for robots made up of parts that are not tied to a single job or even a single body plan, something he calls “autonomous modular embodiments.” “Robotic body parts should not be permanently assigned to a single function,” he says. “They can dynamically transition between roles, between being components of one embodiment system and autonomous agents, according to the task.”（原题：This Disembodied Hand Is All the Robot You Need）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://spectrum.ieee.org/walking-robotic-hand",
     "tags": [],
-    "impact": "9万"
+    "impact": "Thu, 08 Oct 2026 12:00:02 +0000"
   },
   {
-    "id": "2026-10-08-blogcsdnnet--ai-learning-loop--self-improving--28",
+    "id": "2026-10-08-bloomberg-technology-",
     "date": "2026-10-08",
-    "title": "自进化 AI 智能体：Learning Loop 与 Self-Improving 内幕 2.8万",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "自进化 AI 智能体：Learning Loop 与 Self-Improving 内幕 2.8万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/riemann_/article/details/164632673",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-08-caifuhaoeastmoneycom--917",
-    "date": "2026-10-08",
-    "title": "机器人终于有人买了 917",
+    "title": "德国初创公司利用人类拍摄自己来训练机器人",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人终于有人买了 917",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20261008075818242320560",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-08-m21jingjicom-",
-    "date": "2026-10-08",
-    "title": "广东主题乐园上演“抢客”记：数百台机器人假期上岗“打工”粤港澳",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "广东主题乐园上演“抢客”记：数百台机器人假期上岗“打工”粤港澳",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20261008/herald/99d213a3e246a7dbed58aa85cf121d46.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-08-36krcom-",
-    "date": "2026-10-08",
-    "title": "具身智能界的“美团”，能跑通吗？",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "具身智能界的“美团”，能跑通吗？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4016534563884935",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-08-36krcom-ipo",
-    "date": "2026-10-08",
-    "title": "具身智能冲击IPO：估值盛宴之后狂欢退潮",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "具身智能冲击IPO：估值盛宴之后狂欢退潮",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4016412610498694",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-08-blogcsdnnet-vla--3--batch-30",
-    "date": "2026-10-08",
-    "title": "VLA 系统学习第 3 课：从一次机器人示范，到真正送进神经网络的 Batch 3.0万",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "VLA 系统学习第 3 课：从一次机器人示范，到真正送进神经网络的 Batch 3.0万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/qq_56657939/article/details/167179245",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-07-bloomberg-technology--nvidia--mecka-ai-",
-    "date": "2026-10-07",
-    "title": "红杉资本和 Nvidia 支持 Mecka AI 的机器人推动",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft’s M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)（原题：Sequoia, Nvidia Back Mecka AI’s Robotics Push）",
+    "summary": "Germany’s Agile Robots is training its machines by filming humans performing tasks, in a bid to compensate for a shortfall of data that is holding back industrial automation, according to its chief executive officer.（原题：German Startup Trains Its Robots Using Humans Filming Themselves）",
     "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-10-08/german-startup-trains-its-robots-using-humans-filming-themselves",
     "tags": [],
-    "impact": "Wed, 07 Oct 2026 18:06:08 GMT"
+    "impact": "Thu, 08 Oct 2026 12:24:45 GMT"
+  },
+  {
+    "id": "2026-10-08-36krcom-100135",
+    "date": "2026-10-08",
+    "title": "估值100亿、累计营收1.35亿、不卖一台机器人：机器人的\"通用大脑\"，正在变成最贵的\"故事\"",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "估值100亿、累计营收1.35亿、不卖一台机器人：机器人的\"通用大脑\"，正在变成最贵的\"故事\"",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4016951181711239",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-08-technologyreviewcom-building-a-safer-path-to-autonomous-indu",
+    "date": "2026-10-08",
+    "title": "Building a safer path to autonomous industrial AI",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "Building a safer path to autonomous industrial AI",
+    "source": "technologyreview.com",
+    "source_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-08-the-robot-report-aws--ai-",
+    "date": "2026-10-08",
+    "title": "AWS 推出适用于机器人技术的开源物理 AI 工具链",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The toolchain combines AWS and NVIDIA tools for synthetic data generation, model training, simulation and validation, edge deployment, and continuous improvement. The post AWS launches open-source Physical AI Toolchain for robotics appeared first on The Robot Report .（原题：AWS launches open-source Physical AI Toolchain for robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+    "tags": [],
+    "impact": "Thu, 08 Oct 2026 13:23:58 +0000"
+  },
+  {
+    "id": "2026-10-08-technologyreviewcom-ai-breakthroughs-in-robotics-wont-change",
+    "date": "2026-10-08",
+    "title": "AI breakthroughs in robotics won’t change your life any time soon",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AI breakthroughs in robotics won’t change your life any time soon",
+    "source": "technologyreview.com",
+    "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-10-07-the-robot-report-teradyne-robotics--elite-robots-",
