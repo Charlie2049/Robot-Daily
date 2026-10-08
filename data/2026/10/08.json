@@ -1,15 +1,99 @@
 [
   {
-    "id": "2026-10-08-blogcsdnnet--ai-learning-loop--self-improving--29",
+    "id": "2026-10-08--",
     "date": "2026-10-08",
-    "title": "自进化 AI 智能体：Learning Loop 与 Self-Improving 内幕 2.9万",
+    "title": "韩国议员展示中国机器人引争议",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "韩国议员展示中国机器人引争议",
+    "source": "更多作品推荐",
+    "source_url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%AE%AE%E5%91%98%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%95%E4%BA%89%E8%AE%AE",
+    "tags": [],
+    "impact": "9万"
+  },
+  {
+    "id": "2026-10-08-blogcsdnnet--ai-learning-loop--self-improving--28",
+    "date": "2026-10-08",
+    "title": "自进化 AI 智能体：Learning Loop 与 Self-Improving 内幕 2.8万",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "自进化 AI 智能体：Learning Loop 与 Self-Improving 内幕 2.9万",
+    "summary": "自进化 AI 智能体：Learning Loop 与 Self-Improving 内幕 2.8万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/riemann_/article/details/164632673",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-08-caifuhaoeastmoneycom--917",
+    "date": "2026-10-08",
+    "title": "机器人终于有人买了 917",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人终于有人买了 917",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20261008075818242320560",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-08-m21jingjicom-",
+    "date": "2026-10-08",
+    "title": "广东主题乐园上演“抢客”记：数百台机器人假期上岗“打工”粤港澳",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "广东主题乐园上演“抢客”记：数百台机器人假期上岗“打工”粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261008/herald/99d213a3e246a7dbed58aa85cf121d46.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-08-36krcom-",
+    "date": "2026-10-08",
+    "title": "具身智能界的“美团”，能跑通吗？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能界的“美团”，能跑通吗？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4016534563884935",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-08-36krcom-ipo",
+    "date": "2026-10-08",
+    "title": "具身智能冲击IPO：估值盛宴之后狂欢退潮",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能冲击IPO：估值盛宴之后狂欢退潮",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4016412610498694",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-08-blogcsdnnet-vla--3--batch-30",
+    "date": "2026-10-08",
+    "title": "VLA 系统学习第 3 课：从一次机器人示范，到真正送进神经网络的 Batch 3.0万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "VLA 系统学习第 3 课：从一次机器人示范，到真正送进神经网络的 Batch 3.0万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/qq_56657939/article/details/167179245",
     "tags": [],
     "impact": ""
   },
