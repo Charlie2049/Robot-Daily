@@ -1,0 +1,72 @@
+[
+  {
+    "id": "2026-10-09-ieee-spectrum-robotics-",
+    "date": "2026-10-09",
+    "title": "周五视频：机器人退役发生了有趣的转变",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! It’s possible that I wasn’t the only one who thought that Figure’s recent stunt was somewhat ridiculous. Devanthro is in fact selling these plastic balls for $1000 each, and they’ll arrive in time for Christmas. [ Devanthro ] Not that anyone uses ringtones anymore, but if we did, this would be absolutely everywhere and I’d be loving it. [ Pollen ] Let’s not get too excited, but this thread-like linear motor is pretty sweet. [ Ecole Polytechnique Fédérale de Lausanne LMTS ] What is this robot for? It’s for doing exactly what you see here, that’s what it’s for. [ RAI Institute ] Humanoid robots still struggle to plan contact-rich whole-body manipulation from egocentric RGB and proprioception. Workhorse learns such manipulation from robot-free human demonstrations. On a real Unitree G1, Workhorse sorts boxes with its hands and a kick, catches a thrown box, and topples and climbs a suitcase. Yeah that happens to me too when I have a communication failure. [ Hybrid Robotics ] A car wash that models your vehicle then cleans it with robot arms? Interesting idea. The recent reviews from this location suggest that the robots aren’t quite up to snuff yet, but really seems like there’s potential here. [ KUKA ] So this is not the worst idea I’ve ever seen for what to do with humanoid robots. [ DEEP Robotics ] Some lovely manipulation with a deceptively simple gripper. [ Generalist ] I am genuinely embarrassed to say that this robot dances better than I do. [ General Robotics Lab ] MIT researchers developed SANDO, a new navigation system that helps robots safely navigate unfamiliar environments while avoiding moving obstacles. The system can rapidly plan and adjust a collision-free path using onboard sensors and computing, with safety backed by mathematical guarantees. [ MIT News ] Can you spot the part of this video that I’m side eyeing? Yep, it’s where the middle clip starts after the hand already has a good grip on that peelable strip. [ Sanctuary AI ] Inspired by feather stars, the NC State researchers report a soft underwater swimming robot capable of achieving three distinct swimming modes—jellyfish-like vertical swimming, fish-like directional steering, and rotor-like 3D reorientation—using only two pneumatic inputs. [ NC State University ] Here’s a series of mini-keynotes from ICRA earlier this year, on manipulation, humaonids, and embodied design. [ ICRA 2026 ]（原题：Video Friday: Robot Decommissioning Takes a Fun Turn）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
+    "tags": [],
+    "impact": "Fri, 09 Oct 2026 15:30:02 +0000"
+  },
+  {
+    "id": "2026-10-08-ieee-spectrum-robotics-",
+    "date": "2026-10-08",
+    "title": "这只没有实体的手就是你所需要的机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic hand into a completely self-contained robot that walks on its fingertips while using those same fingers to manipulate its environment. Besides making the perfect Halloween accessory for anyone planning to dress up as a member of the Addams Family—who were famously accompanied by a disembodied walking hand called Thing —this robotic hand could make it possible to operate controls and handle objects in places a traditional robot arm can’t reach, the researchers say. Soft Robotics Lab, ETH Zurich/YouTube Amirhossein Kazemipour , a Ph.D. candidate in the Soft Robotics Lab at ETH Zurich who led the project, believes this hand could prove useful in contexts like fiddly maintenance tasks in industrial settings, or in search and rescue, where a robot could detach its hand to explore confined spaces too tight for the rest of its body. More broadly, he says, the work is a step toward a new approach to robotics in which body parts are not confined to a single role. “I wanted to see how much a robotic hand could do without the rest of the robot,” Kazemipour told IEEE Spectrum . “Instead of having this traditional view of robotic parts, what if we could use those parts to do other tasks that they are not designed to do?” This is not the first attempt to get a robot hand to walk , but previous work has typically relied on specially designed hands. The ETH team instead decided to use off-the-shelf hardware from Wuji Technology , augmented with an 80-gram backpack containing a battery, an inertial measurement unit (IMU), and a Raspberry Pi Zero. Kazemipour says they decided to go with a commercial robot hand because they didn’t want to compromise on the hand’s manipulation capabilities. This introduced significant challenges, he adds, because a hand’s shape is optimized for grasping rather than crawling. How to Walk With Fingers To teach the hand to walk, the researchers trained a model in simulation using reinforcement learning—an approach in which models learn skills through many rounds of trial and error, receiving rewards for getting closer to the desired behavior along with penalties when they diverge from it. But Kazemipour says the unusual geometry of a hand meant they couldn’t just reuse methods used to train other kinds of legged robots. Standard quadrupeds or bipeds tend to be symmetrical on their left and right sides, which simplifies walking and balance, he says. Hands, in contrast, are not at all symmetrical, with fingers of different lengths and an opposable thumb. In addition to rewards for moving at the right speed and in the right direction and penalties for things like wobbling or jerky movement, the team introduced a novel way to keep the hand in a crawling stance during the simulated training. To account for unequal digit length, they gave each finger its own target position relative to the palm, based on where it naturally sits when in the crawling posture. They then penalized the fingers for straying too far from that reference point, creating what they describe as “virtual springs” that pull the fingers back to the crawling stance. Crucially, the penalties for fingers moving forward and backward are significantly less than those for moving side to side, so taking steps in that way costs the hand very little compared with the rewards it receives for moving. The team also trained separate models for skills like righting the hand when it falls over, pressing keys on a keyboard, and pushing objects to a target. All four models fit on the onboard computer, says Kazemipour, and the controller can switch between them as necessary. In real-world tests, the hand crawled across 14 different surfaces including smooth floors, metal grates, grass, and gravel. Other experiments confirmed that it could make both right and left turns, and hit an average speed of 9 centimeters per second. The hand was able to right itself in 21 of 25 trials. When given a video feed from an overhead camera, it even managed to autonomously push a 41-gram cube to targets up to 40 cm away 15 times in a row. “What interests me most about this work is that the same fingers can move the hand, support its weight, and interact with its surroundings,” says Masahiko Inami , a professor at the University of Tokyo whose group has developed hand-shaped walking robots . He agrees that a mobile hand could be useful for reaching confined spaces and operating controls that an entire arm could not easily access, though he says practical deployment would require onboard perception and more robust navigation. Hideki Shimobayashi , a Ph.D. student in Inami’s lab, also points out that walking puts very different loads on a hand compared to grasping, so durability may be a challenge. However, Matei Ciocarlie , an associate professor of mechanical engineering at Columbia University, says it’s a “cool result” that suggests robot hands don’t have to be restricted to the same capabilities as their human counterparts. “One can imagine an entirely new class of mobile manipulators that are simultaneously dexterous, able to traverse complex terrain, and able to manipulate payloads comparable in size to themselves,” he says. Kazemipour sees his work as part of a longer-term vision for robots made up of parts that are not tied to a single job or even a single body plan, something he calls “autonomous modular embodiments.” “Robotic body parts should not be permanently assigned to a single function,” he says. “They can dynamically transition between roles, between being components of one embodiment system and autonomous agents, according to the task.”（原题：This Disembodied Hand Is All the Robot You Need）",
+    "source": "IEEE Spectrum Robotics",
+    "source_url": "https://spectrum.ieee.org/walking-robotic-hand",
+    "tags": [],
+    "impact": "Thu, 08 Oct 2026 12:00:02 +0000"
+  },
+  {
+    "id": "2026-10-08-mit-technology-review-",
+    "date": "2026-10-08",
+    "title": "机器人领域的人工智能突破不会很快改变你的生活",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…（原题：AI breakthroughs in robotics won’t change your life any time soon）",
+    "source": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "tags": [],
+    "impact": "Thu, 08 Oct 2026 09:00:00 +0000"
+  },
+  {
+    "id": "2026-10-08-mit-technology-review-",
+    "date": "2026-10-08",
+    "title": "打造更安全的自主工业人工智能之路",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,…（原题：Building a safer path to autonomous industrial AI）",
+    "source": "MIT Technology Review",
+    "source_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "tags": [],
+    "impact": "Thu, 08 Oct 2026 08:17:32 +0000"
+  },
+  {
+    "id": "2026-10-08-the-robot-report-aws--ai-",
+    "date": "2026-10-08",
+    "title": "AWS 推出适用于机器人技术的开源物理 AI 工具链",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The toolchain combines AWS and NVIDIA tools for synthetic data generation, model training, simulation and validation, edge deployment, and continuous improvement. The post AWS launches open-source Physical AI Toolchain for robotics appeared first on The Robot Report .（原题：AWS launches open-source Physical AI Toolchain for robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+    "tags": [],
+    "impact": "Thu, 08 Oct 2026 13:23:58 +0000"
+  }
+]
