@@ -15,16 +15,44 @@
     "impact": ""
   },
   {
-    "id": "2026-10-09-36krcom-120",
+    "id": "2026-10-09-qbitaicom-agentgarten",
     "date": "2026-10-09",
-    "title": "日薪120元，我给机器人当“老师”",
+    "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "日薪120元，我给机器人当“老师”",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4017982424780936",
+    "summary": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/10/502096.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-09-qbitaicom-openjiuwenagentos",
+    "date": "2026-10-09",
+    "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/10/502106.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-09-aibasecom-aigeminiappai",
+    "date": "2026-10-09",
+    "title": "AI日报：谷歌云发布通用Gemini智能体；豆包App上线生活缴费功能；快手发布“AI魔改”视频治理公告",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：谷歌云发布通用Gemini智能体；豆包App上线生活缴费功能；快手发布“AI魔改”视频治理公告",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/31508",
     "tags": [],
     "impact": ""
   },
@@ -42,34 +70,6 @@
     "source_url": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
     "tags": [],
     "impact": "Thu, 08 Oct 2026 16:16:21 +0000"
-  },
-  {
-    "id": "2026-10-08-the-verge-",
-    "date": "2026-10-08",
-    "title": "加州正试图关闭机器人与人类的笼子比赛",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]（原题：California is trying to shut down robot vs. human cage matches）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-    "tags": [],
-    "impact": "2026-10-08T16:06:56-04:00"
-  },
-  {
-    "id": "2026-10-08-bloomberg-technology-",
-    "date": "2026-10-08",
-    "title": "中国的送货机器人正在学习应对夜班",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Autonomous vehicle companies believe there’s a huge market opportunity in delivering after dark, if the technical challenges can be overcome.（原题：China's Delivery Robots Are Learning to Tackle the Night Shift）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift",
-    "tags": [],
-    "impact": "Thu, 08 Oct 2026 23:00:15 GMT"
   },
   {
     "id": "2026-10-08-the-robot-report-safeworld-",
