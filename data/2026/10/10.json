@@ -14,6 +14,35 @@
     "impact": "Fri, 09 Oct 2026 15:30:02 +0000"
   },
   {
+    "id": "2026-10-09-the-robot-report-",
+    "date": "2026-10-09",
+    "title": "为什么人形机器人演示仍然未能通过泛化测试",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "How better data and human judgment can help robots move beyond demos toward reliable real-world performance. The post Why humanoid robot demos still fail the generalization test appeared first on The Robot Report .（原题：Why humanoid robot demos still fail the generalization test）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
+    "tags": [],
+    "impact": "Fri, 09 Oct 2026 19:28:41 +0000"
+  },
+  {
+    "id": "2026-10-09-the-robot-report-groceryshop-2026-",
+    "date": "2026-10-09",
+    "title": "Groceryshop 2026 表明零售机器人已准备好扩大规模并使用人工智能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Groceryshop 2026 not only featured mobile robots for taking inventory, but it also showed how retail automation is evolving. The post Groceryshop 2026 shows that retail robots are ready to scale, use AI appeared first on The Robot Report .（原题：Groceryshop 2026 shows that retail robots are ready to scale, use AI）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/groceryshop-2026-shows-retail-robots-ready-scale-use-ai/",
+    "tags": [],
+    "impact": "Fri, 09 Oct 2026 12:25:47 +0000"
+  },
+  {
     "id": "2026-10-08-ieee-spectrum-robotics-",
     "date": "2026-10-08",
     "title": "这只没有实体的手就是你所需要的机器人",
