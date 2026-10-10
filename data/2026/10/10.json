@@ -59,20 +59,6 @@
   {
     "id": "2026-10-08-mit-technology-review-",
     "date": "2026-10-08",
-    "title": "机器人领域的人工智能突破不会很快改变你的生活",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…（原题：AI breakthroughs in robotics won’t change your life any time soon）",
-    "source": "MIT Technology Review",
-    "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-    "tags": [],
-    "impact": "Thu, 08 Oct 2026 09:00:00 +0000"
-  },
-  {
-    "id": "2026-10-08-mit-technology-review-",
-    "date": "2026-10-08",
     "title": "打造更安全的自主工业人工智能之路",
     "category": [
       "general"
@@ -87,7 +73,7 @@
   {
     "id": "2026-10-08-the-robot-report-aws--ai-",
     "date": "2026-10-08",
-    "title": "AWS 推出适用于机器人技术的开源物理 AI 工具链",
+    "title": "AWS 推出用于机器人技术的开源物理 AI 工具链",
     "category": [
       "robotics"
     ],
@@ -97,5 +83,19 @@
     "source_url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
     "tags": [],
     "impact": "Thu, 08 Oct 2026 13:23:58 +0000"
+  },
+  {
+    "id": "2026-10-08-technologyreviewcom-ai-breakthroughs-in-robotics-wont-change",
+    "date": "2026-10-08",
+    "title": "AI breakthroughs in robotics won’t change your life any time soon",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AI breakthroughs in robotics won’t change your life any time soon",
+    "source": "technologyreview.com",
+    "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "tags": [],
+    "impact": ""
   }
 ]
