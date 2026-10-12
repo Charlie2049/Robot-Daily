@@ -1,0 +1,100 @@
+[
+  {
+    "id": "2026-10-13-blogcsdnnet-----python--neat-25",
+    "date": "2026-10-13",
+    "title": "自动驾驶汽车神经网络 - 使用 Python 和 NEAT 2.5万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "自动驾驶汽车神经网络 - 使用 Python 和 NEAT 2.5万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/ccf19881030/article/details/167497201",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-13-blogcsdnnet--25",
+    "date": "2026-10-13",
+    "title": "自动驾驶中的边界情况处理：基于世界模型与混合专家及大语言模型的方法 2.5万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "自动驾驶中的边界情况处理：基于世界模型与混合专家及大语言模型的方法 2.5万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/FanSunshineboy/article/details/167491307",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-13-blogcsdnnet-ai-20",
+    "date": "2026-10-13",
+    "title": "找AI语音机器人选对是关键 2.0万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "找AI语音机器人选对是关键 2.0万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/2601_96282183/article/details/167491098",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-12-electrek-autopilot-nhtsa-",
+    "date": "2026-10-12",
+    "title": "NHTSA 正在考虑调查特斯拉机器人出租车在学校区域超速的说法",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A new defect petition accuses Tesla’s Robotaxis of speeding through active school zones, and NHTSA has opened a file to decide whether to investigate. The agency puts the affected fleet at about 1,000 vehicles, Model Y and Cybercab. It’s the third federal action aimed at Tesla’s driverless fleet in about five weeks, after an audit query and a Special Order over how the Cybercab was certified. more…（原题：NHTSA weighs probe into claims Tesla Robotaxis speed in school zones）",
+    "source": "Electrek Autopilot",
+    "source_url": "https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/",
+    "tags": [],
+    "impact": "Mon, 12 Oct 2026 13:24:01 +0000"
+  },
+  {
+    "id": "2026-10-12-bloomberg-technology-deepseek--4-",
+    "date": "2026-10-12",
+    "title": "DeepSeek 支持前腾讯人工智能科学家 4 亿美元的机器人实验室",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "DeepSeek aims to lead the first round of investment for a months-old startup building AI for robots, deploying capital from its own $12 billion-plus financing to help bankroll one of the tech industry’s fastest-growing fields.（原题：DeepSeek Backs Ex-Tencent AI Scientist’s $400 Million Robot Lab）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-10-12/deepseek-backs-ex-tencent-ai-scientist-s-400-million-robot-lab",
+    "tags": [],
+    "impact": "Mon, 12 Oct 2026 11:42:26 GMT"
+  },
+  {
+    "id": "2026-10-11-geekparknet--spacex-1000",
+    "date": "2026-10-11",
+    "title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/372216",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-11-the-robot-report-",
+    "date": "2026-10-11",
+    "title": "“无聊”的机器人会在现实世界中获胜吗？为什么机器人表单应该遵循工作流程",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach. The post Will ‘boring’ robots win in the real world? Why robotic form should follow workflow appeared first on The Robot Report .（原题：Will ‘boring’ robots win in the real world? Why robotic form should follow workflow）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
+    "tags": [],
+    "impact": "Sun, 11 Oct 2026 12:36:24 +0000"
+  }
+]
