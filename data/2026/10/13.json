@@ -1,43 +1,43 @@
 [
   {
-    "id": "2026-10-13-blogcsdnnet-----python--neat-25",
+    "id": "2026-10-13-blogcsdnnet-----python--neat-24",
     "date": "2026-10-13",
-    "title": "自动驾驶汽车神经网络 - 使用 Python 和 NEAT 2.5万",
+    "title": "自动驾驶汽车神经网络 - 使用 Python 和 NEAT 2.4万",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "自动驾驶汽车神经网络 - 使用 Python 和 NEAT 2.5万",
+    "summary": "自动驾驶汽车神经网络 - 使用 Python 和 NEAT 2.4万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/ccf19881030/article/details/167497201",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-13-blogcsdnnet--25",
+    "id": "2026-10-13-blogcsdnnet--24",
     "date": "2026-10-13",
-    "title": "自动驾驶中的边界情况处理：基于世界模型与混合专家及大语言模型的方法 2.5万",
+    "title": "自动驾驶中的边界情况处理：基于世界模型与混合专家及大语言模型的方法 2.4万",
     "category": [
       "autonomous-driving"
     ],
     "region": "Global",
-    "summary": "自动驾驶中的边界情况处理：基于世界模型与混合专家及大语言模型的方法 2.5万",
+    "summary": "自动驾驶中的边界情况处理：基于世界模型与混合专家及大语言模型的方法 2.4万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/FanSunshineboy/article/details/167491307",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-13-blogcsdnnet-ai-20",
+    "id": "2026-10-13-blogcsdnnet-ai--20",
     "date": "2026-10-13",
-    "title": "找AI语音机器人选对是关键 2.0万",
+    "title": "拆解‘AI 办公‘的能力清单：连接器、知识图谱、长期记忆、后台智能体——两家官方文档里的共同答案 2.0万",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "找AI语音机器人选对是关键 2.0万",
+    "summary": "拆解‘AI 办公‘的能力清单：连接器、知识图谱、长期记忆、后台智能体——两家官方文档里的共同答案 2.0万",
     "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/2601_96282183/article/details/167491098",
+    "source_url": "https://blog.csdn.net/Rosanci/article/details/167587014",
     "tags": [],
     "impact": ""
   },
@@ -54,20 +54,6 @@
     "source_url": "https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/",
     "tags": [],
     "impact": "Mon, 12 Oct 2026 13:24:01 +0000"
-  },
-  {
-    "id": "2026-10-12-bloomberg-technology-deepseek--4-",
-    "date": "2026-10-12",
-    "title": "DeepSeek 支持前腾讯人工智能科学家 4 亿美元的机器人实验室",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "DeepSeek aims to lead the first round of investment for a months-old startup building AI for robots, deploying capital from its own $12 billion-plus financing to help bankroll one of the tech industry’s fastest-growing fields.（原题：DeepSeek Backs Ex-Tencent AI Scientist’s $400 Million Robot Lab）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-10-12/deepseek-backs-ex-tencent-ai-scientist-s-400-million-robot-lab",
-    "tags": [],
-    "impact": "Mon, 12 Oct 2026 11:42:26 GMT"
   },
   {
     "id": "2026-10-11-geekparknet--spacex-1000",
