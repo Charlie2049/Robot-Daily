@@ -1,43 +1,72 @@
 [
   {
-    "id": "2026-10-13-blogcsdnnet-----python--neat-24",
+    "id": "2026-10-13-36krcom-",
     "date": "2026-10-13",
-    "title": "自动驾驶汽车神经网络 - 使用 Python 和 NEAT 2.4万",
+    "title": "王兴兴最新预判：具身智能的转折点，一到两年内就会来",
     "category": [
-      "autonomous-driving"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "自动驾驶汽车神经网络 - 使用 Python 和 NEAT 2.4万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/ccf19881030/article/details/167497201",
+    "summary": "王兴兴最新预判：具身智能的转折点，一到两年内就会来",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4023570140829573",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-13-blogcsdnnet--24",
+    "id": "2026-10-13-geekparknet-1000metamuse-wonder",
     "date": "2026-10-13",
-    "title": "自动驾驶中的边界情况处理：基于世界模型与混合专家及大语言模型的方法 2.4万",
+    "title": "曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道",
     "category": [
-      "autonomous-driving"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "自动驾驶中的边界情况处理：基于世界模型与混合专家及大语言模型的方法 2.4万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/FanSunshineboy/article/details/167491307",
+    "summary": "曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/372264",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-13-blogcsdnnet-ai--20",
+    "id": "2026-10-13-ifanrcom-apple-watch2000deepseek-",
     "date": "2026-10-13",
-    "title": "拆解‘AI 办公‘的能力清单：连接器、知识图谱、长期记忆、后台智能体——两家官方文档里的共同答案 2.0万",
+    "title": "早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能 早报",
     "category": [
-      "general"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "拆解‘AI 办公‘的能力清单：连接器、知识图谱、长期记忆、后台智能体——两家官方文档里的共同答案 2.0万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/Rosanci/article/details/167587014",
+    "summary": "早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1683909",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-13-36krcom-",
+    "date": "2026-10-13",
+    "title": "人形机器人，第二单拼交付",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人，第二单拼交付",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4022670448007045",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-13-36krcom-20261023",
+    "date": "2026-10-13",
+    "title": "2026国际具身智能技能大赛将于10月23日在沪举行——真机实训，打造全国具身智能实景实战示范平台",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "2026国际具身智能技能大赛将于10月23日在沪举行——真机实训，打造全国具身智能实景实战示范平台",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4023679023566725",
     "tags": [],
     "impact": ""
   },
