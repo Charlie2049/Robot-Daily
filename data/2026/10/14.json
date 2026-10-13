@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2026-10-13-the-verge-",
+    "date": "2026-10-13",
+    "title": "联邦政府正在调查有关特斯拉机器人出租车超速穿过学校区域的报道",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding \"posted speed limits in active school zones.\" Waymo's robotaxis have also faced similar inquiries, including for illegally passing school buses and hitting a child near a California elementary school. NHTSA: The Office […]（原题：The feds are looking into reports of Tesla’s robotaxis speeding through school zones）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation",
+    "tags": [],
+    "impact": "2026-10-13T13:40:15-04:00"
+  },
+  {
+    "id": "2026-10-13-the-verge-rivian--mind-robotics--doug-field-",
+    "date": "2026-10-13",
+    "title": "Rivian 分拆公司 Mind Robotics 聘请道格·菲尔德 (Doug Field) 担任总裁",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Rivian spinoff Mind Robotics announced the appointment of Doug Field as president in a major coup for the EV company's secretive robotics startup. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. He had […]（原题：Rivian spinoff Mind Robotics hires Doug Field as president）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+    "tags": [],
+    "impact": "2026-10-13T14:30:00-04:00"
+  }
+]
