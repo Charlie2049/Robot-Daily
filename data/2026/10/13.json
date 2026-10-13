@@ -1,19 +1,5 @@
 [
   {
-    "id": "2026-10-13-36krcom-",
-    "date": "2026-10-13",
-    "title": "王兴兴最新预判：具身智能的转折点，一到两年内就会来",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "王兴兴最新预判：具身智能的转折点，一到两年内就会来",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4023570140829573",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-10-13-geekparknet-1000metamuse-wonder",
     "date": "2026-10-13",
     "title": "曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道",
@@ -42,31 +28,72 @@
     "impact": ""
   },
   {
-    "id": "2026-10-13-36krcom-",
+    "id": "2026-10-13-qbitaicom-9823",
     "date": "2026-10-13",
-    "title": "人形机器人，第二单拼交付",
+    "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "人形机器人，第二单拼交付",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4022670448007045",
+    "summary": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/10/502954.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-13-36krcom-20261023",
+    "id": "2026-10-13-36krcom-stepx-neo",
     "date": "2026-10-13",
-    "title": "2026国际具身智能技能大赛将于10月23日在沪举行——真机实训，打造全国具身智能实景实战示范平台",
+    "title": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4024176632713350",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-13-the-robot-report--dr-",
+    "date": "2026-10-13",
+    "title": "乔鼎机器人与 D.R. 合作霍顿谈住宅建筑的物理人工智能",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Promise Robotics has signed a multi-year partnership with America's largest homebuilder by volume to bring physical AI to construction. The post Promise Robotics partners with D.R. Horton on physical AI for homebuilding appeared first on The Robot Report .（原题：Promise Robotics partners with D.R. Horton on physical AI for homebuilding）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/promise-robotics-partners-d-r-horton-physical-ai-homebuilding/",
+    "tags": [],
+    "impact": "Tue, 13 Oct 2026 13:00:05 +0000"
+  },
+  {
+    "id": "2026-10-13----stepxneo",
+    "date": "2026-10-13",
+    "title": "STEPXNeo智能体手机发布",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "STEPXNeo智能体手机发布",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=STEPXNeo%E6%99%BA%E8%83%BD%E4%BD%93%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83",
+    "tags": [],
+    "impact": "15万"
+  },
+  {
+    "id": "2026-10-13-qbitaicom-923",
+    "date": "2026-10-13",
+    "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "2026国际具身智能技能大赛将于10月23日在沪举行——真机实训，打造全国具身智能实景实战示范平台",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4023679023566725",
+    "summary": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/10/502784.html",
     "tags": [],
     "impact": ""
   },
