@@ -1,5 +1,34 @@
 [
   {
+    "id": "2026-10-14-ifanrcom-gemini-43999-",
+    "date": "2026-10-14",
+    "title": "早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布 早报",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1684137",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-14-m21jingjicom--",
+    "date": "2026-10-14",
+    "title": "全球人形机器人收入榜：深企优必选登顶，中企包揽前五 粤港澳",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "全球人形机器人收入榜：深企优必选登顶，中企包揽前五 粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261014/herald/4ba3dd672d76f9770429ca77efbfbdc2.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-10-13-the-verge-",
     "date": "2026-10-13",
     "title": "联邦政府正在调查有关特斯拉机器人出租车超速穿过学校区域的报道",
@@ -14,17 +43,73 @@
     "impact": "2026-10-13T13:40:15-04:00"
   },
   {
+    "id": "2026-10-13-bloomberg-technology-",
+    "date": "2026-10-13",
+    "title": "为什么中国想要掌握机械手",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "China is making a big bet on humanoid robots, with dexterous hands as its focus. It’s a key to building a stronger manufacturing base while addressing a slowly shrinking workforce. (Source: Bloomberg)（原题：Why China Wants to Master the Robotic Hand）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-10-13/why-china-wants-to-master-the-robotic-hand-video",
+    "tags": [],
+    "impact": "Tue, 13 Oct 2026 21:01:04 GMT"
+  },
+  {
+    "id": "2026-10-13-bloomberg-technology-5",
+    "date": "2026-10-13",
+    "title": "中国的机械手是5万亿美元人工智能人形开发竞赛的关键",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "Advanced humanoid hardware is one of the strategic high-tech fields where China has an early lead over the US.（原题：China's Robotic Hands Key to $5 Trillion AI Humanoid Development Race）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race",
+    "tags": [],
+    "impact": "Tue, 13 Oct 2026 21:00:29 GMT"
+  },
+  {
     "id": "2026-10-13-the-verge-rivian--mind-robotics--doug-field-",
     "date": "2026-10-13",
-    "title": "Rivian 分拆公司 Mind Robotics 聘请道格·菲尔德 (Doug Field) 担任总裁",
+    "title": "Rivian 合作伙伴 Mind Robotics 聘请 Doug Field 担任总裁",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Rivian spinoff Mind Robotics announced the appointment of Doug Field as president in a major coup for the EV company's secretive robotics startup. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. He had […]（原题：Rivian spinoff Mind Robotics hires Doug Field as president）",
+    "summary": "Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. […]（原题：Rivian partner Mind Robotics hires Doug Field as president）",
     "source": "The Verge",
     "source_url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
     "tags": [],
     "impact": "2026-10-13T14:30:00-04:00"
+  },
+  {
+    "id": "2026-10-13-the-robot-report-nysofa--intuition-robotics--elliq-",
+    "date": "2026-10-13",
+    "title": "NYSOFA 扩大与 Intuition Robotics 的合作伙伴关系，将 ElliQ 带给更多老年人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "With the expansion, NYSOFA and Intuition Robotics established a new three-year, $2.1 million agreement to keep rolling out ElliQ. The post NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors appeared first on The Robot Report .（原题：NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
+    "tags": [],
+    "impact": "Tue, 13 Oct 2026 23:22:05 +0000"
+  },
+  {
+    "id": "2026-10-13-the-robot-report-hello-robotak-robotics--robobusiness-",
+    "date": "2026-10-13",
+    "title": "Hello Robot、A&K Robotics 将在 RoboBusiness 讨论机器人如何在拥挤的室内空间中导航",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "As robots move beyond warehouses and other controlled environments and into everyday life, navigation challenges will be critical. The post Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness appeared first on The Robot Report .（原题：Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness/",
+    "tags": [],
+    "impact": "Tue, 13 Oct 2026 19:48:58 +0000"
   }
 ]
