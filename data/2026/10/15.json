@@ -1,15 +1,74 @@
 [
   {
-    "id": "2026-10-15-36krcom-",
+    "id": "2026-10-15-the-verge-",
     "date": "2026-10-15",
-    "title": "一家成立九个月的公司，让机器人走出「排练过的世界」",
+    "title": "这个可爱的机器人玩具你的秘密并不安全——它们位于中国服务器上，随时可能被黑客攻击",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "一家成立九个月的公司，让机器人走出「排练过的世界」",
+    "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where […]（原题：Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+    "tags": [],
+    "impact": "2026-10-15T07:00:00-04:00"
+  },
+  {
+    "id": "2026-10-15----16",
+    "date": "2026-10-15",
+    "title": "机器人猥亵德国16岁少女",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人猥亵德国16岁少女",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8C%A5%E4%BA%B5%E5%BE%B7%E5%9B%BD16%E5%B2%81%E5%B0%91%E5%A5%B3",
+    "tags": [],
+    "impact": "21万"
+  },
+  {
+    "id": "2026-10-15-36krcom-20",
+    "date": "2026-10-15",
+    "title": "全球人形机器人背后的20位领军人物",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "全球人形机器人背后的20位领军人物",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4025108001558403",
+    "source_url": "https://www.36kr.com/p/4026468251539079",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-15-geekparknet-",
+    "date": "2026-10-15",
+    "title": "人形机器人最尴尬的事：长了一双腿，却只能定住干活",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人最尴尬的事：长了一双腿，却只能定住干活",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/372420",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-15-cbndatacom-",
+    "date": "2026-10-15",
+    "title": "万元级人形机器人，只是“赛博玩具”？锌刻度",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "万元级人形机器人，只是“赛博玩具”？锌刻度",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/295884",
     "tags": [],
     "impact": ""
   },
