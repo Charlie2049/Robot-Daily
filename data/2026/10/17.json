@@ -14,6 +14,20 @@
     "impact": "Fri, 16 Oct 2026 16:30:02 +0000"
   },
   {
+    "id": "2026-10-16-the-robot-report-",
+    "date": "2026-10-16",
+    "title": "为什么随着机器人车队规模的扩大，机会充电会获胜",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Ben Waters explains why opportunity charging is becoming essential for keeping autonomous robot fleets moving, scalable, and operationally efficient. The post Why opportunity charging is winning as robot fleets scale appeared first on The Robot Report .（原题：Why opportunity charging is winning as robot fleets scale）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/",
+    "tags": [],
+    "impact": "Fri, 16 Oct 2026 23:39:33 +0000"
+  },
+  {
     "id": "2026-10-16-techcrunch-robotics--nvidia--chatgpt-",
     "date": "2026-10-16",
     "title": "一位 Nvidia 内部人士转型为风险投资家，探讨机器人技术尚未达到 ChatGPT 时刻的原因",
@@ -28,7 +42,21 @@
     "impact": "Fri, 16 Oct 2026 16:30:00 +0000"
   },
   {
-    "id": "2026-10-15-tophubctech-",
+    "id": "2026-10-16-the-robot-report-massrobotics-",
+    "date": "2026-10-16",
+    "title": "MassRobotics 开放医疗机器人创业催化剂计划申请",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The cohort will run February through June 2027, concluding with company showcases at the Robotics Summit and Expo in Boston. The post MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program appeared first on The Robot Report .（原题：MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/",
+    "tags": [],
+    "impact": "Fri, 16 Oct 2026 17:57:12 +0000"
+  },
+  {
+    "id": "2026-10-15-geekparknet-",
     "date": "2026-10-15",
     "title": "人形机器人最尴尬的事：长了一双腿，却只能定住干活",
     "category": [
@@ -37,24 +65,24 @@
     ],
     "region": "Global",
     "summary": "人形机器人最尴尬的事：长了一双腿，却只能定住干活",
-    "source": "Tophub/c/tech",
+    "source": "geekpark.net",
     "source_url": "http://www.geekpark.net/news/372420",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-15-tophubcfinance-",
+    "id": "2026-10-15-cbndatacom-",
     "date": "2026-10-15",
-    "title": "万元级人形机器人，只是“赛博玩具”？",
+    "title": "万元级人形机器人，只是“赛博玩具”？锌刻度",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "万元级人形机器人，只是“赛博玩具”？",
-    "source": "Tophub/c/finance",
+    "summary": "万元级人形机器人，只是“赛博玩具”？锌刻度",
+    "source": "cbndata.com",
     "source_url": "https://cbndata.com/information/295884",
     "tags": [],
-    "impact": "锌刻度"
+    "impact": ""
   }
 ]
