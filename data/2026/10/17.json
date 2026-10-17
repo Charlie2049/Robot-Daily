@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-10-17-tophubctech--axp-",
+    "date": "2026-10-17",
+    "title": "行业首个基于确定性网络的智能体互联平台 AXP 正式发布",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "行业首个基于确定性网络的智能体互联平台 AXP 正式发布",
+    "source": "Tophub/c/tech",
+    "source_url": "https://readhub.cn/topic/8xIDU6jdqA2",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-17-tophubcfinance-",
+    "date": "2026-10-17",
+    "title": "广交会观察：服务机器人如何扎根海外",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "广交会观察：服务机器人如何扎根海外",
+    "source": "Tophub/c/finance",
+    "source_url": "https://m.21jingji.com/article/20261017/herald/e9055c77d5b694d3c6825e80462974d9.html",
+    "tags": [],
+    "impact": "全球"
+  },
+  {
+    "id": "2026-10-17-httpstophubtodayndpqvnabone-jj",
+    "date": "2026-10-17",
+    "title": "“苏超”赛前暖场：迎面开来的是自动驾驶电动自行车方队……@JJ开心每一天",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "“苏超”赛前暖场：迎面开来的是自动驾驶电动自行车方队……@JJ开心每一天",
+    "source": "https://tophub.today/n/DpQvNABoNE",
+    "source_url": "https://www.douyin.com/video/7696073490042064163",
+    "tags": [],
+    "impact": "9. “苏超”赛前暖场：迎面开来的是自动驾驶电动自行车方队……@JJ开心每一天 人民日报 25478933次播放 "
+  },
+  {
+    "id": "2026-10-17-httpstophubtodayndpqvnabone--dou",
+    "date": "2026-10-17",
+    "title": "#媒体原创 张雪说自动驾驶两轮电动车有点搞笑：“紧急情况要刹车，手该不该放方向把上，放了还是自动驾驶吗”#广东dou知道",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "#媒体原创 张雪说自动驾驶两轮电动车有点搞笑：“紧急情况要刹车，手该不该放方向把上，放了还是自动驾驶吗”#广东dou知道",
+    "source": "https://tophub.today/n/DpQvNABoNE",
+    "source_url": "https://www.douyin.com/video/7696802559910104320",
+    "tags": [],
+    "impact": "14. #媒体原创 张雪说自动驾驶两轮电动车有点搞笑：“紧急情况要刹车，手该不该放方向把上，放了还是自动驾驶吗”#广东dou知道 DV现场 17210156次播放 "
+  },
+  {
     "id": "2026-10-16-ieee-spectrum-robotics-",
     "date": "2026-10-16",
     "title": "周五视频：当两个机器人合而为一",
@@ -26,6 +82,20 @@
     "source_url": "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/",
     "tags": [],
     "impact": "Fri, 16 Oct 2026 23:39:33 +0000"
+  },
+  {
+    "id": "2026-10-16-tophubcai-1452",
+    "date": "2026-10-16",
+    "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
+    "source": "Tophub/c/ai",
+    "source_url": "https://www.qbitai.com/2026/10/503756.html",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-10-16-techcrunch-robotics--nvidia--chatgpt-",
@@ -56,7 +126,7 @@
     "impact": "Fri, 16 Oct 2026 17:57:12 +0000"
   },
   {
-    "id": "2026-10-15-geekparknet-",
+    "id": "2026-10-15-tophubctech-",
     "date": "2026-10-15",
     "title": "人形机器人最尴尬的事：长了一双腿，却只能定住干活",
     "category": [
@@ -65,24 +135,24 @@
     ],
     "region": "Global",
     "summary": "人形机器人最尴尬的事：长了一双腿，却只能定住干活",
-    "source": "geekpark.net",
+    "source": "Tophub/c/tech",
     "source_url": "http://www.geekpark.net/news/372420",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-15-cbndatacom-",
+    "id": "2026-10-15-tophubcfinance-",
     "date": "2026-10-15",
-    "title": "万元级人形机器人，只是“赛博玩具”？锌刻度",
+    "title": "万元级人形机器人，只是“赛博玩具”？",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "万元级人形机器人，只是“赛博玩具”？锌刻度",
-    "source": "cbndata.com",
+    "summary": "万元级人形机器人，只是“赛博玩具”？",
+    "source": "Tophub/c/finance",
     "source_url": "https://cbndata.com/information/295884",
     "tags": [],
-    "impact": ""
+    "impact": "锌刻度"
   }
 ]
