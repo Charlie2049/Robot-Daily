@@ -11,19 +11,75 @@
     "source": "Tophub/c/ai",
     "source_url": "https://blog.csdn.net/tianyatest/article/details/168027184",
     "tags": [],
-    "impact": "2.4万"
+    "impact": "2.3万"
   },
   {
-    "id": "2026-10-18-tophubcai-ceo",
+    "id": "2026-10-18-tophubcfinance-ai",
     "date": "2026-10-18",
-    "title": "一脚踹翻CEO的众擎机器人，野心藏不住了",
+    "title": "马斯克：美债问题只能靠AI和机器人解决",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "一脚踹翻CEO的众擎机器人，野心藏不住了",
+    "summary": "马斯克：美债问题只能靠AI和机器人解决",
+    "source": "Tophub/c/finance",
+    "source_url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivqyiv7917652.shtml",
+    "tags": [],
+    "impact": "1,879"
+  },
+  {
+    "id": "2026-10-18-tophubcai-",
+    "date": "2026-10-18",
+    "title": "盖茨投的手术机器人破产，中国同行却开始赚钱",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "盖茨投的手术机器人破产，中国同行却开始赚钱",
     "source": "Tophub/c/ai",
-    "source_url": "https://www.36kr.com/p/4028391187583616",
+    "source_url": "https://www.36kr.com/p/4030628866675075",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-18-httpstophubtodaynmproppoq6o-",
+    "date": "2026-10-18",
+    "title": "张雪回记者九号自动驾驶技术看法称「有点搞笑」引热议，发文回应仔细剖析争议点，有哪些信息值得关注？",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "张雪回记者九号自动驾驶技术看法称「有点搞笑」引热议，发文回应仔细剖析争议点，有哪些信息值得关注？",
+    "source": "https://tophub.today/n/mproPpoq6O",
+    "source_url": "https://www.zhihu.com/question/2094696922921563605",
+    "tags": [],
+    "impact": "9. 张雪回记者九号自动驾驶技术看法称「有点搞笑」引热议，发文回应仔细剖析争议点，有哪些信息值得关注？ 125 万热度 "
+  },
+  {
+    "id": "2026-10-18-tophubctech-",
+    "date": "2026-10-18",
+    "title": "具身智能体长程记忆：看见不等于记住，浙大提出具身记忆基准",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能体长程记忆：看见不等于记住，浙大提出具身记忆基准",
+    "source": "Tophub/c/tech",
+    "source_url": "https://readhub.cn/topic/8xKOXzP7d6Y",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-18-tophubctech--5--10-",
+    "date": "2026-10-18",
+    "title": "京东：未来 5 年将创造超 10 万个机器人维修工程师就业岗位",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "京东：未来 5 年将创造超 10 万个机器人维修工程师就业岗位",
+    "source": "Tophub/c/tech",
+    "source_url": "https://readhub.cn/topic/8xKFyHc2l84",
     "tags": [],
     "impact": ""
   },
@@ -39,7 +95,7 @@
     "source": "Tophub/c/ai",
     "source_url": "https://blog.csdn.net/zhangcongyi420/article/details/166139545",
     "tags": [],
-    "impact": "3.0万"
+    "impact": "2.8万"
   },
   {
     "id": "2026-10-18-tophubctech-36--",
@@ -57,16 +113,16 @@
     "impact": ""
   },
   {
-    "id": "2026-10-17-tophubctech-manifold-ai--robodojo--rsi",
+    "id": "2026-10-17-tophubcai-83ai",
     "date": "2026-10-17",
-    "title": "Manifold AI 登顶 RoboDojo 推出机器人递归自进化框架 R²SI",
+    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "Manifold AI 登顶 RoboDojo 推出机器人递归自进化框架 R²SI",
-    "source": "Tophub/c/tech",
-    "source_url": "https://readhub.cn/topic/8xJHwsDIsNy",
+    "summary": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+    "source": "Tophub/c/ai",
+    "source_url": "https://www.qbitai.com/2026/10/503935.html",
     "tags": [],
     "impact": ""
   },
