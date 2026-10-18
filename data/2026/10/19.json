@@ -1,0 +1,87 @@
+[
+  {
+    "id": "2026-10-18-bloomberg-technology--apple-homeview-macipad-mini-11--6--iph",
+    "date": "2026-10-18",
+    "title": "带机械臂的 Apple HomeView；新款 Mac、iPad Mini 11 月 6 日发布； iPhone 双核",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Also: The company is planning Nov. 6 retail store reset, indicating potential Mac release date.（原题：Apple HomeView With Robotic Arm; New Mac, iPad Mini Nov. 6 Release; iPhone Duo）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo",
+    "tags": [],
+    "impact": "Sun, 18 Oct 2026 14:00:01 GMT"
+  },
+  {
+    "id": "2026-10-18-the-robot-report--bldc-",
+    "date": "2026-10-18",
+    "title": "如何为机械臂和移动机器人选择 BLDC 电机",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Several factors, from sensors to safety and robotic arms or mobile platforms, help determine the selection of a brushless DC or BLDC motor. The post How to choose a BLDC motor for robotic arms and mobile robots appeared first on The Robot Report .（原题：How to choose a BLDC motor for robotic arms and mobile robots）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/",
+    "tags": [],
+    "impact": "Sun, 18 Oct 2026 12:30:50 +0000"
+  },
+  {
+    "id": "2026-10-18-the-verge-",
+    "date": "2026-10-18",
+    "title": "城市希望为机器人出租车安装后备箱",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]（原题：Cities want to put the boot on robotaxis）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+    "tags": [],
+    "impact": "2026-10-18T08:00:00-04:00"
+  },
+  {
+    "id": "2026-10-18-tophubctech-openai---ai-",
+    "date": "2026-10-18",
+    "title": "OpenAI 发力人形机器人研发 将 AI 大脑作为核心突破口",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "OpenAI 发力人形机器人研发 将 AI 大脑作为核心突破口",
+    "source": "Tophub/c/tech",
+    "source_url": "https://readhub.cn/topic/8xJgF74oDLH",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-18-tophubctech-deepmind--4--gemini-",
+    "date": "2026-10-18",
+    "title": "DeepMind 宣布 4 个 Gemini 智能体自组队通关《我的世界》",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "DeepMind 宣布 4 个 Gemini 智能体自组队通关《我的世界》",
+    "source": "Tophub/c/tech",
+    "source_url": "https://readhub.cn/topic/8xJHwTd0vtO",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-18-tophubctech-anthropic---ai-",
+    "date": "2026-10-18",
+    "title": "Anthropic 寻求律所建议 探索 AI 智能体交易谈判相关规范",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Anthropic 寻求律所建议 探索 AI 智能体交易谈判相关规范",
+    "source": "Tophub/c/tech",
+    "source_url": "https://readhub.cn/topic/8xJwg5l6EJr",
+    "tags": [],
+    "impact": ""
+  }
+]
