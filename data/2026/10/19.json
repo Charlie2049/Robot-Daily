@@ -1,87 +1,58 @@
 [
   {
-    "id": "2026-10-18-bloomberg-technology--apple-homeview-macipad-mini-11--6--iph",
+    "id": "2026-10-18-the-robot-report-how-to-choose-a-bldc-motor-for-robotic-arms",
     "date": "2026-10-18",
-    "title": "带机械臂的 Apple HomeView；新款 Mac、iPad Mini 11 月 6 日发布； iPhone 双核",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "Also: The company is planning Nov. 6 retail store reset, indicating potential Mac release date.（原题：Apple HomeView With Robotic Arm; New Mac, iPad Mini Nov. 6 Release; iPhone Duo）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo",
-    "tags": [],
-    "impact": "Sun, 18 Oct 2026 14:00:01 GMT"
-  },
-  {
-    "id": "2026-10-18-the-robot-report--bldc-",
-    "date": "2026-10-18",
-    "title": "如何为机械臂和移动机器人选择 BLDC 电机",
+    "title": "How to choose a BLDC motor for robotic arms and mobile robots",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Several factors, from sensors to safety and robotic arms or mobile platforms, help determine the selection of a brushless DC or BLDC motor. The post How to choose a BLDC motor for robotic arms and mobile robots appeared first on The Robot Report .（原题：How to choose a BLDC motor for robotic arms and mobile robots）",
+    "summary": "Several factors, from sensors to safety and robotic arms or mobile platforms, help determine the selection of a brushless DC or BLDC motor. The post How to choose a BLDC motor for robotic arms and mobile robots appeared first on The Robot Report .",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/",
     "tags": [],
     "impact": "Sun, 18 Oct 2026 12:30:50 +0000"
   },
   {
-    "id": "2026-10-18-the-verge-",
+    "id": "2026-10-18-the-verge-cities-want-to-put-the-boot-on-robotaxis",
     "date": "2026-10-18",
-    "title": "城市希望为机器人出租车安装后备箱",
+    "title": "Cities want to put the boot on robotaxis",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]（原题：Cities want to put the boot on robotaxis）",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]",
     "source": "The Verge",
     "source_url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
     "tags": [],
     "impact": "2026-10-18T08:00:00-04:00"
   },
   {
-    "id": "2026-10-18-tophubctech-openai---ai-",
+    "id": "2026-10-18-bloomberg-technology-apple-homeview-with-robotic-arm-new-mac",
     "date": "2026-10-18",
-    "title": "OpenAI 发力人形机器人研发 将 AI 大脑作为核心突破口",
+    "title": "Apple HomeView With Robotic Arm; New Mac, iPad Mini Nov. 6 Release; iPhone Duo",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "OpenAI 发力人形机器人研发 将 AI 大脑作为核心突破口",
-    "source": "Tophub/c/tech",
-    "source_url": "https://readhub.cn/topic/8xJgF74oDLH",
+    "summary": "Also: The company is planning Nov. 6 retail store reset, indicating potential Mac release date.",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo",
     "tags": [],
-    "impact": ""
+    "impact": "Sun, 18 Oct 2026 14:00:01 GMT"
   },
   {
-    "id": "2026-10-18-tophubctech-deepmind--4--gemini-",
+    "id": "2026-10-18-the-verge-a-woman-was-arrested-in-philly-for-blocking-a-deli",
     "date": "2026-10-18",
-    "title": "DeepMind 宣布 4 个 Gemini 智能体自组队通关《我的世界》",
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
     "category": [
-      "general"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "DeepMind 宣布 4 个 Gemini 智能体自组队通关《我的世界》",
-    "source": "Tophub/c/tech",
-    "source_url": "https://readhub.cn/topic/8xJHwTd0vtO",
+    "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
     "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-18-tophubctech-anthropic---ai-",
-    "date": "2026-10-18",
-    "title": "Anthropic 寻求律所建议 探索 AI 智能体交易谈判相关规范",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "Anthropic 寻求律所建议 探索 AI 智能体交易谈判相关规范",
-    "source": "Tophub/c/tech",
-    "source_url": "https://readhub.cn/topic/8xJwg5l6EJr",
-    "tags": [],
-    "impact": ""
+    "impact": "2026-10-18T14:28:10-04:00"
   }
 ]
