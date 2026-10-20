@@ -1,46 +1,61 @@
 [
   {
-    "id": "2026-10-20-m21jingjicom--",
+    "id": "2026-10-20-wallstreetcncom-5038h9148",
     "date": "2026-10-20",
-    "title": "吉林大学教授，带出三家机器人公司 公司",
+    "title": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%4.8万",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "吉林大学教授，带出三家机器人公司 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20261020/herald/2c46f2d6f49f870a2fc4f0ab984d0e32.html",
+    "summary": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%4.8万",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3783987",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-20-36krcom-810fa",
+    "id": "2026-10-20-36krcom-",
     "date": "2026-10-20",
-    "title": "具身智能融资降温？8月还在抢投，10月连FA都在说上市暂缓",
+    "title": "半年四轮亿元级融资后，欧拉万象想把家庭机器人带向哪里？",
     "category": [
-      "humanoid",
+      "robotics",
       "funding"
     ],
     "region": "Global",
-    "summary": "具身智能融资降温？8月还在抢投，10月连FA都在说上市暂缓",
+    "summary": "半年四轮亿元级融资后，欧拉万象想把家庭机器人带向哪里？",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4033011189733252",
+    "source_url": "https://www.36kr.com/p/4033931268363392",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-19-bloomberg-technology--fcc-",
-    "date": "2026-10-19",
-    "title": "英特尔请求 FCC 允许对被禁外国机器人进行升级",
+    "id": "2026-10-20-36krcom-",
+    "date": "2026-10-20",
+    "title": "农村大妈给机器人当“导师”",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Intel Corp. asked the Federal Communications Commission to make an exception to a recent ban on foreign-made advanced robotics, telling the agency it needs continued access to “niche” equipment critical to US semiconductor manufacturing.（原题：Intel Asks FCC to Allow Upgrades for Banned Foreign Robots）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/intel-asks-fcc-for-upgrades-to-banned-foreign-robot-technology",
+    "summary": "农村大妈给机器人当“导师”",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4034054660526984",
     "tags": [],
-    "impact": "Mon, 19 Oct 2026 20:40:51 GMT"
+    "impact": ""
+  },
+  {
+    "id": "2026-10-20-the-robot-report-gecko-robotics--3-",
+    "date": "2026-10-20",
+    "title": "Gecko Robotics 与美国海军签订价值 3 亿美元的合同",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Gecko claimed this signals the Pentagon’s confidence that it is a core military capability that is delivering results. The post Gecko Robotics secures $300M contract with the U.S. Navy appeared first on The Robot Report .（原题：Gecko Robotics secures $300M contract with the U.S. Navy）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/",
+    "tags": [],
+    "impact": "Tue, 20 Oct 2026 10:25:47 +0000"
   },
   {
     "id": "2026-10-19-the-robot-report-kodama--700-",
