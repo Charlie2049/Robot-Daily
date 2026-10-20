@@ -1,5 +1,48 @@
 [
   {
+    "id": "2026-10-20-m21jingjicom--",
+    "date": "2026-10-20",
+    "title": "吉林大学教授，带出三家机器人公司 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "吉林大学教授，带出三家机器人公司 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261020/herald/2c46f2d6f49f870a2fc4f0ab984d0e32.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-20-36krcom-810fa",
+    "date": "2026-10-20",
+    "title": "具身智能融资降温？8月还在抢投，10月连FA都在说上市暂缓",
+    "category": [
+      "humanoid",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "具身智能融资降温？8月还在抢投，10月连FA都在说上市暂缓",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4033011189733252",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-19-bloomberg-technology--fcc-",
+    "date": "2026-10-19",
+    "title": "英特尔请求 FCC 允许对被禁外国机器人进行升级",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Intel Corp. asked the Federal Communications Commission to make an exception to a recent ban on foreign-made advanced robotics, telling the agency it needs continued access to “niche” equipment critical to US semiconductor manufacturing.（原题：Intel Asks FCC to Allow Upgrades for Banned Foreign Robots）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/intel-asks-fcc-for-upgrades-to-banned-foreign-robot-technology",
+    "tags": [],
+    "impact": "Mon, 19 Oct 2026 20:40:51 GMT"
+  },
+  {
     "id": "2026-10-19-the-robot-report-kodama--700-",
     "date": "2026-10-19",
     "title": "Kodama 筹集了 700 万美元，将机器人技术引入林业",
