@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-10-21-36krcom-",
+    "date": "2026-10-21",
+    "title": "人形机器人股价狂奔，宇树却先给行业泼了一盆冷水",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人股价狂奔，宇树却先给行业泼了一盆冷水",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4034873069835142",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-21-gelonghuicom-a50388ai",
+    "date": "2026-10-21",
+    "title": "A股收评：北证50涨3.88%，人形机器人、AI眼镜概念爆发，大金融下跌",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A股收评：北证50涨3.88%，人形机器人、AI眼镜概念爆发，大金融下跌",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/7072988",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-21-aibasecom-aiaiappgemini-skillsopenaidots",
+    "date": "2026-10-21",
+    "title": "AI日报：豆包推独立AI个人助手App小豆;Gemini Skills向免费用户开放;OpenAI发布自主智能体Dots",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：豆包推独立AI个人助手App小豆;Gemini Skills向免费用户开放;OpenAI发布自主智能体Dots",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/31441",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-21-aibasecom-aigeminiappai",
+    "date": "2026-10-21",
+    "title": "AI日报：谷歌云发布通用Gemini智能体；豆包App上线生活缴费功能；快手发布“AI魔改”视频治理公告",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "AI日报：谷歌云发布通用Gemini智能体；豆包App上线生活缴费功能；快手发布“AI魔改”视频治理公告",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/31508",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-10-21-36krcom-8120001spacex",
     "date": "2026-10-21",
     "title": "8点1氪丨被指品质暴跌，山姆回应；宇树科技市值重回2000亿，人形机器人股批量涨停；马斯克承诺给“美国每个孩子”1股SpaceX股份",
@@ -11,6 +69,34 @@
     "summary": "8点1氪丨被指品质暴跌，山姆回应；宇树科技市值重回2000亿，人形机器人股批量涨停；马斯克承诺给“美国每个孩子”1股SpaceX股份",
     "source": "36kr.com",
     "source_url": "https://www.36kr.com/p/4033470689268610",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-20-the-robot-report-",
+    "date": "2026-10-20",
+    "title": "水库为华盛顿种植者推出新型农业机器人孵化器",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers. The post Reservoir launches new agricultural robotics incubator for Washington growers appeared first on The Robot Report .（原题：Reservoir launches new agricultural robotics incubator for Washington growers）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
+    "tags": [],
+    "impact": "Tue, 20 Oct 2026 19:40:05 +0000"
+  },
+  {
+    "id": "2026-10-20-technologyreviewcom-robotic-therapy-for-stroke-patients",
+    "date": "2026-10-20",
+    "title": "Robotic therapy for stroke patients",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Robotic therapy for stroke patients",
+    "source": "technologyreview.com",
+    "source_url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
     "tags": [],
     "impact": ""
   },
