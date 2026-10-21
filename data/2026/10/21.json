@@ -1,74 +1,87 @@
 [
   {
+    "id": "2026-10-21-blogcsdnnet-21-37",
+    "date": "2026-10-21",
+    "title": "给时间序列智能体配了21把专家工具，结果它变笨了 3.7万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "给时间序列智能体配了21把专家工具，结果它变笨了 3.7万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/weixin_49122920/article/details/168560219",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-10-21-36krcom-",
     "date": "2026-10-21",
-    "title": "人形机器人股价狂奔，宇树却先给行业泼了一盆冷水",
+    "title": "机器人租金一年内大跌超七成，机器人租赁熄火了？",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "人形机器人股价狂奔，宇树却先给行业泼了一盆冷水",
+    "summary": "机器人租金一年内大跌超七成，机器人租赁熄火了？",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4034873069835142",
+    "source_url": "https://www.36kr.com/p/4033647547946631",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-21-gelonghuicom-a50388ai",
+    "id": "2026-10-21-m21jingjicom-30",
     "date": "2026-10-21",
-    "title": "A股收评：北证50涨3.88%，人形机器人、AI眼镜概念爆发，大金融下跌",
+    "title": "广交会首秀后，深圳这家为机器人造“眼”的企业三天涨超30%粤港澳",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "广交会首秀后，深圳这家为机器人造“眼”的企业三天涨超30%粤港澳",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261021/herald/da99a62d987f0a65ab7c2de33ab7dc01.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-21-m21jingjicom--",
+    "date": "2026-10-21",
+    "title": "商业场景加速突破，智元全尺寸双足人形机器人智慧零售仓落地武汉 公司",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "A股收评：北证50涨3.88%，人形机器人、AI眼镜概念爆发，大金融下跌",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/7072988",
+    "summary": "商业场景加速突破，智元全尺寸双足人形机器人智慧零售仓落地武汉 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261021/herald/f344f61ac9275780bfe114529c6bedba.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-21-aibasecom-aiaiappgemini-skillsopenaidots",
+    "id": "2026-10-21-36krcom-optimus",
     "date": "2026-10-21",
-    "title": "AI日报：豆包推独立AI个人助手App小豆;Gemini Skills向免费用户开放;OpenAI发布自主智能体Dots",
+    "title": "Optimus量产在即，机器人三道坎特斯拉都没跨过，能否再造奇迹？",
     "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI日报：豆包推独立AI个人助手App小豆;Gemini Skills向免费用户开放;OpenAI发布自主智能体Dots",
-    "source": "aibase.com",
-    "source_url": "https://www.aibase.com/zh/daily/31441",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-21-aibasecom-aigeminiappai",
-    "date": "2026-10-21",
-    "title": "AI日报：谷歌云发布通用Gemini智能体；豆包App上线生活缴费功能；快手发布“AI魔改”视频治理公告",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI日报：谷歌云发布通用Gemini智能体；豆包App上线生活缴费功能；快手发布“AI魔改”视频治理公告",
-    "source": "aibase.com",
-    "source_url": "https://www.aibase.com/zh/daily/31508",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-21-36krcom-8120001spacex",
-    "date": "2026-10-21",
-    "title": "8点1氪丨被指品质暴跌，山姆回应；宇树科技市值重回2000亿，人形机器人股批量涨停；马斯克承诺给“美国每个孩子”1股SpaceX股份",
-    "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "8点1氪丨被指品质暴跌，山姆回应；宇树科技市值重回2000亿，人形机器人股批量涨停；马斯克承诺给“美国每个孩子”1股SpaceX股份",
+    "summary": "Optimus量产在即，机器人三道坎特斯拉都没跨过，能否再造奇迹？",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4033470689268610",
+    "source_url": "https://www.36kr.com/p/4035261032781443",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-21-36krcom-36--",
+    "date": "2026-10-21",
+    "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3926003098843272?f=rss",
     "tags": [],
     "impact": ""
   },
@@ -85,20 +98,6 @@
     "source_url": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
     "tags": [],
     "impact": "Tue, 20 Oct 2026 19:40:05 +0000"
-  },
-  {
-    "id": "2026-10-20-technologyreviewcom-robotic-therapy-for-stroke-patients",
-    "date": "2026-10-20",
-    "title": "Robotic therapy for stroke patients",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Robotic therapy for stroke patients",
-    "source": "technologyreview.com",
-    "source_url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-10-20-the-robot-report-robobusiness-",
@@ -127,20 +126,6 @@
     "source_url": "https://www.therobotreport.com/2027-trr50-robotics-innovation-awards-open-nominations/",
     "tags": [],
     "impact": "Tue, 20 Oct 2026 16:15:24 +0000"
-  },
-  {
-    "id": "2026-10-19-ifanrcom--ai--homeview-",
-    "date": "2026-10-19",
-    "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView 产品",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "苹果第一个 AI 机器人，可能是个能动的 HomeView 产品",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1684921",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-10-19-cnbc-technology--50-",
