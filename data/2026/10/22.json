@@ -1,29 +1,57 @@
 [
   {
-    "id": "2026-10-22-financesinacomcn-suv566",
+    "id": "2026-10-22-gelonghuicom-20ai",
     "date": "2026-10-22",
-    "title": "通用汽车：将高速自动驾驶功能拓展至销量最高、最畅销车型系列，包含全尺寸SUV以及轻型皮卡。566",
+    "title": "现金流回正、资本开支砍20%，特斯拉把钱押给AI和机器人！",
     "category": [
-      "autonomous-driving"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "通用汽车：将高速自动驾驶功能拓展至销量最高、最畅销车型系列，包含全尺寸SUV以及轻型皮卡。566",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8139295.shtml",
+    "summary": "现金流回正、资本开支砍20%，特斯拉把钱押给AI和机器人！",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/7096466",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-22-36krcom-aiuiuc",
+    "id": "2026-10-22-wallstreetcncom-2030500optimus2027megapack-64",
     "date": "2026-10-22",
-    "title": "走向超级智能体，AI还需要主动性：UIUC、谷歌等联合综述",
+    "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄 6.4万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄 6.4万",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3784155",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-22-m21jingjicom-30-",
+    "date": "2026-10-22",
+    "title": "宇树科技股价反弹近30%！王兴兴、马斯克齐发声，机器人产能还远远不足 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "宇树科技股价反弹近30%！王兴兴、马斯克齐发声，机器人产能还远远不足 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261022/herald/6d2ea3af5c9a41bc82442882014792d4.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-22-36krcom-pcai",
+    "date": "2026-10-22",
+    "title": "刚刚，黄仁勋柏林震撼演讲，PC已死，AI智能体时代全面爆发",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "走向超级智能体，AI还需要主动性：UIUC、谷歌等联合综述",
+    "summary": "刚刚，黄仁勋柏林震撼演讲，PC已死，AI智能体时代全面爆发",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4036284643038340",
+    "source_url": "https://www.36kr.com/p/4036220967752838",
     "tags": [],
     "impact": ""
   },
@@ -42,129 +70,144 @@
     "impact": ""
   },
   {
-    "id": "2026-10-22-m21jingjicom--",
+    "id": "2026-10-22-m21jingjicom---",
     "date": "2026-10-22",
-    "title": "中信证券：看好机器人产业的量产和应用前景，建议关注产业链核心厂商 证券",
+    "title": "人形机器人催化密集 兆威机电首板丨牛股复盘 投资",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "中信证券：看好机器人产业的量产和应用前景，建议关注产业链核心厂商 证券",
+    "summary": "人形机器人催化密集 兆威机电首板丨牛股复盘 投资",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20261022/herald/4b6f8e927eb6e1e5d8242a6ab8021016.html",
+    "source_url": "https://m.21jingji.com/article/20261022/herald/c4355ea2f4c1d2cf9346bf5780214cbd.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-21-bloomberg-technology-teslas-future-is-robotaxis-says-arks-ke",
-    "date": "2026-10-21",
-    "title": "Tesla's Future Is Robotaxis, Says Ark's Keeney",
+    "id": "2026-10-22-guokrcom--app-",
+    "date": "2026-10-22",
+    "title": "个人智能体扎堆上线，没几个 App 愿意开门",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "Tasha Keeney, Ark Investment director of investment analysis, says robotaxis are the future for Tesla. She says the company is well positioned over its peers and the Cybercab is cheaper to operate compared to Waymo's next generation vehicle. Elon Musk's company reported third-quarter profits that beat estimates. (Source: Bloomberg)",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-10-21/tesla-s-future-is-robotaxis-says-ark-s-keeney-video",
+    "summary": "个人智能体扎堆上线，没几个 App 愿意开门",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/470510/",
     "tags": [],
-    "impact": "Wed, 21 Oct 2026 20:51:27 GMT"
+    "impact": ""
   },
   {
-    "id": "2026-10-21-the-verge-tesla-says-customers-can-add-their-own-vehicles-to",
-    "date": "2026-10-21",
-    "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+    "id": "2026-10-22-the-verge-eiliko--verge-",
+    "date": "2026-10-22",
+    "title": "Eiliko 制造商表示，在 Verge 报告其不安全机器人后，该公司正在聘请一家“独立安全公司”",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]",
+    "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security […]（原题：Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+    "tags": [],
+    "impact": "2026-10-22T07:00:00-04:00"
+  },
+  {
+    "id": "2026-10-22-ai-botcn-claude-duet--anthropic--ai-",
+    "date": "2026-10-22",
+    "title": "Claude Duet – Anthropic 推出的个人 AI 智能体",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Claude Duet – Anthropic 推出的个人 AI 智能体",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/claude-duet/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-22-m21jingjicom-anthropicclaude-duet-",
+    "date": "2026-10-22",
+    "title": "Anthropic发布Claude Duet，个人智能体大战升温 公司",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Anthropic发布Claude Duet，个人智能体大战升温 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261022/herald/3dbc747751d76e1807a6474f5523db43.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-21-the-verge-",
+    "date": "2026-10-21",
+    "title": "特斯拉表示，明年客户可以将自己的车辆添加到机器人出租车车队中——这会发生吗？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]（原题：Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?）",
     "source": "The Verge",
     "source_url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
     "tags": [],
     "impact": "2026-10-21T19:36:31-04:00"
   },
   {
-    "id": "2026-10-21-electrek-autopilot-tesla-pushes-unsupervised-fsd-to-q2-2027-",
+    "id": "2026-10-21-qbitaicom-aiairai",
     "date": "2026-10-21",
-    "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+    "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/10/504734.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-21-electrek-autopilot-tesla--2027--fsd-robotaxi-",
+    "date": "2026-10-21",
+    "title": "Tesla 将于 2027 年第二季度推出无人监督 FSD，且仅限于 Robotaxi 区域",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Tesla now says unsupervised “Full Self-Driving” in customer-owned cars will arrive in Q2 2027. It’s the latest date on a promise Elon Musk has been making to FSD buyers for the better part of a decade. But there’s a catch. On Tesla’s Q3 2026 earnings call today, AI chief Ashok Elluswamy described it as owners adding their own vehicles to Tesla’s managed Robotaxi fleet, not owners getting a car that drives them anywhere they want to go. more…",
+    "summary": "Tesla now says unsupervised “Full Self-Driving” in customer-owned cars will arrive in Q2 2027. It’s the latest date on a promise Elon Musk has been making to FSD buyers for the better part of a decade. But there’s a catch. On Tesla’s Q3 2026 earnings call today, AI chief Ashok Elluswamy described it as owners adding their own vehicles to Tesla’s managed Robotaxi fleet, not owners getting a car that drives them anywhere they want to go. more…（原题：Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones）",
     "source": "Electrek Autopilot",
     "source_url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
     "tags": [],
     "impact": "Wed, 21 Oct 2026 22:18:57 +0000"
   },
   {
-    "id": "2026-10-21-readhubcn-anthropic--ai--claude-duet",
+    "id": "2026-10-21-qbitaicom-lecun",
     "date": "2026-10-21",
-    "title": "Anthropic 推出研究预览版 AI 智能体 Claude Duet",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "Anthropic 推出研究预览版 AI 智能体 Claude Duet",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8xPz8hNLnyh",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-20-wallstreetcncom-2030500optimus2027megapack",
-    "date": "2026-10-20",
-    "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
+    "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
-    "source": "wallstreetcn.com",
-    "source_url": "https://wallstreetcn.com/articles/3784155",
+    "summary": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/10/504653.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-20-wallstreetcncom-",
+    "id": "2026-10-20-the-robot-report-gecko-robotics--3-",
     "date": "2026-10-20",
-    "title": "机器人还没学会干活，为什么数据采集设备先卖爆了？万周",
+    "title": "Gecko Robotics 与美国海军签订价值 3 亿美元的合同",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "机器人还没学会干活，为什么数据采集设备先卖爆了？万周",
-    "source": "wallstreetcn.com",
-    "source_url": "https://wallstreetcn.com/member/articles/3784100",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-20-the-robot-report-gecko-robotics-secures-300m-contract-with-t",
-    "date": "2026-10-20",
-    "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Gecko claimed this signals the Pentagon’s confidence that it is a core military capability that is delivering results. The post Gecko Robotics secures $300M contract with the U.S. Navy appeared first on The Robot Report .",
+    "summary": "Gecko claimed this signals the Pentagon’s confidence that it is a core military capability that is delivering results. The post Gecko Robotics secures $300M contract with the U.S. Navy appeared first on The Robot Report .（原题：Gecko Robotics secures $300M contract with the U.S. Navy）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/",
     "tags": [],
     "impact": "Tue, 20 Oct 2026 10:25:47 +0000"
-  },
-  {
-    "id": "2026-10-20-wallstreetcncom-anthropicaiclaude-duetopus-55-",
-    "date": "2026-10-20",
-    "title": "Anthropic推出全天候AI智能体Claude Duet，Opus 5.5 驱动",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "Anthropic推出全天候AI智能体Claude Duet，Opus 5.5 驱动",
-    "source": "wallstreetcn.com",
-    "source_url": "https://wallstreetcn.com/articles/3784156",
-    "tags": [],
-    "impact": ""
   }
 ]
