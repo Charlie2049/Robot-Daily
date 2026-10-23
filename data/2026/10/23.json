@@ -1,31 +1,88 @@
 [
   {
-    "id": "2026-10-23-gelonghuicom-2",
+    "id": "2026-10-23-readhubcn-",
     "date": "2026-10-23",
-    "title": "机器人下线！马斯克：周产2万台需一年",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "机器人下线！马斯克：周产2万台需一年",
-    "source": "gelonghui.com",
-    "source_url": "https://www.gelonghui.com/p/7111165",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-23-financesinacomcn-anthropic895",
-    "date": "2026-10-23",
-    "title": "Anthropic提出智能体技能发展路线图，包括版本化发布和安全指引。895",
+    "title": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "Anthropic提出智能体技能发展路线图，包括版本化发布和安全指引。895",
-    "source": "finance.sina.com.cn",
-    "source_url": "https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937956.shtml",
+    "summary": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8xSXn22lL94",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-10-23-m21jingjicom-app",
+    "date": "2026-10-23",
+    "title": "多个App拒绝豆包手机助手，金融机构对外部智能体说“不”金融",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "多个App拒绝豆包手机助手，金融机构对外部智能体说“不”金融",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261023/herald/68675832781dfc12dffd98b9b608ec1d.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-23-m21jingjicom---",
+    "date": "2026-10-23",
+    "title": "人形机器人产业催化密集 大业股份六连板丨牛股复盘 投资",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人产业催化密集 大业股份六连板丨牛股复盘 投资",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261023/herald/e2e3404f57f2edf2b477589fe6a0c6d1.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-23-ai-botcn-workforge--",
+    "date": "2026-10-23",
+    "title": "WorkForge – 腾讯联合复旦推出的智能体训练环境构建框架",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "WorkForge – 腾讯联合复旦推出的智能体训练环境构建框架",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/workforge/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-23-bloomberg-technology-unitree--2028-",
+    "date": "2026-10-23",
+    "title": "Unitree 创始人预计机器人最早将于 2028 年取得突破",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The founder of Unitree Robotics now expects a breakthrough in humanoids in as little as two years, a reversal for a Chinese entrepreneur who once predicted intelligent machines would take as long as decade to go mainstream.（原题：Unitree Founder Now Expects Robots Breakthrough as Soon as 2028）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
+    "tags": [],
+    "impact": "Fri, 23 Oct 2026 08:29:20 GMT"
+  },
+  {
+    "id": "2026-10-23-cnbc-technology-nvidia--neocloud-",
+    "date": "2026-10-23",
+    "title": "Nvidia 人工智能展示现场：詹森狂热、机器鸭子和 Neocloud 困境",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "The word on the ground from Nvidia's GTC conference in Berlin.（原题：On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+    "tags": [],
+    "impact": "Fri, 23 Oct 2026 12:08:30 GMT"
   },
   {
     "id": "2026-10-23-36krcom-36--",
@@ -39,6 +96,20 @@
     "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
     "source": "36kr.com",
     "source_url": "https://36kr.com/p/3926003098843272?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-22-wallstreetcncom-46286",
+    "date": "2026-10-22",
+    "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%8.6万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%8.6万",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3784272",
     "tags": [],
     "impact": ""
   }
