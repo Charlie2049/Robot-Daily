@@ -1,31 +1,46 @@
 [
   {
-    "id": "2026-10-23-the-verge-",
+    "id": "2026-10-24-readhubcn-",
+    "date": "2026-10-24",
+    "title": "国产「造芯」智能体在武汉发布",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "国产「造芯」智能体在武汉发布",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8xTdJDbWM7F",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-24-gelonghuicom-av416",
+    "date": "2026-10-24",
+    "title": "A股收评：深V反转！创业板指收涨4.16%，人形机器人板块爆发",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A股收评：深V反转！创业板指收涨4.16%，人形机器人板块爆发",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/7128090",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-23-the-robot-report--fcc-",
     "date": "2026-10-23",
-    "title": "联邦调查局希望机器人出租车用青色灯发出“我正在开车”的信号",
+    "title": "网络研讨会讨论 FCC 机器人裁决如何影响自动化买家",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No. 108, specifically rewriting […]（原题：Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights）",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+    "summary": "Industry leaders will discuss what robotics buyers should know about the recent FCC restriction on certain connected systems. The post Webinar to discuss how the FCC robotics ruling affects automation buyers appeared first on The Robot Report .（原题：Webinar to discuss how the FCC robotics ruling affects automation buyers）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
     "tags": [],
-    "impact": "2026-10-23T11:24:45-04:00"
-  },
-  {
-    "id": "2026-10-23-readhubcn-",
-    "date": "2026-10-23",
-    "title": "王兴兴：具身智能未来两三年将迎行业寒冬",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "王兴兴：具身智能未来两三年将迎行业寒冬",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8xS3444Cqtu",
-    "tags": [],
-    "impact": ""
+    "impact": "Fri, 23 Oct 2026 20:06:28 +0000"
   },
   {
     "id": "2026-10-23-ieee-spectrum-robotics-",
@@ -42,16 +57,16 @@
     "impact": "Fri, 23 Oct 2026 15:30:02 +0000"
   },
   {
-    "id": "2026-10-23-ai-botcn--a15---ai-lab-",
-    "date": "2026-10-23",
-    "title": "书生-A1.5 – 上海 AI Lab 开源的通专融合科学智能体",
+    "id": "2026-10-22-wallstreetcncom-meta-aimuse",
+    "date": "2026-10-22",
+    "title": "高管揭示Meta AI订阅变现新路：Muse免广告但企业服务收费，智能体购物抽成",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "书生-A1.5 – 上海 AI Lab 开源的通专融合科学智能体",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/sage-a1-5/",
+    "summary": "高管揭示Meta AI订阅变现新路：Muse免广告但企业服务收费，智能体购物抽成",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3784364",
     "tags": [],
     "impact": ""
   },
@@ -70,16 +85,16 @@
     "impact": ""
   },
   {
-    "id": "2026-10-22-wallstreetcncom-agentgpt-6-astra101",
+    "id": "2026-10-22-wallstreetcncom-kimi3gpt-63d114",
     "date": "2026-10-22",
-    "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？硅谷101",
+    "title": "Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重",
     "category": [
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "Agent、机器人与制药，谁先被GPT-6 Astra改写？硅谷101",
+    "summary": "Kimi最强3万亿级模型来了！编程智能体测评超过GPT-6，3D建模与金融能力升级，11月4日前开放权重",
     "source": "wallstreetcn.com",
-    "source_url": "https://wallstreetcn.com/articles/3784347",
+    "source_url": "https://wallstreetcn.com/articles/3784358",
     "tags": [],
     "impact": ""
   }
