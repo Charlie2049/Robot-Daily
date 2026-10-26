@@ -1,15 +1,29 @@
 [
   {
-    "id": "2026-10-25-readhubcn--5000---200-",
-    "date": "2026-10-25",
-    "title": "启元机器人第 5000 台个人机器人下线 日产能提至 200 余台",
+    "id": "2026-10-26-readhubcn--handson-66-",
+    "date": "2026-10-26",
+    "title": "清华团队构建 HandsOn 灵巧操作基准，66 项任务全方位评测机器人双手能力",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "启元机器人第 5000 台个人机器人下线 日产能提至 200 余台",
+    "summary": "清华团队构建 HandsOn 灵巧操作基准，66 项任务全方位评测机器人双手能力",
     "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8xW45xBe7eQ",
+    "source_url": "https://readhub.cn/topic/8xW4RvWIVmP",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-26-juejincn-ai--566",
+    "date": "2026-10-26",
+    "title": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局 566",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局 566",
+    "source": "juejin.cn",
+    "source_url": "https://juejin.cn/post/7699307133640884267",
     "tags": [],
     "impact": ""
   },
@@ -26,5 +40,20 @@
     "source_url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
     "tags": [],
     "impact": "Sun, 25 Oct 2026 12:35:33 +0000"
+  },
+  {
+    "id": "2026-10-25-readhubcn-eka-robotics--15--a---145-",
+    "date": "2026-10-25",
+    "title": "Eka Robotics 完成 1.5 亿美元 A 轮融资 投后估值 14.5 亿美元",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "Eka Robotics 完成 1.5 亿美元 A 轮融资 投后估值 14.5 亿美元",
+    "source": "readhub.cn",
+    "source_url": "https://readhub.cn/topic/8xVyjUKC6gD",
+    "tags": [],
+    "impact": ""
   }
 ]
