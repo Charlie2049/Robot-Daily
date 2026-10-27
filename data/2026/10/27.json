@@ -1,15 +1,58 @@
 [
   {
-    "id": "2026-10-27-juejincn-ai--627",
+    "id": "2026-10-27-m21jingjicom--",
     "date": "2026-10-27",
-    "title": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局 627",
+    "title": "苏州百亿游戏新贵，悄悄入局仿生机器人 公司",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "苏州百亿游戏新贵，悄悄入局仿生机器人 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261027/herald/c014b32de55ecd8d735fb712bd7de196.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-27-juejincn-ai--634",
+    "date": "2026-10-27",
+    "title": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局 634",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局 627",
+    "summary": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局 634",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7699307133640884267",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-27-36krcom-5",
+    "date": "2026-10-27",
+    "title": "人形机器人开始踩踏：5折卖老股",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人开始踩踏：5折卖老股",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4043372274504576",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-27-36krcom-",
+    "date": "2026-10-27",
+    "title": "一个工位跑通之后，工业具身智能如何走向规模应用？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "一个工位跑通之后，工业具身智能如何走向规模应用？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4043370323432576",
     "tags": [],
     "impact": ""
   },
@@ -29,46 +72,32 @@
     "impact": ""
   },
   {
-    "id": "2026-10-26-m21jingjicom-ai-",
+    "id": "2026-10-26-cnbc-technology-",
     "date": "2026-10-26",
-    "title": "谁在拉动北京经济？AI释放新增量，机器人、集成电路踩满油门 宏观",
+    "title": "黑莓重塑：首席执行官看到人工智能驱动的机器人的巨大机遇",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "谁在拉动北京经济？AI释放新增量，机器人、集成电路踩满油门 宏观",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20261026/herald/f215ca757efd4c3b2e082f6660a0ec7d.html",
+    "summary": "BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.（原题：BlackBerry reinvented: CEO sees big opportunities AI-powered robots）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html",
     "tags": [],
-    "impact": ""
+    "impact": "Mon, 26 Oct 2026 22:34:19 GMT"
   },
   {
-    "id": "2026-10-26-readhubcn--parallelworld-",
+    "id": "2026-10-26-the-robot-report-bedrock-robotics--10-",
     "date": "2026-10-26",
-    "title": "清华等团队提出具身智能预演框架 ParallelWorld 提升机器人任务成功率",
+    "title": "随着自主重型设备需求激增，Bedrock Robotics 总融资接近 10 亿美元",
     "category": [
-      "humanoid",
-      "robotics"
+      "robotics",
+      "funding"
     ],
     "region": "Global",
-    "summary": "清华等团队提出具身智能预演框架 ParallelWorld 提升机器人任务成功率",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8xXNuhCex18",
+    "summary": "Bedrock Robotics has secured $600 million to scale autonomous heavy equipment and combat construction labor shortages. The post Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges appeared first on The Robot Report .（原题：Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
     "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-26-readhubcn--coco-matrix--co01-",
-    "date": "2026-10-26",
-    "title": "可可矩阵 COCO Matrix 发布 CO01 模型：言传身教，让机器人边做边学",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "可可矩阵 COCO Matrix 发布 CO01 模型：言传身教，让机器人边做边学",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8xYE5MA8Uhh",
-    "tags": [],
-    "impact": ""
+    "impact": "Mon, 26 Oct 2026 21:15:00 +0000"
   }
 ]
