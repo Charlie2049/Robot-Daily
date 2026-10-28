@@ -1,15 +1,29 @@
 [
   {
-    "id": "2026-10-28-36krcom-",
+    "id": "2026-10-28-ifanrcom--",
     "date": "2026-10-28",
-    "title": "宇树上市后，投资人反而不敢投机器人了",
+    "title": "这机器人从嘴里钻进人体，居然是来救命的 产品",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "宇树上市后，投资人反而不敢投机器人了",
+    "summary": "这机器人从嘴里钻进人体，居然是来救命的 产品",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1686368",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-28-36krcom-",
+    "date": "2026-10-28",
+    "title": "当“部署公司”出现，具身智能开始寻找“商业模型”",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "当“部署公司”出现，具身智能开始寻找“商业模型”",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4043963640059780",
+    "source_url": "https://www.36kr.com/p/4045214669821829",
     "tags": [],
     "impact": ""
   },
@@ -28,61 +42,62 @@
     "impact": ""
   },
   {
-    "id": "2026-10-28-juejincn-ai--674",
+    "id": "2026-10-28-36krcom-ril",
     "date": "2026-10-28",
-    "title": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局 674",
+    "title": "从车规级数采到RIL中试，清研精准想补上具身智能的“工程化中间层”",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "从车规级数采到RIL中试，清研精准想补上具身智能的“工程化中间层”",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4044901858972807",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-28-juejincn-ai--701",
+    "date": "2026-10-28",
+    "title": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局 701",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局 674",
+    "summary": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局 701",
     "source": "juejin.cn",
     "source_url": "https://juejin.cn/post/7699307133640884267",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-28-m21jingjicom-80-",
+    "id": "2026-10-28-36krcom-",
     "date": "2026-10-28",
-    "title": "80亿港元极智嘉，押注物流机器人 公司",
+    "title": "人形机器人，要出大结果了",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "80亿港元极智嘉，押注物流机器人 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20261028/herald/cf89be5a11d388e5225f1eb6da54098d.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-10-28-36krcom-36--",
-    "date": "2026-10-28",
-    "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
-    "category": [
-      "robotics",
-      "funding"
-    ],
-    "region": "Global",
-    "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+    "summary": "人形机器人，要出大结果了",
     "source": "36kr.com",
-    "source_url": "https://36kr.com/p/3926003098843272?f=rss",
+    "source_url": "https://www.36kr.com/p/4045474892223617",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-27-bloomberg-technology-robotics-lab-physical-intelligence-in-t",
+    "id": "2026-10-27-qbitaicom-",
     "date": "2026-10-27",
-    "title": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
+    "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Physical Intelligence, a startup developing artificial intelligence software to power robots for real-world tasks, is in funding talks that would nearly double its valuation to roughly $20 billion, according to people familiar with the matter.",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
+    "summary": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/10/505865.html",
     "tags": [],
-    "impact": "Tue, 27 Oct 2026 19:43:06 GMT"
+    "impact": ""
   },
   {
     "id": "2026-10-27-the-robot-report-anybotics-begins-delivering-anymal-x-legged",
@@ -97,5 +112,19 @@
     "source_url": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
     "tags": [],
     "impact": "Tue, 27 Oct 2026 14:29:58 +0000"
+  },
+  {
+    "id": "2026-10-26-wallstreetcncom-3145",
+    "date": "2026-10-26",
+    "title": "创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%4.5万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%4.5万",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3784632",
+    "tags": [],
+    "impact": ""
   }
 ]
