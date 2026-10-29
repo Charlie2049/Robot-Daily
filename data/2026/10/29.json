@@ -1,58 +1,58 @@
 [
   {
-    "id": "2026-10-29-36krcom-",
-    "date": "2026-10-29",
-    "title": "马斯克称机器人内存需求将超过所有设备，存储板块大涨",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "马斯克称机器人内存需求将超过所有设备，存储板块大涨",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4045722193974149",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-10-29-36krcom-20",
     "date": "2026-10-29",
-    "title": "雷军投的20家机器人企业",
+    "title": "超20家机器人军团集体“下海”捞金",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "雷军投的20家机器人企业",
+    "summary": "超20家机器人军团集体“下海”捞金",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4043850978367360",
+    "source_url": "https://www.36kr.com/p/4046782652306562",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-29-36krcom-",
+    "id": "2026-10-29-36krcom-scaling",
     "date": "2026-10-29",
-    "title": "字节跳动招人，入局具身智能",
+    "title": "刚刚，机器人学习进入“全链路Scaling”时代",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "刚刚，机器人学习进入“全链路Scaling”时代",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4046793427866502",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-29-aibasecom-aihy4hy4flashclaude-codeos10",
+    "date": "2026-10-29",
+    "title": "AI日报：混元Hy4、Hy4flash将发布；Claude Code上线全新环境变量；智元发布具身智能原生OS灵渠1.0",
     "category": [
       "humanoid"
     ],
     "region": "Global",
-    "summary": "字节跳动招人，入局具身智能",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4045515627468424",
+    "summary": "AI日报：混元Hy4、Hy4flash将发布；Claude Code上线全新环境变量；智元发布具身智能原生OS灵渠1.0",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/31964",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-10-29-36krcom-10",
+    "id": "2026-10-29-36krcom-36--",
     "date": "2026-10-29",
-    "title": "10月机器人融资图鉴，资本盯上了这三处",
+    "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
     "category": [
       "robotics",
       "funding"
     ],
     "region": "Global",
-    "summary": "10月机器人融资图鉴，资本盯上了这三处",
+    "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4045272990455681",
+    "source_url": "https://36kr.com/p/3926003098843272?f=rss",
     "tags": [],
     "impact": ""
   },
@@ -97,6 +97,20 @@
     "source_url": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
     "tags": [],
     "impact": "Wed, 28 Oct 2026 18:59:30 +0000"
+  },
+  {
+    "id": "2026-10-27-geekparknet--5000-",
+    "date": "2026-10-27",
+    "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/373003",
+    "tags": [],
+    "impact": ""
   },
   {
     "id": "2026-10-27-the-robot-report-xpanner-launches-autonomous-pile-driver-for",
