@@ -1,15 +1,44 @@
 [
   {
-    "id": "2026-10-31-readhubcn-figure-ai-",
+    "id": "2026-10-31-the-robot-report-",
     "date": "2026-10-31",
-    "title": "Figure AI 全员大会曝光：第四代机器人设计定型，下一代模型取得关键进展",
+    "title": "不寻常的机器动物可以证明它们的实用性",
     "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Robotic animals are designed to be helpful rather than scary, showing promise in disaster recovery, utility inspection, and companionship. The post Unusual robotic animals can prove their utility appeared first on The Robot Report .（原题：Unusual robotic animals can prove their utility）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/",
+    "tags": [],
+    "impact": "Sat, 31 Oct 2026 12:30:46 +0000"
+  },
+  {
+    "id": "2026-10-31-ai-botcn-thinkrail--jetbrains--ai--ide",
+    "date": "2026-10-31",
+    "title": "ThinkRail – JetBrains 开源的 AI 智能体 IDE",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "ThinkRail – JetBrains 开源的 AI 智能体 IDE",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/thinkrail/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-31-ai-botcn-go-3-preview--",
+    "date": "2026-10-31",
+    "title": "GO-3 Preview – 智元机器人推出的具身智能模型",
+    "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Figure AI 全员大会曝光：第四代机器人设计定型，下一代模型取得关键进展",
-    "source": "readhub.cn",
-    "source_url": "https://readhub.cn/topic/8xeKXmf4vWs",
+    "summary": "GO-3 Preview – 智元机器人推出的具身智能模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/go-3-preview/",
     "tags": [],
     "impact": ""
   },
