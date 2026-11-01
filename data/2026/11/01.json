@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-11-01-qbitaicom-",
+    "date": "2026-11-01",
+    "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/11/506990.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-11-01-36krcom-agent",
     "date": "2026-11-01",
     "title": "桌面机器人火了，具身智能厂商发力新赛道，终局是物理Agent？",
@@ -13,6 +27,20 @@
     "source_url": "https://www.36kr.com/p/4048166536812168",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-11-01-the-robot-report-solving-the-interconnect-challenge-in-moder",
+    "date": "2026-11-01",
+    "title": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever. The post Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/",
+    "tags": [],
+    "impact": "Sun, 01 Nov 2026 13:00:31 +0000"
   },
   {
     "id": "2026-11-01-geekparknet-deepseek--super-agent--meta--muse-",
