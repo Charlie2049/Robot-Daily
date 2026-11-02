@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-11-02-36krcom-muse",
+    "date": "2026-11-02",
+    "title": "Muse人形机器人来了，小扎带队，中国造",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Muse人形机器人来了，小扎带队，中国造",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4051751097226372",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-02-36krcom-36--",
+    "date": "2026-11-02",
+    "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+    "source": "36kr.com",
+    "source_url": "https://36kr.com/p/3926003098843272?f=rss",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-11-01-the-robot-report--28-ai-",
     "date": "2026-11-01",
     "title": "不到两天的 28 个零日发现：AI 速度发现对机器人意味着什么",
@@ -26,5 +56,34 @@
     "source_url": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/",
     "tags": [],
     "impact": "Sat, 31 Oct 2026 12:30:46 +0000"
+  },
+  {
+    "id": "2026-10-31-ai-botcn-thinkrail--jetbrains--ai--ide",
+    "date": "2026-10-31",
+    "title": "ThinkRail – JetBrains 开源的 AI 智能体 IDE",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "ThinkRail – JetBrains 开源的 AI 智能体 IDE",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/thinkrail/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-10-31-ai-botcn-go-3-preview--",
+    "date": "2026-10-31",
+    "title": "GO-3 Preview – 智元机器人推出的具身智能模型",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "GO-3 Preview – 智元机器人推出的具身智能模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/go-3-preview/",
+    "tags": [],
+    "impact": ""
   }
 ]
