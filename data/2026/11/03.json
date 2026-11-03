@@ -1,115 +1,157 @@
 [
   {
-    "id": "2026-11-03-36krcom-",
+    "id": "2026-11-03-fengcom---homeview--421",
     "date": "2026-11-03",
-    "title": "扎克伯格盯上了中国机器人？真相只是一场生意",
+    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 421",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "扎克伯格盯上了中国机器人？真相只是一场生意",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4052556711744644",
+    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 421",
+    "source": "feng.com",
+    "source_url": "https://www.feng.com/post/13960119",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-03-36krcom-20",
+    "id": "2026-11-03-36krcom-2026robotaxi",
     "date": "2026-11-03",
-    "title": "人形机器人背后的20家中国供应商",
+    "title": "官方合作伙伴曹操出行护航2026年世界互联网大会乌镇峰会，主驾无人Robotaxi开启动态展示",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "官方合作伙伴曹操出行护航2026年世界互联网大会乌镇峰会，主驾无人Robotaxi开启动态展示",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4053408941036416",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-03-ai-botcn-sensenova-68-flash--",
+    "date": "2026-11-03",
+    "title": "SenseNova 6.8 Flash – 商汤日日新推出的多模态智能体模型",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "SenseNova 6.8 Flash – 商汤日日新推出的多模态智能体模型",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/sensenova-6-8-flash/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-03-36krcom-deepseek7",
+    "date": "2026-11-03",
+    "title": "DeepSeek官方智能体教程来了：一句话造插件，7套提示词免费公开",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "DeepSeek官方智能体教程来了：一句话造插件，7套提示词免费公开",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4053409634800768",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-03-the-robot-report-churchill-capital-xi--25b--agility-robotics",
+    "date": "2026-11-03",
+    "title": "Churchill Capital XI 股东批准 2.5B 美元 Agility Robotics 人形 SPAC",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "人形机器人背后的20家中国供应商",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4052425916536450",
+    "summary": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers. The post Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC appeared first on The Robot Report .（原题：Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
     "tags": [],
-    "impact": ""
+    "impact": "Tue, 03 Nov 2026 00:15:39 +0000"
   },
   {
-    "id": "2026-11-03-juejincn-qqai--683",
-    "date": "2026-11-03",
-    "title": "QQ「大肥鱼」AI 机器人 683",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "QQ「大肥鱼」AI 机器人 683",
-    "source": "juejin.cn",
-    "source_url": "https://juejin.cn/post/7702015192474419227",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-02-the-robot-report-tutor-intelligence-raises-series-b-to-scale",
+    "id": "2026-11-02-mithomecom--g1--87",
     "date": "2026-11-02",
-    "title": "Tutor Intelligence raises Series B to scale model training, robot deployments",
+    "title": "宇树机器人 G1 因过热退出登泰山大赛，被担架抬下山 87评",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Tutor Intelligence has raised funding to further develop its picking robots, networked intelligence, and commercial deployments. The post Tutor Intelligence raises Series B to scale model training, robot deployments appeared first on The Robot Report .",
+    "summary": "宇树机器人 G1 因过热退出登泰山大赛，被担架抬下山 87评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/1021222.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-02-the-robot-report-tutor-intelligence--b-",
+    "date": "2026-11-02",
+    "title": "Tutor Intelligence 筹集 B 轮资金以扩展模型训练和机器人部署",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Tutor Intelligence has raised funding to further develop its picking robots, networked intelligence, and commercial deployments. The post Tutor Intelligence raises Series B to scale model training, robot deployments appeared first on The Robot Report .（原题：Tutor Intelligence raises Series B to scale model training, robot deployments）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/",
     "tags": [],
     "impact": "Mon, 02 Nov 2026 19:25:59 +0000"
   },
   {
-    "id": "2026-11-02-the-robot-report-top-10-robotics-developments-of-october-202",
+    "id": "2026-11-02-the-robot-report-gentherm--thermaffyx-",
     "date": "2026-11-02",
-    "title": "Top 10 robotics developments of October 2026",
+    "title": "Gentherm 设计 ThermAffyx 来在机器人手术期间保护、移动患者",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Last month, we celebrated the 20th anniversary of RoboBusiness, whic is being rebranded to Robotics Summit & Expo West. The post Top 10 robotics developments of October 2026 appeared first on The Robot Report .",
-    "source": "The Robot Report",
-    "source_url": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
-    "tags": [],
-    "impact": "Mon, 02 Nov 2026 17:56:42 +0000"
-  },
-  {
-    "id": "2026-11-02-the-robot-report-gentherm-designs-thermaffyx-to-protect-move",
-    "date": "2026-11-02",
-    "title": "Gentherm designs ThermAffyx to protect, move patients during robotic surgeries",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "ThermAffyx addresses secure positioning and heating of patients for robot-assisted surgical procedures with a minimal OR footprint. The post Gentherm designs ThermAffyx to protect, move patients during robotic surgeries appeared first on The Robot Report .",
+    "summary": "ThermAffyx addresses secure positioning and heating of patients for robot-assisted surgical procedures with a minimal OR footprint. The post Gentherm designs ThermAffyx to protect, move patients during robotic surgeries appeared first on The Robot Report .（原题：Gentherm designs ThermAffyx to protect, move patients during robotic surgeries）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/gentherm-designs-thermaffyx-protect-move-patients-during-robotic-surgeries/",
     "tags": [],
     "impact": "Mon, 02 Nov 2026 18:06:36 +0000"
   },
   {
-    "id": "2026-11-01-qbitaicom-",
-    "date": "2026-11-01",
-    "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+    "id": "2026-11-02-the-robot-report-2026--10-",
+    "date": "2026-11-02",
+    "title": "2026 年 10 月机器人技术十大发展",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/11/506990.html",
+    "summary": "Last month, we celebrated the 20th anniversary of RoboBusiness, whic is being rebranded to Robotics Summit & Expo West. The post Top 10 robotics developments of October 2026 appeared first on The Robot Report .（原题：Top 10 robotics developments of October 2026）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
     "tags": [],
-    "impact": ""
+    "impact": "Mon, 02 Nov 2026 17:56:42 +0000"
   },
   {
-    "id": "2026-11-01-the-robot-report-solving-the-interconnect-challenge-in-moder",
+    "id": "2026-11-01-the-robot-report-3m-",
     "date": "2026-11-01",
-    "title": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime",
+    "title": "解决现代机器人技术中的互连挑战：3M 如何进行运动、密度和正常运行时间工程",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever. The post Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime appeared first on The Robot Report .",
+    "summary": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever. The post Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime appeared first on The Robot Report .（原题：Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/",
     "tags": [],
     "impact": "Sun, 01 Nov 2026 13:00:31 +0000"
+  },
+  {
+    "id": "2026-11-01-geekparknet-deepseek--super-agent--meta--muse-",
+    "date": "2026-11-01",
+    "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
+    "source": "geekpark.net",
+    "source_url": "http://www.geekpark.net/news/373243",
+    "tags": [],
+    "impact": ""
   }
 ]
