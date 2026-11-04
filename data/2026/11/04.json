@@ -1,17 +1,17 @@
 [
   {
-    "id": "2026-11-03-bloomberg-technology-shield-ai-on-autonomous-warfare",
-    "date": "2026-11-03",
-    "title": "Shield AI on Autonomous Warfare",
+    "id": "2026-11-04-36krcom-",
+    "date": "2026-11-04",
+    "title": "智元“机器人总动员”：我们为什么还没有等到瓦力？",
     "category": [
-      "autonomous-driving"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "Gary Steele, CEO, Shield AI, discusses how AI-piloted aircraft and autonomous drones are changing modern warfare and the balance of military power with Bloomberg’s Tom Giles at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-11-03/shield-ai-on-autonomous-warfare-video-mw10y2l4",
+    "summary": "智元“机器人总动员”：我们为什么还没有等到瓦力？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4054688188732550",
     "tags": [],
-    "impact": "Tue, 03 Nov 2026 18:31:39 GMT"
+    "impact": ""
   },
   {
     "id": "2026-11-03-the-robot-report-new-iso-interoperability-standard-covers-co",
@@ -26,5 +26,19 @@
     "source_url": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/",
     "tags": [],
     "impact": "Tue, 03 Nov 2026 14:40:33 +0000"
+  },
+  {
+    "id": "2026-11-03-bloomberg-technology-european-defense-tech-on-autonomous-sys",
+    "date": "2026-11-03",
+    "title": "European Defense Tech on Autonomous Systems",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "Uwe Horstmann, Founder & CEO, STARK and Luciana Lixandru, Partner, Sequoia Capital, discuss how autonomous systems and private capital are reshaping Europe’s defense technology sector with Bloomberg’s Tom Mackenzie at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-11-03/shield-ai-on-autonomous-warfare-video-mw10y2l4",
+    "tags": [],
+    "impact": "Tue, 03 Nov 2026 18:31:39 GMT"
   }
 ]
