@@ -1,17 +1,61 @@
 [
   {
+    "id": "2026-11-04-qbitaicom----lion-er-35b-a3b",
+    "date": "2026-11-04",
+    "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/11/507586.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-11-04-36krcom-",
     "date": "2026-11-04",
-    "title": "智元“机器人总动员”：我们为什么还没有等到瓦力？",
+    "title": "三季报专题：订单火热却赚不到钱？机器人产业链的一体两面",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "智元“机器人总动员”：我们为什么还没有等到瓦力？",
+    "summary": "三季报专题：订单火热却赚不到钱？机器人产业链的一体两面",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4054688188732550",
+    "source_url": "https://www.36kr.com/p/4055391359456392",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-11-04-wallstreetcncom-",
+    "date": "2026-11-04",
+    "title": "一线直击香港金融科技周：机器人谈复购，智能体找入口",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "一线直击香港金融科技周：机器人谈复购，智能体找入口",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3785197",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-04-bloomberg-technology-china-robot-funding-slows-to-16-billion",
+    "date": "2026-11-04",
+    "title": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
+    "category": [
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed the world with its Spring Festival humanoids showcase.",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
+    "tags": [],
+    "impact": "Wed, 04 Nov 2026 06:07:48 GMT"
   },
   {
     "id": "2026-11-03-the-robot-report-new-iso-interoperability-standard-covers-co",
@@ -26,19 +70,5 @@
     "source_url": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/",
     "tags": [],
     "impact": "Tue, 03 Nov 2026 14:40:33 +0000"
-  },
-  {
-    "id": "2026-11-03-bloomberg-technology-european-defense-tech-on-autonomous-sys",
-    "date": "2026-11-03",
-    "title": "European Defense Tech on Autonomous Systems",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "Uwe Horstmann, Founder & CEO, STARK and Luciana Lixandru, Partner, Sequoia Capital, discuss how autonomous systems and private capital are reshaping Europe’s defense technology sector with Bloomberg’s Tom Mackenzie at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-11-03/shield-ai-on-autonomous-warfare-video-mw10y2l4",
-    "tags": [],
-    "impact": "Tue, 03 Nov 2026 18:31:39 GMT"
   }
 ]
