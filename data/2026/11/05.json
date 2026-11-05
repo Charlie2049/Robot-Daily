@@ -1,29 +1,15 @@
 [
   {
-    "id": "2026-11-05-fengcom---homeview--1521",
+    "id": "2026-11-05-fengcom---homeview--1717",
     "date": "2026-11-05",
-    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 1521",
+    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 1717",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 1521",
+    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 1717",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13960119",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-05-m21jingjicom--",
-    "date": "2026-11-05",
-    "title": "王兴兴称明年是机器人行业临界点；可灵估值超过快手市值 公司",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "王兴兴称明年是机器人行业临界点；可灵估值超过快手市值 公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20261105/herald/fd7d7f39ae09c830d0f973b2bd7a1258.html",
     "tags": [],
     "impact": ""
   },
@@ -42,85 +28,155 @@
     "impact": ""
   },
   {
-    "id": "2026-11-05-36krcom-",
+    "id": "2026-11-05-ifanrcom-iphone-4--",
     "date": "2026-11-05",
-    "title": "具身智能，变天了",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "具身智能，变天了",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4056188657275785",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-04-the-robot-report--2026",
-    "date": "2026-11-04",
-    "title": "机器人初创雷达 2026",
+    "title": "对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司 专访",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics. The post Robotics Startup Radar 2026 appeared first on The Robot Report .（原题：Robotics Startup Radar 2026）",
+    "summary": "对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司 专访",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1687805",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-05-ai-botcn-kimi-hosted-agents--",
+    "date": "2026-11-05",
+    "title": "Kimi Hosted Agents – 月之暗面推出的企业托管智能体服务",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Kimi Hosted Agents – 月之暗面推出的企业托管智能体服务",
+    "source": "ai-bot.cn",
+    "source_url": "https://ai-bot.cn/kimi-hosted-agents/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-05-bloomberg-technology-china-blocks-softbanks-54-billion-abb-r",
+    "date": "2026-11-05",
+    "title": "China Blocks SoftBank’s $5.4 Billion ABB Robot Unit Takeover",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "China has blocked the sale of ABB Ltd.’s robotics unit to SoftBank Group Corp., dealing a blow to the Japanese investment firm’s plans to expand into physical AI.",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit",
+    "tags": [],
+    "impact": "Thu, 05 Nov 2026 03:15:01 GMT"
+  },
+  {
+    "id": "2026-11-05-the-robot-report-agility-robotics-begins-trading-on-nasdaq",
+    "date": "2026-11-05",
+    "title": "Agility Robotics begins trading on Nasdaq",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Agility Robotics becomes the first U.S.-based legged humanoid company to be publicly listed. The post Agility Robotics begins trading on Nasdaq appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
+    "tags": [],
+    "impact": "Thu, 05 Nov 2026 14:46:29 +0000"
+  },
+  {
+    "id": "2026-11-05-aibasecom-aiios-273-beta",
+    "date": "2026-11-05",
+    "title": "AI日报：iOS 27.3 beta正式接入千问；豆包工作首次接入第三方模型；雷军晒小米机器人做家务视频",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "AI日报：iOS 27.3 beta正式接入千问；豆包工作首次接入第三方模型；雷军晒小米机器人做家务视频",
+    "source": "aibase.com",
+    "source_url": "https://www.aibase.com/zh/daily/32121",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-04-wallstreetcncom-",
+    "date": "2026-11-04",
+    "title": "菜鸟开放仓网：机器人从试点走向上岗",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "菜鸟开放仓网：机器人从试点走向上岗",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3785292",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-04-wallstreetcncom-",
+    "date": "2026-11-04",
+    "title": "月之暗面发布托管智能体服务，沙箱运行与插件调用单独计费",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "月之暗面发布托管智能体服务，沙箱运行与插件调用单独计费",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3785283",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-04-the-robot-report-robotics-startup-radar-2026",
+    "date": "2026-11-04",
+    "title": "Robotics Startup Radar 2026",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics. The post Robotics Startup Radar 2026 appeared first on The Robot Report .",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/robotics-startup-radar-2026/",
     "tags": [],
     "impact": "Wed, 04 Nov 2026 16:08:46 +0000"
   },
   {
-    "id": "2026-11-04-the-robot-report-liberai--liber-0",
+    "id": "2026-11-04-the-robot-report-liberai-unveils-liber-0-a-world-action-mode",
     "date": "2026-11-04",
-    "title": "LiberAI 推出 Liber-0，一种基于人类机器人动作经验的世界动作模型",
+    "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "LiberAI introduces Liber-0, a world action model pretrained on more than 2.2 million hours of human experience to support zero-shot robot manipulation. The post LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action appeared first on The Robot Report .（原题：LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action）",
+    "summary": "LiberAI introduces Liber-0, a world action model pretrained on more than 2.2 million hours of human experience to support zero-shot robot manipulation. The post LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action appeared first on The Robot Report .",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
     "tags": [],
     "impact": "Wed, 04 Nov 2026 15:02:57 +0000"
   },
   {
-    "id": "2026-11-04-the-robot-report-globallogic--haystack-robotics-",
+    "id": "2026-11-04-the-robot-report-how-globallogic-helped-haystack-robotics-bu",
     "date": "2026-11-04",
-    "title": "GlobalLogic 如何帮助 Haystack Robotics 打造紫外线消毒机器人",
+    "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment. The post How GlobalLogic helped Haystack Robotics build a UV disinfection robot appeared first on The Robot Report .（原题：How GlobalLogic helped Haystack Robotics build a UV disinfection robot）",
+    "summary": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment. The post How GlobalLogic helped Haystack Robotics build a UV disinfection robot appeared first on The Robot Report .",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
     "tags": [],
     "impact": "Wed, 04 Nov 2026 15:22:55 +0000"
   },
   {
-    "id": "2026-11-03-qbitaicom-ai",
+    "id": "2026-11-03-the-robot-report-churchill-capital-xi-shareholders-approve-2",
     "date": "2026-11-03",
-    "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-    "source": "qbitai.com",
-    "source_url": "https://www.qbitai.com/2026/11/507507.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-03-the-robot-report-churchill-capital-xi--25b--agility-robotics",
-    "date": "2026-11-03",
-    "title": "Churchill Capital XI 股东批准 2.5B 美元 Agility Robotics 人形 SPAC",
+    "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers. The post Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC appeared first on The Robot Report .（原题：Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC）",
+    "summary": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers. The post Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC appeared first on The Robot Report .",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
     "tags": [],
