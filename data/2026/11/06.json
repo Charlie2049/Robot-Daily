@@ -1,19 +1,5 @@
 [
   {
-    "id": "2026-11-05-bloomberg-technology-agility-robotics-",
-    "date": "2026-11-05",
-    "title": "随着类人机器人规模的扩大，Agility Robotics 首次公开亮相",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Agility Robotics is making its public market debut, becoming the first dedicated US humanoid robotics company to go public. CEO Peggy Johnson discusses growing deployments of its Digit robot, $300 million in pending orders and why the company chose to go public now despite market volatility. She joins Tim Stenovec on “Bloomberg Tech.” (Source: Bloomberg)（原题：Agility Robotics Makes Public Debut as Humanoids Scale）",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/videos/2026-11-05/agility-robotics-makes-public-debut-as-humanoids-scale-video",
-    "tags": [],
-    "impact": "Thu, 05 Nov 2026 18:51:16 GMT"
-  },
-  {
     "id": "2026-11-05-the-robot-report--54--abb-robotics",
     "date": "2026-11-05",
     "title": "中国监管机构阻止软银以 5.4 亿美元收购 ABB Robotics",
@@ -40,5 +26,19 @@
     "source_url": "https://www.therobotreport.com/how-ambi-robotics-helps-customers-prepare-peak-season/",
     "tags": [],
     "impact": "Thu, 05 Nov 2026 16:50:23 +0000"
+  },
+  {
+    "id": "2026-11-05-the-robot-report-agility-robotics",
+    "date": "2026-11-05",
+    "title": "Agility Robotics上市首日表现如何？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Humanoid developer Agility Robotics ended its first day of trading on the Nasdaq just 2% above where it started, at $11.49. The post How did Agility Robotics perform on its first day on the stock market? appeared first on The Robot Report .（原题：How did Agility Robotics perform on its first day on the stock market?）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
+    "tags": [],
+    "impact": "Thu, 05 Nov 2026 22:48:14 +0000"
   }
 ]
