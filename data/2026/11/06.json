@@ -1,44 +1,159 @@
 [
   {
-    "id": "2026-11-05-the-robot-report--54--abb-robotics",
-    "date": "2026-11-05",
-    "title": "中国监管机构阻止软银以 5.4 亿美元收购 ABB Robotics",
+    "id": "2026-11-06-guokrcom----naviai-",
+    "date": "2026-11-06",
+    "title": "进博会 “打工记” 上新！浙江人形 NAVIAI 亮出工业具身智能精细活",
     "category": [
-      "robotics"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "Chinese authorities blocked the deal over concerns about robot data being transferred overseas and used to train AI models. The post Chinese regulators block SoftBank’s $5.4B acquisition of ABB Robotics appeared first on The Robot Report .（原题：Chinese regulators block SoftBank’s $5.4B acquisition of ABB Robotics）",
-    "source": "The Robot Report",
-    "source_url": "https://www.therobotreport.com/chinese-regulators-block-softbanks-5-4b-acquisition-of-abb-robotics/",
+    "summary": "进博会 “打工记” 上新！浙江人形 NAVIAI 亮出工业具身智能精细活",
+    "source": "guokr.com",
+    "source_url": "https://www.guokr.com/article/470643/",
     "tags": [],
-    "impact": "Thu, 05 Nov 2026 16:25:46 +0000"
+    "impact": ""
   },
   {
-    "id": "2026-11-05-the-robot-report-ambi-robotics-",
-    "date": "2026-11-05",
-    "title": "Ambi Robotics 如何帮助客户为旺季做好准备",
+    "id": "2026-11-06-caifuhaoeastmoneycom-tt-68",
+    "date": "2026-11-06",
+    "title": "谁才是T链人形机器人最大的预期差？这家公司已实锤配套T链零部件 68",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "谁才是T链人形机器人最大的预期差？这家公司已实锤配套T链零部件 68",
+    "source": "caifuhao.eastmoney.com",
+    "source_url": "http://caifuhao.eastmoney.com/news/20261105142834902827900",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-06-wallstreetcncom-cybertruckai",
+    "date": "2026-11-06",
+    "title": "特斯拉宣布终止Cybertruck生产，马斯克将资源转向机器人与AI赛道",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Ambi Robotics' co-founder and COO Stephen McKinley says the company is installing eight new systems at customer sites before peak season. The post How Ambi Robotics helps its customers prepare for peak season appeared first on The Robot Report .（原题：How Ambi Robotics helps its customers prepare for peak season）",
+    "summary": "特斯拉宣布终止Cybertruck生产，马斯克将资源转向机器人与AI赛道",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3785379",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-06-wallstreetcncom-3",
+    "date": "2026-11-06",
+    "title": "机器人拟实施“一机一码”，标识码申请量一般不超上年产量3倍",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人拟实施“一机一码”，标识码申请量一般不超上年产量3倍",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/articles/3785378",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-06-m21jingjicom--",
+    "date": "2026-11-06",
+    "title": "事关智能体终端！工信部发布新规，约束智能体强制调用等行为 宏观",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "事关智能体终端！工信部发布新规，约束智能体强制调用等行为 宏观",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261106/herald/38891efbf30252e5c5114f4fa8f37b38.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-06-bloomberg-technology-pentagon-taps-robotics-startup-in-push-",
+    "date": "2026-11-06",
+    "title": "Pentagon Taps Robotics Startup in Push for Cheap Attack Drones",
+    "category": [
+      "defense",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The Pentagon has tasked US robotics startup Machina Labs with trying to mass-produce cheap attack drones in quickly assembled modular factories as autonomous systems continue to change modern warfare.",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones",
+    "tags": [],
+    "impact": "Fri, 06 Nov 2026 13:00:00 GMT"
+  },
+  {
+    "id": "2026-11-06-technologyreviewcom-i-watched-a-humanoid-robot-clean-my-apar",
+    "date": "2026-11-06",
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "source": "technologyreview.com",
+    "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-05-qbitaicom-ai",
+    "date": "2026-11-05",
+    "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/11/507834.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-05-the-robot-report-how-did-agility-robotics-perform-on-its-fir",
+    "date": "2026-11-05",
+    "title": "How did Agility Robotics perform on its first day on the stock market?",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Humanoid developer Agility Robotics ended its first day of trading on the Nasdaq just 2% above where it started, at $11.49. The post How did Agility Robotics perform on its first day on the stock market? appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
+    "tags": [],
+    "impact": "Thu, 05 Nov 2026 22:48:14 +0000"
+  },
+  {
+    "id": "2026-11-05-the-robot-report-how-ambi-robotics-helps-its-customers-prepa",
+    "date": "2026-11-05",
+    "title": "How Ambi Robotics helps its customers prepare for peak season",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Ambi Robotics' co-founder and COO Stephen McKinley says the company is installing eight new systems at customer sites before peak season. The post How Ambi Robotics helps its customers prepare for peak season appeared first on The Robot Report .",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/how-ambi-robotics-helps-customers-prepare-peak-season/",
     "tags": [],
     "impact": "Thu, 05 Nov 2026 16:50:23 +0000"
   },
   {
-    "id": "2026-11-05-the-robot-report-agility-robotics",
+    "id": "2026-11-05-the-robot-report-chinese-regulators-block-softbanks-54b-acqu",
     "date": "2026-11-05",
-    "title": "Agility Robotics上市首日表现如何？",
+    "title": "Chinese regulators block SoftBank’s $5.4B acquisition of ABB Robotics",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Humanoid developer Agility Robotics ended its first day of trading on the Nasdaq just 2% above where it started, at $11.49. The post How did Agility Robotics perform on its first day on the stock market? appeared first on The Robot Report .（原题：How did Agility Robotics perform on its first day on the stock market?）",
+    "summary": "Chinese authorities blocked the deal over concerns about robot data being transferred overseas and used to train AI models. The post Chinese regulators block SoftBank’s $5.4B acquisition of ABB Robotics appeared first on The Robot Report .",
     "source": "The Robot Report",
-    "source_url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
+    "source_url": "https://www.therobotreport.com/chinese-regulators-block-softbanks-5-4b-acquisition-of-abb-robotics/",
     "tags": [],
-    "impact": "Thu, 05 Nov 2026 22:48:14 +0000"
+    "impact": "Thu, 05 Nov 2026 16:25:46 +0000"
   }
 ]
