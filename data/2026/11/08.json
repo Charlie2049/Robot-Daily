@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-11-08-36krcom-ipo",
+    "date": "2026-11-08",
+    "title": "机器人大泡沫正在破裂：IPO关了，借壳堵死",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人大泡沫正在破裂：IPO关了，借壳堵死",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4060357426860936",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-11-08-36krcom-",
     "date": "2026-11-08",
     "title": "成都具身智能公司获千万级天使轮融资，基于开源鸿蒙开发机器人大脑｜硬氪首发",
@@ -16,14 +30,28 @@
     "impact": ""
   },
   {
-    "id": "2026-11-07-the-robot-report-robot-integration-brings-high-precision-pro",
-    "date": "2026-11-07",
-    "title": "Robot integration brings high-precision production to midmarket manufacturers",
+    "id": "2026-11-08-cnbc-technology--astro-",
+    "date": "2026-11-08",
+    "title": "亚马逊的 Astro 家用机器人拥有粉丝，但看起来注定会被扔进“垃圾堆”。为什么又要尝试",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist. The post Robot integration brings high-precision production to midmarket manufacturers appeared first on The Robot Report .",
+    "summary": "Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.（原题：Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again）",
+    "source": "CNBC Technology",
+    "source_url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+    "tags": [],
+    "impact": "Sun, 08 Nov 2026 13:00:01 GMT"
+  },
+  {
+    "id": "2026-11-07-the-robot-report-",
+    "date": "2026-11-07",
+    "title": "机器人集成为中端市场制造商带来高精度生产",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist. The post Robot integration brings high-precision production to midmarket manufacturers appeared first on The Robot Report .（原题：Robot integration brings high-precision production to midmarket manufacturers）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/",
     "tags": [],
@@ -40,20 +68,6 @@
     "summary": "进博会 “打工记” 上新！浙江人形 NAVIAI 亮出工业具身智能精细活",
     "source": "guokr.com",
     "source_url": "https://www.guokr.com/article/470643/",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-06-wallstreetcncom-91g1-",
-    "date": "2026-11-06",
-    "title": "平均成功率91%！苹果研究团队披露机器人“大脑”进展：调用千问模型在宇树G1上验证 澎湃新闻",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "平均成功率91%！苹果研究团队披露机器人“大脑”进展：调用千问模型在宇树G1上验证 澎湃新闻",
-    "source": "wallstreetcn.com",
-    "source_url": "https://wallstreetcn.com/articles/3785445",
     "tags": [],
     "impact": ""
   },
