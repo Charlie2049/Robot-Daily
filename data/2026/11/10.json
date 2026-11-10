@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-11-10-fengcom--siri--341",
-    "date": "2026-11-10",
-    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 341",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 341",
-    "source": "feng.com",
-    "source_url": "https://www.feng.com/post/13960870",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-09-ifanrcom--g1--mac-mini-",
-    "date": "2026-11-09",
-    "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini 软件",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini 软件",
-    "source": "ifanr.com",
-    "source_url": "https://www.ifanr.com/1688485",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-09-caifuhaoeastmoneycom-10-217",
-    "date": "2026-11-09",
-    "title": "天翼电信终端与优必选达成合作，共推10万台仿生人形机器人销售 217",
-    "category": [
-      "humanoid",
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "天翼电信终端与优必选达成合作，共推10万台仿生人形机器人销售 217",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20261110015612317657750",
-    "tags": [],
-    "impact": ""
-  },
-  {
     "id": "2026-11-09-bloomberg-technology-uber-engineering-leader-for-robotaxis-d",
     "date": "2026-11-09",
     "title": "Uber Engineering Leader for Robotaxis, Delivery Network to Exit",
@@ -56,34 +12,6 @@
     "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/uber-engineering-leader-for-robotaxis-delivery-network-to-exit",
     "tags": [],
     "impact": "Mon, 09 Nov 2026 21:40:41 GMT"
-  },
-  {
-    "id": "2026-11-09-ai-botcn-sandbase--ai-agent-",
-    "date": "2026-11-09",
-    "title": "SandBase – AI Agent 基础设施平台，一站式智能体运行底座",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "SandBase – AI Agent 基础设施平台，一站式智能体运行底座",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/sandbase/",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-09-ai-botcn-onebox---ai-",
-    "date": "2026-11-09",
-    "title": "OneBox – 曙光云推出的政企 AI 智能体协作平台",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "OneBox – 曙光云推出的政企 AI 智能体协作平台",
-    "source": "ai-bot.cn",
-    "source_url": "https://ai-bot.cn/onebox/",
-    "tags": [],
-    "impact": ""
   },
   {
     "id": "2026-11-09-the-robot-report-how-to-minimize-wi-fi-roaming-interruptions",
@@ -127,19 +55,5 @@
     "source_url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
     "tags": [],
     "impact": "Mon, 09 Nov 2026 14:24:34 GMT"
-  },
-  {
-    "id": "2026-11-09-aibasecom-aichatgptdeepseek-harness154",
-    "date": "2026-11-09",
-    "title": "AI日报：ChatGPT用户遭大规模集中停用；腾讯元器平台今日正式停止服务；DeepSeek 开源智能体应用Harness日活突破154万",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "AI日报：ChatGPT用户遭大规模集中停用；腾讯元器平台今日正式停止服务；DeepSeek 开源智能体应用Harness日活突破154万",
-    "source": "aibase.com",
-    "source_url": "https://www.aibase.com/zh/daily/32183",
-    "tags": [],
-    "impact": ""
   }
 ]
