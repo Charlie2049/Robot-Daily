@@ -1,31 +1,99 @@
 [
   {
-    "id": "2026-11-10-sspaicom--seedream-55-",
-    "date": "2026-11-10",
-    "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等 少数派编辑部",
+    "id": "2026-11-11-fengcom--siri--1348",
+    "date": "2026-11-11",
+    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 1348",
     "category": [
-      "humanoid",
-      "robotics"
+      "general"
     ],
     "region": "Global",
-    "summary": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等 少数派编辑部",
-    "source": "sspai.com",
-    "source_url": "https://sspai.com/post/118854",
+    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 1348",
+    "source": "feng.com",
+    "source_url": "https://www.feng.com/post/13960870",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-10-caifuhaoeastmoneycom-10-183",
-    "date": "2026-11-10",
-    "title": "手握10万套谐波减速器产能！人形机器人这一环节，将迎来破晓时刻 183",
+    "id": "2026-11-11-fengcom---homeview--3917",
+    "date": "2026-11-11",
+    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 3917",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "手握10万套谐波减速器产能！人形机器人这一环节，将迎来破晓时刻 183",
-    "source": "caifuhao.eastmoney.com",
-    "source_url": "http://caifuhao.eastmoney.com/news/20261109144524284222860",
+    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 3917",
+    "source": "feng.com",
+    "source_url": "https://www.feng.com/post/13960119",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-11-huxiucom--295",
+    "date": "2026-11-11",
+    "title": "机器人公司正在批量离场 29.5万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "机器人公司正在批量离场 29.5万",
+    "source": "huxiu.com",
+    "source_url": "https://www.huxiu.com/article/4895085.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-11-the-verge-serve-robotics-wants-to-democratize-sidewalk-deliv",
+    "date": "2026-11-11",
+    "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, […]",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+    "tags": [],
+    "impact": "2026-11-11T07:30:00-05:00"
+  },
+  {
+    "id": "2026-11-11-the-robot-report-serve-robotics-opens-robot-delivery-network",
+    "date": "2026-11-11",
+    "title": "Serve Robotics opens robot delivery network for others to build on",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Serve Robotics says its on-demand delivery API allows third parties to develop new delivery services on its fleet of more than 2,000 robots. The post Serve Robotics opens robot delivery network for others to build on appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
+    "tags": [],
+    "impact": "Wed, 11 Nov 2026 13:43:29 +0000"
+  },
+  {
+    "id": "2026-11-11-the-robot-report-can-ai-agents-program-industrial-robots-wit",
+    "date": "2026-11-11",
+    "title": "Can AI agents program industrial robots without training data? Berkeley says yes",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs. The post Can AI agents program industrial robots without training data? Berkeley says yes appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/",
+    "tags": [],
+    "impact": "Wed, 11 Nov 2026 12:55:16 +0000"
+  },
+  {
+    "id": "2026-11-10-qbitaicom-fable-52jim-fan",
+    "date": "2026-11-10",
+    "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/11/509032.html",
     "tags": [],
     "impact": ""
   },
