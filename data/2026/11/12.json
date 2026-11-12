@@ -1,28 +1,43 @@
 [
   {
-    "id": "2026-11-12-36krcom-95023",
+    "id": "2026-11-12-36krcom-agentic-roboticsrua",
     "date": "2026-11-12",
-    "title": "上纬新材押注机器人：股价创历史新高，市值突破950亿，第三季度研发暴增23倍",
+    "title": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "上纬新材押注机器人：股价创历史新高，市值突破950亿，第三季度研发暴增23倍",
+    "summary": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4065152832918407",
+    "source_url": "https://www.36kr.com/p/4065250996048773",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-10-cnbc-technology--ring-",
+    "id": "2026-11-11-bloomberg-technology-chinese-robotics-platform-amicro-surges",
+    "date": "2026-11-11",
+    "title": "Chinese Robotics Platform Amicro Surges 83% in Hong Kong Debut",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Chinese robotics platform Amicro Technology Co.’s shares surged in their Hong Kong debut after the company raised HK$709.7 million ($90 million) in an initial public offering, in a test of investor appetite for the technology stocks ahead of Anthropic PBC’s blockbuster US listing.",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
+    "tags": [],
+    "impact": "Wed, 11 Nov 2026 23:00:00 GMT"
+  },
+  {
+    "id": "2026-11-10-cnbc-technology-amazons-ring-unveils-flying-drone-and-robot-",
     "date": "2026-11-10",
-    "title": "亚马逊的 Ring 推出飞行无人机和机器人来巡逻家庭和企业",
+    "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
     "category": [
       "defense",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Amazon's $250 Ring Drone Cam flies from room to room to investigate suspicious activity, and can capture footage at night.（原题：Amazon's Ring unveils flying drone and robot to patrol homes and businesses）",
+    "summary": "Amazon's $250 Ring Drone Cam flies from room to room to investigate suspicious activity, and can capture footage at night.",
     "source": "CNBC Technology",
     "source_url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
     "tags": [],
