@@ -1,46 +1,58 @@
 [
   {
-    "id": "2026-11-12-36krcom-agentic-roboticsrua",
+    "id": "2026-11-12-m21jingjicom-350",
     "date": "2026-11-12",
-    "title": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
+    "title": "机器人方案年出货超350万套，一微科技以芯片级平台身份登陆港股",
     "category": [
-      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4065250996048773",
+    "summary": "机器人方案年出货超350万套，一微科技以芯片级平台身份登陆港股",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261112/herald/314bf918abdc060f6c24d35601c9d4b7.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-11-bloomberg-technology-chinese-robotics-platform-amicro-surges",
-    "date": "2026-11-11",
-    "title": "Chinese Robotics Platform Amicro Surges 83% in Hong Kong Debut",
+    "id": "2026-11-12-m21jingjicom-",
+    "date": "2026-11-12",
+    "title": "机器人投资不再只盯“本体”公司",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Chinese robotics platform Amicro Technology Co.’s shares surged in their Hong Kong debut after the company raised HK$709.7 million ($90 million) in an initial public offering, in a test of investor appetite for the technology stocks ahead of Anthropic PBC’s blockbuster US listing.",
-    "source": "Bloomberg Technology",
-    "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
+    "summary": "机器人投资不再只盯“本体”公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261112/herald/625d68f132d9cccea3f993a50869508c.html",
     "tags": [],
-    "impact": "Wed, 11 Nov 2026 23:00:00 GMT"
+    "impact": ""
   },
   {
-    "id": "2026-11-10-cnbc-technology-amazons-ring-unveils-flying-drone-and-robot-",
-    "date": "2026-11-10",
-    "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+    "id": "2026-11-12-the-robot-report-viam-launchpad-aims-to-accelerate-robotics-",
+    "date": "2026-11-12",
+    "title": "Viam Launchpad aims to accelerate robotics deployments",
     "category": [
-      "defense",
       "robotics"
     ],
     "region": "Global",
-    "summary": "Amazon's $250 Ring Drone Cam flies from room to room to investigate suspicious activity, and can capture footage at night.",
-    "source": "CNBC Technology",
-    "source_url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+    "summary": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment. The post Viam Launchpad aims to accelerate robotics deployments appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
     "tags": [],
-    "impact": "Tue, 10 Nov 2026 19:43:59 GMT"
+    "impact": "Thu, 12 Nov 2026 13:30:31 +0000"
+  },
+  {
+    "id": "2026-11-12-the-robot-report-runways-praxis-1-world-action-model-for-rob",
+    "date": "2026-11-12",
+    "title": "Runway’s Praxis-1 world action model for robotics is now available",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra. Developers can now use it with open weights. The post Runway’s Praxis-1 world action model for robotics is now available appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+    "tags": [],
+    "impact": "Thu, 12 Nov 2026 13:18:47 +0000"
   }
 ]
