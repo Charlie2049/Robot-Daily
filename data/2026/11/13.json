@@ -1,43 +1,44 @@
 [
   {
-    "id": "2026-11-13-fengcom--siri--1971",
+    "id": "2026-11-13-fengcom--siri--2187",
     "date": "2026-11-13",
-    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 1971",
+    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 2187",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 1971",
+    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 2187",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13960870",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-13-fengcom---homeview--4407",
+    "id": "2026-11-13-36krcom-10",
     "date": "2026-11-13",
-    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 4407",
+    "title": "苹果憋了近10年的人形机器人，最后用上了宇树",
     "category": [
+      "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 4407",
-    "source": "feng.com",
-    "source_url": "https://www.feng.com/post/13960119",
+    "summary": "苹果憋了近10年的人形机器人，最后用上了宇树",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4067917144201095",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-13-36krcom-50",
+    "id": "2026-11-13-fengcom---homeview--4585",
     "date": "2026-11-13",
-    "title": "毕业生看不上的50万年薪，头部具身智能公司很多员工都没拿到",
+    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 4585",
     "category": [
-      "humanoid"
+      "robotics"
     ],
     "region": "Global",
-    "summary": "毕业生看不上的50万年薪，头部具身智能公司很多员工都没拿到",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4066763399190146",
+    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 4585",
+    "source": "feng.com",
+    "source_url": "https://www.feng.com/post/13960119",
     "tags": [],
     "impact": ""
   },
@@ -56,23 +57,50 @@
     "impact": ""
   },
   {
-    "id": "2026-11-13-m21jingjicom--10",
+    "id": "2026-11-13-m21jingjicom--",
     "date": "2026-11-13",
-    "title": "异动速递丨人形机器人概念震荡反弹 埃夫特涨超10%投资",
+    "title": "广东灵巧手突破“最后一厘米”，竞速具身智能落地闭环 粤港澳",
     "category": [
-      "humanoid",
-      "robotics"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "异动速递丨人形机器人概念震荡反弹 埃夫特涨超10%投资",
+    "summary": "广东灵巧手突破“最后一厘米”，竞速具身智能落地闭环 粤港澳",
     "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20261113/herald/6269bae4f77af1d3413202b589cd5b0d.html",
+    "source_url": "https://m.21jingji.com/article/20261113/herald/efc0552b5baf97575593b24d5a1582db.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-13-geekparknet-beni",
+    "id": "2026-11-13-qbitaicom-0100",
     "date": "2026-11-13",
+    "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/11/509614.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-13-the-robot-report-how-rhoda-ai-is-using-video-data-to-create-",
+    "date": "2026-11-13",
+    "title": "How Rhoda AI is using video data to create generalized AI models for robots",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
+    "tags": [],
+    "impact": "Fri, 13 Nov 2026 13:30:44 +0000"
+  },
+  {
+    "id": "2026-11-12-geekparknet-beni",
+    "date": "2026-11-12",
     "title": "体验「跟拍机器人」Beni：谁不想要一个不会喊累还会拍照的出行搭子",
     "category": [
       "robotics"
@@ -81,34 +109,6 @@
     "summary": "体验「跟拍机器人」Beni：谁不想要一个不会喊累还会拍照的出行搭子",
     "source": "geekpark.net",
     "source_url": "http://www.geekpark.net/news/373860",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-13-m21jingjicom-apec75000-",
-    "date": "2026-11-13",
-    "title": "APEC新闻中心里的黑科技：7台机器人给5000名记者打咖啡 粤港澳",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "APEC新闻中心里的黑科技：7台机器人给5000名记者打咖啡 粤港澳",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20261113/herald/1299fb6d7cd85c1a5f6a602267f457d4.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-13-36krcom-30",
-    "date": "2026-11-13",
-    "title": "30倍的数据缺口，谁来给具身智能续命？",
-    "category": [
-      "humanoid"
-    ],
-    "region": "Global",
-    "summary": "30倍的数据缺口，谁来给具身智能续命？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4067487054484612",
     "tags": [],
     "impact": ""
   },
