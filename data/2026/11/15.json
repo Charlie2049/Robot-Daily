@@ -1,0 +1,87 @@
+[
+  {
+    "id": "2026-11-15-fengcom--siri--2595",
+    "date": "2026-11-15",
+    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 2595",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 2595",
+    "source": "feng.com",
+    "source_url": "https://www.feng.com/post/13960870",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-15-36krcom-10",
+    "date": "2026-11-15",
+    "title": "苹果憋了近10年的人形机器人，最后用上了宇树",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "苹果憋了近10年的人形机器人，最后用上了宇树",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4067917144201095",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-15-fengcom---homeview--4920",
+    "date": "2026-11-15",
+    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 4920",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 4920",
+    "source": "feng.com",
+    "source_url": "https://www.feng.com/post/13960119",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-15-blogcsdnnet-ai-agent-32",
+    "date": "2026-11-15",
+    "title": "开车导航变自动驾驶？通俗讲透大语言模型与AI Agent的进阶之路 3.2万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "开车导航变自动驾驶？通俗讲透大语言模型与AI Agent的进阶之路 3.2万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/weixin_69017389/article/details/170500680",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-15-blogcsdnnet-pluraiai-24",
+    "date": "2026-11-15",
+    "title": "Plurai借自动驾驶思路，让AI智能体更靠谱 2.4万",
+    "category": [
+      "autonomous-driving"
+    ],
+    "region": "Global",
+    "summary": "Plurai借自动驾驶思路，让AI智能体更靠谱 2.4万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/Winzheng_Index/article/details/170600378",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-13-the-robot-report-how-rhoda-ai-is-using-video-data-to-create-",
+    "date": "2026-11-13",
+    "title": "How Rhoda AI is using video data to create generalized AI models for robots",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
+    "tags": [],
+    "impact": "Fri, 13 Nov 2026 13:30:44 +0000"
+  }
+]
