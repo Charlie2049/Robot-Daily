@@ -1,83 +1,111 @@
 [
   {
-    "id": "2026-11-13-wallstreetcncom-openai",
-    "date": "2026-11-13",
-    "title": "通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队",
+    "id": "2026-11-14-m21jingjicom-1353",
+    "date": "2026-11-14",
+    "title": "机器人牛股13秒涨停，走出5天3板，网友直呼“又卖飞了”投资",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队",
+    "summary": "机器人牛股13秒涨停，走出5天3板，网友直呼“又卖飞了”投资",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261114/herald/77bac2b78d2014bea57d4303d7b31c90.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-14-electrek-autopilot-tesla-cybercab--29990----299--robotaxi-",
+    "date": "2026-11-14",
+    "title": "Tesla Cyber​​cab 订单开放价格为 29,990 美元 + 每月 299 美元，仅限 Robotaxi 区域",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Tesla is now inviting “select customers” to buy a Cybercab for personal use at $29,990, but the car won’t move unless you also pay $299 a month for an “Autonomy Subscription.” And it only works inside Tesla’s Robotaxi service areas in Texas and Florida, the same geofences that have turned out to be significantly smaller than what Tesla advertises. more…（原题：Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones）",
+    "source": "Electrek Autopilot",
+    "source_url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
+    "tags": [],
+    "impact": "Sat, 14 Nov 2026 02:11:39 +0000"
+  },
+  {
+    "id": "2026-11-14----10122",
+    "date": "2026-11-14",
+    "title": "10岁男孩花12元2天手搓扫地机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "10岁男孩花12元2天手搓扫地机器人",
+    "source": "微博 ‧ 热搜榜",
+    "source_url": "https://s.weibo.com/weibo?q=10%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B112%E5%85%832%E5%A4%A9%E6%89%8B%E6%90%93%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA",
+    "tags": [],
+    "impact": "15万"
+  },
+  {
+    "id": "2026-11-13-wallstreetcncom-openaigpt-6-astraai-",
+    "date": "2026-11-13",
+    "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型 李丹、鲍奕龙",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型 李丹、鲍奕龙",
     "source": "wallstreetcn.com",
     "source_url": "https://wallstreetcn.com/articles/3785914",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-13-the-robot-report-six-agibot-g2-robots-complete-1730-tasks-in",
+    "id": "2026-11-13-the-robot-report-narwal-",
     "date": "2026-11-13",
-    "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
+    "title": "Narwal 制造机器人吸尘器以满足区域需求",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Four of the six robots pass a performance assessment as the trial puts customer service, retail operations and embodied AI capabilities to the test in a working store. The post Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial appeared first on The Robot Report .",
-    "source": "The Robot Report",
-    "source_url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
-    "tags": [],
-    "impact": "Fri, 13 Nov 2026 16:32:58 +0000"
-  },
-  {
-    "id": "2026-11-13-wallstreetcncom-openaichatgptai",
-    "date": "2026-11-13",
-    "title": "OpenAI推出ChatGPT钱包，AI智能体可代表用户购物付款",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "OpenAI推出ChatGPT钱包，AI智能体可代表用户购物付款",
-    "source": "wallstreetcn.com",
-    "source_url": "https://wallstreetcn.com/articles/3785909",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-13-the-robot-report-narwal-builds-robot-vacuums-to-serve-region",
-    "date": "2026-11-13",
-    "title": "Narwal builds robot vacuums to serve regional needs",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets. The post Narwal builds robot vacuums to serve regional needs appeared first on The Robot Report .",
+    "summary": "Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets. The post Narwal builds robot vacuums to serve regional needs appeared first on The Robot Report .（原题：Narwal builds robot vacuums to serve regional needs）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/",
     "tags": [],
     "impact": "Fri, 13 Nov 2026 13:18:05 +0000"
   },
   {
-    "id": "2026-11-12-the-robot-report-viam-launchpad-aims-to-accelerate-robotics-",
-    "date": "2026-11-12",
-    "title": "Viam Launchpad aims to accelerate robotics deployments",
+    "id": "2026-11-13-the-robot-report-6agibot-g2241730",
+    "date": "2026-11-13",
+    "title": "6台AGIBOT G2机器人完成24小时上海便利店试验1730项任务",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment. The post Viam Launchpad aims to accelerate robotics deployments appeared first on The Robot Report .",
+    "summary": "Four of the six robots pass a performance assessment as the trial puts customer service, retail operations and embodied AI capabilities to the test in a working store. The post Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial appeared first on The Robot Report .（原题：Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
+    "tags": [],
+    "impact": "Fri, 13 Nov 2026 16:32:58 +0000"
+  },
+  {
+    "id": "2026-11-12-the-robot-report-viam-launchpad-",
+    "date": "2026-11-12",
+    "title": "Viam Launchpad 旨在加速机器人技术部署",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment. The post Viam Launchpad aims to accelerate robotics deployments appeared first on The Robot Report .（原题：Viam Launchpad aims to accelerate robotics deployments）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
     "tags": [],
     "impact": "Thu, 12 Nov 2026 13:30:31 +0000"
   },
   {
-    "id": "2026-11-12-the-robot-report-runways-praxis-1-world-action-model-for-rob",
+    "id": "2026-11-12-the-robot-report-runway--praxis-1-",
     "date": "2026-11-12",
-    "title": "Runway’s Praxis-1 world action model for robotics is now available",
+    "title": "Runway 的 Praxis-1 机器人世界动作模型现已推出",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra. Developers can now use it with open weights. The post Runway’s Praxis-1 world action model for robotics is now available appeared first on The Robot Report .",
+    "summary": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra. Developers can now use it with open weights. The post Runway’s Praxis-1 world action model for robotics is now available appeared first on The Robot Report .（原题：Runway’s Praxis-1 world action model for robotics is now available）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
     "tags": [],
