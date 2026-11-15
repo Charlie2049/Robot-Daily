@@ -1,13 +1,13 @@
 [
   {
-    "id": "2026-11-15-fengcom--siri--2684",
+    "id": "2026-11-15-fengcom--siri--2883",
     "date": "2026-11-15",
-    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 2684",
+    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 2883",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 2684",
+    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 2883",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13960870",
     "tags": [],
@@ -29,56 +29,100 @@
     "impact": ""
   },
   {
-    "id": "2026-11-15-fengcom---homeview--4974",
+    "id": "2026-11-15-fengcom---homeview--5110",
     "date": "2026-11-15",
-    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 4974",
+    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 5110",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 4974",
+    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 5110",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13960119",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-15-blogcsdnnet-ai-agent-31",
+    "id": "2026-11-15-the-verge--aibo-",
     "date": "2026-11-15",
-    "title": "开车导航变自动驾驶？通俗讲透大语言模型与AI Agent的进阶之路 3.1万",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "开车导航变自动驾驶？通俗讲透大语言模型与AI Agent的进阶之路 3.1万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/weixin_69017389/article/details/170500680",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-15-blogcsdnnet-pluraiai-23",
-    "date": "2026-11-15",
-    "title": "Plurai借自动驾驶思路，让AI智能体更靠谱 2.3万",
-    "category": [
-      "autonomous-driving"
-    ],
-    "region": "Global",
-    "summary": "Plurai借自动驾驶思路，让AI智能体更靠谱 2.3万",
-    "source": "blog.csdn.net",
-    "source_url": "https://blog.csdn.net/Winzheng_Index/article/details/170600378",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-13-the-robot-report-how-rhoda-ai-is-using-video-data-to-create-",
-    "date": "2026-11-13",
-    "title": "How Rhoda AI is using video data to create generalized AI models for robots",
+    "title": "索尼 Aibo 是一场机器人革命，打扮得像狗",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .",
+    "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And \"pet\" was exactly what Sony was […]（原题：The Sony Aibo was a robot revolution dressed like a dog）",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+    "tags": [],
+    "impact": "2026-11-15T08:57:30-05:00"
+  },
+  {
+    "id": "2026-11-15-gelonghuicom-5openai",
+    "date": "2026-11-15",
+    "title": "刚招满5个月，OpenAI把机器人团队“吞”回大模型",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "刚招满5个月，OpenAI把机器人团队“吞”回大模型",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/7431078",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-15-36krcom-openaigpt-6-astra",
+    "date": "2026-11-15",
+    "title": "OpenAI机器人团队突然解散，GPT-6 Astra把行业一锅端了",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "OpenAI机器人团队突然解散，GPT-6 Astra把行业一锅端了",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4069381314303105",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-15-36krcom-36100",
+    "date": "2026-11-15",
+    "title": "36氪首发丨具身智能建筑机器人企业完成超亿级融资，连续三年订单复合增长率超100%",
+    "category": [
+      "humanoid",
+      "robotics",
+      "funding"
+    ],
+    "region": "Global",
+    "summary": "36氪首发丨具身智能建筑机器人企业完成超亿级融资，连续三年订单复合增长率超100%",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4070571639067782",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-13-wallstreetcncom-gemini-robotics",
+    "date": "2026-11-13",
+    "title": "谷歌Gemini Robotics：机器人模型路线大混战？三大技术方向谁能胜出？",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "谷歌Gemini Robotics：机器人模型路线大混战？三大技术方向谁能胜出？",
+    "source": "wallstreetcn.com",
+    "source_url": "https://wallstreetcn.com/member/articles/3785706",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-13-the-robot-report-rhoda-ai--ai-",
+    "date": "2026-11-13",
+    "title": "Rhoda AI 如何使用视频数据为机器人创建通用 AI 模型",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .（原题：How Rhoda AI is using video data to create generalized AI models for robots）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
     "tags": [],
