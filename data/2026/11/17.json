@@ -1,15 +1,29 @@
 [
   {
-    "id": "2026-11-17-fengcom--siri--3262",
+    "id": "2026-11-17-fengcom--siri--3377",
     "date": "2026-11-17",
-    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 3262",
+    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 3377",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 3262",
+    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 3377",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13960870",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-17-fengcom---homeview--5451",
+    "date": "2026-11-17",
+    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 5451",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 5451",
+    "source": "feng.com",
+    "source_url": "https://www.feng.com/post/13960119",
     "tags": [],
     "impact": ""
   },
@@ -28,14 +42,28 @@
     "impact": ""
   },
   {
-    "id": "2026-11-16-mithomecom-105",
+    "id": "2026-11-16-financesinacomcn--1608",
     "date": "2026-11-16",
-    "title": "英伟达机器人学习工程师戴士钦宣布辞职：“黄仁勋离职让我格外失望”105评",
+    "title": "英伟达机器人学习工程师辞职：老黄走了我也走 1,608",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "英伟达机器人学习工程师戴士钦宣布辞职：“黄仁勋离职让我格外失望”105评",
+    "summary": "英伟达机器人学习工程师辞职：老黄走了我也走 1,608",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxiqy5628897.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-16-mithomecom-108",
+    "date": "2026-11-16",
+    "title": "英伟达机器人学习工程师戴士钦宣布辞职：“黄仁勋离职让我格外失望”108评",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "英伟达机器人学习工程师戴士钦宣布辞职：“黄仁勋离职让我格外失望”108评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/1027541.htm",
     "tags": [],
@@ -56,18 +84,18 @@
     "impact": "Mon, 16 Nov 2026 14:00:02 +0000"
   },
   {
-    "id": "2026-11-16-the-verge-amazons-zoox-robotaxis-are-now-available-via-uber",
+    "id": "2026-11-16-the-robot-report-agile-robots-raises-500m-to-increase-produc",
     "date": "2026-11-16",
-    "title": "Amazon’s Zoox robotaxis are now available via Uber",
+    "title": "Agile Robots raises $500M to increase production capacity",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Uber may be breaking up with Waymo, but it's also gaining a new robotaxi BFF: Amazon. Starting today, Uber riders in Las Vegas can be matched with Amazon-owned Zoox's purpose-built, bidirectional robotaxis. It's a first for both companies: the first time Uber is adding a purpose-built, steering-wheel-free autonomous vehicle to its network, and the first […]",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+    "summary": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands. The post Agile Robots raises $500M to increase production capacity appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
     "tags": [],
-    "impact": "2026-11-16T07:00:00-05:00"
+    "impact": "Mon, 16 Nov 2026 17:47:48 +0000"
   },
   {
     "id": "2026-11-16-ieee-spectrum-robotics-28-zero-day-findings-in-under-two-day",
