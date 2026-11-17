@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-11-17-financesinacomcn--1044",
+    "date": "2026-11-17",
+    "title": "王兴兴：机器人泛化能力是当下最棘手的问题，不过也快到突破临界点了 1,044",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "王兴兴：机器人泛化能力是当下最棘手的问题，不过也快到突破临界点了 1,044",
+    "source": "finance.sina.com.cn",
+    "source_url": "https://finance.sina.com.cn/hy/hyjz/2026-11-17/doc-iniyzhhm7688060.shtml",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-11-17-qbitaicom-matos",
     "date": "2026-11-17",
     "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
@@ -12,5 +26,33 @@
     "source_url": "https://www.qbitai.com/2026/11/510652.html",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-11-17-the-robot-report-",
+    "date": "2026-11-17",
+    "title": "了解人工智能如何改变供应链机器人",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "The live webinar, \"Robots in the Supply Chain,\" will take place Wednesday, November 18, 2026, at 12 P.M. ET. The post Learn how AI is changing supply chain robotics appeared first on The Robot Report .（原题：Learn how AI is changing supply chain robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/",
+    "tags": [],
+    "impact": "Tue, 17 Nov 2026 19:58:18 +0000"
+  },
+  {
+    "id": "2026-11-17-bloomberg-technology-genesis-ai--35b",
+    "date": "2026-11-17",
+    "title": "Genesis AI 在机器人赌注中估值达到 $3.5B",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Genesis AI has raised $500 million at a $3.5 billion valuation as it develops general-purpose robots designed to eventually perform complex tasks with human-level dexterity. CEO and co-founder Zhou Xian discusses plans to scale its robotic AI model, manufacture its first fully US-made robots next year and ramp up production. He also explains why Genesis is taking a full-stack approach spanning AI, hardware and individual robot components. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)（原题：Genesis AI Hits $3.5B Valuation in Robotics Bet）",
+    "source": "Bloomberg Technology",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-11-17/genesis-ai-hits-3-5b-valuation-in-robotics-bet-video",
+    "tags": [],
+    "impact": "Tue, 17 Nov 2026 19:09:14 GMT"
   }
 ]
