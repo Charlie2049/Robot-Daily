@@ -1,29 +1,15 @@
 [
   {
-    "id": "2026-11-19-fengcom--siri--3990",
+    "id": "2026-11-19-fengcom--siri--4071",
     "date": "2026-11-19",
-    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 3990",
+    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 4071",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 3990",
+    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 4071",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13960870",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-19-fengcom---homeview--5846",
-    "date": "2026-11-19",
-    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 5846",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 5846",
-    "source": "feng.com",
-    "source_url": "https://www.feng.com/post/13960119",
     "tags": [],
     "impact": ""
   },
@@ -54,6 +40,48 @@
     "source_url": "https://www.36kr.com/p/4074892228335236",
     "tags": [],
     "impact": ""
+  },
+  {
+    "id": "2026-11-18-mithomecom--apec--99",
+    "date": "2026-11-18",
+    "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了 99评",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "董明珠 APEC 现场求合作，称格力研发机器人十几年了 99评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/1028713.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-18-the-robot-report-rockwell-automation-acquiring-mobile-robot-",
+    "date": "2026-11-18",
+    "title": "Rockwell Automation acquiring mobile robot maker AGILOX",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Rockwell Automation has agreed to acquire autonomous mobile robot developer AGILOX, expanding its mobile robotics portfolio following its 2023 acquisition of OTTO Motors. The post Rockwell Automation acquiring mobile robot maker AGILOX appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
+    "tags": [],
+    "impact": "Wed, 18 Nov 2026 16:44:18 +0000"
+  },
+  {
+    "id": "2026-11-18-the-robot-report-from-commercial-scale-to-embodied-intellige",
+    "date": "2026-11-18",
+    "title": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Robotics is advancing rapidly. New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do. The post From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics appeared first on The Robot Report .",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/",
+    "tags": [],
+    "impact": "Wed, 18 Nov 2026 18:00:09 +0000"
   },
   {
     "id": "2026-11-18-ai-botcn-baopix--ai",
