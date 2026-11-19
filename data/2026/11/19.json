@@ -1,87 +1,101 @@
 [
   {
-    "id": "2026-11-19-fengcom--siri--4071",
+    "id": "2026-11-19-fengcom--siri--4136",
     "date": "2026-11-19",
-    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 4071",
+    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 4136",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 4071",
+    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 4136",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13960870",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-19-36krcom-k-pop12",
+    "id": "2026-11-19-blogcsdnnet-ai-22",
     "date": "2026-11-19",
-    "title": "权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演",
+    "title": "极光拓客AI外呼机器人支持大模型实时语音 2.2万",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4075023468319874",
+    "summary": "极光拓客AI外呼机器人支持大模型实时语音 2.2万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/bengofrank/article/details/170927166",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-19-36krcom-gpu",
+    "id": "2026-11-19-blogcsdnnet--lstm--21",
     "date": "2026-11-19",
-    "title": "GPU企业争着做机器人芯片，整机厂商为何还想自己造？",
+    "title": "具身智能污水循环水处理节能减排系统技术解析：从 LSTM 曝气控制到数字孪生的工程闭环 2.1万",
     "category": [
-      "robotics"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "GPU企业争着做机器人芯片，整机厂商为何还想自己造？",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4074892228335236",
+    "summary": "具身智能污水循环水处理节能减排系统技术解析：从 LSTM 曝气控制到数字孪生的工程闭环 2.1万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/llingma2020/article/details/170921928",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-18-mithomecom--apec--99",
+    "id": "2026-11-18-mithomecom--apec--105",
     "date": "2026-11-18",
-    "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了 99评",
+    "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了 105评",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "董明珠 APEC 现场求合作，称格力研发机器人十几年了 99评",
+    "summary": "董明珠 APEC 现场求合作，称格力研发机器人十几年了 105评",
     "source": "m.ithome.com",
     "source_url": "https://m.ithome.com/html/1028713.htm",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-18-the-robot-report-rockwell-automation-acquiring-mobile-robot-",
+    "id": "2026-11-18-the-robot-report--agilox",
     "date": "2026-11-18",
-    "title": "Rockwell Automation acquiring mobile robot maker AGILOX",
+    "title": "罗克韦尔自动化收购移动机器人制造商 AGILOX",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Rockwell Automation has agreed to acquire autonomous mobile robot developer AGILOX, expanding its mobile robotics portfolio following its 2023 acquisition of OTTO Motors. The post Rockwell Automation acquiring mobile robot maker AGILOX appeared first on The Robot Report .",
+    "summary": "Rockwell Automation has agreed to acquire autonomous mobile robot developer AGILOX, expanding its mobile robotics portfolio following its 2023 acquisition of OTTO Motors. The post Rockwell Automation acquiring mobile robot maker AGILOX appeared first on The Robot Report .（原题：Rockwell Automation acquiring mobile robot maker AGILOX）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
     "tags": [],
     "impact": "Wed, 18 Nov 2026 16:44:18 +0000"
   },
   {
-    "id": "2026-11-18-the-robot-report-from-commercial-scale-to-embodied-intellige",
+    "id": "2026-11-18-the-robot-report-",
     "date": "2026-11-18",
-    "title": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
+    "title": "从商业规模到实体智能：机器人技术的下一个挑战",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Robotics is advancing rapidly. New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do. The post From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics appeared first on The Robot Report .",
+    "summary": "Robotics is advancing rapidly. New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do. The post From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics appeared first on The Robot Report .（原题：From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics）",
     "source": "The Robot Report",
     "source_url": "https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/",
     "tags": [],
     "impact": "Wed, 18 Nov 2026 18:00:09 +0000"
+  },
+  {
+    "id": "2026-11-18-the-robot-report-humyn-labs--4700-",
+    "date": "2026-11-18",
+    "title": "Humyn Labs 筹集了 4700 万美元来收集机器人的真实数据",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "Humyn Labs provides data collected from real-world operations for frontier AI labs, robotics companies, and world-model developers. The post Humyn Labs raises $47M to collect real-world data for robotics appeared first on The Robot Report .（原题：Humyn Labs raises $47M to collect real-world data for robotics）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
+    "tags": [],
+    "impact": "Wed, 18 Nov 2026 22:43:06 +0000"
   },
   {
     "id": "2026-11-18-ai-botcn-baopix--ai",
