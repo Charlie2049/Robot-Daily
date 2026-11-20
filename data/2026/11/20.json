@@ -1,58 +1,72 @@
 [
   {
-    "id": "2026-11-20-fengcom---homeview--6150",
+    "id": "2026-11-20-fengcom---homeview--6190",
     "date": "2026-11-20",
-    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 6150",
+    "title": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 6190",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 6150",
+    "summary": "苹果在开发一款更大 具备机器人功能的 HomeView 设备 6190",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13960119",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-20-36krcom-5",
+    "id": "2026-11-20-the-robot-report-",
     "date": "2026-11-20",
-    "title": "工业和信息化部发布5项人形机器人领域行业标准——智能化能力分级、训练场构建标准解读",
+    "title": "机器人技术进入后黄仁勋时代",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "One of robotics' most influential advocates is gone. Can the industry sustain its momentum without him? The post Robotics enters its post-Jensen Huang era appeared first on The Robot Report .（原题：Robotics enters its post-Jensen Huang era）",
+    "source": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
+    "tags": [],
+    "impact": "Fri, 20 Nov 2026 03:06:28 +0000"
+  },
+  {
+    "id": "2026-11-20-ifanrcom-aiipoanthropicmate-90-air-",
+    "date": "2026-11-20",
+    "title": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄 早报",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄 早报",
+    "source": "ifanr.com",
+    "source_url": "https://www.ifanr.com/1690473",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-20-qbitaicom-cloudrobo",
+    "date": "2026-11-20",
+    "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
     "category": [
       "humanoid",
       "robotics"
     ],
     "region": "Global",
-    "summary": "工业和信息化部发布5项人形机器人领域行业标准——智能化能力分级、训练场构建标准解读",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4076568022537350",
+    "summary": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/11/511426.html",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-20-huxiucom-10-288",
+    "id": "2026-11-20-36krcom-1126wise2026",
     "date": "2026-11-20",
-    "title": "一小时10元，她把自己卖给机器人 28.8万",
+    "title": "11月26日，WISE2026商业之王大会·具身智能&文商旅分会场落地北京亦庄。首批嘉宾阵容，今日正式揭晓！欢迎扫码报名，我们现场见。",
     "category": [
-      "robotics"
+      "humanoid"
     ],
     "region": "Global",
-    "summary": "一小时10元，她把自己卖给机器人 28.8万",
-    "source": "huxiu.com",
-    "source_url": "https://www.huxiu.com/article/4905184.html",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-20-36krcom-openai",
-    "date": "2026-11-20",
-    "title": "OpenAI自曝递归自我提升，智能体指数级爆发，人类已成瓶颈",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "OpenAI自曝递归自我提升，智能体指数级爆发，人类已成瓶颈",
+    "summary": "11月26日，WISE2026商业之王大会·具身智能&文商旅分会场落地北京亦庄。首批嘉宾阵容，今日正式揭晓！欢迎扫码报名，我们现场见。",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4076622726714244",
+    "source_url": "https://www.36kr.com/p/4077464212542596",
     "tags": [],
     "impact": ""
   },
@@ -67,20 +81,6 @@
     "summary": "Hindsight – 开源的智能体长期记忆系统，能模拟人脑分层",
     "source": "ai-bot.cn",
     "source_url": "https://ai-bot.cn/hindsight/",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-18-geekparknet-openai--gpt-62-astra--solgta-6-ai-",
-    "date": "2026-11-18",
-    "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道",
-    "category": [
-      "robotics"
-    ],
-    "region": "Global",
-    "summary": "OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道",
-    "source": "geekpark.net",
-    "source_url": "http://www.geekpark.net/news/374109",
     "tags": [],
     "impact": ""
   }
