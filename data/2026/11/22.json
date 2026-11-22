@@ -29,14 +29,14 @@
     "impact": ""
   },
   {
-    "id": "2026-11-22-fengcom--ai--790",
+    "id": "2026-11-22-fengcom--ai--1059",
     "date": "2026-11-22",
-    "title": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 790",
+    "title": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 1059",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 790",
+    "summary": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 1059",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13962064",
     "tags": [],
@@ -57,9 +57,23 @@
     "impact": ""
   },
   {
+    "id": "2026-11-22-mithomecom-bai--110",
+    "date": "2026-11-22",
+    "title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见 110评",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见 110评",
+    "source": "m.ithome.com",
+    "source_url": "https://m.ithome.com/html/1030702.htm",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-11-21-the-verge-",
     "date": "2026-11-21",
-    "title": "联合国未能就“杀手机器人”监管规则达成一致",
+    "title": "联合国未能就监管“杀手机器人”的规则达成一致",
     "category": [
       "robotics"
     ],
@@ -83,19 +97,5 @@
     "source_url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
     "tags": [],
     "impact": "Fri, 20 Nov 2026 03:06:28 +0000"
-  },
-  {
-    "id": "2026-11-20-geekparknet-127-anthropic--ai-",
-    "date": "2026-11-20",
-    "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
-    "source": "geekpark.net",
-    "source_url": "http://www.geekpark.net/news/374235",
-    "tags": [],
-    "impact": ""
   }
 ]
