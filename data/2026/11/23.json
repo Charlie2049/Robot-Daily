@@ -1,15 +1,87 @@
 [
   {
-    "id": "2026-11-23-fengcom--siri--5212",
+    "id": "2026-11-23-fengcom--siri--5288",
     "date": "2026-11-23",
-    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 5212",
+    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 5288",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 5212",
+    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 5288",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13960870",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-23-blogcsdnnet-2026--21",
+    "date": "2026-11-23",
+    "title": "接待语音机器人厂商横向测评：识别效果、知识库、线路稳定性对比，2026 采购指南 2.1万",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "接待语音机器人厂商横向测评：识别效果、知识库、线路稳定性对比，2026 采购指南 2.1万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/uincall/article/details/171043895",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-23-m21jingjicom--",
+    "date": "2026-11-23",
+    "title": "人形机器人概念，多股涨停 公司",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "人形机器人概念，多股涨停 公司",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261123/herald/63de10db501398ba0550d0c99f8dd247.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-23-blogcsdnnet-seer-25",
+    "date": "2026-11-23",
+    "title": "Seer：利用共享决策模型引导小型深度研究智能体 2.5万",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "Seer：利用共享决策模型引导小型深度研究智能体 2.5万",
+    "source": "blog.csdn.net",
+    "source_url": "https://blog.csdn.net/weixin_44626085/article/details/171158577",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-23-m21jingjicom-a-",
+    "date": "2026-11-23",
+    "title": "A股人形机器人板块上演涨停潮！宇树科技大涨 视频",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "A股人形机器人板块上演涨停潮！宇树科技大涨 视频",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261123/herald/5bf7c5f65d187a053136473a1ccd6243.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-23-m21jingjicom-90",
+    "date": "2026-11-23",
+    "title": "90后西交大博士，冲刺港交所“移动操作机器人第一股”证券",
+    "category": [
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "90后西交大博士，冲刺港交所“移动操作机器人第一股”证券",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261123/herald/6c171253c1897e047657adcf834c434c.html",
     "tags": [],
     "impact": ""
   },
