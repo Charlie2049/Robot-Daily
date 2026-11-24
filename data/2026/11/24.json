@@ -1,27 +1,27 @@
 [
   {
-    "id": "2026-11-24-fengcom--ai--1532",
+    "id": "2026-11-24-fengcom--ai--1610",
     "date": "2026-11-24",
-    "title": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 1532",
+    "title": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 1610",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 1532",
+    "summary": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 1610",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13962064",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-24-blogcsdnnet-ai-01pythonai24",
+    "id": "2026-11-24-blogcsdnnet-ai-01pythonai23",
     "date": "2026-11-24",
-    "title": "医疗AI智能体编程实战-从0到1用Python写一个能审计的医疗AI智能体(上)2.4万",
+    "title": "医疗AI智能体编程实战-从0到1用Python写一个能审计的医疗AI智能体(上)2.3万",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "医疗AI智能体编程实战-从0到1用Python写一个能审计的医疗AI智能体(上)2.4万",
+    "summary": "医疗AI智能体编程实战-从0到1用Python写一个能审计的医疗AI智能体(上)2.3万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/kkiron/article/details/171160223",
     "tags": [],
@@ -42,16 +42,17 @@
     "impact": ""
   },
   {
-    "id": "2026-11-24-36krcom-wise2026",
+    "id": "2026-11-24-gelonghuicom-a34600",
     "date": "2026-11-24",
-    "title": "WISE2026「具身智能&文商旅」分会场议程公布",
+    "title": "A股收评：创业板指涨超3%，超4600股上涨，人形机器人概念爆发",
     "category": [
-      "humanoid"
+      "humanoid",
+      "robotics"
     ],
     "region": "Global",
-    "summary": "WISE2026「具身智能&文商旅」分会场议程公布",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4082051861451648",
+    "summary": "A股收评：创业板指涨超3%，超4600股上涨，人形机器人概念爆发",
+    "source": "gelonghui.com",
+    "source_url": "https://www.gelonghui.com/p/7525540",
     "tags": [],
     "impact": ""
   },
@@ -66,20 +67,6 @@
     "summary": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗 公司",
     "source": "ifanr.com",
     "source_url": "https://www.ifanr.com/1691043",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-23-m21jingjicom-21",
-    "date": "2026-11-23",
-    "title": "21专访｜李汶龙：智能体的“猎鹿”困局，哪一天能打破？公司",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "21专访｜李汶龙：智能体的“猎鹿”困局，哪一天能打破？公司",
-    "source": "m.21jingji.com",
-    "source_url": "https://m.21jingji.com/article/20261123/herald/a7ebd933bd289812ca3aff66c93252eb.html",
     "tags": [],
     "impact": ""
   }
