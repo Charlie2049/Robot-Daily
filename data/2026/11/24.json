@@ -1,29 +1,72 @@
 [
   {
-    "id": "2026-11-24-fengcom--ai--1610",
+    "id": "2026-11-24-fengcom--ai--1669",
     "date": "2026-11-24",
-    "title": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 1610",
+    "title": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 1669",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 1610",
+    "summary": "招聘显示：苹果正在研发一款能主动协助用户的 AI 智能体 1669",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13962064",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-24-blogcsdnnet-ai-01pythonai23",
+    "id": "2026-11-24-m21jingjicom--20-",
     "date": "2026-11-24",
-    "title": "医疗AI智能体编程实战-从0到1用Python写一个能审计的医疗AI智能体(上)2.3万",
+    "title": "异动速递丨人形机器人概念再度拉升 维宏股份等近20股涨停 投资",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "异动速递丨人形机器人概念再度拉升 维宏股份等近20股涨停 投资",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261124/herald/26bb15266369d89e2f3edf04f656edf9.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-24-blogcsdnnet-ai-01pythonai24",
+    "date": "2026-11-24",
+    "title": "医疗AI智能体编程实战-从0到1用Python写一个能审计的医疗AI智能体(上)2.4万",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "医疗AI智能体编程实战-从0到1用Python写一个能审计的医疗AI智能体(上)2.3万",
+    "summary": "医疗AI智能体编程实战-从0到1用Python写一个能审计的医疗AI智能体(上)2.4万",
     "source": "blog.csdn.net",
     "source_url": "https://blog.csdn.net/kkiron/article/details/171160223",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-24-cbndatacom-200one",
+    "date": "2026-11-24",
+    "title": "具身智能：200亿估值之后，真正的难题是什么？定焦One",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能：200亿估值之后，真正的难题是什么？定焦One",
+    "source": "cbndata.com",
+    "source_url": "https://cbndata.com/information/296048",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-24-36krcom-200",
+    "date": "2026-11-24",
+    "title": "具身智能：200亿估值之后，真正的难题是什么？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "具身智能：200亿估值之后，真正的难题是什么？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4083070051373952",
     "tags": [],
     "impact": ""
   },
