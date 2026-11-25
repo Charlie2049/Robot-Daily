@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-11-25-qbitaicom-ai1500",
+    "date": "2026-11-25",
+    "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+    "category": [
+      "general"
+    ],
+    "region": "Global",
+    "summary": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+    "source": "qbitai.com",
+    "source_url": "https://www.qbitai.com/2026/11/512305.html",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-25-36krcom-",
+    "date": "2026-11-25",
+    "title": "通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？",
+    "category": [
+      "humanoid"
+    ],
+    "region": "Global",
+    "summary": "通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4084604176362116",
+    "tags": [],
+    "impact": ""
+  },
+  {
     "id": "2026-11-25-36krcom-",
     "date": "2026-11-25",
     "title": "豆包有妹妹了，字节首款个人智能体开启公测，还能替我打电话",
@@ -14,58 +42,60 @@
     "impact": ""
   },
   {
-    "id": "2026-11-25-fengcom--siri--5708",
+    "id": "2026-11-25-fengcom--siri--5753",
     "date": "2026-11-25",
-    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 5708",
+    "title": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 5753",
     "category": [
       "general"
     ],
     "region": "Global",
-    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 5708",
+    "summary": "苹果最早可能在明年让 Siri 具备更强的“智能体”特征 5753",
     "source": "feng.com",
     "source_url": "https://www.feng.com/post/13960870",
     "tags": [],
     "impact": ""
   },
   {
-    "id": "2026-11-25-36krcom-",
+    "id": "2026-11-25-m21jingjicom-3-",
     "date": "2026-11-25",
-    "title": "百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业拓展全球市场",
+    "title": "无遥控完成多项精细任务！人形机器人概念再升温，宁波东力3连板 投资",
     "category": [
-      "humanoid"
+      "humanoid",
+      "robotics"
     ],
     "region": "Global",
-    "summary": "百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业拓展全球市场",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4083731217148545",
+    "summary": "无遥控完成多项精细任务！人形机器人概念再升温，宁波东力3连板 投资",
+    "source": "m.21jingji.com",
+    "source_url": "https://m.21jingji.com/article/20261125/herald/b5698f6750c1cc47500d9310f1d8a3ce.html",
     "tags": [],
     "impact": ""
   },
   {
     "id": "2026-11-25-36krcom-",
     "date": "2026-11-25",
-    "title": "最前线丨联想擎天发布敦煌城市超级智能体，统一多模态交互入口",
-    "category": [
-      "general"
-    ],
-    "region": "Global",
-    "summary": "最前线丨联想擎天发布敦煌城市超级智能体，统一多模态交互入口",
-    "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4083749704116616",
-    "tags": [],
-    "impact": ""
-  },
-  {
-    "id": "2026-11-25-36krcom-bonus10",
-    "date": "2026-11-25",
-    "title": "Bonus独家｜小鹏机器人强化学习负责人陈杰已于10月底离职",
+    "title": "又一家机器人独角兽爆雷",
     "category": [
       "robotics"
     ],
     "region": "Global",
-    "summary": "Bonus独家｜小鹏机器人强化学习负责人陈杰已于10月底离职",
+    "summary": "又一家机器人独角兽爆雷",
     "source": "36kr.com",
-    "source_url": "https://www.36kr.com/p/4083682848827778",
+    "source_url": "https://www.36kr.com/p/4084583743122052",
+    "tags": [],
+    "impact": ""
+  },
+  {
+    "id": "2026-11-25-36krcom-",
+    "date": "2026-11-25",
+    "title": "具身智能迎来商业化拐点：机器人进厂，告别“手搓”时代",
+    "category": [
+      "humanoid",
+      "robotics"
+    ],
+    "region": "Global",
+    "summary": "具身智能迎来商业化拐点：机器人进厂，告别“手搓”时代",
+    "source": "36kr.com",
+    "source_url": "https://www.36kr.com/p/4084600525073030",
     "tags": [],
     "impact": ""
   },
